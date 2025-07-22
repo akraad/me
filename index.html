@@ -6,16 +6,17 @@
     <title>تماس با ما</title>
     <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font/dist/font-face.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jalaali-js@1.2.6/dist/jalaali.min.js"></script>
     <style>
         body {
             background-color: #f0f2f5;
             font-family: 'Vazir', sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
             margin: 0;
             color: #333;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
         .container {
             text-align: center;
@@ -23,10 +24,13 @@
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 50px auto 0;
+            max-width: 300px;
         }
         h1 {
             font-size: 24px;
             margin-bottom: 30px;
+            color: #2c3e50;
         }
         .link {
             display: flex;
@@ -46,6 +50,21 @@
             font-size: 24px;
             margin-left: 10px;
             text-align: center;
+            color: #e91e63; /* Pinkish color for icons */
+        }
+        .calendar {
+            text-align: center;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 0 auto 20px;
+            max-width: 300px;
+            color: #2c3e50;
+        }
+        .calendar p {
+            margin: 5px 0;
+            font-size: 16px;
         }
     </style>
 </head>
@@ -65,5 +84,22 @@
             شماره تماس
         </a>
     </div>
+    <div class="calendar">
+        <p id="jalali-date"></p>
+        <p id="jalali-day"></p>
+    </div>
+
+    <script>
+        // Get current Jalali date using jalaali-js
+        const today = new Date();
+        const jalali = jalaali.toJalaali(today);
+        const days = ['یک‌شنبه', 'دوشنبه', 'سه‌شنبه', 'چهارشنبه', 'پنج‌شنبه', 'جمعه', 'شنبه'];
+        const dayIndex = today.getDay();
+
+        // Format date as YYYY/MM/DD
+        const formattedDate = `${jalali.jy}/${jalali.jm.toString().padStart(2, '0')}/${jalali.jd.toString().padStart(2, '0')}`;
+        document.getElementById('jalali-date').textContent = `تاریخ: ${formattedDate}`;
+        document.getElementById('jalali-day').textContent = `روز: ${days[dayIndex]}`;
+    </script>
 </body>
 </html>
