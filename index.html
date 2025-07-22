@@ -54,24 +54,28 @@
         .link {
             display: flex;
             align-items: center;
-            justify-content: flex-start;
-            margin: 18px 0; /* More vertical space between links */
+            /* تغییرات برای نزدیکی و تراز آیکون‌ها */
+            justify-content: flex-start; /* مطمئن می‌شود که محتوا از سمت راست شروع شود */
+            margin: 12px 0; /* کاهش فاصله عمودی بین لینک‌ها */
             text-decoration: none;
             color: #555; /* Muted link color */
             font-size: 19px; /* Slightly larger text */
             transition: color 0.3s ease, transform 0.2s ease; /* Smooth transitions */
-            padding: 8px 0;
+            padding: 8px 15px 8px 0; /* پدینگ به سمت راست برای فاصله از لبه، پدینگ چپ 0 */
+            gap: 12px; /* فاصله بین آیکون و متن */
         }
         .link:hover {
             color: #007bff; /* Primary accent color on hover */
             transform: translateX(5px); /* Subtle slide effect on hover */
         }
         .link i {
-            width: 35px; /* Slightly larger icon area */
-            font-size: 26px; /* Slightly larger icons */
-            margin-left: 12px; /* More space between icon and text */
-            text-align: center;
+            /* تغییرات برای نزدیکی و تراز آیکون‌ها */
+            width: 35px; /* عرض ثابت برای آیکون‌ها */
+            font-size: 26px; /* اندازه آیکون */
+            /* margin-left: 12px; حذف شد */
+            text-align: center; /* متن آیکون در مرکز عرض ثابت قرار گیرد */
             transition: color 0.3s ease;
+            flex-shrink: 0; /* جلوگیری از کوچک شدن آیکون */
         }
         /* Icon Colors - slightly desaturated */
         .instagram i {
