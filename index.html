@@ -54,22 +54,29 @@
         .link {
             display: flex;
             align-items: center;
-            /* تغییرات برای نزدیکی و تراز آیکون‌ها */
-            justify-content: flex-start; /* مطمئن می‌شود که محتوا از سمت راست شروع شود */
-            margin: 8px 0; /* کاهش بیشتر فاصله عمودی بین لینک‌ها */
+            justify-content: flex-start;
             text-decoration: none;
-            color: #555; /* Muted link color */
-            font-size: 19px; /* Slightly larger text */
-            transition: color 0.3s ease, transform 0.2s ease; /* Smooth transitions */
-            padding: 8px 15px 8px 0; /* پدینگ به سمت راست برای فاصله از لبه، پدینگ چپ 0 */
-            gap: 12px; /* فاصله بین آیکون و متن */
+            color: #555;
+            font-size: 19px;
+            transition: color 0.3s ease, transform 0.2s ease;
+            
+            /* --- تغییرات اینجا --- */
+            margin-bottom: 10px; /* فاصله بین هر لینک و لینک پایینی */
+            gap: 10px; /* فاصله بین آیکون و متن در هر لینک */
+            padding: 0; /* حذف پدینگ اضافی برای کنترل بهتر فاصله */
+            /* --- پایان تغییرات --- */
         }
+
+        /* برای آخرین لینک در کانتینر، margin-bottom رو صفر میکنیم تا فاصله اضافه نباشه */
+        .container .link:last-of-type {
+            margin-bottom: 0;
+        }
+
         .link:hover {
-            color: #007bff; /* Primary accent color on hover */
-            transform: translateX(5px); /* Subtle slide effect on hover */
+            color: #007bff;
+            transform: translateX(5px);
         }
         .link i {
-            /* تغییرات برای نزدیکی و تراز آیکون‌ها */
             width: 35px; /* عرض ثابت برای آیکون‌ها */
             font-size: 26px; /* اندازه آیکون */
             text-align: center; /* متن آیکون در مرکز عرض ثابت قرار گیرد */
@@ -88,6 +95,7 @@
         }
         .calendar {
             margin-bottom: 0; /* Remove bottom margin for the last element */
+            margin-top: 25px; /* فاصله بین باکس اول و دوم */
             padding: 20px;
         }
         .calendar p {
