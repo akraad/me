@@ -16,7 +16,8 @@
             min-height: 100vh;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
+            align-items: center;
+            padding-top: 50px;
         }
         .container {
             text-align: center;
@@ -24,8 +25,8 @@
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            margin: 50px auto 0;
             max-width: 300px;
+            margin-bottom: 20px; /* Reduced gap between contact and calendar */
         }
         h1 {
             font-size: 24px;
@@ -50,7 +51,15 @@
             font-size: 24px;
             margin-left: 10px;
             text-align: center;
-            color: #e91e63; /* Pinkish color for icons */
+        }
+        .instagram i {
+            color: #e91e63; /* Pink for Instagram */
+        }
+        .telegram i {
+            color: #0088cc; /* Blue for Telegram */
+        }
+        .phone i {
+            color: #28a745; /* Green for Phone */
         }
         .calendar {
             text-align: center;
@@ -58,7 +67,6 @@
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            margin: 0 auto 20px;
             max-width: 300px;
             color: #2c3e50;
         }
@@ -70,16 +78,16 @@
 </head>
 <body>
     <div class="container">
-        <h1>تماس با ما</h1>
-        <a href="https://www.instagram.com/karimi.raad/" class="link">
+        <h1>تمچکاس با ما</h1>
+        <a href="https://www.instagram.com/karimi.raad/" class="link instagram">
             <i class="fab fa-instagram"></i>
             اینستاگرام
         </a>
-        <a href="https://t.me/raaadx" class="link">
+        <a href="https://t.me/raaadx" class="link telegram">
             <i class="fab fa-telegram-plane"></i>
             تلگرام
         </a>
-        <a href="tel:+989158535145" class="link">
+        <a href="tel:+989158535145" class="link phone">
             <i class="fas fa-phone"></i>
             شماره تماس
         </a>
