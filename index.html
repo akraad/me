@@ -9,81 +9,98 @@
     <script src="https://cdn.jsdelivr.net/npm/jalaali-js@1.2.6/dist/jalaali.min.js"></script>
     <style>
         body {
-            background-color: #f0f2f5;
+            background-color: #f8f8f8; /* Softer light gray */
             font-family: 'Vazir', sans-serif;
             margin: 0;
-            color: #333;
+            color: #444; /* Slightly softer text color */
             min-height: 100vh;
             display: flex;
             flex-direction: column;
             align-items: center;
-            padding-top: 50px;
+            justify-content: center; /* Center content vertically */
+            padding: 20px; /* Add some padding around the edges */
+            box-sizing: border-box; /* Include padding in element's total width and height */
         }
-        .container {
+        .container, .calendar {
             text-align: center;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            max-width: 300px;
-            margin-bottom: 20px; /* Reduced gap between contact and calendar */
+            padding: 25px; /* Slightly more padding inside */
+            background-color: #ffffff;
+            border-radius: 12px; /* Slightly more rounded corners */
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08); /* Softer, more diffuse shadow */
+            max-width: 320px; /* Slightly wider */
+            width: 90%; /* Responsive width */
+            margin-bottom: 25px; /* Increased gap */
+            box-sizing: border-box;
         }
         h1 {
-            font-size: 24px;
-            margin-bottom: 30px;
-            color: #2c3e50;
+            font-size: 26px; /* Slightly larger title */
+            margin-bottom: 35px; /* More space below title */
+            color: #333;
+            position: relative;
+            padding-bottom: 10px;
+        }
+        h1::after { /* Underline for the title */
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 3px;
+            background-color: #007bff; /* Accent color */
+            border-radius: 2px;
         }
         .link {
             display: flex;
             align-items: center;
             justify-content: flex-start;
-            margin: 15px 0;
+            margin: 18px 0; /* More vertical space between links */
             text-decoration: none;
-            color: #333;
-            font-size: 18px;
-            transition: color 0.3s;
+            color: #555; /* Muted link color */
+            font-size: 19px; /* Slightly larger text */
+            transition: color 0.3s ease, transform 0.2s ease; /* Smooth transitions */
+            padding: 8px 0;
         }
         .link:hover {
-            color: #007bff;
+            color: #007bff; /* Primary accent color on hover */
+            transform: translateX(5px); /* Subtle slide effect on hover */
         }
         .link i {
-            width: 30px;
-            font-size: 24px;
-            margin-left: 10px;
+            width: 35px; /* Slightly larger icon area */
+            font-size: 26px; /* Slightly larger icons */
+            margin-left: 12px; /* More space between icon and text */
             text-align: center;
+            transition: color 0.3s ease;
         }
+        /* Icon Colors - slightly desaturated */
         .instagram i {
-            color: #e91e63; /* Pink for Instagram */
+            color: #d84360;
         }
         .telegram i {
-            color: #0088cc; /* Blue for Telegram */
+            color: #008cc0;
         }
         .phone i {
-            color: #28a745; /* Green for Phone */
+            color: #2ebc61;
         }
         .calendar {
-            text-align: center;
+            margin-bottom: 0; /* Remove bottom margin for the last element */
             padding: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            max-width: 300px;
-            color: #2c3e50;
         }
         .calendar p {
-            margin: 5px 0;
-            font-size: 16px;
+            margin: 8px 0; /* More space between calendar lines */
+            font-size: 17px;
+            color: #444;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>تماس با ما</h1>
-        <a href="https://www.instagram.com/karimi.raad/" class="link instagram">
+        <a href="https://www.instagram.com/karimi.raad/" class="link instagram" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-instagram"></i>
             اینستاگرام
         </a>
-        <a href="https://t.me/raaadx" class="link telegram">
+        <a href="https://t.me/raaadx" class="link telegram" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-telegram-plane"></i>
             تلگرام
         </a>
@@ -92,6 +109,7 @@
             شماره تماس
         </a>
     </div>
+
     <div class="calendar">
         <p id="jalali-date"></p>
         <p id="jalali-day"></p>
