@@ -1,43 +1,236 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
+<!DOCTYPE html><html lang="fa">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>طلا و جواهر | تماس با ما</title>
-    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font/dist/font-face.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/jalaali-js@1.2.6/dist/jalaali.min.js"></script>
-    <style>body{background-color:#f8f8f8;font-family:'Vazir',sans-serif;margin:0;color:#444;min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:15px 20px 20px;box-sizing:border-box}.container,.calendar{text-align:center;padding:8px 25px 25px;background-color:#fff;border-radius:12px;box-shadow:0 6px 15px rgba(0,0,0,.08);max-width:320px;width:90%;margin-bottom:25px;box-sizing:border-box}h1{font-size:26px;margin-bottom:15px;color:#333;position:relative;padding-bottom:10px}h1::after{content:'';position:absolute;left:50%;bottom:0;transform:translateX(-50%);width:60px;height:3px;background-color:#007bff;border-radius:2px}.top-gold-icon{font-size:50px;margin-bottom:20px;color:#A9A9A9}.link-wrapper{margin-bottom:8px;border-radius:8px;overflow:hidden}.link{display:flex;align-items:center;justify-content:flex-start;text-decoration:none;color:#555;font-size:19px;transition:color .3s ease,background-color .3s ease,transform .2s ease;gap:10px;padding:12px 15px;background-color:#f8f8f8;border-radius:8px}.container .link-wrapper:last-of-type{margin-bottom:0}.link:hover{color:#007bff;background-color:#e9e9e9;transform:translateX(5px)}.link i{width:35px;font-size:26px;text-align:center;transition:color .3s ease;flex-shrink:0}.instagram i{color:#d84360}.telegram i{color:#008cc0}.phone i{color:#2ebc61}.calendar{margin-bottom:0;margin-top:25px;padding:20px}.calendar p{margin:8px 0;font-size:17px;color:#444}</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>پرسشنامه تخمین طول عمر</title>
+  <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@latest/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+  <style>
+    body {
+      font-family: Vazirmatn, sans-serif;
+      background: linear-gradient(to bottom right, #fefefe, #eef2f3);
+      padding: 20px;
+      direction: rtl;
+      text-align: right;
+      max-width: 600px;
+      margin: auto;
+      color: #333;
+    }
+    input, select, button {
+      padding: 10px;
+      margin-top: 5px;
+      width: 100%;
+      font-size: 16px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      font-family: Vazirmatn, sans-serif;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      margin-top: 15px;
+      transition: background-color 0.3s ease;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    .question {
+      margin-bottom: 20px;
+      background: #fff;
+      padding: 10px 15px;
+      border-radius: 12px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.05);
+    }
+    .result {
+      margin-top: 30px;
+      padding: 15px;
+      background: #ffffffee;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      white-space: pre-wrap;
+      line-height: 1.8;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+    }
+    h2 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    #downloadBtn {
+      background-color: #3498db;
+      color: white;
+    }
+    #downloadBtn:hover {
+      background-color: #2980b9;
+    }
+  </style>
 </head>
 <body>
-    <i class="fas fa-gem top-gold-icon"></i>
-    <div class="container">
-        <h1>تماس با ما</h1>
-        <div class="link-wrapper">
-            <a href="https://www.instagram.com/karimi.raad/" class="link instagram" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-instagram"></i>
-                اینستاگرام
-            </a>
-        </div>
-        <div class="link-wrapper">
-            <a href="https://t.me/raaadx" class="link telegram" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-telegram-plane"></i>
-                تلگرام
-            </a>
-        </div>
-        <div class="link-wrapper">
-            <a href="tel:+989158535145" class="link phone">
-                <i class="fas fa-phone"></i>
-                شماره تماس
-            </a>
-        </div>
-    </div>
+  <h2>📋 پرسشنامه تخمین طول عمر</h2>  <div class="question">
+    <label>👤 نام کامل شما:</label>
+    <input type="text" id="name">
+  </div>
+  <div class="question">
+    <label>🎂 سن دقیق شما:</label>
+    <input type="number" id="age" min="1" max="120">
+  </div>  <div id="questions"></div><button onclick="calculateFromAnswers()">📅 محاسبه تاریخ فوت</button> <button id="downloadBtn" onclick="downloadResult()" style="display:none">⬇️ ذخیره نتیجه</button>
 
-    <div class="calendar">
-        <p id="jalali-date"></p>
-        <p id="jalali-day"></p>
-    </div>
+  <div class="result" id="result"></div>  <script>
+    const poems = [
+      "رفتم ولی هنوز\nدر کوچه‌های خاطره، قدم می‌زنم",
+      "ای زندگی! با همه تلخی‌ات، دوستت داشتم\nخداحافظ...",
+      "نماندم تا ببینم پاییز چگونه می‌ریزد\nاما برگ‌ها به یادم خواهند افتاد",
+      "در دل هر آن‌کس که دوستش داشتم\nزنده‌ام هنوز...",
+      "گمان مبر که رفته‌ام،\nمن در دل تو جاودانه‌ام",
+      "مرا به یاد آور، وقتی نسیمی آرام وزید\nمن همان نسیمم...",
+      "خوابیدم برای آرامش\nنه برای فراموشی",
+      "ای دل غمگین مباش\nمن فقط به آسمان رفته‌ام، نه دور از تو",
+      "اگر اشکی ریختی\nبگذار شیرین باشد، نه تلخ",
+      "دنیایم تمام شد،\nاما عشقم باقی‌ست",
+      "در رفتنم نگویید افسوس\nدر بودنم بگویید خوشحال بودیم",
+      "از این دنیا رفتم\nنه از دل‌ها...",
+      "دلم گرفته بود\nآسمان صدایم کرد",
+      "مرگ پایان نیست\nآغازی‌ست بی‌نام و نشان",
+      "زندگی‌ام ساده بود\nامیدوارم رفتنم نیز آرام باشد",
+      "با لبخند رفتم\nکه گریه نکنید",
+      "سنگ را نگاه نکن\nیاد مرا نگاه کن",
+      "ای رهگذر!\nآهسته قدم بزن، من اینجا خوابیده‌ام",
+      "نفس تمام شد\nاما مهرم باقی‌ست",
+      "به نام زندگی آمدم\nبه نام عشق رفتم"
+    ];
 
-    <script>const today=new Date();const jalali=jalaali.toJalaali(today);const days=['یک‌شنبه','دوشنبه','سه‌شنبه','چهارشنبه','پنج‌شنبه','جمعه','شنبه'];const dayIndex=today.getDay();const formattedDate=`${jalali.jy}/${jalali.jm.toString().padStart(2,'0')}/${jalali.jd.toString().padStart(2,'0')}`;document.getElementById('jalali-date').textContent=`تاریخ: ${formattedDate}`;document.getElementById('jalali-day').textContent=`روز: ${days[dayIndex]}`;</script>
-</body>
+    const checklistTasks = [
+      "نوشتن وصیت‌نامه رسمی و تعیین وراث",
+      "تهیه پیام ویدیویی یا صوتی برای خانواده",
+      "ثبت خاطرات مهم در دفترچه یا فایل",
+      "پرداخت بدهی‌ها و بستن حساب‌های بانکی",
+      "بخشیدن کسانی که دلخور بودید",
+      "مشخص‌کردن محل دفن",
+      "خرید یا رزرو سنگ قبر ساده",
+      "تدوین فهرست دارایی‌ها و رمزها",
+      "گذاشتن نذری یا کمک خیریه پس از مرگ",
+      "تهیه آلبوم خانوادگی دیجیتال",
+      "نگارش شعر یا پیام خداحافظی",
+      "تعیین وکیل یا فرد قابل اعتماد",
+      "انجام کار خیری که همیشه قصدش را داشتی",
+      "آشتی با افراد قطع رابطه",
+      "لذت بردن از طبیعت",
+      "خواندن کتاب‌های عقب‌مانده",
+      "خداحافظی صمیمانه با اطرافیان",
+      "ثبت وصیت دیجیتال",
+      "ساختن خاطرات تازه با عزیزان",
+      "سفر به یک مکان آرزویی"
+    ];
+
+    const questionsWithOptions = [
+      ["میزان فعالیت بدنی در هفته؟", ["اصلاً فعالیت ندارم","هفته‌ای کمتر از ۲ روز","۲–۳ روز کم","۳ روز متوسط","۴–۵ روز منظم","روزانه ورزش شدید"]],
+      ["عادت خواب شبانه؟", ["کمتر از ۴ ساعت","۴–۵ ساعت","۶ ساعت بی‌کیفیت","۷ ساعت متوسط","۷–۸ ساعت خوب","۸ ساعت عالی"]],
+      ["مصرف دخانیات؟", ["بیش از ۱۰ نخ","۵–۱۰ نخ","۱–۴ نخ","سابقه مصرف","به‌ندرت","هرگز"]],
+      ["مصرف الکل؟", ["روزانه","چند بار در هفته","هفته‌ای یک بار","به‌ندرت","خیلی کم","هرگز"]],
+      ["مصرف میوه و سبزیجات؟", ["هیچ‌وقت","کمتر از ۱ وعده","۱–۲ وعده","۲–۳ وعده","۴–۵ وعده","بیش از ۵ وعده"]],
+      ["سطح استرس روزانه؟", ["بسیار زیاد","زیاد","متوسط بالا","متوسط","کم","کنترل‌شده"]],
+      ["BMI شما؟", ["بیش از ۳۵","۳۰–۳۵","۲۵–۳۰","۱۸.۵–۲۴.۹","۱۷–۱۸.۴","زیر ۱۷"]],
+      ["چکاپ پزشکی؟", ["اصلاً","هر چند سال","هر دو سال","سالانه","دو بار در سال","منظم"]],
+      ["سلامت روان؟", ["ناسالم","افسرده","نوسانات روحی","نرمال","خوب","شاد"]],
+      ["روابط اجتماعی؟", ["منزوی","کم","محدود","متوسط","صمیمی","حمایتگر"]],
+      ["فست‌فود؟", ["هر روز","۴–۵ بار","۲–۳ بار","هفته‌ای یک بار","به‌ندرت","هرگز"]],
+      ["آب روزانه؟", ["<۱ لیوان","۱–۲ لیوان","۳–۴ لیوان","۵–۶ لیوان","۷–۸ لیوان",">۸ لیوان"]],
+      ["تحرک شغلی؟", ["استرس و بی‌تحرکی","فشار زیاد","کم‌تحرک","متوسط","خوب","عالی"]],
+      ["نور خورشید؟", ["هیچ‌وقت","خیلی کم","<۱۰ دقیقه","۱۰–۲۰ دقیقه","نیم‌ساعت","منظم"]],
+      ["مصرف شکر؟", ["بسیار زیاد","زیاد","متوسط بالا","متوسط","کم","بدون"]],
+      ["بیماری ارثی؟", ["چند بیماری","دو بیماری","یک بیماری","در نسل قبل","خفیف","هیچ"]],
+      ["مصرف دارو؟", ["چند داروی مزمن","دو دارو","یک دارو","گاه‌به‌گاه","ندارم","هرگز"]],
+      ["سلامت قند/چربی/فشار؟", ["همه غیرنرمال","دو مشکل","یک مشکل","مرزی","کنترل‌شده","نرمال"]],
+      ["تنوع غذایی؟", ["فست‌فود غالب","غذای ناسالم","ترکیبی","خانگی","سالم","ارگانیک"]],
+      ["تحصیلات؟", ["بی‌سواد","ابتدایی","دیپلم","فوق دیپلم","لیسانس","کارشناسی‌ارشد یا دکترا"]],
+      ["وضع اقتصادی؟", ["بسیار ضعیف","ضعیف","متوسط پایین","متوسط","خوب","بسیار خوب"]],
+      ["استفاده از تکنولوژی؟", [">۱۰ ساعت","۸–۱۰ ساعت","۶–۸ ساعت","۴–۶ ساعت","۲–۴ ساعت","<۲ ساعت"]],
+      ["تفریح و آرامش؟", ["هیچ‌وقت","خیلی کم","گاه‌به‌گاه","هفته‌ای ۱","چند بار","روزانه"]],
+      ["هدف و انگیزه؟", ["ندارم","ناامید","بی‌انگیزه","امیدوار","هدف‌دار","با انگیزه"]],
+      ["محل زندگی؟", ["کلان‌شهر آلوده","شهر بزرگ","شهر کوچک","حومه","روستا","منطقه پاک"]]
+    ];
+
+    window.onload = () => {
+      const container = document.getElementById("questions");
+      questionsWithOptions.forEach(([q, opts], idx) => {
+        const div = document.createElement("div");
+        div.className = "question";
+        div.innerHTML = `<label>${idx + 1}. ${q}</label>`;
+        const select = document.createElement("select");
+        select.id = `q${idx}`;
+        opts.forEach((opt, i) => {
+          const option = document.createElement("option");
+          option.value = i;
+          option.text = `${String.fromCharCode(65+i)}) ${opt}`;
+          select.appendChild(option);
+        });
+        div.appendChild(select);
+        container.appendChild(div);
+      });
+    };
+
+    let fullResultText = "";
+
+    function getRandomItems(arr, count) {
+      const shuffled = [...arr].sort(() => 0.5 - Math.random());
+      return shuffled.slice(0, count);
+    }
+
+    function calculateFromAnswers() {
+      const name = document.getElementById('name').value;
+      const age = parseInt(document.getElementById('age').value);
+      if (!name || isNaN(age)) {
+        alert("لطفاً نام و سن را وارد کنید.");
+        return;
+      }
+
+      let totalScore = 0;
+      for (let i = 0; i < questionsWithOptions.length; i++) {
+        const val = parseInt(document.getElementById(`q${i}`).value);
+        totalScore += val;
+      }
+
+      const now = new Date();
+      const yearNow = now.getFullYear();
+      let predictedLife = 65;
+      if (totalScore >= 101) predictedLife = 87;
+      else if (totalScore >= 81) predictedLife = 80;
+      else if (totalScore >= 56) predictedLife = 72;
+      else if (totalScore >= 31) predictedLife = 64;
+      else predictedLife = 55;
+
+      const deathYear = yearNow + (predictedLife - age);
+      const deathDate = new Date(deathYear, now.getMonth(), now.getDate());
+      const weekDay = ['یکشنبه','دوشنبه','سه‌شنبه','چهارشنبه','پنجشنبه','جمعه','شنبه'][deathDate.getDay()];
+      const deathHour = Math.floor(Math.random() * 24);
+      const deathMinute = Math.floor(Math.random() * 60);
+
+      const formatted = `🪦 ${name} عزیز، تاریخ تخمینی فوت شما:\n` +
+        `${weekDay}، ${deathDate.getDate()} / ${deathDate.getMonth()+1} / ${deathDate.getFullYear()}\n` +
+        `⏰ ساعت: ${deathHour.toString().padStart(2,'0')}:${deathMinute.toString().padStart(2,'0')}\n\n`;
+
+      const checklist = `📌 کارهایی که بهتر است قبل از مرگ انجام دهید:\n` + getRandomItems(checklistTasks, 6).map(i => `- ${i}`).join("\n") + "\n\n";
+
+      const selectedPoems = getRandomItems(poems, 3).map(p => `🪨 ${p}`).join("\n\n");
+
+      fullResultText = formatted + checklist + selectedPoems;
+      document.getElementById('result').innerText = fullResultText;
+      document.getElementById('downloadBtn').style.display = 'inline-block';
+    }
+
+    function downloadResult() {
+      const blob = new Blob([fullResultText], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'life_prediction.txt';
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+  </script></body>
 </html>
