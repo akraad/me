@@ -19,13 +19,14 @@
             color: #333;
             line-height: 1.6;
             margin: 0;
-            padding: 20px;
+            padding: 0;
             direction: rtl;
             text-align: right;
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
+            overflow-x: hidden;
         }
 
         .hidden {
@@ -34,17 +35,18 @@
 
         .container {
             width: 100%;
-            max-width: 800px;
+            max-width: 90%;
             margin: 0 auto;
+            padding: 20px 0;
         }
 
         .card {
             background: rgba(255, 255, 255, 0.9);
             backdrop-filter: blur(10px);
-            padding: 40px;
+            padding: 30px;
             border-radius: 20px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-            margin: 20px;
+            margin: 20px 0;
         }
 
         h1, h2, h3 {
@@ -54,13 +56,13 @@
         }
 
         h1 {
-            font-size: 2.5rem;
+            font-size: 2rem;
             color: #007bff;
             text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
         }
 
         .form-group {
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
 
         label {
@@ -68,14 +70,16 @@
             display: block;
             margin-bottom: 8px;
             color: #555;
+            font-size: 0.9rem;
         }
 
         input[type="text"], input[type="number"] {
             width: 100%;
-            padding: 12px;
+            padding: 10px;
             border: 2px solid #ddd;
-            border-radius: 10px;
+            border-radius: 8px;
             box-sizing: border-box;
+            font-size: 0.9rem;
             transition: border-color 0.3s ease;
         }
         
@@ -87,12 +91,12 @@
         button {
             background-color: #007bff;
             color: white;
-            padding: 15px 30px;
+            padding: 12px 25px;
             border: none;
-            border-radius: 10px;
+            border-radius: 8px;
             cursor: pointer;
             font-family: 'Vazir', sans-serif;
-            font-size: 1.1rem;
+            font-size: 1rem;
             width: 100%;
             transition: background-color 0.3s ease, transform 0.2s ease;
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -104,7 +108,7 @@
         }
 
         .question {
-            margin-bottom: 30px;
+            margin-bottom: 25px;
             padding: 15px;
             border-radius: 10px;
             background-color: #f8f9fa;
@@ -112,14 +116,15 @@
 
         .question p {
             font-weight: bold;
-            margin-bottom: 15px;
+            margin-bottom: 12px;
             color: #444;
+            font-size: 0.95rem;
         }
 
         .options-container {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 10px;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 8px;
         }
 
         .option input[type="radio"] {
@@ -129,12 +134,13 @@
         .option label {
             display: block;
             background-color: #e9ecef;
-            padding: 15px;
-            border-radius: 10px;
+            padding: 12px;
+            border-radius: 8px;
             border: 2px solid #e9ecef;
             cursor: pointer;
             transition: background-color 0.3s ease, border-color 0.3s ease;
             text-align: center;
+            font-size: 0.85rem;
         }
 
         .option input[type="radio"]:checked + label {
@@ -144,87 +150,87 @@
         }
 
         #tombstone {
-            background: #6c757d; /* A better, more readable color for the tombstone */
-            color: #fff;
-            padding: 50px 20px;
-            margin: 40px auto;
+            background: #495057; /* Darker, more readable color */
+            color: #f8f9fa;
+            padding: 40px 20px;
+            margin: 30px auto;
             text-align: center;
             position: relative;
-            max-width: 450px;
-            min-height: 550px;
+            max-width: 400px;
+            min-height: 500px;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            border: 5px solid #495057;
+            border: 5px solid #343a40;
             border-radius: 20px 20px 10px 10px;
             box-shadow: 0 15px 40px rgba(0,0,0,0.4);
         }
 
         #tombstone .top-text {
             font-size: 0.9rem;
-            margin-bottom: 10px;
-            color: #f8f9fa;
+            margin-bottom: 8px;
+            color: #dee2e6;
         }
 
         #tombstone .top-poem {
             font-size: 1.1rem;
             font-style: italic;
-            margin-bottom: 20px;
-            color: #f8f9fa;
+            margin-bottom: 15px;
+            color: #dee2e6;
         }
 
         .tombstone-content {
             background: rgba(255, 255, 255, 0.1);
-            padding: 25px;
+            padding: 20px;
             border-radius: 10px;
             width: 90%;
             border: 1px solid rgba(255, 255, 255, 0.2);
         }
 
         #tombstone-name {
-            font-size: 2rem;
-            margin-bottom: 10px;
+            font-size: 1.8rem;
+            margin-bottom: 8px;
             text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
         }
 
         #tombstone-dates {
-            font-size: 1.2rem;
+            font-size: 1rem;
             margin-top: 0;
-            color: #eee;
+            color: #ccc;
         }
 
         #tombstone hr {
             width: 70%;
             border-color: rgba(255, 255, 255, 0.5);
-            margin: 20px auto;
+            margin: 15px auto;
         }
 
         #tombstone-bio, #tombstone-cause, #tombstone-poem {
-            font-size: 1rem;
-            margin: 15px 0;
+            font-size: 0.9rem;
+            margin: 12px 0;
             line-height: 1.8;
             color: #f1f3f5;
         }
 
         .final-message {
             text-align: center;
-            margin-top: 30px;
+            margin-top: 25px;
             background-color: #fff;
-            padding: 30px;
+            padding: 25px;
             border-radius: 15px;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
         }
 
         .final-message h2 {
             color: #e74c3c;
-            font-size: 1.8rem;
+            font-size: 1.5rem;
         }
         
         .final-message p {
-            font-size: 1rem;
+            font-size: 0.9rem;
             color: #555;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
 
         #suggestions-list {
@@ -234,17 +240,18 @@
         }
 
         #suggestions-list li {
-            background: #ffecec;
-            padding: 15px;
-            margin-bottom: 10px;
+            background: #fff3f3;
+            padding: 12px;
+            margin-bottom: 8px;
             border-radius: 8px;
             border-right: 5px solid #e74c3c;
             color: #555;
+            font-size: 0.9rem;
         }
 
         footer {
             margin-top: 20px;
-            font-size: 0.8rem;
+            font-size: 0.7rem;
             color: #777;
             text-align: center;
             padding: 10px;
@@ -275,7 +282,8 @@
             </section>
 
             <section id="questions-section" class="card hidden">
-                <h2>سوالات سبک زندگی</h2>
+                <h2>۳۰ سؤال بی‌رحم برای پیش‌بینی تاریخ و علت مرگ شما</h2>
+                <p style="text-align: center; color: #555;">(هر سؤال دارای ۶ گزینه: از نرمال تا خطرناک یا فروپاشیده)</p>
                 <form id="questions-form">
                     </form>
                 <button id="calculate-btn">محاسبه تاریخ مرگ</button>
@@ -297,7 +305,6 @@
                 <div class="final-message">
                     <p id="final-congrats"></p>
                     <h2>کارهایی که باید انجام دهی</h2>
-                    <p>این فرصت را از دست نده تا کارهای زیر را با آمادگی کامل انجام دهی:</p>
                     <ul id="suggestions-list">
                         </ul>
                 </div>
@@ -311,7 +318,6 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            // DOM Elements
             const userInfoSection = document.getElementById('user-info-section');
             const questionsSection = document.getElementById('questions-section');
             const resultsSection = document.getElementById('results-section');
@@ -331,313 +337,342 @@
 
             let userName = '';
             let userAge = 0;
-
             const questions = [
                 {
-                    text: "چه مقدار در روز ورزش می‌کنید؟",
+                    text: "1. وضعیت خواب شبت چطوره؟",
                     options: [
-                        { text: "بیش از ۱ ساعت", score: 5 },
-                        { text: "۳۰ دقیقه تا ۱ ساعت", score: 3 },
-                        { text: "کمتر از ۳۰ دقیقه", score: 1 },
-                        { text: "اصلا ورزش نمی‌کنم", score: -5 },
-                        { text: "فقط آخر هفته‌ها", score: 2 },
-                        { text: "به ندرت", score: -3 }
-                    ],
-                    cause: ["با توجه به کم‌تحرکی، سکته قلبی و ضعف عمومی بدن علت مرگ را تسریع خواهد کرد.", "به دلیل ورزش نکردن، ضعف عضلانی و فرسودگی استخوان‌بندی بدن به وجود آمده و مرگ را تسریع می‌کند."]
+                        { text: "A) ۷–۸ ساعت منظم", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) بی‌نظم ولی کافی", score: 2, cause: ["سکته"] },
+                        { text: "C) تا ۳ شب بیدارم", score: -2, cause: ["سکته", "فرسایش عصبی"] },
+                        { text: "D) کابوس و بیداری وسط شب", score: -5, cause: ["سکته", "فرسایش عصبی", "افسردگی"] },
+                        { text: "E) با قرص و دود می‌خوابم", score: -10, cause: ["اوردوز", "فرسایش عصبی", "افسردگی"] },
+                        { text: "F) خواب ندارم. فقط زنده‌م", score: -15, cause: ["سکته", "فرسایش عصبی", "افسردگی"] }
+                    ]
                 },
                 {
-                    text: "میزان مصرف سیگار و دخانیات شما چقدر است؟",
+                    text: "2. چقدر فعالیت بدنی داری؟",
                     options: [
-                        { text: "اصلا مصرف نمی‌کنم", score: 10 },
-                        { text: "بسیار کم", score: 5 },
-                        { text: "گاهی اوقات", score: 0 },
-                        { text: "روزانه (کمتر از ۵ نخ)", score: -5 },
-                        { text: "روزانه (بیش از ۵ نخ)", score: -10 },
-                        { text: "قلیان هم می‌کشم", score: -12 }
-                    ],
-                    cause: ["سرطان ریه به علت مصرف دخانیات", "بیماری‌های تنفسی و آسم"]
+                        { text: "A) هر روز ورزش", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) پیاده‌روی سبک", score: 3, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "C) فقط سر کار حرکت دارم", score: 0, cause: ["سکته قلبی", "چاقی مرگبار"] },
+                        { text: "D) تقریباً ثابت", score: -3, cause: ["سکته قلبی", "چاقی مرگبار"] },
+                        { text: "E) از تخت به مبل", score: -7, cause: ["سکته قلبی", "چاقی مرگبار"] },
+                        { text: "F) تحرک؟ نهایتاً تکون مچ", score: -10, cause: ["سکته قلبی", "چاقی مرگبار", "ضعف شدید عضلانی"] }
+                    ]
                 },
                 {
-                    text: "رژیم غذایی شما چگونه است؟",
+                    text: "3. باهات چندبار در سال دعوا فیزیکی یا کلامی شدید شده؟",
                     options: [
-                        { text: "کاملاً سالم", score: 8 },
-                        { text: "تقریباً سالم", score: 4 },
-                        { text: "متوسط", score: 0 },
-                        { text: "زیاد فست‌فود و چرب", score: -8 },
-                        { text: "فقط فست‌فود", score: -10 },
-                        { text: "رژیم غذایی خاصی ندارم", score: -2 }
-                    ],
-                    cause: ["دیابت به دلیل تغذیه ناسالم", "بیماری‌های گوارشی و چاقی مفرط", "کلسترول بالا و تصلب شرایین"]
+                        { text: "A) صفر", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) یکی دوبار", score: 0, cause: ["سکته عصبی"] },
+                        { text: "C) چند ماه یه‌بار", score: -5, cause: ["قتل", "سکته عصبی", "خودزنی"] },
+                        { text: "D) ماهی یه بار", score: -10, cause: ["قتل", "سکته عصبی", "خودزنی"] },
+                        { text: "E) هفتگی", score: -15, cause: ["قتل", "سکته عصبی", "خودزنی"] },
+                        { text: "F) هرروز، حتی با آینه", score: -20, cause: ["قتل", "سکته عصبی", "خودزنی"] }
+                    ]
                 },
                 {
-                    text: "میزان استرس و اضطراب در زندگی شما چقدر است؟",
+                    text: "4. مصرف الکل و مواد چطوره؟",
                     options: [
-                        { text: "بسیار کم", score: 5 },
-                        { text: "متوسط", score: 0 },
-                        { text: "زیاد", score: -5 },
-                        { text: "همیشه مضطربم", score: -7 },
-                        { text: "مدیریت استرس را بلد هستم", score: 3 },
-                        { text: "اصلا استرس ندارم", score: 6 }
-                    ],
-                    cause: ["سکته مغزی ناشی از استرس زیاد", "فشار خون بالا", "مرگ ناگهانی در اثر شوک عصبی"]
+                        { text: "A) هیچ", score: 10, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) تفریحی", score: 5, cause: ["تصادف", "حادثه در حین مصرف"] },
+                        { text: "C) گهگاهی سنگین", score: -5, cause: ["اور دوز", "مشکلات کبدی"] },
+                        { text: "D) منظم ولی نه روزانه", score: -15, cause: ["اور دوز", "مشکلات کبدی", "حادثه در حین مصرف"] },
+                        { text: "E) روزانه", score: -20, cause: ["اور دوز", "مشکلات کبدی", "مسمومیت"] },
+                        { text: "F) هرچی دم دستم باشه می‌زنم", score: -25, cause: ["اور دوز", "نارسایی کبد"] }
+                    ]
                 },
                 {
-                    text: "کیفیت خواب شما چگونه است؟",
+                    text: "5. درگیری جنسی خارج‌روابط یا خطرناک داشتی؟",
                     options: [
-                        { text: "بسیار عالی (۸ ساعت)", score: 7 },
-                        { text: "خوب (۷-۸ ساعت)", score: 5 },
-                        { text: "متوسط (۶ ساعت)", score: 0 },
-                        { text: "کم (کمتر از ۶ ساعت)", score: -5 },
-                        { text: "خوابم به هم ریخته است", score: -6 },
-                        { text: "بی‌خوابی دارم", score: -10 }
-                    ],
-                    cause: ["فرسودگی عصبی و ضعف سیستم ایمنی", "تصادف در اثر خواب‌آلودگی"]
+                        { text: "A) هرگز", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) یکی دو بار", score: 0, cause: ["بیماری‌های مقاربتی"] },
+                        { text: "C) گهگاه", score: -5, cause: ["ایدز", "بیماری‌های مقاربتی", "قتل از طرف شریک جنسی"] },
+                        { text: "D) زیاد", score: -10, cause: ["ایدز", "بیماری‌های مقاربتی", "قتل از طرف شریک جنسی"] },
+                        { text: "E) با هرکسی که موقعیت باشه", score: -15, cause: ["ایدز", "بیماری‌های مقاربتی", "قتل از طرف شریک جنسی"] },
+                        { text: "F) نه می‌پرسم نه می‌دونم، فقط انجام می‌دم", score: -20, cause: ["ایدز", "بیماری‌های مقاربتی", "قتل از طرف شریک جنسی"] }
+                    ]
                 },
                 {
-                    text: "چند بار در سال چکاپ پزشکی انجام می‌دهید؟",
+                    text: "6. چند بار به خودکشی یا مردن فکر کردی؟",
                     options: [
-                        { text: "سالانه", score: 10 },
-                        { text: "هر دو سال یک بار", score: 5 },
-                        { text: "هر چند سال یک بار", score: 0 },
-                        { text: "تا مریض نشم، دکتر نمی‌رم", score: -10 },
-                        { text: "فقط برای بیماری", score: -5 },
-                        { text: "به طور منظم", score: 8 }
-                    ],
-                    cause: ["تشخیص دیررس بیماری‌ها", "مرگ ناگهانی به دلیل عدم آگاهی از بیماری زمینه‌ای"]
+                        { text: "A) هیچ‌وقت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) گاهی", score: -3, cause: ["افسردگی"] },
+                        { text: "C) وقت ناراحتی شدید", score: -7, cause: ["افسردگی", "خودکشی"] },
+                        { text: "D) ماهی یکی‌دو بار", score: -12, cause: ["افسردگی", "خودکشی", "سقوط ناگهانی"] },
+                        { text: "E) هر هفته", score: -18, cause: ["افسردگی", "خودکشی", "فروپاشی روانی"] },
+                        { text: "F) هر روز", score: -25, cause: ["افسردگی", "خودکشی", "فروپاشی روانی"] }
+                    ]
                 },
                 {
-                    text: "آیا از کمربند ایمنی در خودرو استفاده می‌کنید؟",
+                    text: "7. آخرین بار که با عشق واقعی رابطه داشتی؟",
                     options: [
-                        { text: "بله، همیشه", score: 10 },
-                        { text: "گاهی اوقات", score: 5 },
-                        { text: "به ندرت", score: -5 },
-                        { text: "اصلا", score: -10 },
-                        { text: "فقط در جاده", score: 2 },
-                        { text: "فقط در شهر", score: 1 }
-                    ],
-                    cause: ["تصادف و جراحات شدید", "مرگ مغزی به علت ضربه شدید به سر"]
+                        { text: "A) الان دارم", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) سال گذشته", score: 2, cause: ["افسردگی"] },
+                        { text: "C) چند سال پیش", score: -5, cause: ["فروپاشی روانی", "افسردگی"] },
+                        { text: "D) دیگه عشق رو باور ندارم", score: -10, cause: ["فروپاشی روانی", "افسردگی", "خودکشی"] },
+                        { text: "E) فقط سکس بوده، عشق نبوده", score: -15, cause: ["فروپاشی روانی", "افسردگی", "خودکشی"] },
+                        { text: "F) هیچ‌وقت. فقط من بودم و تنهایی", score: -20, cause: ["فروپاشی روانی", "افسردگی", "خودکشی"] }
+                    ]
                 },
                 {
-                    text: "آیا در رانندگی عجول هستید؟",
+                    text: "8. رژیم غذایی‌ت چطوره؟",
                     options: [
-                        { text: "اصلا", score: 8 },
-                        { text: "به ندرت", score: 4 },
-                        { text: "گاهی اوقات", score: 0 },
-                        { text: "بله، اغلب اوقات", score: -8 },
-                        { text: "خیلی زیاد", score: -12 },
-                        { text: "بیشتر از دیگران", score: -10 }
-                    ],
-                    cause: ["تصادف مرگبار به علت رانندگی پرخطر"]
+                        { text: "A) کنترل‌شده", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) نه سالم ولی معمولی", score: 2, cause: ["چربی", "قلب"] },
+                        { text: "C) پرچرب و قندی", score: -5, cause: ["دیابت", "چربی", "قلب"] },
+                        { text: "D) غذاهای آماده و فست‌فود", score: -8, cause: ["دیابت", "چربی", "قلب", "چاقی"] },
+                        { text: "E) وعده‌ی درست نمی‌خورم", score: -12, cause: ["دیابت", "چربی", "قلب", "سوءتغذیه"] },
+                        { text: "F) شکمم پره، ولی از زهر", score: -15, cause: ["دیابت", "چربی", "قلب", "سوءتغذیه"] }
+                    ]
                 },
                 {
-                    text: "روابط اجتماعی شما چگونه است؟",
+                    text: "9. اضافه وزن داری؟",
                     options: [
-                        { text: "بسیار قوی", score: 8 },
-                        { text: "خوب", score: 5 },
-                        { text: "متوسط", score: 0 },
-                        { text: "ضعیف", score: -5 },
-                        { text: "بسیار ضعیف", score: -8 },
-                        { text: "منزوی هستم", score: -10 }
-                    ],
-                    cause: ["افسردگی شدید و تنهایی", "مرگ ناگهانی ناشی از انزوا"]
+                        { text: "A) نه", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) کمی", score: 0, cause: ["فشار"] },
+                        { text: "C) متوسط", score: -5, cause: ["چاقی", "قلب", "فشار"] },
+                        { text: "D) چاقی شدید", score: -10, cause: ["چاقی مرگبار", "قلب", "فشار"] },
+                        { text: "E) من با نون زنده‌م", score: -15, cause: ["چاقی مرگبار", "قلب", "فشار"] },
+                        { text: "F) آره ولی دیگه مهم نیست", score: -20, cause: ["چاقی مرگبار", "قلب", "فشار"] }
+                    ]
                 },
                 {
-                    text: "میزان مصرف نوشیدنی‌های قنددار چقدر است؟",
+                    text: "10. فشار خون‌ت چطوره؟",
                     options: [
-                        { text: "اصلا", score: 8 },
-                        { text: "کم", score: 4 },
-                        { text: "متوسط", score: 0 },
-                        { text: "زیاد", score: -8 },
-                        { text: "بسیار زیاد", score: -10 },
-                        { text: "فقط برای مهمانی", score: -2 }
-                    ],
-                    cause: ["دیابت به علت مصرف قند زیاد", "چاقی مفرط", "سکته قلبی"]
+                        { text: "A) نرمال", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) کمی بالاست", score: 0, cause: ["سکته مغزی", "سکته قلبی"] },
+                        { text: "C) بالاست و دارو دارم", score: -5, cause: ["سکته مغزی", "سکته قلبی"] },
+                        { text: "D) اندازه نمی‌گیرم", score: -10, cause: ["سکته مغزی", "سکته قلبی"] },
+                        { text: "E) بالا و بی‌خیالم", score: -15, cause: ["سکته مغزی", "سکته قلبی"] },
+                        { text: "F) کِی بمیرم خلاص شم؟", score: -20, cause: ["سکته مغزی", "سکته قلبی", "خودکشی"] }
+                    ]
                 },
                 {
-                    text: "چقدر از وقت خود را به مطالعه می‌گذرانید؟",
+                    text: "11. توی ماه چند بار کنترل خودتو از دست می‌دی؟",
                     options: [
-                        { text: "بیش از ۱ ساعت در روز", score: 5 },
-                        { text: "۱ ساعت در روز", score: 3 },
-                        { text: "کمتر از ۳۰ دقیقه", score: 1 },
-                        { text: "اصلا", score: -3 },
-                        { text: "به ندرت", score: 0 },
-                        { text: "فقط درسی", score: 2 }
-                    ],
-                    cause: ["زوال عقل و آلزایمر", "فراموشی و کاهش عملکرد مغزی"]
+                        { text: "A) هیچ‌وقت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) گاهی", score: 0, cause: ["فشار روانی"] },
+                        { text: "C) تو فشار شدید", score: -5, cause: ["قتل", "درگیری", "فشار روانی"] },
+                        { text: "D) هفته‌ای یکی‌دو بار", score: -10, cause: ["قتل", "درگیری", "فشار روانی"] },
+                        { text: "E) هر بار که کسی حرف بزنه", score: -15, cause: ["قتل", "درگیری", "فشار روانی"] },
+                        { text: "F) کنترل؟ ندارم که از دستش بدم", score: -20, cause: ["قتل", "درگیری", "فشار روانی"] }
+                    ]
                 },
                 {
-                    text: "چند بار در هفته به پیاده‌روی می‌روید؟",
+                    text: "12. وقتی تنهایی، چه حسی داری؟",
                     options: [
-                        { text: "بیش از ۵ بار", score: 8 },
-                        { text: "۳ تا ۵ بار", score: 5 },
-                        { text: "۱ تا ۲ بار", score: 2 },
-                        { text: "به ندرت", score: -3 },
-                        { text: "اصلا", score: -5 },
-                        { text: "فقط در مسیر کار", score: 1 }
-                    ],
-                    cause: ["بیماری‌های قلبی", "چاقی", "افسردگی ناشی از کم‌تحرکی"]
+                        { text: "A) آرامش", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) گاهی دلگیر", score: -2, cause: ["افسردگی مزمن"] },
+                        { text: "C) افسرده", score: -7, cause: ["افسردگی مزمن", "خودکشی"] },
+                        { text: "D) خفه", score: -12, cause: ["افسردگی مزمن", "خودکشی"] },
+                        { text: "E) پوچ", score: -15, cause: ["افسردگی مزمن", "خودکشی"] },
+                        { text: "F) حس می‌کنم وجود ندارم", score: -20, cause: ["افسردگی مزمن", "خودکشی", "سکته"] }
+                    ]
                 },
                 {
-                    text: "آیا در محیط کار یا منزل، به ایمنی توجه می‌کنید؟",
+                    text: "13. چند بار رانندگی خطرناک داشتی؟",
                     options: [
-                        { text: "بله، همیشه", score: 10 },
-                        { text: "گاهی اوقات", score: 5 },
-                        { text: "به ندرت", score: -5 },
-                        { text: "اصلا", score: -10 },
-                        { text: "فقط به توصیه دیگران", score: 0 },
-                        { text: "فقط برای کارهای خطرناک", score: 3 }
-                    ],
-                    cause: ["حوادث شغلی", "برق‌گرفتگی", "سقوط از ارتفاع", "برخورد با جسم سخت"]
+                        { text: "A) هیچ‌وقت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) یکی‌دوبار", score: 0, cause: ["تصادف"] },
+                        { text: "C) گهگاه", score: -5, cause: ["تصادف", "قتل غیرعمد"] },
+                        { text: "D) سرعتم همیشه بالاست", score: -10, cause: ["تصادف", "قتل غیرعمد"] },
+                        { text: "E) با دود و الکل پشت فرمونم", score: -15, cause: ["تصادف", "قتل غیرعمد"] },
+                        { text: "F) حواسم نیست، فقط می‌رم", score: -20, cause: ["تصادف", "قتل غیرعمد"] }
+                    ]
                 },
                 {
-                    text: "میزان مصرف نمک و شکر در غذاهای شما چقدر است؟",
+                    text: "14. فشار مالی چه بلایی سرت آورده؟",
                     options: [
-                        { text: "کم", score: 8 },
-                        { text: "متوسط", score: 4 },
-                        { text: "زیاد", score: -8 },
-                        { text: "بسیار زیاد", score: -12 },
-                        { text: "فقط در شیرینی‌جات", score: -5 },
-                        { text: "فقط در غذاهای فست‌فود", score: -6 }
-                    ],
-                    cause: ["فشار خون بالا", "دیابت", "سکته قلبی"]
+                        { text: "A) قابل مدیریت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) اذیتم می‌کنه", score: 0, cause: ["ایست قلبی"] },
+                        { text: "C) مدام استرس دارم", score: -5, cause: ["خودکشی", "ایست قلبی"] },
+                        { text: "D) بدهکار و شرمنده‌م", score: -10, cause: ["خودکشی", "ایست قلبی", "درگیری"] },
+                        { text: "E) حس بی‌ارزشی دارم", score: -15, cause: ["خودکشی", "ایست قلبی"] },
+                        { text: "F) باعث شد بخوام بمیرم", score: -20, cause: ["خودکشی", "ایست قلبی"] }
+                    ]
                 },
                 {
-                    text: "چند بار در سال به سفر می‌روید؟",
+                    text: "15. چند ساعت در روز پای گوشی‌ای؟",
                     options: [
-                        { text: "بیش از ۵ بار", score: 5 },
-                        { text: "۳ تا ۵ بار", score: 3 },
-                        { text: "۱ تا ۲ بار", score: 1 },
-                        { text: "به ندرت", score: -2 },
-                        { text: "اصلا", score: -5 },
-                        { text: "فقط در تعطیلات", score: 0 }
-                    ],
-                    cause: ["تصادف جاده‌ای", "سقوط هواپیما", "مرگ در اثر مسمومیت غذایی"]
+                        { text: "A) ۱–۲ ساعت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) ۳–۵ ساعت", score: 2, cause: ["تحلیل روانی"] },
+                        { text: "C) ۶–۸ ساعت", score: -2, cause: ["تحلیل روانی", "انزوای اجتماعی"] },
+                        { text: "D) ۱۰ ساعت به بالا", score: -7, cause: ["تحلیل روانی", "انزوای اجتماعی", "افسردگی"] },
+                        { text: "E) خواب و بیدار با گوشی", score: -12, cause: ["تحلیل روانی", "انزوای اجتماعی", "خودکشی"] },
+                        { text: "F) دنیای واقعی ازم متنفره", score: -15, cause: ["تحلیل روانی", "انزوای اجتماعی", "خودکشی"] }
+                    ]
                 },
                 {
-                    text: "آیا در محیط‌های باز از ضدآفتاب استفاده می‌کنید؟",
+                    text: "16. چندبار بدن‌تو آزار دادی؟",
                     options: [
-                        { text: "بله، همیشه", score: 8 },
-                        { text: "گاهی اوقات", score: 4 },
-                        { text: "به ندرت", score: 0 },
-                        { text: "اصلا", score: -8 },
-                        { text: "فقط در تابستان", score: 2 },
-                        { text: "فقط وقتی هوا آفتابی است", score: 3 }
-                    ],
-                    cause: ["سرطان پوست", "پیری زودرس پوست"]
+                        { text: "A) هیچ‌وقت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) یه بار", score: -5, cause: ["خودزنی", "فروپاشی عصبی"] },
+                        { text: "C) با فشار ناخن، کندن مو", score: -10, cause: ["خودزنی", "فروپاشی عصبی"] },
+                        { text: "D) بریدن پوست", score: -15, cause: ["خودزنی", "فروپاشی عصبی"] },
+                        { text: "E) سوزوندن", score: -20, cause: ["خودزنی", "فروپاشی عصبی"] },
+                        { text: "F) بارها تا خون بیاد", score: -25, cause: ["خودزنی مزمن", "فروپاشی عصبی", "خودکشی"] }
+                    ]
                 },
                 {
-                    text: "روابط شما با خانواده‌تان چگونه است؟",
+                    text: "17. آخرین بار که کسی رو بخشیدی؟",
                     options: [
-                        { text: "بسیار عالی", score: 8 },
-                        { text: "خوب", score: 5 },
-                        { text: "متوسط", score: 0 },
-                        { text: "بد", score: -5 },
-                        { text: "بسیار بد", score: -8 },
-                        { text: "تنها زندگی می‌کنم", score: 2 }
-                    ],
-                    cause: ["افسردگی شدید و تنهایی", "مرگ ناگهانی ناشی از تنش روانی"]
+                        { text: "A) همین دیروز", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) ماه پیش", score: 2, cause: ["فشار عصبی"] },
+                        { text: "C) سال پیش", score: -3, cause: ["فشار عصبی", "انفجار عصبی"] },
+                        { text: "D) نمی‌بخشم", score: -8, cause: ["قتل", "انفجار عصبی"] },
+                        { text: "E) همه باید تاوان بدن", score: -15, cause: ["قتل", "انفجار عصبی", "مرگ از خشونت"] },
+                        { text: "F) اگه دستم برسه، انتقام می‌گیرم", score: -20, cause: ["قتل", "انفجار عصبی", "مرگ از خشونت"] }
+                    ]
                 },
                 {
-                    text: "آیا از مواد مخدر استفاده می‌کنید؟",
+                    text: "18. رابطه‌ت با پدر/مادرت؟",
                     options: [
-                        { text: "اصلا", score: 15 },
-                        { text: "بسیار کم", score: -5 },
-                        { text: "گاهی اوقات", score: -10 },
-                        { text: "بله، به طور منظم", score: -20 },
-                        { text: "فقط تفریحی", score: -12 },
-                        { text: "فقط در مهمانی‌ها", score: -8 }
-                    ],
-                    cause: ["اور دوز و مسمومیت", "بیماری‌های کبدی", "سکته مغزی"]
+                        { text: "A) نزدیک و گرم", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) محترمانه", score: 3, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "C) سرد", score: -3, cause: ["اختلال روانی"] },
+                        { text: "D) پر تنش", score: -7, cause: ["اختلال روانی", "افسردگی"] },
+                        { text: "E) بدون ارتباط", score: -12, cause: ["اختلال روانی", "افسردگی", "خودکشی"] },
+                        { text: "F) اونا دلیل همه زخمامن", score: -18, cause: ["اختلال روانی", "افسردگی", "خودکشی", "مصرف مواد"] }
+                    ]
                 },
                 {
-                    text: "میزان مصرف الکل شما چقدر است؟",
+                    text: "19. مصرف داروهای اعصاب؟",
                     options: [
-                        { text: "اصلا", score: 10 },
-                        { text: "خیلی کم", score: 5 },
-                        { text: "گاهی اوقات", score: -5 },
-                        { text: "روزانه", score: -15 },
-                        { text: "بیش از حد", score: -20 },
-                        { text: "فقط در مهمانی‌ها", score: -2 }
-                    ],
-                    cause: ["سیروز کبدی و سرطان کبد", "تصادف در حالت مستی"]
+                        { text: "A) نمی‌خورم", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) کم و کنترل‌شده", score: 0, cause: ["فروپاشی روانی"] },
+                        { text: "C) گاهی اجباری", score: -5, cause: ["مصرف ترکیبی", "فروپاشی روانی"] },
+                        { text: "D) منظم و قوی", score: -10, cause: ["مصرف ترکیبی", "فروپاشی روانی"] },
+                        { text: "E) خودسر و زیاد", score: -15, cause: ["مصرف ترکیبی", "فروپاشی روانی", "اور دوز"] },
+                        { text: "F) بدون دارو نمی‌رم بیرون", score: -20, cause: ["مصرف ترکیبی", "فروپاشی روانی", "اور دوز"] }
+                    ]
                 },
                 {
-                    text: "چند بار در هفته ماهی می‌خورید؟",
+                    text: "20. چند بار از زندگی جنسی‌ت تهی شدی؟",
                     options: [
-                        { text: "بیش از ۳ بار", score: 5 },
-                        { text: "۱ تا ۳ بار", score: 3 },
-                        { text: "به ندرت", score: 0 },
-                        { text: "اصلا", score: -3 },
-                        { text: "فقط در رستوران", score: 1 },
-                        { text: "حساسیت دارم", score: 0 }
-                    ],
-                    cause: ["ضعف عملکرد مغزی", "مشکلات قلبی"]
+                        { text: "A) هیچ‌وقت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) گهگاه", score: -3, cause: ["افسردگی"] },
+                        { text: "C) همیشه یه چیزی کم بود", score: -7, cause: ["افسردگی", "پرخاشگری"] },
+                        { text: "D) فقط جسمی بود", score: -12, cause: ["افسردگی", "پرخاشگری"] },
+                        { text: "E) کثیف و بی‌احساس", score: -18, cause: ["افسردگی", "پرخاشگری", "خودکشی"] },
+                        { text: "F) حس تجاوز به خودم داشتم", score: -25, cause: ["افسردگی عمیق", "پرخاشگری", "خودکشی", "اختلال روانی"] }
+                    ]
                 },
                 {
-                    text: "آیا به صورت منظم از سمعک یا عینک استفاده می‌کنید؟",
+                    text: "21. چقدر از برنامه‌های مالی برای آینده‌ت داری؟",
                     options: [
-                        { text: "بله، همیشه", score: 8 },
-                        { text: "گاهی اوقات", score: 4 },
-                        { text: "به ندرت", score: 0 },
-                        { text: "اصلا", score: -8 },
-                        { text: "فقط برای کار", score: 2 },
-                        { text: "فقط برای مطالعه", score: 3 }
-                    ],
-                    cause: ["تصادف در اثر ضعف بینایی", "ضعف شنوایی و عدم توجه به هشدارها"]
+                        { text: "A) برنامه‌ریزی دقیق", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) پس‌انداز دارم", score: 2, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "C) ندارم ولی می‌خوام داشته باشم", score: 0, cause: ["استرس مالی"] },
+                        { text: "D) درآمد دارم، ولی همه‌ش خرج می‌شه", score: -3, cause: ["استرس مالی", "سکته"] },
+                        { text: "E) دستم خالیه و بدهکارم", score: -8, cause: ["استرس مالی", "خودکشی"] },
+                        { text: "F) اصلاً به آینده فکر نمی‌کنم", score: -12, cause: ["استرس مالی", "خودکشی", "فروپاشی روانی"] }
+                    ]
                 },
                 {
-                    text: "آیا در محیط‌های طبیعی و شلوغ احساس ناراحتی می‌کنید؟",
+                    text: "22. شغل‌ت چقدر استرس داره؟",
                     options: [
-                        { text: "اصلا", score: 5 },
-                        { text: "کمی", score: 2 },
-                        { text: "متوسط", score: 0 },
-                        { text: "زیاد", score: -5 },
-                        { text: "بسیار زیاد", score: -8 },
-                        { text: "منزوی هستم", score: -10 }
-                    ],
-                    cause: ["حمله حیوانات وحشی", "نیش زنبور در طبیعت", "خورده شدن توسط کروکودیل (در صورت زندگی در محیط‌های خاص)"]
+                        { text: "A) آروم و بدون استرس", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) گاهی استرس داره", score: 0, cause: ["فشار خون"] },
+                        { text: "C) استرسش زیاده", score: -5, cause: ["سکته مغزی", "فشار خون"] },
+                        { text: "D) شغلم پر از فشارهای روانیه", score: -10, cause: ["سکته مغزی", "فشار خون", "فروپاشی عصبی"] },
+                        { text: "E) از کارم متنفرم", score: -15, cause: ["سکته مغزی", "فشار خون", "افسردگی"] },
+                        { text: "F) شغل؟ ندارم که استرسش رو بکشم", score: -2, cause: ["افسردگی", "فقر"] }
+                    ]
                 },
                 {
-                    text: "آیا به صورت منظم به تفکر و مدیتیشن می‌پردازید؟",
+                    text: "23. چند بار در ماه فست‌فود یا غذای چرب می‌خوری؟",
                     options: [
-                        { text: "بله، زیاد", score: 7 },
-                        { text: "گاهی اوقات", score: 4 },
-                        { text: "به ندرت", score: 0 },
-                        { text: "اصلا", score: -5 },
-                        { text: "فقط در زمان استرس", score: 1 },
-                        { text: "فقط صبح ها", score: 3 }
-                    ],
-                    cause: ["افسردگی شدید", "تنش روانی", "مرگ ناگهانی ناشی از فشار عصبی"]
+                        { text: "A) صفر", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) یکی دو بار", score: 2, cause: ["کلسترول"] },
+                        { text: "C) هفته‌ای یکی دو بار", score: -5, cause: ["کلسترول", "فشار خون", "چاقی"] },
+                        { text: "D) اغلب اوقات", score: -10, cause: ["دیابت", "چاقی", "قلب"] },
+                        { text: "E) بیشتر وعده‌هام فست‌فوده", score: -15, cause: ["دیابت", "چاقی", "قلب", "سوءتغذیه"] },
+                        { text: "F) من با این چیزا زنده‌ام", score: -20, cause: ["دیابت", "چاقی مرگبار", "سکته قلبی"] }
+                    ]
                 },
                 {
-                    text: "آیا در هنگام عصبانیت، تصمیمات ناگهانی می‌گیرید؟",
+                    text: "24. از محیط اطراف‌ت راضی‌ای؟",
                     options: [
-                        { text: "اصلا", score: 8 },
-                        { text: "به ندرت", score: 5 },
-                        { text: "گاهی اوقات", score: 0 },
-                        { text: "بله، اغلب اوقات", score: -8 },
-                        { text: "بسیار زیاد", score: -12 },
-                        { text: "در حال کنترل آن هستم", score: 3 }
-                    ],
-                    cause: ["تصادف ناشی از تصمیمات عجولانه", "مرگ ناگهانی به دلیل خشم زیاد", "سکته قلبی"]
+                        { text: "A) کاملاً", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) نسبتاً", score: 0, cause: ["افسردگی"] },
+                        { text: "C) گاهی اذیتم", score: -3, cause: ["افسردگی", "تنش روانی"] },
+                        { text: "D) حس می‌کنم هیچ‌جا امنیت ندارم", score: -8, cause: ["قتل", "تنش روانی", "اختلال روانی"] },
+                        { text: "E) شهر منو خفه کرده", score: -12, cause: ["قتل", "افسردگی", "تنش روانی"] },
+                        { text: "F) از همه آدما متنفرم", score: -18, cause: ["قتل", "درگیری", "انفجار عصبی"] }
+                    ]
                 },
                 {
-                    text: "آیا به صورت منظم از نوشیدنی‌های انرژی‌زا استفاده می‌کنید؟",
+                    text: "25. آخرین بار که آزمایش خون دادی؟",
                     options: [
-                        { text: "بله، زیاد", score: -10 },
-                        { text: "گاهی اوقات", score: -5 },
-                        { text: "به ندرت", score: 0 },
-                        { text: "اصلا", score: 10 },
-                        { text: "فقط در زمان خستگی", score: -3 },
-                        { text: "فقط در ورزش", score: -2 }
-                    ],
-                    cause: ["بیماری‌های قلبی", "فشار خون بالا", "بی‌خوابی مزمن"]
+                        { text: "A) کمتر از ۶ ماه", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) امسال", score: 3, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "C) سال گذشته", score: -2, cause: ["تشخیص دیررس بیماری‌ها"] },
+                        { text: "D) چند سال پیش", score: -7, cause: ["تشخیص دیررس بیماری‌ها", "مرگ ناگهانی"] },
+                        { text: "E) یادم نیست", score: -12, cause: ["تشخیص دیررس بیماری‌ها", "مرگ ناگهانی"] },
+                        { text: "F) از دکتر می‌ترسم", score: -18, cause: ["تشخیص دیررس بیماری‌ها", "مرگ ناگهانی"] }
+                    ]
+                },
+                {
+                    text: "26. چقدر به حرف آدما اهمیت می‌دی؟",
+                    options: [
+                        { text: "A) هیچ‌چقدر", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) کم", score: 2, cause: ["تنش روانی"] },
+                        { text: "C) زیاد", score: -5, cause: ["افسردگی", "تنش روانی"] },
+                        { text: "D) حرف آدما منو می‌کُشه", score: -10, cause: ["افسردگی", "خودکشی"] },
+                        { text: "E) حرفشون رو می‌زنم تو سرشون", score: -8, cause: ["قتل", "درگیری"] },
+                        { text: "F) اونا خدای منن", score: -15, cause: ["افسردگی", "خودکشی", "فروپاشی روانی"] }
+                    ]
+                },
+                {
+                    text: "27. چند بار به مرگ نزدیک شدی؟",
+                    options: [
+                        { text: "A) هیچ‌وقت", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) یک بار", score: 0, cause: ["حادثه ناگهانی"] },
+                        { text: "C) چندین بار", score: -5, cause: ["حادثه ناگهانی", "تصادف"] },
+                        { text: "D) هر روز، انگار منتظرم", score: -15, cause: ["خودکشی", "تصادف", "حادثه"] },
+                        { text: "E) از مرگ نمی‌ترسم", score: -10, cause: ["خودکشی", "تصادف"] },
+                        { text: "F) مرگ رفیقمه", score: -20, cause: ["خودکشی", "تصادف", "حادثه"] }
+                    ]
+                },
+                {
+                    text: "28. سیگار یا قلیون می‌کشی؟",
+                    options: [
+                        { text: "A) هیچ‌وقت", score: 10, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) تفریحی", score: 3, cause: ["بیماری‌های تنفسی"] },
+                        { text: "C) ماهی یکی‌دو بار", score: -5, cause: ["بیماری‌های تنفسی", "سرطان"] },
+                        { text: "D) روزانه", score: -10, cause: ["سرطان ریه", "بیماری‌های قلبی"] },
+                        { text: "E) بدون سیگار نمی‌تونم", score: -15, cause: ["سرطان ریه", "بیماری‌های قلبی", "سکته"] },
+                        { text: "F) سیگار و قلیون غذای منه", score: -20, cause: ["سرطان ریه", "بیماری‌های قلبی", "سکته"] }
+                    ]
+                },
+                {
+                    text: "29. وضعیت روانی‌ت چطوره؟",
+                    options: [
+                        { text: "A) عالی و پایدار", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) معمولی", score: 2, cause: ["افسردگی"] },
+                        { text: "C) نوسان زیاد دارم", score: -5, cause: ["اختلال روانی", "خودکشی"] },
+                        { text: "D) از نظر بقیه دیوونه‌م", score: -10, cause: ["اختلال روانی", "خودکشی", "قتل"] },
+                        { text: "E) احساس می‌کنم کنترلی روی خودم ندارم", score: -15, cause: ["اختلال روانی", "قتل", "خودزنی"] },
+                        { text: "F) روانی‌م، ولی کی جرئت داره بگه؟", score: -20, cause: ["اختلال روانی", "قتل", "خودکشی"] }
+                    ]
+                },
+                {
+                    text: "30. به چه میزان به سلامتی‌ت اهمیت می‌دی؟",
+                    options: [
+                        { text: "A) خیلی زیاد، مرتب پیگیری می‌کنم", score: 10, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "B) در حد نرمال", score: 5, cause: ["کهولت سن و عوامل طبیعی"] },
+                        { text: "C) کم", score: -5, cause: ["تشخیص دیررس بیماری‌ها"] },
+                        { text: "D) فقط وقتی مریض میشم", score: -10, cause: ["تشخیص دیررس بیماری‌ها", "مرگ ناگهانی"] },
+                        { text: "E) بی‌خیالم", score: -15, cause: ["تشخیص دیررس بیماری‌ها", "مرگ ناگهانی", "سکته"] },
+                        { text: "F) سلامتی؟ مهم نیست، مهم اینه که بمیرم", score: -20, cause: ["خودکشی", "مرگ ناگهانی"] }
+                    ]
                 }
             ];
 
             const poems = [
                 "اینجا کسی خفته که عمری به یاد داشت،\nخیر و نیکی را به قلب و جان کاشت.",
-                "سایهٔ وجودش گرمی‌بخش بود،\nروحش اکنون در بهشت جاودانه خفت.",
+                "سایهٔ وجودش گرمی‌بخش بود،\نروحش اکنون در بهشت جاودانه خفت.",
                 "عشق او چون شعله‌ای در دل‌هاست،\nگرچه رفته، یاد او همیشه با ماست.",
                 "خاک سرد، آرامگاه جسم او،\nروح او، آزاد از این دنیای پوچ.",
                 "او رفت و یادش به دل‌ها ماندگار،\nدر این سرای فانی، بود او یک یادگار.",
@@ -692,44 +727,43 @@
             ];
 
             const suggestions = [
-                "ببین چه کسی ازت پول می‌خواد؟ از اون پول بگیر. می‌دونی چرا؟ چون دیگه بعدش فرصتی نیست که پس بدی!",
-                "زنگ بزن به هر کسی که اذیت کرده و تمام حرف‌های دلت رو بگو. دیگه بعدش فرصتی نیست، حداقل وجدانت راحت باشه.",
-                "به اون دوستت که پولش رو خورده بودی زنگ بزن، بگو شرمنده داداش، اون دنیا جبران می‌کنم.",
-                "سنگ قبر خودت رو از همین الان بخر و بگو چی دوست داری روش حکاکی شه. سلیقه‌ت رو به بقیه نشون بده.",
-                "لیستی از کارهایی که همیشه دوست داشتی انجام بدی اما وقتش رو نداشتی، آماده کن و انجام بده.",
-                "یک وصیت‌نامه طنزآلود و خنده‌دار بنویس و توش مشخص کن که هر کدوم از وسایلت به چه کسی برسه.",
-                "یک درخت بکار. حتی اگر قرار نیست درختی رو که کاشتی ببینی، مطمئن باش سایه‌اش به سر یکی از عزیزانت می‌رسه.",
-                "تمامی وسایلی که به دردت نمی‌خوره رو ببخش به نیازمندان تا علاوه بر کمک به دیگران، اطرافیان برای جمع کردنشون به زحمت نیفتن.",
+                "زنگ بزن به هر کسی که اذیتت کرده و هرچی دلت می‌خواد بهش بگو. چون دیگه بعدش فرصتی نیست.",
+                "به اون دوستت که پولش رو خورده بودی زنگ بزن، بگو شرمنده داداش. اون دنیا جبران می‌کنم.",
+                "سنگ قبر خودت رو از همین الان بخر و بگو چی دوست داری روش حکاکی شه. سلیقه‌ت رو به نسل‌های بعد نشون بده.",
+                "تمام بدهی‌هات رو صاف کن تا بعد از تو، اطرافیانت با مشکلات مالی روبرو نشن.",
                 "تمام رمزهای عبور شبکه‌های اجتماعیت رو یادداشت کن و بذار توی کشوی میزت تا بعد از تو، همه بتونن از خاطراتت لذت ببرن.",
                 "اون لباسی که همیشه دوست داشتی بخری و به خودت می‌گفتی «حیفه»، همین امروز بخر و بپوش.",
                 "به کسی که دوستش داری زنگ بزن و بگو «دوستت دارم»، چون شاید دیگه فرصتی نباشه.",
                 "یک سلفی با تمام کسانی که دوستشون داری بگیر و بذار توی قاب تا به یادگار بمونه.",
-                "به کسی که سال‌هاست ازش خبر نداری، زنگ بزن و احوالپرسی کن.",
-                "یک نامه به خودت در آینده بنویس، اما وقتی که دست‌نوشته رو پیدا کنن، می‌فهمن که دیگه در آینده نیستی.",
-                "برو به اون رستورانی که همیشه دوست داشتی بری و گرون بود، و هر چی دلت می‌خواد سفارش بده.",
                 "اگر از کسی کینه‌ای به دل داری، ببخش تا خودت سبک‌بارتر بشی.",
-                "تمام کتاب‌هایی رو که همیشه می‌خواستی بخونی و فرصت نداشتی، شروع کن.",
-                "یک مسافرت طولانی برو و هر جایی که دوست داری برو و با دنیا خداحافظی کن.",
-                "تمام بدهی‌هات رو صاف کن تا بعد از تو، اطرافیانت با مشکلات مالی روبرو نشن.",
-                "به یه دوستت که مدام غر می‌زنه، زنگ بزن و بهش بگو «غر نزن، زندگی کوتاهه».",
+                "اگر به کسی قول دادی و عمل نکردی، همین امروز جبران کن.",
+                "اگر از کسی ناراحت هستی، بهش بگو و باهاش صحبت کن.",
                 "یک وعده غذای سالم و خوشمزه برای خودت درست کن و با لذت بخورش.",
                 "یک فیلمی رو ببین که همیشه دوست داشتی و فرصت تماشاش رو نداشتی.",
                 "یک شعر از حافظ یا سعدی انتخاب کن و برای خودت بخون.",
-                "اگر به کسی قول دادی و عمل نکردی، همین امروز جبران کن.",
-                "اگر از کسی ناراحت هستی، بهش بگو و باهاش صحبت کن.",
-                "تمام عکس‌های قدیمی رو مرور کن و با یادآوری خاطرات، لبخند بزن.",
                 "یک کار خیر انجام بده و به کسی که نیاز داره کمک کن.",
                 "اگر از کسی پول قرض گرفتی، همین امروز پس بده.",
                 "یک کار هنری یا دستی انجام بده و به خودت افتخار کن.",
-                "یک نامه به پدر و مادرت بنویس و ازشون تشکر کن."
+                "یک نامه به پدر و مادرت بنویس و ازشون تشکر کن.",
+                "یک لیست از کارهایی که همیشه دوست داشتی انجام بدی اما هیچ وقت وقتش رو نداشتی، آماده کن و هر طور شده همون امروز انجامشون بده.",
+                "یک مسافرت طولانی برو و هر جایی که دوست داری برو و با دنیا خداحافظی کن.",
+                "برو به اون رستورانی که همیشه دوست داشتی بری و گرون بود، و هر چی دلت می‌خواد سفارش بده.",
+                "تمام کتاب‌هایی رو که همیشه می‌خواستی بخونی و فرصت نداشتی، شروع کن.",
+                "به یه دوستت که مدام غر می‌زنه، زنگ بزن و بهش بگو «غر نزن، زندگی کوتاهه».",
+                "تمام عکس‌های قدیمی رو مرور کن و با یادآوری خاطرات، لبخند بزن.",
+                "یک درخت بکار. حتی اگر قرار نیست درختی رو که کاشتی ببینی، مطمئن باش سایه‌اش به سر یکی از عزیزانت می‌رسه.",
+                "تمامی وسایلی که به دردت نمی‌خوره رو ببخش به نیازمندان تا علاوه بر کمک به دیگران، اطرافیان بعد از تو برای جمع کردنشون به مشکل نخورن.",
+                "تمام حساب‌وکتاب‌های مالی‌ات رو شفاف کن تا ورثه بعد از تو گیج نشن.",
+                "اگر از کسی ناراحت هستی و نمی‌خوای باهاش صحبت کنی، حداقل یه نامه براش بنویس و بعد پاره کن تا سبک شی.",
+                "یه لیست از آدمایی که دوستشون داری بنویس و بهشون بگو چقدر برات مهمن.",
+                "یاد بگیر که چطور یه غذای خوشمزه درست کنی تا حداقل یک خاطره خوب از آشپزی‌ات به جا بمونه."
             ];
 
-            // Functions
             const showSection = (section) => {
-                userInfoSection.classList.add('hidden');
-                questionsSection.classList.add('hidden');
-                resultsSection.classList.add('hidden');
-                section.classList.remove('hidden');
+                userInfoSection.style.display = 'none';
+                questionsSection.style.display = 'none';
+                resultsSection.style.display = 'none';
+                section.style.display = 'block';
             };
 
             const generateQuestions = () => {
@@ -738,11 +772,11 @@
                     const questionDiv = document.createElement('div');
                     questionDiv.classList.add('question');
                     questionDiv.innerHTML = `
-                        <p>${index + 1}. ${q.text}</p>
+                        <p>${q.text}</p>
                         <div class="options-container">
                             ${q.options.map((option, i) => `
                                 <div class="option">
-                                    <input type="radio" id="q${index}-o${i}" name="q${index}" value="${option.score}" required>
+                                    <input type="radio" id="q${index}-o${i}" name="q${index}" value="${option.score}" data-cause='${JSON.stringify(option.cause)}' required>
                                     <label for="q${index}-o${i}">${option.text}</label>
                                 </div>
                             `).join('')}
@@ -801,7 +835,7 @@
                     const primaryCause = sortedCauses[0];
                     if (sortedCauses.length > 1) {
                         const secondaryCause = sortedCauses[1];
-                        deathCauseText = `علت فوت: ${primaryCause} و در نهایت ${secondaryCause}.`;
+                        deathCauseText = `علت فوت: به دلیل ${primaryCause} و در نهایت ${secondaryCause}.`;
                     } else {
                         deathCauseText = `علت فوت: ${primaryCause}.`;
                     }
@@ -822,7 +856,6 @@
                 });
             };
 
-            // Event Listeners
             userInfoForm.addEventListener('submit', (e) => {
                 e.preventDefault();
                 userName = nameInput.value;
@@ -844,14 +877,12 @@
                 let answeredCount = 0;
 
                 questions.forEach((q, index) => {
-                    const selectedOptionValue = formData.get(`q${index}`);
-                    if (selectedOptionValue !== null) {
-                        totalScore += parseInt(selectedOptionValue, 10);
+                    const selectedOption = questionsForm.querySelector(`input[name="q${index}"]:checked`);
+                    if (selectedOption) {
+                        totalScore += parseInt(selectedOption.value, 10);
                         answeredCount++;
-                        const selectedOption = q.options.find(opt => opt.score.toString() === selectedOptionValue);
-                        if (selectedOption) {
-                            selectedCauses.push(...q.cause);
-                        }
+                        const causes = JSON.parse(selectedOption.dataset.cause);
+                        selectedCauses.push(...causes);
                     }
                 });
 
