@@ -1,71 +1,901 @@
-<!DOCTYPE html><html lang="fa">
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>پرسشنامه تخمین طول عمر</title>
-  <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@latest/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
-  <script src="https://cdn.jsdelivr.net/npm/jalaali-js@1.1.0/dist/jalaali.min.js"></script>
-  <style>body{font-family:Vazirmatn,sans-serif;background:#f2f2f2;padding:20px;direction:rtl;text-align:right;max-width:700px;margin:auto;color:#333}input,select,button{padding:10px;margin-top:5px;width:100%;font-size:16px;border-radius:8px;border:1px solid #ccc;box-sizing:border-box;font-family:Vazirmatn,sans-serif}button{background-color:#4CAF50;color:white;font-weight:bold;cursor:pointer;margin-top:15px;transition:background-color .3s ease}button:hover{background-color:#45a049}.question{margin-bottom:20px;background:#fff;padding:10px 15px;border-radius:12px;box-shadow:0 0 5px rgba(0,0,0,.05)}.result{margin-top:30px;padding:15px;background:#ffffffee;border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,.1);white-space:pre-wrap;line-height:1.8}label{font-weight:bold;display:block;margin-bottom:5px}h2{text-align:center;color:#2c3e50}#downloadBtn{background-color:#3498db;color:white}#downloadBtn:hover{background-color:#2980b9}.gravestone{background:#2f2f2f;color:#f0f0f0;padding:20px;border-radius:15px;text-align:center;margin-top:30px;line-height:2;box-shadow:0 0 12px rgba(0,0,0,.4)}</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محاسبه تاریخ مرگ</title>
+    
+    <style>
+        @font-face {
+            font-family: 'Vazir';
+            src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.0.0/fonts/webfonts/Vazirmatn-Regular.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'Vazir', sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            direction: rtl;
+            text-align: right;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            max-width: 600px;
+        }
+
+        h1, h2 {
+            color: #007bff;
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-family: 'Vazir', sans-serif;
+            font-size: 16px;
+            width: 100%;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .question {
+            margin-bottom: 20px;
+        }
+
+        .question p {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .options-container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .option {
+            margin-bottom: 10px;
+        }
+
+        .option input[type="radio"] {
+            display: none;
+        }
+
+        .option label {
+            display: block;
+            background-color: #f8f9fa;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #dee2e6;
+            cursor: pointer;
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+        }
+
+        .option input[type="radio"]:checked + label {
+            background-color: #e2f4ff;
+            border-color: #007bff;
+        }
+
+        #tombstone {
+            background-color: #d1d1d1;
+            background-size: cover;
+            background-position: center;
+            color: #333;
+            padding: 50px 20px;
+            margin: 20px auto;
+            text-align: center;
+            position: relative;
+            max-width: 400px;
+            min-height: 500px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 5px solid #a0a0a0;
+            border-radius: 10px;
+            box-shadow: inset 0 0 10px #777;
+        }
+
+        .tombstone-content {
+            background: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 5px;
+            width: 80%;
+        }
+
+        #tombstone-name {
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+
+        #tombstone-dates {
+            font-size: 18px;
+            margin-top: 0;
+        }
+
+        #tombstone hr {
+            width: 50%;
+            border-color: #333;
+            margin: 10px auto;
+        }
+
+        #tombstone-bio, #tombstone-cause, #tombstone-poem {
+            font-size: 14px;
+            margin: 10px 0;
+        }
+
+        .final-message {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        #suggestions-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #suggestions-list li {
+            background: #e9ecef;
+            padding: 10px;
+            margin-bottom: 8px;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
-<h2>📋 پرسشنامه تخمین طول عمر</h2>
-<div class="question"><label>👤 نام کامل شما:</label><input type="text" id="name"></div>
-<div class="question"><label>🎂 سن دقیق شما:</label><input type="number" id="age" min="1" max="120"></div>
-<div id="questions"></div>
-<button onclick="calculateFromAnswers()">📅 محاسبه تاریخ فوت</button>
-<button id="downloadBtn" onclick="downloadResult()" style="display:none">⬇️ ذخیره نتیجه</button>
-<div class="result" id="result"></div>
-<script>
-const poems = ["رفتم ولی هنوز در کوچه‌های خاطره، قدم می‌زنم","ای زندگی! با همه تلخی‌ات، دوستت داشتم خداحافظ...","نماندم تا ببینم پاییز چگونه می‌ریزد اما برگ‌ها به یادم خواهند افتاد","در دل هر آن‌کس که دوستش داشتم زنده‌ام هنوز...","گمان مبر که رفته‌ام من در دل تو جاودانه‌ام"];
-const checklistTasks = ["نوشتن وصیت‌نامه رسمی و تعیین وراث","تهیه پیام ویدیویی یا صوتی برای خانواده","پرداخت بدهی‌ها و بستن حساب‌های بانکی","آشتی با افراد قطع رابطه","انجام کار خیری که همیشه قصدش را داشتی","ساختن خاطرات تازه با عزیزان"];
-const questionsWithOptions = [
-["چند وعده غذا در روز می‌خورید؟",["۱ وعده","۲ وعده","۳ وعده","۴ وعده","۵ وعده","بیشتر"]],
-["چقدر ورزش می‌کنید؟",["اصلاً","کم","هفته‌ای ۲ بار","هفته‌ای ۳ بار","هر روز","باشگاه حرفه‌ای"]],
-["سیگار می‌کشید؟",["بله","گاهی","قبلاً ترک کردم","نه","هیچ‌وقت","بیزارم"]],
-["مصرف الکل؟",["زیاد","گاه‌به‌گاه","قبلاً","نه","هرگز","ضد الکل"]],
-["چقدر آب می‌نوشید؟",["کمتر از ۱ لیتر","۱ لیتر","۲ لیتر","۳ لیتر","۴ لیتر","۵ لیتر یا بیشتر"]],
-["چند ساعت می‌خوابید؟",["کمتر از ۴","۴ تا ۵","۶","۷","۸","بیشتر از ۸"]],
-["استرس روزانه شما چقدر است؟",["بسیار زیاد","زیاد","متوسط","کم","بسیار کم","تقریباً صفر"]],
-["شغل شما چقدر فیزیکی است؟",["کاملاً پشت‌میزی","نیمه‌فعال","فعال","بسیار فعال","سخت بدنی","ورزشی"]],
-["میزان چاقی یا لاغری؟",["چاق زیاد","چاق متوسط","متناسب","لاغر","کم‌وزن","عضلانی"]],
-["چند ساعت با موبایل یا مانیتور هستید؟",["۱۲+ ساعت","۸-۱۲","۵-۸","۳-۵","۱-۳","زیر ۱"]],
-["در هفته چقدر پیاده‌روی دارید؟",["کمتر از ۱ ساعت","۱-۲","۲-۳","۳-۵","۵+","هر روز"]],
-["در چه نوع منطقه‌ای زندگی می‌کنید؟",["شهری آلوده","شهر بزرگ","شهر معمولی","شهر تمیز","روستا","روستای کوهستانی"]],
-["چند بار در سال بیمار می‌شوید؟",["بیشتر از ۵","۳-۵","۲-۳","۱","خیلی کم","تقریباً هرگز"]],
-["آخرین چکاپ پزشکی شما؟",["هیچ‌وقت","۵ سال پیش","۳ سال پیش","۱ سال پیش","۶ ماه پیش","هر ۳ ماه"]],
-["نوع تغذیه شما؟",["فست‌فود","متوسط","نیمه‌سالم","سالم","گیاه‌خواری","ارگانیک"]],
-["مصرف میوه و سبزی؟",["هیچ","هفته‌ای ۱ بار","۲-۳ بار","۴-۵ بار","هر روز","با هر وعده"]],
-["روابط اجتماعی؟",["خیلی ضعیف","ضعیف","متوسط","خوب","خیلی خوب","عالی"]],
-["مطالعه روزانه دارید؟",["هیچ","کم","متوسط","زیاد","خیلی زیاد","مطالعه حرفه‌ای"]],
-["به تفریح و سرگرمی اهمیت می‌دهید؟",["نه","کم","متوسط","زیاد","خیلی زیاد","برنامه‌ریزی شده"]],
-["مسافرت سالانه؟",["هیچ","۱ بار","۲ بار","۳ بار","۴+","ماهی ۱"]],
-["مذهب و معنویت در زندگی؟",["اصلاً","کم","متوسط","زیاد","همیشه","در قلب من است"]],
-["عادت به خشم و عصبانیت؟",["خیلی زیاد","زیاد","متوسط","کم","نادر","تقریباً هرگز"]],
-["سابقه خانوادگی بیماری جدی؟",["زیاد","متوسط","کم","خیلی کم","تقریباً هیچ","کاملاً سالم"]],
-["نوشیدن چای یا قهوه؟",["بیش از ۶ لیوان","۴-۶","۲-۴","۱-۲","کمتر","هیچ"]],
-["آیا آرامش درونی دارید؟",["اصلاً","کم","متوسط","زیاد","خیلی زیاد","آرامش کامل"]]
-];
-window.onload = ()=>{
-const container=document.getElementById("questions");
-questionsWithOptions.forEach(([q,opts],idx)=>{
-const div=document.createElement("div");
-div.className="question";
-div.innerHTML=`<label>${idx+1}. ${q}</label>`;
-const select=document.createElement("select");
-select.id=`q${idx}`;
-opts.forEach((opt,i)=>{
-const option=document.createElement("option");
-option.value=i;
-option.text=`${String.fromCharCode(65+i)}) ${opt}`;
-select.appendChild(option);
-});
-div.appendChild(select);
-container.appendChild(div);
-});}
-function getRandomItems(arr,count){return[...arr].sort(()=>.5-Math.random()).slice(0,count)}
-function generateBio(score){if(score>=120)return"او انسانی بسیار سالم، مهربان، فعال و عاشق زندگی بود.";else if(score>=80)return"او انسانی خوش‌اخلاق، اجتماعی و متعادل بود.";else return"او زندگی ساده‌ای داشت و در دل اطرافیانش جاودانه ماند.";}
-function calculateFromAnswers(){const name=document.getElementById('name').value;const age=parseInt(document.getElementById('age').value);if(!name||isNaN(age)){alert("لطفاً نام و سن را وارد کنید.");return;}let score=0;for(let i=0;i<questionsWithOptions.length;i++){score+=parseInt(document.getElementById(`q${i}`).value);}const now=new Date();const birthYear=now.getFullYear()-age;let predictedLife=65;if(score>=120)predictedLife=87;else if(score>=80)predictedLife=78;else predictedLife=65;const deathYear=birthYear+predictedLife;const deathDate=new Date(deathYear,now.getMonth(),now.getDate());const j=window.jalaali.toJalaali(deathDate);const weekDay=['یکشنبه','دوشنبه','سه‌شنبه','چهارشنبه','پنجشنبه','جمعه','شنبه'][deathDate.getDay()];const hour=Math.floor(Math.random()*24);const minute=Math.floor(Math.random()*60);const timeOfDeath=`${hour.toString().padStart(2,'0')}:${minute.toString().padStart(2,'0')}`;const bio=generateBio(score);const poem=getRandomItems(poems,1)[0];const tasks=getRandomItems(checklistTasks,6).map(t=>`- ${t}`).join("<br>");const gravestone=`\n<div class='gravestone'>🪦 ${name}<br>تولد: ${birthYear}<br>وفات: ${j.jy}/${j.jm.toString().padStart(2,'0')}/${j.jd.toString().padStart(2,'0')} (${weekDay})<br>ساعت: ${timeOfDeath}<br><br>${bio}<br><br>${poem}<br><br>📌 کارهایی که بهتر است قبل از مرگ انجام دهید:<br>${tasks}</div>`;document.getElementById('result').innerHTML=gravestone;document.getElementById('downloadBtn').style.display='inline-block';}
-function downloadResult(){const text=document.getElementById('result').innerText;const blob=new Blob([text],{type:'text/plain'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='gravestone.txt';a.click();URL.revokeObjectURL(url);}
-</script>
+
+    <header>
+        <h1>پیش‌گویی تاریخ مرگ</h1>
+        <p>لطفا اطلاعات خود را وارد کنید تا از آینده خود باخبر شوید.</p>
+    </header>
+
+    <main>
+        <section id="user-info-section" class="card">
+            <h2>اطلاعات فردی</h2>
+            <form id="user-info-form">
+                <div class="form-group">
+                    <label for="name">نام و نام خانوادگی:</label>
+                    <input type="text" id="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="age">سن:</label>
+                    <input type="number" id="age" min="1" max="120" required>
+                </div>
+                <button type="submit" id="start-btn">شروع پیش‌گویی</button>
+            </form>
+        </section>
+
+        <section id="questions-section" class="card hidden">
+            <h2>سوالات سبک زندگی</h2>
+            <form id="questions-form">
+                </form>
+            <button id="calculate-btn">محاسبه</button>
+        </section>
+
+        <section id="results-section" class="card hidden">
+            <div id="tombstone">
+                <div class="tombstone-content">
+                    <h3 id="tombstone-name"></h3>
+                    <p id="tombstone-dates"></p>
+                    <hr>
+                    <p id="tombstone-bio"></p>
+                    <p id="tombstone-cause"></p>
+                    <p id="tombstone-poem"></p>
+                </div>
+            </div>
+            <div class="final-message">
+                <h2>قبل از مرگ...</h2>
+                <p>زندگی کوتاه است. قبل از اینکه دیر شود، کارهای زیر را انجام دهید:</p>
+                <ul id="suggestions-list">
+                    </ul>
+            </div>
+            <button id="restart-btn">شروع مجدد</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>این یک پروژه سرگرم‌کننده است. نتایج واقعی نیستند.</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // DOM Elements
+            const userInfoSection = document.getElementById('user-info-section');
+            const questionsSection = document.getElementById('questions-section');
+            const resultsSection = document.getElementById('results-section');
+            const userInfoForm = document.getElementById('user-info-form');
+            const questionsForm = document.getElementById('questions-form');
+            const nameInput = document.getElementById('name');
+            const ageInput = document.getElementById('age');
+            const calculateBtn = document.getElementById('calculate-btn');
+            const restartBtn = document.getElementById('restart-btn');
+            const tombstoneName = document.getElementById('tombstone-name');
+            const tombstoneDates = document.getElementById('tombstone-dates');
+            const tombstoneBio = document.getElementById('tombstone-bio');
+            const tombstoneCause = document.getElementById('tombstone-cause');
+            const tombstonePoem = document.getElementById('tombstone-poem');
+            const suggestionsList = document.getElementById('suggestions-list');
+
+            let userName = '';
+            let userAge = 0;
+
+            // All the data needed for the project
+            const questions = [
+                {
+                    text: "چه مقدار در روز ورزش می‌کنید؟",
+                    options: [
+                        { text: "بیش از ۱ ساعت", score: 5 },
+                        { text: "۳۰ دقیقه تا ۱ ساعت", score: 3 },
+                        { text: "کمتر از ۳۰ دقیقه", score: 1 },
+                        { text: "به ندرت", score: -3 },
+                        { text: "اصلا ورزش نمی‌کنم", score: -5 },
+                        { text: "فقط آخر هفته‌ها", score: 2 }
+                    ],
+                    cause: ["سکته قلبی", "ضعف عضلانی", "افسردگی", "تصادف در حین دویدن"]
+                },
+                {
+                    text: "میزان مصرف سیگار و دخانیات شما چقدر است؟",
+                    options: [
+                        { text: "اصلا مصرف نمی‌کنم", score: 10 },
+                        { text: "بسیار کم (در حد تفریحی)", score: 5 },
+                        { text: "گاهی اوقات (چند نخ در ماه)", score: 0 },
+                        { text: "روزانه (کمتر از ۵ نخ)", score: -5 },
+                        { text: "روزانه (بیش از ۵ نخ)", score: -10 },
+                        { text: "قلیان هم می‌کشم", score: -12 }
+                    ],
+                    cause: ["سرطان ریه", "بیماری‌های تنفسی", "بیماری‌های قلبی", "مرگ مغزی"]
+                },
+                {
+                    text: "رژیم غذایی شما چگونه است؟",
+                    options: [
+                        { text: "کاملاً سالم (میوه، سبزیجات، پروتئین)", score: 8 },
+                        { text: "تقریباً سالم (گاهی فست‌فود)", score: 4 },
+                        { text: "متوسط", score: 0 },
+                        { text: "زیاد فست‌فود و غذاهای چرب", score: -4 },
+                        { text: "فقط فست‌فود", score: -8 },
+                        { text: "رژیم غذایی خاصی ندارم", score: -2 }
+                    ],
+                    cause: ["دیابت", "بیماری‌های گوارشی", "کلسترول بالا", "سکته قلبی"]
+                },
+                {
+                    text: "میزان استرس و اضطراب در زندگی شما چقدر است؟",
+                    options: [
+                        { text: "بسیار کم (زندگی آرامی دارم)", score: 5 },
+                        { text: "متوسط (گاهی اوقات)", score: 0 },
+                        { text: "زیاد (همیشه مضطربم)", score: -5 },
+                        { text: "زندگی پر استرسی دارم", score: -7 },
+                        { text: "مدیریت استرس را بلد هستم", score: 3 },
+                        { text: "اصلا استرس ندارم", score: 6 }
+                    ],
+                    cause: ["سکته مغزی", "مشکلات روانی", "فشار خون", "مرگ ناگهانی"]
+                },
+                {
+                    text: "کیفیت خواب شما چگونه است؟",
+                    options: [
+                        { text: "بسیار عالی (۸ ساعت در شب)", score: 7 },
+                        { text: "خوب (۷-۸ ساعت)", score: 5 },
+                        { text: "متوسط (۶ ساعت)", score: 0 },
+                        { text: "کم (کمتر از ۶ ساعت)", score: -5 },
+                        { text: "خوابم به هم ریخته است", score: -6 },
+                        { text: "بی‌خوابی دارم", score: -10 }
+                    ],
+                    cause: ["بی‌خوابی", "فرسودگی عصبی", "ضعف سیستم ایمنی", "تصادف در اثر خواب‌آلودگی"]
+                },
+                {
+                    text: "چه مقدار از وقت خود را به مطالعه یا یادگیری می‌گذرانید؟",
+                    options: [
+                        { text: "بسیار زیاد (روزانه)", score: 5 },
+                        { text: "گاهی اوقات (هفتگی)", score: 3 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا مطالعه نمی‌کنم", score: -3 },
+                        { text: "فقط درسی", score: 1 },
+                        { text: "پادکست گوش می‌کنم", score: 2 }
+                    ],
+                    cause: ["فراموشی", "زوال عقل", "افسردگی", "مرگ مغزی"]
+                },
+                {
+                    text: "میزان مصرف الکل و نوشیدنی‌های الکلی شما چگونه است؟",
+                    options: [
+                        { text: "اصلا مصرف نمی‌کنم", score: 10 },
+                        { text: "خیلی کم (ماهی یک بار)", score: 5 },
+                        { text: "گاهی اوقات (هفتگی)", score: -5 },
+                        { text: "روزانه", score: -15 },
+                        { text: "بیش از حد", score: -20 },
+                        { text: "فقط در مهمانی‌ها", score: -2 }
+                    ],
+                    cause: ["سیروز کبدی", "سرطان کبد", "بیماری‌های قلبی", "تصادف در حالت مستی"]
+                },
+                {
+                    text: "آیا در طول روز از ضد آفتاب استفاده می‌کنید؟",
+                    options: [
+                        { text: "همیشه", score: 5 },
+                        { text: "گاهی اوقات", score: 2 },
+                        { text: "به ندرت", score: -2 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط در تابستان", score: 1 },
+                        { text: "وقتی هوا آفتابی است", score: 3 }
+                    ],
+                    cause: ["سرطان پوست", "پیری زودرس پوست"]
+                },
+                {
+                    text: "چند بار در سال چکاپ پزشکی انجام می‌دهید؟",
+                    options: [
+                        { text: "سالانه", score: 10 },
+                        { text: "هر دو سال یک بار", score: 5 },
+                        { text: "هر چند سال یک بار", score: 0 },
+                        { text: "تا وقتی مریض نشم، دکتر نمی‌رم", score: -10 },
+                        { text: "فقط برای بیماری", score: -5 },
+                        { text: "به طور منظم", score: 8 }
+                    ],
+                    cause: ["تشخیص دیررس بیماری‌ها", "مرگ ناگهانی"]
+                },
+                {
+                    text: "آیا در شغل خود احساس رضایت می‌کنید؟",
+                    options: [
+                        { text: "بسیار زیاد", score: 5 },
+                        { text: "زیاد", score: 3 },
+                        { text: "متوسط", score: 0 },
+                        { text: "کم", score: -3 },
+                        { text: "اصلا", score: -7 },
+                        { text: "شغل ندارم", score: 0 }
+                    ],
+                    cause: ["استرس شغلی", "افسردگی", "فرسودگی شغلی", "سکته قلبی"]
+                },
+                {
+                    text: "آیا به صورت منظم به سفر می‌روید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 5 },
+                        { text: "گاهی اوقات", score: 2 },
+                        { text: "به ندرت", score: -2 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط تفریحی", score: 1 },
+                        { text: "فقط با خانواده", score: 3 }
+                    ],
+                    cause: ["افسردگی", "تنش‌های روانی", "تصادف جاده‌ای", "سقوط هواپیما"]
+                },
+                {
+                    text: "چقدر به بهداشت دهان و دندان خود اهمیت می‌دهید؟",
+                    options: [
+                        { text: "بسیار زیاد", score: 7 },
+                        { text: "متوسط", score: 3 },
+                        { text: "کم", score: 0 },
+                        { text: "اصلا", score: -8 },
+                        { text: "فقط وقتی دندان درد دارم", score: -5 },
+                        { text: "به طور منظم", score: 5 }
+                    ],
+                    cause: ["بیماری‌های لثه", "عفونت‌های دهان و دندان", "سکته قلبی"]
+                },
+                {
+                    text: "آیا ارتباطات اجتماعی قوی دارید؟",
+                    options: [
+                        { text: "بسیار زیاد", score: 8 },
+                        { text: "خوب", score: 5 },
+                        { text: "متوسط", score: 0 },
+                        { text: "کم", score: -5 },
+                        { text: "خیلی کم", score: -8 },
+                        { text: "منزوی هستم", score: -10 }
+                    ],
+                    cause: ["تنهایی", "افسردگی", "بیماری‌های روانی", "خودکشی"]
+                },
+                {
+                    text: "چقدر از زمان خود را در فضای مجازی و شبکه‌های اجتماعی می‌گذرانید؟",
+                    options: [
+                        { text: "بسیار زیاد", score: -5 },
+                        { text: "متوسط", score: -2 },
+                        { text: "کم", score: 2 },
+                        { text: "خیلی کم", score: 5 },
+                        { text: "اصلا", score: 8 },
+                        { text: "فقط برای کار", score: 1 }
+                    ],
+                    cause: ["افسردگی", "استرس", "بیماری‌های چشمی", "مرگ مغزی"]
+                },
+                {
+                    text: "آیا به موسیقی گوش می‌دهید؟",
+                    options: [
+                        { text: "بسیار زیاد", score: 5 },
+                        { text: "متوسط", score: 3 },
+                        { text: "کم", score: 0 },
+                        { text: "اصلا", score: -3 },
+                        { text: "فقط در ماشین", score: 1 },
+                        { text: "آهنگ های شاد", score: 2 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی", "مرگ ناگهانی"]
+                },
+                {
+                    text: "آیا به صورت منظم در فعالیت‌های داوطلبانه شرکت می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 8 },
+                        { text: "گاهی اوقات", score: 4 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط برای دوستان", score: 2 },
+                        { text: "خیلی کم", score: -2 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی"]
+                },
+                {
+                    text: "آیا به صورت منظم در معرض نور خورشید قرار می‌گیرید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 5 },
+                        { text: "متوسط", score: 3 },
+                        { text: "کم", score: -2 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط در تابستان", score: 1 },
+                        { text: "با ضد آفتاب", score: 4 }
+                    ],
+                    cause: ["کمبود ویتامین D", "افسردگی", "سرطان پوست"]
+                },
+                {
+                    text: "آیا به صورت منظم به طبیعت می‌روید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 7 },
+                        { text: "گاهی اوقات", score: 4 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -7 },
+                        { text: "فقط برای تفریح", score: 2 },
+                        { text: "فقط برای ورزش", score: 3 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی", "حمله حیوانات وحشی", "نیش زنبور"]
+                },
+                {
+                    text: "آیا به صورت منظم از مکمل‌های غذایی استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 5 },
+                        { text: "گاهی اوقات", score: 2 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -3 },
+                        { text: "فقط به توصیه پزشک", score: 6 },
+                        { text: "به صورت خودسرانه", score: -4 }
+                    ],
+                    cause: ["مشکلات کبدی", "مشکلات کلیوی", "اور دوز"]
+                },
+                {
+                    text: "آیا به صورت منظم به تفکر و مدیتیشن می‌پردازید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 7 },
+                        { text: "گاهی اوقات", score: 4 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط در زمان استرس", score: 1 },
+                        { text: "فقط صبح ها", score: 3 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی"]
+                },
+                {
+                    text: "آیا به صورت منظم از نوشیدنی‌های قنددار استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: -8 },
+                        { text: "متوسط", score: -4 },
+                        { text: "کم", score: 0 },
+                        { text: "اصلا", score: 8 },
+                        { text: "فقط برای مهمانی", score: -2 },
+                        { text: "فقط با غذا", score: -3 }
+                    ],
+                    cause: ["دیابت", "چاقی", "پوسیدگی دندان", "سکته قلبی"]
+                },
+                {
+                    text: "آیا به صورت منظم به هنر و فعالیت‌های خلاقانه می‌پردازید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 8 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط برای سرگرمی", score: 2 },
+                        { text: "فقط در وقت آزاد", score: 3 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی"]
+                },
+                {
+                    text: "آیا به صورت منظم از تکنولوژی استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: -5 },
+                        { text: "متوسط", score: 0 },
+                        { text: "کم", score: 3 },
+                        { text: "خیلی کم", score: 5 },
+                        { text: "اصلا", score: 8 },
+                        { text: "فقط برای کار", score: 2 }
+                    ],
+                    cause: ["بیماری‌های چشمی", "تنش روانی", "مرگ مغزی"]
+                },
+                {
+                    text: "آیا به صورت منظم به یادگیری مهارت‌های جدید می‌پردازید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 8 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط برای کار", score: 3 },
+                        { text: "فقط در وقت آزاد", score: 2 }
+                    ],
+                    cause: ["زوال عقل", "افسردگی", "مرگ مغزی"]
+                },
+                {
+                    text: "آیا به صورت منظم از خودتان مراقبت می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 8 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط وقتی خسته هستم", score: 2 },
+                        { text: "فقط در وقت آزاد", score: 3 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی", "مرگ ناگهانی"]
+                },
+                {
+                    text: "آیا به صورت منظم به خواب کافی می‌پردازید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 8 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: -5 },
+                        { text: "اصلا", score: -8 },
+                        { text: "فقط در تعطیلات", score: 1 },
+                        { text: "فقط در شب", score: 3 }
+                    ],
+                    cause: ["بی‌خوابی", "فرسودگی عصبی", "ضعف سیستم ایمنی", "مرگ ناگهانی"]
+                },
+                {
+                    text: "آیا به صورت منظم از مواد مخدر استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: -20 },
+                        { text: "گاهی اوقات", score: -15 },
+                        { text: "به ندرت", score: -10 },
+                        { text: "اصلا", score: 15 },
+                        { text: "فقط تفریحی", score: -5 },
+                        { text: "فقط در مهمانی‌ها", score: -8 }
+                    ],
+                    cause: ["سکته مغزی", "افسردگی", "بیماری‌های کبدی", "اور دوز"]
+                },
+                {
+                    text: "آیا به صورت منظم به تفریح و سرگرمی می‌پردازید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 8 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط با دوستان", score: 2 },
+                        { text: "فقط با خانواده", score: 3 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی", "حمله حیوانات وحشی", "خورده شدن توسط کروکودیل"]
+                },
+                {
+                    text: "آیا به صورت منظم از نوشیدنی‌های انرژی‌زا استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: -10 },
+                        { text: "گاهی اوقات", score: -5 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: 10 },
+                        { text: "فقط در زمان خستگی", score: -3 },
+                        { text: "فقط در ورزش", score: -2 }
+                    ],
+                    cause: ["بیماری‌های قلبی", "فشار خون", "بی‌خوابی", "سکته قلبی"]
+                },
+                {
+                    text: "آیا به صورت منظم به پیاده‌روی می‌پردازید؟",
+                    options: [
+                        { text: "بله، زیاد", score: 8 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط با دوستان", score: 2 },
+                        { text: "فقط با خانواده", score: 3 }
+                    ],
+                    cause: ["بیماری‌های قلبی", "چاقی", "افسردگی", "تصادف در حین پیاده‌روی"]
+                },
+                {
+                    text: "چند بار در ماه به سینما یا تئاتر می‌روید؟",
+                    options: [
+                        { text: "بیش از ۳ بار", score: 5 },
+                        { text: "۱ تا ۳ بار", score: 3 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط با خانواده", score: 1 },
+                        { text: "فقط با دوستان", score: 2 }
+                    ],
+                    cause: ["افسردگی", "تنش روانی"]
+                },
+                {
+                    text: "آیا به صورت منظم از سمعک یا عینک استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، همیشه", score: 8 },
+                        { text: "گاهی اوقات", score: 4 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -8 },
+                        { text: "فقط برای کار", score: 2 },
+                        { text: "فقط برای مطالعه", score: 3 }
+                    ],
+                    cause: ["ضعف بینایی", "ضعف شنوایی", "تصادف در اثر ضعف بینایی"]
+                },
+                {
+                    text: "آیا به صورت منظم از ضدعفونی‌کننده استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، همیشه", score: 7 },
+                        { text: "گاهی اوقات", score: 3 },
+                        { text: "به ندرت", score: 0 },
+                        { text: "اصلا", score: -5 },
+                        { text: "فقط در محیط کار", score: 2 },
+                        { text: "فقط در مکان‌های عمومی", score: 4 }
+                    ],
+                    cause: ["عفونت‌های ویروسی", "باکتریایی", "مسمومیت"]
+                },
+                {
+                    text: "آیا به صورت منظم از کمربند ایمنی استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، همیشه", score: 10 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: -5 },
+                        { text: "اصلا", score: -10 },
+                        { text: "فقط در جاده", score: 2 },
+                        { text: "فقط در شهر", score: 1 }
+                    ],
+                    cause: ["تصادف", "مرگ مغزی", "آسیب دیدگی شدید"]
+                },
+                {
+                    text: "آیا در محیط کار خود از وسایل ایمنی استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، همیشه", score: 10 },
+                        { text: "گاهی اوقات", score: 5 },
+                        { text: "به ندرت", score: -5 },
+                        { text: "اصلا", score: -10 },
+                        { text: "فقط برای کارهای خطرناک", score: 2 },
+                        { text: "فقط به توصیه سرپرست", score: 3 }
+                    ],
+                    cause: ["حوادث شغلی", "مرگ مغزی", "آسیب دیدگی شدید"]
+                },
+                {
+                    text: "آیا به صورت منظم از نوشیدنی‌های داغ استفاده می‌کنید؟",
+                    options: [
+                        { text: "بله، زیاد", score: -5 },
+                        { text: "متوسط", score: 0 },
+                        { text: "کم", score: 3 },
+                        { text: "اصلا", score: 5 },
+                        { text: "فقط در زمستان", score: -2 },
+                        { text: "فقط در تابستان", score: 1 }
+                    ],
+                    cause: ["سوختگی", "سرطان مری"]
+                }
+            ];
+
+            const poems = [
+                "اینجا کسی خفته که عمری به یاد داشت،\nخیر و نیکی را به قلب و جان کاشت.",
+                "سایهٔ وجودش گرمی‌بخش بود،\nروحش اکنون در بهشت جاودانه خفت.",
+                "عشق او چون شعله‌ای در دل‌هاست،\nگرچه رفته، یاد او همیشه با ماست.",
+                "خاک سرد، آرامگاه جسم او،\nروح او، آزاد از این دنیای پوچ.",
+                "او رفت و یادش به دل‌ها ماندگار،\nدر این سرای فانی، بود او یک یادگار.",
+                "در این سکوت ابدی، خوابیده است،\nآنکه از دنیا و غمش بریده است.",
+                "اینجا پایان یک زندگی نیست،\nآغاز سفری نو، تا ابدیت است.",
+                "عشق او مانند خورشید تابید،\nدر تاریکی دل‌ها، نوری دمید.",
+                "آنکه رفت، از دنیا تنها شد،\nدر کنار خدا، آسوده خفت.",
+                "قلب او دریایی از محبت بود،\nیادش همیشه در دل‌ها جاویدان است.",
+                "گرچه دیگر نیست، در یادها زنده است،\nآنکه عشق و خوبی را به ما آموخت.",
+                "زیر این خاک، جسمی آرام خفته،\nروانش به سوی آسمان‌ها رفته.",
+                "اینجا خفته آنکه دلش پاک بود،\nهمچو قطره‌ای در دریای نور بود.",
+                "او رفت و دل‌ها به سوگش نشستند،\nاما خاطراتش، هرگز از یاد نرفتند.",
+                "سخن عشق او را همه شنیدند،\nاز این دنیا به دنیایی دیگر پریدند.",
+                "چو پرنده‌ای از قفس رها شد،\nبه سوی باغ ابدی پرواز کرد.",
+                "آنکه در دل ما جای گرفت،\nتا ابد، نامش در یادها ماندگار است.",
+                "خواب شیرین ابدی، در این مکان،\nتا روز حشر، در آرامش و امان.",
+                "ای دوست، اگر گذرت بر این قبر افتاد،\nدعایی به روح خفته در خاک یاد کن.",
+                "ما همه از خداییم و به سوی او بازمی‌گردیم،\nاینجا پایان راهی نیست، آغاز است."
+            ];
+
+            const bios = [
+                "او فردی بود که با سخت‌کوشی و پشتکار، همیشه به دنبال اهدافش می‌رفت. در تمام مراحل زندگی، امیدش را از دست نداد و به دیگران هم انگیزه می‌داد.",
+                "زندگی او پر از ماجراجویی و هیجان بود. همیشه به دنبال تجربه‌های جدید بود و هیچ وقت از ریسک کردن نمی‌ترسید.",
+                "او فردی آرام و متفکر بود. بیشتر وقتش را به مطالعه و یادگیری می‌گذراند و همیشه در پی کشف حقایق بود.",
+                "او همیشه به دیگران کمک می‌کرد و هرگز از سختی‌ها خسته نمی‌شد. لبخندش، نشانه‌ای از امید و مهربانی بود.",
+                "در زندگی‌اش، عشق به خانواده حرف اول را می‌زد. همه لحظاتش را با عزیزانش سپری کرد و خاطرات شیرینی به یادگار گذاشت.",
+                "او یک هنرمند به تمام معنا بود. هر چیزی که به دستش می‌رسید، به یک اثر هنری زیبا تبدیل می‌کرد.",
+                "روحیه ورزشی و رقابتی‌اش مثال‌زدنی بود. همیشه برای رسیدن به بهترین‌ها تلاش می‌کرد و هیچ وقت ناامید نمی‌شد.",
+                "او همیشه به دنبال حقیقت بود و از دروغ و ریا دوری می‌کرد. یک زندگی صادقانه و پر از آرامش را برای خودش ساخت.",
+                "زندگی او پر از سفر و کشف بود. هر جا که می‌رفت، بخشی از قلبش را همانجا جا می‌گذاشت و به یادگار می‌گرفت.",
+                "او یک فعال اجتماعی بود و همیشه برای بهبود جامعه تلاش می‌کرد. هرگز از مبارزه برای حقوق دیگران دست نکشید.",
+                "همیشه لبخندی بر لب داشت و به همه انرژی مثبت می‌داد. حضورش در هر جمعی، باعث شادی و نشاط بود.",
+                "زندگی‌اش مثل یک کتاب پرماجرا بود. هر صفحه از آن، یک درس جدید و یک تجربه تازه داشت.",
+                "او یک معلم به دنیا آمده بود. دانش و تجربه‌اش را با همه به اشتراک می‌گذاشت و به دیگران کمک می‌کرد تا رشد کنند.",
+                "او یک فرد خلاق و نوآور بود. همیشه ایده‌های جدیدی داشت و هیچ وقت از امتحان کردن آن‌ها نمی‌ترسید.",
+                "زندگی او سرشار از موسیقی و هنر بود. هر لحظه از زندگی‌اش، با یک نوای زیبا همراه بود.",
+                "او یک فرد باهوش و بااستعداد بود. هیچ چالشی برایش سخت نبود و همیشه راهی برای حل مشکلات پیدا می‌کرد.",
+                "زندگی او مثل یک شعر زیبا بود. هر کلمه‌اش، پر از احساس و معنی بود.",
+                "او یک فرد صبور و آرام بود. هیچ چیز نمی‌توانست او را از مسیرش منحرف کند و همیشه با آرامش به همه چیز نگاه می‌کرد.",
+                "زندگی او سرشار از خنده و شادی بود. هیچ وقت از شوخی و تفریح خسته نمی‌شد و همیشه به دنبال شادی بود.",
+                "او یک فرد مهربان و دلسوز بود. همیشه به فکر دیگران بود و هرگز از کمک به آن‌ها دریغ نمی‌کرد.",
+                "زندگی او مثل یک نقاشی زیبا بود. هر رنگ، نشانه‌ای از احساس و عشقش بود.",
+                "او یک فرد شجاع و جسور بود. هیچ ترسی از شکست نداشت و همیشه با شجاعت به سمت اهدافش می‌رفت.",
+                "زندگی او سرشار از عشق و محبت بود. هر کجا که قدم می‌گذاشت، بذر عشق و محبت را می‌کاشت.",
+                "او یک فرد با ایمان و اعتقاد بود. همیشه به خدا توکل می‌کرد و هیچ وقت ناامید نمی‌شد.",
+                "زندگی او مثل یک رودخانه بود. همیشه در حال حرکت و جریان بود و هیچ وقت متوقف نمی‌شد.",
+                "او یک فرد متواضع و فروتن بود. هرگز به خود مغرور نمی‌شد و همیشه با احترام با دیگران رفتار می‌کرد.",
+                "او فردی با حس مسئولیت بالا بود. همیشه به عهد خود پایبند بود و به دیگران اعتماد می‌کرد.",
+                "زندگی‌اش سرشار از لحظات خوش و شیرین بود. او همیشه به دنبال ساختن خاطرات خوب با عزیزانش بود.",
+                "او یک فرد منظم و دقیق بود. هر کاری را با دقت و وسواس انجام می‌داد و به جزئیات اهمیت می‌داد.",
+                "زندگی‌اش مثل یک تابلوی نقاشی بود که خودش آن را با عشق و علاقه رنگ کرده بود."
+            ];
+
+            const suggestions = [
+                "به یک سفر طولانی بروید و دنیا را از نزدیک ببینید.",
+                "مهارت جدیدی یاد بگیرید، مثلاً یک ساز موسیقی یا یک زبان خارجی.",
+                "وقت بیشتری با عزیزانتان بگذرانید و خاطره بسازید.",
+                "به دیگران کمک کنید و در کارهای خیر شرکت کنید.",
+                "کتاب‌های مورد علاقه‌تان را بخوانید.",
+                "شروع به نوشتن خاطرات یا یک داستان کنید.",
+                "یک کسب و کار کوچک و مورد علاقه خود را راه‌اندازی کنید.",
+                "یک ورزش جدید را شروع کنید."
+            ];
+
+            // Functions
+            const showSection = (section) => {
+                userInfoSection.classList.add('hidden');
+                questionsSection.classList.add('hidden');
+                resultsSection.classList.add('hidden');
+                section.classList.remove('hidden');
+            };
+
+            const generateQuestions = () => {
+                questionsForm.innerHTML = '';
+                questions.forEach((q, index) => {
+                    const questionDiv = document.createElement('div');
+                    questionDiv.classList.add('question');
+                    questionDiv.innerHTML = `
+                        <p>${index + 1}. ${q.text}</p>
+                        <div class="options-container">
+                            ${q.options.map((option, i) => `
+                                <div class="option">
+                                    <input type="radio" id="q${index}-o${i}" name="q${index}" value="${option.score}" required>
+                                    <label for="q${index}-o${i}">${option.text}</label>
+                                </div>
+                            `).join('')}
+                        </div>
+                    `;
+                    questionsForm.appendChild(questionDiv);
+                });
+            };
+
+            const calculateLifeExpectancy = (totalScore) => {
+                let baseLife = 80;
+                let deathAge = baseLife + (totalScore / 10);
+                return Math.max(40, Math.min(120, Math.floor(deathAge)));
+            };
+
+            const getRandomElement = (array) => {
+                return array[Math.floor(Math.random() * array.length)];
+            };
+
+            const getDeathDetails = (deathAge) => {
+                const today = new Date();
+                const birthYear = today.getFullYear() - userAge;
+                const deathYear = birthYear + deathAge;
+                const deathDate = new Date();
+                deathDate.setFullYear(deathYear);
+                deathDate.setMonth(Math.floor(Math.random() * 12));
+                deathDate.setDate(Math.floor(Math.random() * 28) + 1);
+                deathDate.setHours(Math.floor(Math.random() * 24));
+                deathDate.setMinutes(Math.floor(Math.random() * 60));
+
+                const jalali = new Intl.DateTimeFormat('fa-IR', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric',
+                    hour: 'numeric',
+                    minute: 'numeric'
+                }).format(deathDate);
+
+                const weekday = new Intl.DateTimeFormat('fa-IR', { weekday: 'long' }).format(deathDate);
+                return {
+                    birthYear,
+                    deathDate,
+                    jalaliDate: `${jalali} (${weekday})`,
+                    weekday
+                };
+            };
+
+            const getCauseAndBio = (selectedCauses) => {
+                const causeCounts = selectedCauses.reduce((acc, cause) => {
+                    acc[cause] = (acc[cause] || 0) + 1;
+                    return acc;
+                }, {});
+                const mostCommonCause = Object.keys(causeCounts).sort((a, b) => causeCounts[b] - causeCounts[a])[0];
+                
+                let deathCauseText = "علت فوت: علت دقیق فوت مشخص نیست، اما به احتمال زیاد به دلیل عوامل طبیعی و کهولت سن بوده است.";
+                if (mostCommonCause) {
+                    deathCauseText = `علت فوت: ${mostCommonCause}`;
+                }
+
+                const randomBio = getRandomElement(bios);
+                return { deathCauseText, randomBio };
+            };
+
+            const showSuggestions = () => {
+                suggestionsList.innerHTML = '';
+                suggestions.forEach(s => {
+                    const li = document.createElement('li');
+                    li.textContent = s;
+                    suggestionsList.appendChild(li);
+                });
+            };
+
+            // Event Listeners
+            userInfoForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                userName = nameInput.value;
+                userAge = parseInt(ageInput.value, 10);
+                
+                if (userAge <= 0 || userAge > 120) {
+                    alert('لطفا سن معتبر وارد کنید.');
+                    return;
+                }
+
+                generateQuestions();
+                showSection(questionsSection);
+            });
+
+            calculateBtn.addEventListener('click', () => {
+                const formData = new FormData(questionsForm);
+                let totalScore = 0;
+                let selectedCauses = [];
+
+                questions.forEach((q, index) => {
+                    const selectedOptionValue = formData.get(`q${index}`);
+                    if (selectedOptionValue !== null) {
+                        totalScore += parseInt(selectedOptionValue, 10);
+                        const selectedOption = q.options.find(opt => opt.score.toString() === selectedOptionValue);
+                        if (selectedOption) {
+                            selectedCauses.push(...q.cause);
+                        }
+                    }
+                });
+
+                const deathAge = calculateLifeExpectancy(totalScore);
+                const { birthYear, deathDate, jalaliDate, weekday } = getDeathDetails(deathAge);
+                const { deathCauseText, randomBio } = getCauseAndBio(selectedCauses);
+                const randomPoem = getRandomElement(poems);
+
+                tombstoneName.textContent = userName;
+                tombstoneDates.textContent = `تاریخ تولد: ${birthYear} - وفات: ${jalaliDate}`;
+                tombstoneBio.textContent = randomBio;
+                tombstoneCause.textContent = `${deathCauseText} (حدوداً در ${deathAge} سالگی)`;
+                tombstonePoem.textContent = randomPoem;
+                
+                showSuggestions();
+                showSection(resultsSection);
+            });
+
+            restartBtn.addEventListener('click', () => {
+                userInfoForm.reset();
+                questionsForm.innerHTML = '';
+                showSection(userInfoSection);
+            });
+        });
+    </script>
 </body>
 </html>
