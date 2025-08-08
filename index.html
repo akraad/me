@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>بازی شطرنج وب</title>
-  <!-- Chessboard.js CSS -->
+  <!-- CSS برای صفحه شطرنج -->
   <link rel="stylesheet" href="https://unpkg.com/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css" />
   <style>
     body {
@@ -13,6 +13,7 @@
       align-items: center;
       font-family: sans-serif;
       margin: 20px;
+      background: #f0f0f0;
     }
     #board {
       width: 480px;
@@ -41,17 +42,18 @@
   </div>
   <div id="status"></div>
 
-  <!-- Chess.js logic -->
+  <!-- بارگذاری jQuery (ورد نیاز chessboard.js) -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- منطق شطرنج -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/1.0.0/chess.min.js"></script>
-  <!-- Chessboard.js UI -->
+  <!-- رابط کاربری شطرنج -->
   <script src="https://unpkg.com/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
   <script>
-    // ایجاد بازی و صفحه شطرنج
+    // ایجاد شیء بازی
     const game = new Chess();
     const statusEl = document.getElementById('status');
 
-    function onDragStart(source, piece, position, orientation) {
-      // جلوگیری از حرکت اگر بازی تمام شده یا نوبت بازیکن مخالف باشد
+    function onDragStart(source, piece) {
       if (game.game_over() ||
           (game.turn() === 'w' && piece.search(/^b/) !== -1) ||
           (game.turn() === 'b' && piece.search(/^w/) !== -1)) {
@@ -60,7 +62,6 @@
     }
 
     function onDrop(source, target) {
-      // تلاش برای انجام حرکت
       const move = game.move({ from: source, to: target, promotion: 'q' });
       if (move === null) return 'snapback';
       updateStatus();
@@ -73,21 +74,18 @@
     function updateStatus() {
       let status = '';
       const turnColor = game.turn() === 'w' ? 'سفید' : 'سیاه';
-
       if (game.in_checkmate()) {
         status = `مات! ${turnColor} مات شد.`;
       } else if (game.in_draw()) {
         status = 'مساوی!';
       } else {
         status = `${turnColor} نوبت حرکت است.`;
-        if (game.in_check()) {
-          status += ` شطرنج!`;
-        }
+        if (game.in_check()) status += ' (شطرنج!)';
       }
-
       statusEl.textContent = status;
     }
 
+    // تنظیمات صفحه شطرنج
     const config = {
       draggable: true,
       position: 'start',
@@ -99,6 +97,7 @@
     const board = Chessboard('board', config);
     updateStatus();
 
+    // دکمه شروع مجدد
     document.getElementById('resetBtn').addEventListener('click', () => {
       game.reset();
       board.start();
