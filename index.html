@@ -4,8 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>بازی شطرنج وب</title>
-  <!-- CSS برای صفحه شطرنج -->
-  <link rel="stylesheet" href="https://unpkg.com/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css" />
+  <!-- CSS صفحه شطرنج -->
+  <link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css" />
   <style>
     body {
       display: flex;
@@ -17,7 +17,9 @@
     }
     #board {
       width: 480px;
+      height: 480px;
       margin-bottom: 10px;
+      border: 2px solid #333; /* برای دیدن محدوده صفحه شطرنج */
     }
     #controls {
       margin-bottom: 10px;
@@ -42,14 +44,13 @@
   </div>
   <div id="status"></div>
 
-  <!-- بارگذاری jQuery (ورد نیاز chessboard.js) -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- jQuery لازم برای chessboard.js -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <!-- رابط کاربری شطرنج -->
+  <script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
   <!-- منطق شطرنج -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/1.0.0/chess.min.js"></script>
-  <!-- رابط کاربری شطرنج -->
-  <script src="https://unpkg.com/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
   <script>
-    // ایجاد شیء بازی
     const game = new Chess();
     const statusEl = document.getElementById('status');
 
@@ -85,7 +86,7 @@
       statusEl.textContent = status;
     }
 
-    // تنظیمات صفحه شطرنج
+    // پیکربندی صفحه شطرنج
     const config = {
       draggable: true,
       position: 'start',
@@ -97,7 +98,6 @@
     const board = Chessboard('board', config);
     updateStatus();
 
-    // دکمه شروع مجدد
     document.getElementById('resetBtn').addEventListener('click', () => {
       game.reset();
       board.start();
