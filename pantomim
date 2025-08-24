@@ -1,0 +1,6748 @@
+category,term,Jtime60
+ACT_MOVE,آب خوردن,11
+ACT_MOVE,آدامس جویدن,12
+ACT_MOVE,آرزو کردن,17
+ACT_MOVE,آشپزی کردن,17
+ACT_MOVE,آشپزی کردن,17
+ACT_MOVE,آفتاب گرفتن,12
+ACT_MOVE,آمپول زدن,12
+ACT_MOVE,آواز خواندن,11
+ACT_MOVE,آواز خواندن,11
+ACT_MOVE,اتو کردن,16
+ACT_MOVE,اتو کشیدن,11
+ACT_MOVE,ادامه دادن,12
+ACT_MOVE,استراحت کردن,17
+ACT_MOVE,الاکلنگ,6
+ACT_MOVE,امضا کردن,17
+ACT_MOVE,انداختن,6
+ACT_MOVE,ایستادن,4
+ACT_MOVE,باد کردن آدامس,18
+ACT_MOVE,بادبادک هوا کردن,23
+ACT_MOVE,باز کردن,17
+ACT_MOVE,باز کردن,17
+ACT_MOVE,بازنده شدن,12
+ACT_MOVE,بازی با نوه ها,28
+ACT_MOVE,بازی در پارک,21
+ACT_MOVE,بازی کردن,16
+ACT_MOVE,بالا رفتن,15
+ACT_MOVE,باور کردن,17
+ACT_MOVE,بخشیدن,6
+ACT_MOVE,بخشیدن,6
+ACT_MOVE,برنده شدن,12
+ACT_MOVE,بریدن,6
+ACT_MOVE,بستن,6
+ACT_MOVE,بستن,6
+ACT_MOVE,بستنی خوردن,12
+ACT_MOVE,بشکن زدن,12
+ACT_MOVE,بغل کردن,17
+ACT_MOVE,بغل کردن,17
+ACT_MOVE,بلند شدن,12
+ACT_MOVE,بلند کردن,17
+ACT_MOVE,به یاد آوردن,21
+ACT_MOVE,به یاد آوردن,21
+ACT_MOVE,بوسه شب بخیر,18
+ACT_MOVE,بوسیدن,5
+ACT_MOVE,بوسیدن,5
+ACT_MOVE,بوییدن,6
+ACT_MOVE,بیدار شدن,12
+ACT_MOVE,بیدار شدن,12
+ACT_MOVE,بیدار شدن,12
+ACT_MOVE,تا کردن,20
+ACT_MOVE,تاب بازی,12
+ACT_MOVE,تخمه شکستن,12
+ACT_MOVE,تشویق کردن,17
+ACT_MOVE,تشویق کردن,17
+ACT_MOVE,تشکر کردن,17
+ACT_MOVE,تعقیب کردن,17
+ACT_MOVE,تقلید کردن,17
+ACT_MOVE,تلفن حرف زدن,17
+ACT_MOVE,تلفن زدن,4
+ACT_MOVE,تلویزیون دیدن,11
+ACT_MOVE,تمام کردن,17
+ACT_MOVE,تمام کردن,17
+ACT_MOVE,تمیز کردن,17
+ACT_MOVE,جارو برقی کشیدن,17
+ACT_MOVE,جشن گرفتن,12
+ACT_MOVE,جنگیدن,6
+ACT_MOVE,جنگیدن,6
+ACT_MOVE,جواب دادن,12
+ACT_MOVE,حباب بازی,12
+ACT_MOVE,حدس زدن,12
+ACT_MOVE,حساب کتاب کردن,16
+ACT_MOVE,خارج شدن,15
+ACT_MOVE,خالی کردن,17
+ACT_MOVE,خالی کردن,17
+ACT_MOVE,خاموش کردن,17
+ACT_MOVE,خانه تکانی,13
+ACT_MOVE,خانه تکانی,13
+ACT_MOVE,خداحافظی,6
+ACT_MOVE,خراب کردن,17
+ACT_MOVE,خراب کردن,17
+ACT_MOVE,خرید عید,13
+ACT_MOVE,خرید کردن,17
+ACT_MOVE,خرید کردن,17
+ACT_MOVE,خم کردن,17
+ACT_MOVE,خمیازه,4
+ACT_MOVE,خمیازه کشیدن,12
+ACT_MOVE,خمیازه کشیدن,12
+ACT_MOVE,خندیدن,5
+ACT_MOVE,خندیدن,5
+ACT_MOVE,خوابیدن,4
+ACT_MOVE,خوابیدن,4
+ACT_MOVE,خوابیدن,4
+ACT_MOVE,خواندن,4
+ACT_MOVE,خوردن,4
+ACT_MOVE,خوردن,4
+ACT_MOVE,داخل شدن,15
+ACT_MOVE,درآوردن,6
+ACT_MOVE,درس خواندن,12
+ACT_MOVE,دست تکان دادن,5
+ACT_MOVE,دست تکان دادن,5
+ACT_MOVE,دست دادن,12
+ACT_MOVE,دوست داشتن,12
+ACT_MOVE,دوچرخه سواری,12
+ACT_MOVE,دویدن,4
+ACT_MOVE,دکمه دوختن,12
+ACT_MOVE,دیدن,5
+ACT_MOVE,دیدن کارتون,12
+ACT_MOVE,رانندگی کردن,17
+ACT_MOVE,راه رفتن,11
+ACT_MOVE,رقصیدن,5
+ACT_MOVE,رقصیدن,5
+ACT_MOVE,روزنامه خواندن,12
+ACT_MOVE,روشن کردن,17
+ACT_MOVE,رویا دیدن,12
+ACT_MOVE,ریختن,6
+ACT_MOVE,زمین گذاشتن,12
+ACT_MOVE,ساختن,6
+ACT_MOVE,ساختن,6
+ACT_MOVE,ساختن آدم برفی,18
+ACT_MOVE,ساختن کاردستی,12
+ACT_MOVE,ساز زدن,12
+ACT_MOVE,سرسره بازی,12
+ACT_MOVE,سرسره بازی روی یخ,27
+ACT_MOVE,سرفه,5
+ACT_MOVE,سرفه کردن,16
+ACT_MOVE,سفر کردن,17
+ACT_MOVE,سفر کردن,17
+ACT_MOVE,سوال پرسیدن,12
+ACT_MOVE,سوت زدن,12
+ACT_MOVE,شام خوردن,12
+ACT_MOVE,شروع کردن,17
+ACT_MOVE,شروع کردن,17
+ACT_MOVE,شستن,6
+ACT_MOVE,شنا,5
+ACT_MOVE,شنا کردن,16
+ACT_MOVE,شنا کردن,16
+ACT_MOVE,شنیدن,5
+ACT_MOVE,شک کردن,17
+ACT_MOVE,شکستن,6
+ACT_MOVE,صبحانه خوردن,12
+ACT_MOVE,صبر کردن,17
+ACT_MOVE,صحبت کردن,16
+ACT_MOVE,ظرف شستن,11
+ACT_MOVE,عجله کردن,17
+ACT_MOVE,عرق کردن,17
+ACT_MOVE,عطسه,4
+ACT_MOVE,عطسه کردن,16
+ACT_MOVE,عطسه کردن,16
+ACT_MOVE,عکس گرفتن,12
+ACT_MOVE,عیدی دادن,12
+ACT_MOVE,فرار کردن,17
+ACT_MOVE,فراموش کردن,17
+ACT_MOVE,فراموش کردن,17
+ACT_MOVE,فوت کردن شمع,18
+ACT_MOVE,فکر کردن,17
+ACT_MOVE,فکر کردن,17
+ACT_MOVE,فیلم دیدن,12
+ACT_MOVE,قایم شدن,12
+ACT_MOVE,قدم زدن در ساحل,27
+ACT_MOVE,قلعه شنی,12
+ACT_MOVE,قلقلک دادن,12
+ACT_MOVE,قهوه نوشیدن,12
+ACT_MOVE,لرزیدن,6
+ACT_MOVE,لمس کردن,16
+ACT_MOVE,لیز خوردن,12
+ACT_MOVE,ماساژ دادن,12
+ACT_MOVE,متنفر بودن,12
+ACT_MOVE,متنفر بودن,12
+ACT_MOVE,مخلوط کردن,17
+ACT_MOVE,مسواک زدن,4
+ACT_MOVE,مشق شب,12
+ACT_MOVE,منتظر ماندن,12
+ACT_MOVE,موسیقی گوش دادن,18
+ACT_MOVE,موسیقی گوش دادن,18
+ACT_MOVE,ناهار خوردن,12
+ACT_MOVE,نشستن,4
+ACT_MOVE,نقاشی کردن,17
+ACT_MOVE,نقاشی کشیدن,12
+ACT_MOVE,نوشتن,4
+ACT_MOVE,نوشتن,4
+ACT_MOVE,نوشیدن,4
+ACT_MOVE,نوشیدن,4
+ACT_MOVE,نگاه کردن,17
+ACT_MOVE,هدیه گرفتن,12
+ACT_MOVE,هل دادن,12
+ACT_MOVE,هم زدن,12
+ACT_MOVE,واکس زدن کفش,18
+ACT_MOVE,واکسن زدن,12
+ACT_MOVE,ورزش کردن,17
+ACT_MOVE,پایین آمدن,12
+ACT_MOVE,پر کردن,17
+ACT_MOVE,پر کردن,17
+ACT_MOVE,پریدن,5
+ACT_MOVE,پوشک عوض کردن,23
+ACT_MOVE,پوشیدن,6
+ACT_MOVE,پیامک فرستادن,12
+ACT_MOVE,پیدا کردن,17
+ACT_MOVE,پیدا کردن,17
+ACT_MOVE,چای نوشیدن,11
+ACT_MOVE,چسباندن,6
+ACT_MOVE,چشمک زدن,12
+ACT_MOVE,چشیدن,5
+ACT_MOVE,چمدان بستن,12
+ACT_MOVE,کار کردن,16
+ACT_MOVE,کار کردن,16
+ACT_MOVE,کارت به کارت,22
+ACT_MOVE,کتاب خواندن,11
+ACT_MOVE,کتاب خواندن,11
+ACT_MOVE,کتاب خواندن در پارک,29
+ACT_MOVE,کشیدن,6
+ACT_MOVE,کمک کردن,17
+ACT_MOVE,کمک کردن,17
+ACT_MOVE,گاز گرفتن,12
+ACT_MOVE,گردو شکستن,12
+ACT_MOVE,گردگیری,6
+ACT_MOVE,گرفتن,6
+ACT_MOVE,گرفتن عکس سلفی,18
+ACT_MOVE,گریه کردن,16
+ACT_MOVE,گریه کردن,16
+ACT_MOVE,گریه کردن,16
+ACT_MOVE,گلوله برفی,12
+ACT_MOVE,گم شدن,12
+ACT_MOVE,گم کردن,17
+ACT_MOVE,گوش دادن,12
+ACT_MOVE,آشپزی,6
+ACT_MOVE,خیاطی,6
+ACT_MOVE,خیاطی,6
+ACT_MOVE,رانندگی,6
+ACT_MOVE,عکاسی,6
+ACT_MOVE,ماهیگیری,6
+ACT_MOVE,ماهیگیری,6
+ACT_MOVE,نقاشی,6
+ACT_MOVE,پیک نیک,13
+ACT_MOVE,کوهنوردی,6
+ACT_MOVE,کوهنوردی,6
+ACT_MOVE,یوگا,7
+ACT_MOVE,یوگا,7
+ACT_MOVE,چرخ و فلک,22
+ACT_MOVE,آبیاری,18
+ACT_MOVE,آتش روشن کردن,35
+ACT_MOVE,آرایش,18
+ACT_MOVE,آشپزی از روی دستور,43
+ACT_MOVE,آمار گرفتن,25
+ACT_MOVE,آموزش دادن,24
+ACT_MOVE,آنباکسینگ,19
+ACT_MOVE,آنفالو کردن,30
+ACT_MOVE,ارسال کارت پستال,31
+ACT_MOVE,استوری گذاشتن,25
+ACT_MOVE,اسکن کد QR,35
+ACT_MOVE,اعتراف کردن,30
+ACT_MOVE,الگو کشیدن,25
+ACT_MOVE,امضای یادگاری,24
+ACT_MOVE,انار دون کردن,35
+ACT_MOVE,انتقاد کردن,30
+ACT_MOVE,اندازه گرفتن,24
+ACT_MOVE,انعام دادن,24
+ACT_MOVE,اهدای خون,24
+ACT_MOVE,اولین قدم,24
+ACT_MOVE,ایمیل زدن,24
+ACT_MOVE,بازرسی بدنی,24
+ACT_MOVE,بافتن,18
+ACT_MOVE,بانکداری اینترنتی,25
+ACT_MOVE,بخیه زدن,24
+ACT_MOVE,بذر پاشیدن,30
+ACT_MOVE,برداشت عسل,25
+ACT_MOVE,برداشت محصول,24
+ACT_MOVE,برداشت محصول,24
+ACT_MOVE,برداشت کردن,29
+ACT_MOVE,برش پارچه,24
+ACT_MOVE,بلاک کردن,30
+ACT_MOVE,به سرپرستی گرفتن,44
+ACT_MOVE,تاس ریختن,25
+ACT_MOVE,تسلیم شدن,24
+ACT_MOVE,تسویه حساب,25
+ACT_MOVE,تصمیم گرفتن,24
+ACT_MOVE,تصمیم گرفتن,24
+ACT_MOVE,تعظیم کردن,29
+ACT_MOVE,تغییر دادن,24
+ACT_MOVE,تقسیم کردن خوراکی,30
+ACT_MOVE,تقلب در امتحان,33
+ACT_MOVE,تقلب کردن,29
+ACT_MOVE,تلوتلو خوردن,24
+ACT_MOVE,تماشای طلوع خورشید,31
+ACT_MOVE,تماشای غروب خورشید,31
+ACT_MOVE,تنبیه کردن,30
+ACT_MOVE,تنها خوابیدن,25
+ACT_MOVE,تی کشیدن,24
+ACT_MOVE,جریمه شدن,24
+ACT_MOVE,جمع آوری تخم مرغ,37
+ACT_MOVE,جمع آوری سوغاتی,30
+ACT_MOVE,حال کسی را گرفتن,37
+ACT_MOVE,حسادت کردن,35
+ACT_MOVE,خالی بستن,25
+ACT_MOVE,خبردار ایستادن,24
+ACT_MOVE,خر و پف کردن,44
+ACT_MOVE,خروپف کردن,29
+ACT_MOVE,خرید آنلاین,24
+ACT_MOVE,خمیر درست کردن,27
+ACT_MOVE,خیانت کردن,30
+ACT_MOVE,دروغ گفتن,24
+ACT_MOVE,دروغ گفتن,24
+ACT_MOVE,دزدکی نگاه کردن,35
+ACT_MOVE,دعا کردن,29
+ACT_MOVE,دوختن,18
+ACT_MOVE,دید و بازدید,33
+ACT_MOVE,رادیو گوش دادن,30
+ACT_MOVE,رای دادن,25
+ACT_MOVE,رای دادن در انتخابات,41
+ACT_MOVE,رزرو کردن,29
+ACT_MOVE,رشد کردن,29
+ACT_MOVE,رصد ستارگان,25
+ACT_MOVE,رنگ پریدن,24
+ACT_MOVE,سایه بازی,24
+ACT_MOVE,سخنرانی,19
+ACT_MOVE,سرخ شدن,24
+ACT_MOVE,سمپاشی,19
+ACT_MOVE,سوت بلبلی,25
+ACT_MOVE,سوزن نخ کردن,35
+ACT_MOVE,سکسکه,18
+ACT_MOVE,سکسکه کردن,29
+ACT_MOVE,سکسکه کردن,29
+ACT_MOVE,سکندری خوردن,25
+ACT_MOVE,سیر داغ درست کردن,34
+ACT_MOVE,شخم زدن,24
+ACT_MOVE,شرط بندی,24
+ACT_MOVE,شرط بندی روی اسب,40
+ACT_MOVE,شرکت در یک نظرسنجی,41
+ACT_MOVE,شمردن,18
+ACT_MOVE,شکافتن درز,25
+ACT_MOVE,شکایت کردن,40
+ACT_MOVE,شکستن قول,25
+ACT_MOVE,شکستن گردو,24
+ACT_MOVE,شیر دوشیدن,24
+ACT_MOVE,عذرخواهی,18
+ACT_MOVE,عشق ورزیدن,29
+ACT_MOVE,غش کردن,29
+ACT_MOVE,قدردانی,19
+ACT_MOVE,قصه شب,24
+ACT_MOVE,قمار,18
+ACT_MOVE,قول دادن,24
+ACT_MOVE,قول دادن,24
+ACT_MOVE,لالایی,18
+ACT_MOVE,لالایی خواندن,24
+ACT_MOVE,لایو اینستاگرام,25
+ACT_MOVE,محافظت کردن,29
+ACT_MOVE,محبت کردن,29
+ACT_MOVE,مخ زدن,25
+ACT_MOVE,معذرت خواهی کردن,35
+ACT_MOVE,ناز کشیدن,24
+ACT_MOVE,نامه نگاری,25
+ACT_MOVE,نجات دادن,24
+ACT_MOVE,نصیحت کردن,30
+ACT_MOVE,هو کردن,29
+ACT_MOVE,هیزم شکستن,24
+ACT_MOVE,ورق بازی,24
+ACT_MOVE,وزن کردن,29
+ACT_MOVE,وصله پینه کردن,36
+ACT_MOVE,پذیرش,19
+ACT_MOVE,پرتاب تبر,25
+ACT_MOVE,پرتاب چاقو,25
+ACT_MOVE,پرداخت موبایلی,25
+ACT_MOVE,پرسیدن آدرس,24
+ACT_MOVE,پرواز با جارو,34
+ACT_MOVE,پست گذاشتن,24
+ACT_MOVE,پناه بردن به مادر,39
+ACT_MOVE,پنچرگیری,19
+ACT_MOVE,پچ پچ کردن,35
+ACT_MOVE,پیدا کردن صدف,30
+ACT_MOVE,چالش تیک تاک,31
+ACT_MOVE,چانه زدن با فروشنده,40
+ACT_MOVE,چرت و پرت گفتن,40
+ACT_MOVE,چهار دست و پا رفتن,46
+ACT_MOVE,کاشتن,30
+ACT_MOVE,کاشتن گل و گیاه,39
+ACT_MOVE,کلاس گذاشتن,25
+ACT_MOVE,کمک به نیازمندان,34
+ACT_MOVE,کوتاه شدن,24
+ACT_MOVE,کوک زدن,24
+ACT_MOVE,گوش دادن به صدای طبیعت,47
+ACT_MOVE,گچ گرفتن,24
+ACT_MOVE,یاد گرفتن,24
+ACT_MOVE,یاد گرفتن یک ساز موسیقی,44
+ACT_MOVE,بافتنی,18
+ACT_MOVE,بالن سواری,24
+ACT_MOVE,بالن سواری,24
+ACT_MOVE,خیاطی,18
+ACT_MOVE,دامداری,18
+ACT_MOVE,دامپروری,18
+ACT_MOVE,سافاری,19
+ACT_MOVE,سورتمه سواری,24
+ACT_MOVE,شتر سواری,24
+ACT_MOVE,شکار,18
+ACT_MOVE,شیرینی پزی,24
+ACT_MOVE,صخره نوردی,25
+ACT_MOVE,عکاسی از حیات وحش,40
+ACT_MOVE,مدیتیشن,18
+ACT_MOVE,مدیتیشن,18
+ACT_MOVE,مدیتیشن,18
+ACT_MOVE,نقاشی منظره,24
+ACT_MOVE,هلیکوپتر سواری,25
+ACT_MOVE,پرورش اسب,25
+ACT_MOVE,پرورش زنبور عسل,31
+ACT_MOVE,پرورش ماهی,25
+ACT_MOVE,چتر بازی,24
+ACT_MOVE,کشاورزی,18
+ACT_MOVE,کشاورزی,18
+ACT_MOVE,کمپینگ,18
+ACT_MOVE,کوهنوردی,18
+ACT_MOVE,کویر نوردی,25
+ACT_MOVE,ترن هوایی,24
+ACT_MOVE,کشتی صبا,24
+ACT_MOVE,ابراز وجود,44
+ACT_MOVE,بخشیدن,38
+ACT_MOVE,تغییر چهره,44
+ACT_MOVE,تلاش برای صحبت به زبان خارجی,60
+ACT_MOVE,توزیع غذا,44
+ACT_MOVE,جاسوسی,38
+ACT_MOVE,حراج اینترنتی,44
+ACT_MOVE,حفظ محیط زیست,60
+ACT_MOVE,حلاجی کردن,50
+ACT_MOVE,حمل با جرثقیل,53
+ACT_MOVE,خنثی سازی بمب,51
+ACT_MOVE,خود هیپنوتیزم,45
+ACT_MOVE,دفاع از حقوق خود,60
+ACT_MOVE,راه رفتن روی دیوار چین,60
+ACT_MOVE,راهپیمایی فضایی,45
+ACT_MOVE,رفو کردن,49
+ACT_MOVE,رقابت کردن,49
+ACT_MOVE,رمزگشایی,39
+ACT_MOVE,رویا پردازی,44
+ACT_MOVE,شمارش آرا,44
+ACT_MOVE,شنود,39
+ACT_MOVE,ضدجاسوسی,39
+ACT_MOVE,غبطه خوردن,44
+ACT_MOVE,غلبه بر ترس,58
+ACT_MOVE,قانون گذاری,55
+ACT_MOVE,قایق سواری در ونیز,60
+ACT_MOVE,مرور خاطرات گذشته,50
+ACT_MOVE,نقل مکان به روستا,59
+ACT_MOVE,نه گفتن,44
+ACT_MOVE,نوشتن دفتر خاطرات سفر,57
+ACT_MOVE,نوشتن کتاب خاطرات,50
+ACT_MOVE,همکاری,38
+ACT_MOVE,همکاری کردن,49
+ACT_MOVE,هیپنوتیزم,39
+ACT_MOVE,وادار به اعتراف کردن,60
+ACT_MOVE,وبلاگ نویسی,44
+ACT_MOVE,وتو کردن,50
+ACT_MOVE,ورد خواندن,44
+ACT_MOVE,پرچم گذاری,44
+ACT_MOVE,پناهندگی,38
+ACT_MOVE,پیدا کردن دوستان قدیمی,57
+ACT_MOVE,کار داوطلبانه,44
+ACT_MOVE,کار داوطلبانه در خارج,60
+ACT_MOVE,کار گروهی,44
+ACT_MOVE,یادگیری زبان جدید,50
+ACT_MOVE,یادگیری یک مهارت جدید در پیری,60
+ACT_MOVE,جمع آوری سکه,50
+ACT_MOVE,جنگل نوردی در آمازون,60
+ACT_MOVE,حل جدول کلمات متقاطع,57
+ACT_MOVE,رادیو آماتور,45
+ACT_MOVE,ساخت ماکت هواپیما,50
+ACT_MOVE,سافاری آفریقا,44
+ACT_MOVE,سفر با قطار لوکس,60
+ACT_MOVE,سفر با کاروان,53
+ACT_MOVE,شراب سازی,44
+ACT_MOVE,صید مروارید,45
+ACT_MOVE,عکاسی آنالوگ,44
+ACT_MOVE,قطار مدل,45
+ACT_MOVE,هیچهایک کردن,49
+ACT_MOVE,کشتی کروز,44
+ACT_MOVE,کلکسیون تمبر,44
+ACT_MOVE,کوله گردی,44
+ACT_MOVE,کوچ سرفینگ,45
+ACT_MOVE,استیضاح,56
+ACT_MOVE,تبدیل مس به طلا,60
+ACT_MOVE,آب در هاون کوبیدن,60
+ACT_MOVE,ادای احترام نظامی به مافوق,60
+ACT_MOVE,ادای سوگند,60
+ACT_MOVE,برون‌یابی داده‌ها,60
+ACT_MOVE,جوشکاری قوسی,60
+ACT_MOVE,دورکاری,57
+ACT_MOVE,پاستوریزاسیون,60
+ACT_MOVE,چاپ سه‌بعدی,60
+ACT_MOVE,کاوشگری فضایی,60
+ACT_MOVE,یادگیری تقویتی,60
+ACT_MOVE,یادگیری عمیق,60
+ACT_MOVE,یادگیری ماشین,60
+ACT_MOVE,سفر به قطب جنوب,60
+ART_LIT,آواز,12
+ART_LIT,جیغ,13
+ART_LIT,رقص,12
+ART_LIT,رنگ,13
+ART_LIT,سینما,13
+ART_LIT,عکاسی,13
+ART_LIT,موسیقی,13
+ART_LIT,نقاشی,13
+ART_LIT,بتمن,13
+ART_LIT,تام و جری,28
+ART_LIT,جنگ ستارگان,19
+ART_LIT,سوپرمن,13
+ART_LIT,شرک,13
+ART_LIT,مرد عنکبوتی,19
+ART_LIT,میکی موس,19
+ART_LIT,هری پاتر,18
+ART_LIT,پلنگ صورتی,19
+ART_LIT,درامز,13
+ART_LIT,ساز,13
+ART_LIT,ویولن,13
+ART_LIT,پیانو,13
+ART_LIT,گیتار,13
+ART_LIT,آبرنگ,25
+ART_LIT,بلوز,26
+ART_LIT,بوم نقاشی,31
+ART_LIT,تئاتر,25
+ART_LIT,تابلو نقاشی,31
+ART_LIT,تتو,25
+ART_LIT,دفتر طراحی,31
+ART_LIT,راک اند رول,38
+ART_LIT,رنگ روغن,31
+ART_LIT,ریتم,26
+ART_LIT,زغال طراحی,32
+ART_LIT,سه پایه نقاشی,37
+ART_LIT,شام آخر,32
+ART_LIT,شعر,26
+ART_LIT,طرح,25
+ART_LIT,قلم مو,31
+ART_LIT,مجسمه,25
+ART_LIT,مداد رنگی,31
+ART_LIT,ملودی,26
+ART_LIT,موسیقی جاز,32
+ART_LIT,موسیقی کلاسیک,32
+ART_LIT,مونالیزا,26
+ART_LIT,نت,25
+ART_LIT,هیپ هاپ,32
+ART_LIT,پاستل,25
+ART_LIT,پالت رنگ,31
+ART_LIT,کاردک,25
+ART_LIT,گواش,26
+ART_LIT,آدم فضایی,31
+ART_LIT,آرواره ها,31
+ART_LIT,آواتار,26
+ART_LIT,ارباب حلقه ها,37
+ART_LIT,انتقام جویان,31
+ART_LIT,ای. تی.,31
+ART_LIT,بازی تاج و تخت,47
+ART_LIT,بازی تاج و تخت,47
+ART_LIT,برکینگ بد,32
+ART_LIT,تایتانیک,25
+ART_LIT,ترمیناتور,25
+ART_LIT,حلقه یاران,31
+ART_LIT,داستان اسباب بازی,37
+ART_LIT,در جستجوی نمو,41
+ART_LIT,دنیای ژوراسیک,31
+ART_LIT,زیبای خفته,31
+ART_LIT,سفید برفی,31
+ART_LIT,سیمپسون ها,31
+ART_LIT,سیندرلا,25
+ART_LIT,شهرزاد,26
+ART_LIT,عصر یخبندان,31
+ART_LIT,فارست گامپ,32
+ART_LIT,فرار از زندان,40
+ART_LIT,قهوه تلخ,32
+ART_LIT,لاک پشت های نینجا,43
+ART_LIT,لیگ عدالت,31
+ART_LIT,مردان ایکس,31
+ART_LIT,نجات سرباز رایان,38
+ART_LIT,هالک شگفت انگیز,37
+ART_LIT,پارک ژوراسیک,31
+ART_LIT,پایتخت,25
+ART_LIT,پینوکیو,24
+ART_LIT,گلادیاتور,25
+ART_LIT,بینوایان,26
+ART_LIT,داستان کوتاه,32
+ART_LIT,دیوان حافظ,32
+ART_LIT,رستم و سهراب,40
+ART_LIT,رمان,26
+ART_LIT,رومئو و ژولیت,40
+ART_LIT,علی بابا و چهل دزد بغداد,60
+ART_LIT,هملت,26
+ART_LIT,آرشه,25
+ART_LIT,تار,25
+ART_LIT,ترومپت,25
+ART_LIT,تنبک,25
+ART_LIT,دف,25
+ART_LIT,ساکسیفون,25
+ART_LIT,سنتور,25
+ART_LIT,سه تار,31
+ART_LIT,سیم ساز,31
+ART_LIT,فلوت,24
+ART_LIT,مضراب,25
+ART_LIT,پایه نت,32
+ART_LIT,پیک گیتار,31
+ART_LIT,کمانچه,25
+ART_LIT,باهاوس,45
+ART_LIT,سبک امپرسیونیسم,52
+ART_LIT,سبک باروک,51
+ART_LIT,سبک سورئالیسم,52
+ART_LIT,سبک کوبیسم,52
+ART_LIT,شب پرستاره,51
+ART_LIT,مجسمه سازی,50
+ART_LIT,معماری,45
+ART_LIT,موسیقی الکترونیک,51
+ART_LIT,هارمونی,45
+ART_LIT,هنر پاپ,51
+ART_LIT,پرسپکتیو,45
+ART_LIT,آقازاده,45
+ART_LIT,اتاق اسرار,51
+ART_LIT,اسپارتاکوس,45
+ART_LIT,اشک ها و لبخندها,60
+ART_LIT,امام علی,51
+ART_LIT,اینسپشن,45
+ART_LIT,بازگشت به آینده,60
+ART_LIT,بربادرفته,45
+ART_LIT,بن هور,51
+ART_LIT,بیگانه,45
+ART_LIT,جادوگر شهر از,60
+ART_LIT,درخشش,45
+ART_LIT,دل,45
+ART_LIT,ده فرمان,51
+ART_LIT,دکتر ژیواگو,51
+ART_LIT,راننده تاکسی,51
+ART_LIT,رستگاری در شاوشنک,60
+ART_LIT,روانی,45
+ART_LIT,زخم کاری,51
+ART_LIT,سکوت بره ها,57
+ART_LIT,شوالیه تاریکی,50
+ART_LIT,فهرست شیندلر,51
+ART_LIT,قورباغه,45
+ART_LIT,لورنس عربستان,51
+ART_LIT,ماتریکس,45
+ART_LIT,ماشین زمان,51
+ART_LIT,متری شیش و نیم,60
+ART_LIT,محمد رسول الله,57
+ART_LIT,مختارنامه,45
+ART_LIT,میان ستاره ای,57
+ART_LIT,هم گناه,51
+ART_LIT,هیولا,44
+ART_LIT,پوست شیر,51
+ART_LIT,چهره زخمی,51
+ART_LIT,کازابلانکا,45
+ART_LIT,کد داوینچی,52
+ART_LIT,گیسو,45
+ART_LIT,یادگاران مرگ,51
+ART_LIT,یاغی,45
+ART_LIT,یوسف پیامبر,51
+ART_LIT,آرش کمانگیر,51
+ART_LIT,جنایت و مکافات,60
+ART_LIT,جنایت و مکافات,60
+ART_LIT,جنگ و صلح,60
+ART_LIT,دیوان حافظ,51
+ART_LIT,رباعیات خیام,51
+ART_LIT,رمان جنگ و صلح,60
+ART_LIT,شاهنامه فردوسی,51
+ART_LIT,صد سال تنهایی,57
+ART_LIT,فیلمنامه,45
+ART_LIT,مثنوی معنوی,51
+ART_LIT,نمایشنامه,45
+ART_LIT,هزار و یک شب,60
+ART_LIT,گلستان سعدی,51
+ART_LIT,آمپلی فایر,51
+ART_LIT,افکت گیتار,51
+ART_LIT,تیونر,45
+ART_LIT,مترونوم,45
+ART_LIT,در جستجوی زمان از دست رفته,60
+ATTR_EMO,آسان,5
+ATTR_EMO,آهسته,5
+ATTR_EMO,باز,5
+ATTR_EMO,بد,5
+ATTR_EMO,بزرگ,5
+ATTR_EMO,بسته,5
+ATTR_EMO,بلند,6
+ATTR_EMO,بلند,6
+ATTR_EMO,تاریک,5
+ATTR_EMO,ترش,6
+ATTR_EMO,ترشی,6
+ATTR_EMO,تمیز,5
+ATTR_EMO,تند,6
+ATTR_EMO,تندی,6
+ATTR_EMO,جدید,5
+ATTR_EMO,جوان,6
+ATTR_EMO,خالی,6
+ATTR_EMO,خوب,5
+ATTR_EMO,روشن,5
+ATTR_EMO,زشت,5
+ATTR_EMO,زیاد,5
+ATTR_EMO,زیبا,5
+ATTR_EMO,سبک,6
+ATTR_EMO,سخت,5
+ATTR_EMO,سرد,5
+ATTR_EMO,سریع,5
+ATTR_EMO,سنگین,5
+ATTR_EMO,شیرین,6
+ATTR_EMO,شیرینی,6
+ATTR_EMO,صاف,6
+ATTR_EMO,قد,6
+ATTR_EMO,قدیمی,5
+ATTR_EMO,لاغر,6
+ATTR_EMO,پر,6
+ATTR_EMO,پیر,6
+ATTR_EMO,چاق,6
+ATTR_EMO,کم,5
+ATTR_EMO,کوتاه,6
+ATTR_EMO,کوتاه,6
+ATTR_EMO,کوچک,5
+ATTR_EMO,گرم,5
+ATTR_EMO,آبی,5
+ATTR_EMO,زرد,5
+ATTR_EMO,سبز,5
+ATTR_EMO,سفید,6
+ATTR_EMO,قرمز,5
+ATTR_EMO,خنده,4
+ATTR_EMO,خوشحال شدن,12
+ATTR_EMO,عصبانی شدن,12
+ATTR_EMO,غمگین شدن,17
+ATTR_EMO,گریه,4
+ATTR_EMO,ببخشید,5
+ATTR_EMO,لطفا,5
+ATTR_EMO,متشکرم,5
+ATTR_EMO,احمق,17
+ATTR_EMO,باهوش,17
+ATTR_EMO,بی مزه,24
+ATTR_EMO,بیمار,17
+ATTR_EMO,ترسو,22
+ATTR_EMO,تلخ,17
+ATTR_EMO,تلخی,17
+ATTR_EMO,خشن,17
+ATTR_EMO,خشک,17
+ATTR_EMO,خیس,17
+ATTR_EMO,دروغگو,17
+ATTR_EMO,زبر,17
+ATTR_EMO,زنده,17
+ATTR_EMO,سالم,17
+ATTR_EMO,سختی,17
+ATTR_EMO,شجاع,17
+ATTR_EMO,شور,17
+ATTR_EMO,شوری,17
+ATTR_EMO,صادق,17
+ATTR_EMO,ضعیف,17
+ATTR_EMO,فقیر,17
+ATTR_EMO,قوی,17
+ATTR_EMO,مرده,17
+ATTR_EMO,مشهور,17
+ATTR_EMO,مهربان,17
+ATTR_EMO,نامهربان,17
+ATTR_EMO,نرم,17
+ATTR_EMO,نرمی,17
+ATTR_EMO,پولدار,17
+ATTR_EMO,کثیف,17
+ATTR_EMO,گمنام,18
+ATTR_EMO,بنفش,17
+ATTR_EMO,خاکستری,17
+ATTR_EMO,سیاه,17
+ATTR_EMO,صورتی,17
+ATTR_EMO,قهوه ای,23
+ATTR_EMO,نارنجی,17
+ATTR_EMO,آرام,17
+ATTR_EMO,آرام شدن,23
+ATTR_EMO,احساس,18
+ATTR_EMO,افتخار کردن,29
+ATTR_EMO,امیدوار بودن,28
+ATTR_EMO,ترس از تاریکی,38
+ATTR_EMO,ترسیدن,22
+ATTR_EMO,تشنه,17
+ATTR_EMO,جوگیر شدن,24
+ATTR_EMO,حوصله سر رفتن,30
+ATTR_EMO,خجالت کشیدن,24
+ATTR_EMO,خجالت کشیدن,24
+ATTR_EMO,خسته,17
+ATTR_EMO,خوشحال,17
+ATTR_EMO,دپرس بودن,24
+ATTR_EMO,شجاع بودن,23
+ATTR_EMO,ضایع شدن,24
+ATTR_EMO,عشق به حیوانات,38
+ATTR_EMO,عصبانی,17
+ATTR_EMO,متعجب شدن,23
+ATTR_EMO,ناامید شدن,29
+ATTR_EMO,ناراحت,17
+ATTR_EMO,نوستالژی,24
+ATTR_EMO,نوستالژی,24
+ATTR_EMO,هنگ کردن (کنایه),34
+ATTR_EMO,هیجان زده,28
+ATTR_EMO,پشیمانی,18
+ATTR_EMO,پشیمانی,18
+ATTR_EMO,گرسنه,17
+ATTR_EMO,گیج شدن,24
+ATTR_EMO,آرامش,37
+ATTR_EMO,استرس,42
+ATTR_EMO,اضطراب,42
+ATTR_EMO,اضطراب,42
+ATTR_EMO,اعتماد به نفس,52
+ATTR_EMO,افسردگی,43
+ATTR_EMO,افسردگی,43
+ATTR_EMO,امید,42
+ATTR_EMO,امید,42
+ATTR_EMO,امید به آینده,57
+ATTR_EMO,انتقام,37
+ATTR_EMO,انتقام جویی,44
+ATTR_EMO,بخشش,37
+ATTR_EMO,بزدلی,37
+ATTR_EMO,بی تفاوتی,44
+ATTR_EMO,ترس,42
+ATTR_EMO,ترس,42
+ATTR_EMO,ترسیدن,42
+ATTR_EMO,تواضع,38
+ATTR_EMO,حسادت,42
+ATTR_EMO,حسادت,42
+ATTR_EMO,حسادت,42
+ATTR_EMO,حسادت ورزیدن,49
+ATTR_EMO,خشم,42
+ATTR_EMO,دلتنگ شدن,43
+ATTR_EMO,دلتنگی,42
+ATTR_EMO,دوری از وطن,53
+ATTR_EMO,دوستی,37
+ATTR_EMO,دژاوو,38
+ATTR_EMO,شادی,42
+ATTR_EMO,شجاعت,37
+ATTR_EMO,شجاعت,37
+ATTR_EMO,شجاعت,37
+ATTR_EMO,صبوری,37
+ATTR_EMO,عشق,42
+ATTR_EMO,عشق,42
+ATTR_EMO,غرور,42
+ATTR_EMO,غم,42
+ATTR_EMO,فداکاری,38
+ATTR_EMO,ناامیدی,43
+ATTR_EMO,ناامیدی,43
+ATTR_EMO,نفرت,42
+ATTR_EMO,همدلی,43
+ATTR_EMO,همدلی,43
+ATTR_EMO,کینه توزی,49
+ATTR_EMO,گذشت,37
+BELIEF,بو,4
+BELIEF,جنگ,5
+BELIEF,جنگ,5
+BELIEF,حرکت,4
+BELIEF,خواب,3
+BELIEF,خواب,3
+BELIEF,رنگ,4
+BELIEF,سرما,4
+BELIEF,صدا,5
+BELIEF,صدا,5
+BELIEF,فکر,4
+BELIEF,پایان,4
+BELIEF,گرما,4
+BELIEF,برادر,4
+BELIEF,خاله,4
+BELIEF,خانواده,4
+BELIEF,خواهر,4
+BELIEF,دایی,4
+BELIEF,دوست,4
+BELIEF,عمه,4
+BELIEF,عمو,4
+BELIEF,مادر,4
+BELIEF,مادربزرگ,4
+BELIEF,پدر,4
+BELIEF,پدربزرگ,4
+BELIEF,بازی,4
+BELIEF,ورزش,4
+BELIEF,آب و هوا,31
+BELIEF,آتش بس,22
+BELIEF,آتش بس,22
+BELIEF,آینده,17
+BELIEF,آینده,17
+BELIEF,اعتیاد,17
+BELIEF,اندازه,16
+BELIEF,انرژی مثبت,23
+BELIEF,انعام,16
+BELIEF,انعام,16
+BELIEF,ایده,16
+BELIEF,بازنشستگی,16
+BELIEF,بازنشستگی,16
+BELIEF,بازیافت,17
+BELIEF,بازیافت زباله,23
+BELIEF,تاریخ,17
+BELIEF,تاریخ,17
+BELIEF,ترافیک,16
+BELIEF,ترس های بچگی,34
+BELIEF,تولد,16
+BELIEF,جوانی,16
+BELIEF,حال,16
+BELIEF,حتما,16
+BELIEF,حقوق ماهیانه,22
+BELIEF,خاطره,17
+BELIEF,خاطره,17
+BELIEF,خبر,16
+BELIEF,دروغ,16
+BELIEF,دروغ,16
+BELIEF,دوست خیالی,23
+BELIEF,راز,16
+BELIEF,روح,16
+BELIEF,زمان,17
+BELIEF,زمان,17
+BELIEF,سرعت,16
+BELIEF,شاید,16
+BELIEF,شایعه,17
+BELIEF,شوخی,16
+BELIEF,شکل,16
+BELIEF,صلح,16
+BELIEF,صلح,16
+BELIEF,ضربه پنالتی,22
+BELIEF,طعم,16
+BELIEF,عطر,16
+BELIEF,فضا,16
+BELIEF,قسط,17
+BELIEF,قول,16
+BELIEF,محیط زیست,33
+BELIEF,مرخصی,17
+BELIEF,مرخصی,17
+BELIEF,مرخصی استعلاجی,23
+BELIEF,مرخصی زایمان,23
+BELIEF,معما,17
+BELIEF,میم اینترنتی,23
+BELIEF,هشتگ,17
+BELIEF,هنر,16
+BELIEF,هنر,16
+BELIEF,وام بانکی,22
+BELIEF,وایرال شدن,23
+BELIEF,وزن,16
+BELIEF,پیری,16
+BELIEF,پیش بینی آب و هوا,43
+BELIEF,کارت قرمز,22
+BELIEF,گذشته,17
+BELIEF,گیاهخواری,17
+BELIEF,گیاهخواری,17
+BELIEF,یارانه,17
+BELIEF,اسب تک شاخ,28
+BELIEF,اژدها,16
+BELIEF,اژدها,16
+BELIEF,جادوگر,17
+BELIEF,جعبه پاندورا,23
+BELIEF,خون آشام,23
+BELIEF,دیو,17
+BELIEF,دیو,17
+BELIEF,روح,16
+BELIEF,زامبی,16
+BELIEF,سیمرغ,17
+BELIEF,غول,16
+BELIEF,غول بیابانی,23
+BELIEF,غول چراغ جادو,28
+BELIEF,غول چراغ جادو,28
+BELIEF,فرشته,16
+BELIEF,فرشته,16
+BELIEF,قالیچه پرنده,22
+BELIEF,مرغ تخم طلا,29
+BELIEF,هرکول,16
+BELIEF,هفت خوان رستم,29
+BELIEF,هیولا,16
+BELIEF,هیولای زیر تخت,32
+BELIEF,پاشنه آشیل,23
+BELIEF,پری,16
+BELIEF,پری دریایی,22
+BELIEF,پری دندان,23
+BELIEF,چراغ جادو,22
+BELIEF,گرگینه,17
+BELIEF,آشتی کنان,22
+BELIEF,دخترخاله,16
+BELIEF,دشمن,16
+BELIEF,دعوای خواهر و برادر,38
+BELIEF,شوهر,16
+BELIEF,قرار ملاقات,22
+BELIEF,قهر و آشتی,31
+BELIEF,قهر و آشتی,31
+BELIEF,نوه,16
+BELIEF,همسایه,16
+BELIEF,همسر,16
+BELIEF,همکار,16
+BELIEF,پسرعمو,16
+BELIEF,ادبیات,17
+BELIEF,جغرافیا,17
+BELIEF,دین,17
+BELIEF,ریاضی,17
+BELIEF,سرگرمی,16
+BELIEF,علم,17
+BELIEF,مذهب,17
+BELIEF,آرزوی صلح,42
+BELIEF,آرزوی کودکی,42
+BELIEF,آرمان شهر,42
+BELIEF,آزادی,36
+BELIEF,آزادی,36
+BELIEF,آلودگی هوا,41
+BELIEF,آلودگی پلاستیکی,42
+BELIEF,احترام به دیگران,51
+BELIEF,اختلاف طبقاتی,42
+BELIEF,اخلاق,36
+BELIEF,ارث,36
+BELIEF,ارث و میراث,51
+BELIEF,اسارت,36
+BELIEF,استتار,35
+BELIEF,اضافه کاری,41
+BELIEF,اضافه کاری,41
+BELIEF,اطلاعات طبقه بندی شده,56
+BELIEF,اقتصاد اشتراکی,43
+BELIEF,الهام,36
+BELIEF,انرژی,36
+BELIEF,اکوتوریسم,36
+BELIEF,بالا آمدن سطح دریا,58
+BELIEF,بحران مهاجرت,43
+BELIEF,بحران هویت,43
+BELIEF,برابری,36
+BELIEF,بورس,36
+BELIEF,بی وزنی,42
+BELIEF,بیابان زایی,42
+BELIEF,بیمه بیکاری,42
+BELIEF,بیکاری,36
+BELIEF,بیکاری,36
+BELIEF,تاریخ انقضا,42
+BELIEF,تاریکی,36
+BELIEF,تعادل,36
+BELIEF,تعادل کار و زندگی,58
+BELIEF,تعبیر خواب,42
+BELIEF,تعیین حد و مرز,57
+BELIEF,تورم,36
+BELIEF,توهم,36
+BELIEF,تیزهوشان,36
+BELIEF,ثروت,36
+BELIEF,جنگل زدایی,42
+BELIEF,جنگل زدایی,42
+BELIEF,جهانی شدن,43
+BELIEF,جهل,36
+BELIEF,حضانت فرزند,52
+BELIEF,حفاظت از محیط زیست,60
+BELIEF,حق کپی رایت,48
+BELIEF,حقوق بازنشستگی,42
+BELIEF,حقیقت,36
+BELIEF,حماقت,36
+BELIEF,حمایت از حیوانات,51
+BELIEF,خلاقیت,36
+BELIEF,خوشبختی,36
+BELIEF,خیانت,36
+BELIEF,خیر,36
+BELIEF,دانش,36
+BELIEF,دانش,36
+BELIEF,دورکاری,36
+BELIEF,ذهن آگاهی,42
+BELIEF,ذوب شدن یخ های قطبی,60
+BELIEF,ردپای کربن,43
+BELIEF,رقابت سالم,41
+BELIEF,رنج,36
+BELIEF,رویا,36
+BELIEF,رویا,36
+BELIEF,رویا,36
+BELIEF,رکود اقتصادی,42
+BELIEF,زشتی,36
+BELIEF,زندگی,36
+BELIEF,زندگی,36
+BELIEF,زیبایی,36
+BELIEF,سانسور,36
+BELIEF,سایبورگ,37
+BELIEF,سبک زندگی بدون زباله,59
+BELIEF,سرنوشت,36
+BELIEF,سرنوشت,36
+BELIEF,سم زدایی دیجیتال,49
+BELIEF,سهام عدالت,42
+BELIEF,سکوت,36
+BELIEF,سکوت,36
+BELIEF,سکون,35
+BELIEF,شانس,35
+BELIEF,شانس,35
+BELIEF,شر,36
+BELIEF,شهود,36
+BELIEF,شکست,36
+BELIEF,صداقت,36
+BELIEF,صلح جهانی,43
+BELIEF,ظلم,36
+BELIEF,عدالت,36
+BELIEF,عدالت,36
+BELIEF,عشق در نگاه اول,60
+BELIEF,فرار مغزها,43
+BELIEF,فراموشی,36
+BELIEF,فرهنگ,35
+BELIEF,فقر,35
+BELIEF,فنگ شویی,43
+BELIEF,فیلترینگ,36
+BELIEF,قانون,46
+BELIEF,قانون,46
+BELIEF,قهرمان دوران کودکی,49
+BELIEF,مالیات,36
+BELIEF,مبارزه با تبعیض,51
+BELIEF,مرگ,36
+BELIEF,مرگ,36
+BELIEF,مصونیت گله ای,49
+BELIEF,معماری سبز,43
+BELIEF,مهریه,46
+BELIEF,موجودات فرازمینی,42
+BELIEF,موفقیت,36
+BELIEF,مینیمالیسم,36
+BELIEF,نبوغ,36
+BELIEF,نفقه,46
+BELIEF,نقص,36
+BELIEF,نقطه ضعف,41
+BELIEF,نور,35
+BELIEF,نور,35
+BELIEF,نیرو,35
+BELIEF,هرج و مرج,51
+BELIEF,هماهنگی,36
+BELIEF,هوش,36
+BELIEF,هویت جعلی,42
+BELIEF,وجدان,36
+BELIEF,وفاداری,36
+BELIEF,وگانیسم,36
+BELIEF,ویران شهر,42
+BELIEF,پارادوکس,36
+BELIEF,پذیرش تفاوت ها,48
+BELIEF,پوچی,36
+BELIEF,پیشانی نوشت,42
+BELIEF,چک برگشتی,42
+BELIEF,کابوس,36
+BELIEF,کابوس,36
+BELIEF,کابوس شبانه,42
+BELIEF,کارما,36
+BELIEF,کشاورزی پایدار,43
+BELIEF,کمال,36
+BELIEF,کمک های بشردوستانه,49
+BELIEF,کنجکاوی,36
+BELIEF,کوچ نشینی دیجیتال,49
+BELIEF,گرمایش جهانی,42
+BELIEF,گرمایش جهانی,42
+BELIEF,گل به خودی,51
+BELIEF,یارانه,36
+BELIEF,آتلانتیس,37
+BELIEF,اسب تروآ,41
+BELIEF,ال دورادو,43
+BELIEF,الدورادو,37
+BELIEF,جام مقدس,43
+BELIEF,جام مقدس,43
+BELIEF,دیو دو سر,47
+BELIEF,روح سرگردان,42
+BELIEF,شهر گمشده آتلانتیس,50
+BELIEF,ققنوس,35
+BELIEF,چشمه جوانی,43
+BELIEF,گنجینه گمشده,42
+BELIEF,دوست مکاتبه ای,48
+BELIEF,جامعه شناسی,53
+BELIEF,روانشناسی,46
+BELIEF,زیست شناسی,51
+BELIEF,شیمی,36
+BELIEF,فلسفه,36
+BELIEF,فناوری,35
+BELIEF,فیزیک,46
+BELIEF,آفساید,53
+BELIEF,اسیدی شدن اقیانوس ها,60
+BELIEF,انجمن های مخفی,60
+BELIEF,ایلومیناتی,54
+BELIEF,بارگذاری ذهن,60
+BELIEF,باستان شناسی فضایی,60
+BELIEF,تئوری توطئه,59
+BELIEF,ترابشریت,54
+BELIEF,تکینگی فناوری,60
+BELIEF,تکینگی فناوری,60
+BELIEF,جاودانگی دیجیتال,60
+BELIEF,فراماسونری,54
+BELIEF,معنای زندگی,59
+BELIEF,هوش جمعی,59
+BELIEF,هوش فرازمینی,59
+BELIEF,هوش فرازمینی,59
+BELIEF,یوفولوژی,54
+BELIEF,آب از سرچشمه گل‌آلود است,60
+BELIEF,آب زیر کاه,60
+BELIEF,آزمایش فکری اتاق چینی,60
+BELIEF,آزمایش فکری تله‌پورت,60
+BELIEF,آزمایش فکری زمین دوقلو,60
+BELIEF,آزمایش فکری زندانیان,60
+BELIEF,آزمایش فکری ماشین تجربه,60
+BELIEF,آزمایش فکری مغز در خمره,60
+BELIEF,آزمایش فکری کشتی تسئوس,60
+BELIEF,آزمایش فکری گربه شرودینگر,60
+BELIEF,آگاهی موقعیتی,60
+BELIEF,ابطال‌پذیری,58
+BELIEF,ابعاد اضافی,60
+BELIEF,از آب کره گرفتن,60
+BELIEF,از آب گل‌آلود گرفتن,60
+BELIEF,از این ستون به آن ستون فرج است,60
+BELIEF,از تو حرکت از خدا برکت,60
+BELIEF,از هر دست بدهی از همان دست می‌گیری,60
+BELIEF,از کیسه خلیفه بخشیدن,60
+BELIEF,الگوریتم اجماع,60
+BELIEF,امپراتوری بیزانس,60
+BELIEF,اومانیسم,54
+BELIEF,ایدئالیسم آلمانی,60
+BELIEF,اینرسی,54
+BELIEF,بازی با حاصل جمع غیرصفر,60
+BELIEF,بازی تعادل نش,60
+BELIEF,بازی جنگ فرسایشی,60
+BELIEF,بازی دیکتاتور,60
+BELIEF,بازی عدم تقارن اطلاعاتی,60
+BELIEF,بازی مجموع-صفر,60
+BELIEF,بازی هماهنگی,60
+BELIEF,بازی چانه‌زنی,60
+BELIEF,بازی چیکن,60
+BELIEF,بحران وجودی,60
+BELIEF,بی‌تفاوتی اکتسابی,60
+BELIEF,تبارشناسی,60
+BELIEF,تجرید,54
+BELIEF,تخصص‌گرایی,60
+BELIEF,تعادل نش,60
+BELIEF,تعارض نقش,60
+BELIEF,تعلیق ناباوری,60
+BELIEF,تفکر انتقادی,60
+BELIEF,تفکر سیستمی,60
+BELIEF,تله‌کینزی,58
+BELIEF,جامعه‌پذیری,58
+BELIEF,جهان‌بینی,58
+BELIEF,جهان‌وطنی,58
+BELIEF,حافظه کوتاه‌مدت,60
+BELIEF,خارج قسمت,60
+BELIEF,خودآگاهی,54
+BELIEF,خودشکوفایی,54
+BELIEF,دوگانه‌انگاری دکارتی,60
+BELIEF,دوگانگی احساسی,60
+BELIEF,دوگانگی ذهن و بدن,60
+BELIEF,دوگانگی ساختاری,60
+BELIEF,ذات‌گرایی,60
+BELIEF,ذات‌گرایی استراتژیک,60
+BELIEF,رابطه علت و معلولی,60
+BELIEF,ریسک سیستمیک,60
+BELIEF,زبان‌های ایزوله,60
+BELIEF,زیست‌محیط‌زیست‌گرایی,60
+BELIEF,ساختار سه پرده‌ای,60
+BELIEF,ساختارشکنی,54
+BELIEF,ساخت‌وساز اجتماعی,60
+BELIEF,سامانه‌های پیچیده,60
+BELIEF,سنت اختراع‌شده,60
+BELIEF,سنت باستانی,60
+BELIEF,سنت گرایی,60
+BELIEF,سوداد (Saudade),60
+BELIEF,سوگیری شناختی,60
+BELIEF,سیستماتیک (زیست‌شناسی),60
+BELIEF,سیمبیوز,54
+BELIEF,شوک فرهنگی,60
+BELIEF,صداقت علمی,60
+BELIEF,فراشناخت,54
+BELIEF,فلسفه اخلاق,60
+BELIEF,فلسفه اگزیستانسیال,60
+BELIEF,فلسفه تاریخ,60
+BELIEF,فلسفه تحلیلی,60
+BELIEF,فلسفه ذهن,60
+BELIEF,فلسفه ریاضی,60
+BELIEF,فلسفه زبان,60
+BELIEF,فلسفه سیاسی,60
+BELIEF,فلسفه علم,60
+BELIEF,فلسفه قاره‌ای,60
+BELIEF,قابلیت ابطال‌پذیری,60
+BELIEF,قانون جذب,60
+BELIEF,متاآنالیز,54
+BELIEF,متااخلاق,54
+BELIEF,متافلسفه,54
+BELIEF,متافیزیک,60
+BELIEF,متافیزیک تحلیلی,60
+BELIEF,متافیزیک مدال,60
+BELIEF,مطالعه آینده‌نگر,60
+BELIEF,مطلق‌گرایی,60
+BELIEF,معناشناسی,60
+BELIEF,مغالطه,54
+BELIEF,مفهوم‌سازی,58
+BELIEF,نقد ادبی,60
+BELIEF,نقش اجتماعی,60
+BELIEF,نقش جنسیتی,60
+BELIEF,نقش‌های اجتماعی,60
+BELIEF,نقش‌های جنسیتی,60
+BELIEF,نگاشت خطی,60
+BELIEF,هستی‌شناسی,60
+BELIEF,همزیستی,54
+BELIEF,همزیستی مسالمت‌آمیز,60
+BELIEF,هم‌افزایی,58
+BELIEF,هم‌زمانی,58
+BELIEF,هویت اجتماعی,60
+BELIEF,وضعیت موجود,60
+BELIEF,پارادوکس انتخاب,60
+BELIEF,پارادوکس فرمی,60
+BELIEF,پدیدارشناسی,60
+BELIEF,پدیدارشناسی (علم),60
+BELIEF,پیامدهای ناخواسته,60
+BELIEF,پیامدهای پیش‌بینی‌نشده,60
+BELIEF,چشم سوم,60
+BELIEF,چهارچوب مفهومی,60
+BELIEF,چیزی برای پنهان کردن ندارم,60
+BELIEF,ژئوپلیتیک,54
+BELIEF,کاهش‌گرایی,60
+BELIEF,کثرت‌گرایی (فلسفه),60
+BELIEF,کشمکش انسان با جامعه,60
+BELIEF,کشمکش انسان با خود,60
+BELIEF,کشمکش انسان با طبیعت,60
+BELIEF,کشمکش انسان با فناوری,60
+BELIEF,کشمکش بیرونی,60
+BELIEF,کشمکش درونی,60
+BELIEF,کنش متقابل نمادین,60
+BELIEF,کنشگری,54
+BELIEF,کیفیات اولیه و ثانویه,60
+BELIEF,کیفیت خدمات,60
+BELIEF,کیفیت وجودی,60
+BELIEF,یوتوپیا,54
+BELIEF,تله پاتی,60
+BELIEF,حس ششم,59
+BELIEF,دورجنبی,54
+BELIEF,سفر روح,60
+BELIEF,سنگ جادو,59
+BELIEF,مدیوم,54
+BELIEF,هاله بینی,60
+BELIEF,چاکرا,53
+BODY_FOOD,دوش,6
+BODY_FOOD,استخوان,6
+BODY_FOOD,بینی,5
+BODY_FOOD,دست,5
+BODY_FOOD,دهان,5
+BODY_FOOD,قلب,5
+BODY_FOOD,مو,5
+BODY_FOOD,پا,5
+BODY_FOOD,پوست,5
+BODY_FOOD,چشم,5
+BODY_FOOD,گوش,5
+BODY_FOOD,خط چشم,12
+BODY_FOOD,خمیردندان,5
+BODY_FOOD,رژ لب,11
+BODY_FOOD,رژ لب,11
+BODY_FOOD,ریمل,6
+BODY_FOOD,ریمل,6
+BODY_FOOD,شامپو,5
+BODY_FOOD,صابون,5
+BODY_FOOD,کرم ضد آفتاب,18
+BODY_FOOD,آب,4
+BODY_FOOD,آب معدنی,12
+BODY_FOOD,آب پرتقال طبیعی,18
+BODY_FOOD,آبلیمو,6
+BODY_FOOD,آبمیوه طبیعی,12
+BODY_FOOD,آبنبات چوبی,12
+BODY_FOOD,آلوچه,6
+BODY_FOOD,املت,5
+BODY_FOOD,انگور,5
+BODY_FOOD,برنج,5
+BODY_FOOD,جوجه کباب,11
+BODY_FOOD,جوجه کباب,11
+BODY_FOOD,خیار,5
+BODY_FOOD,زردچوبه,6
+BODY_FOOD,ساندویچ,5
+BODY_FOOD,سبزی,5
+BODY_FOOD,سرکه,6
+BODY_FOOD,سس کچاپ,12
+BODY_FOOD,سوسیس تخم مرغ,17
+BODY_FOOD,سیب,5
+BODY_FOOD,سیب زمینی,11
+BODY_FOOD,سیب زمینی سرخ کرده,24
+BODY_FOOD,سیب زمینی کبابی,17
+BODY_FOOD,شکر,5
+BODY_FOOD,شکر,5
+BODY_FOOD,شیر,5
+BODY_FOOD,شیرموز,5
+BODY_FOOD,شیرکاکائو,6
+BODY_FOOD,شیرینی,5
+BODY_FOOD,عسل,5
+BODY_FOOD,فلافل,6
+BODY_FOOD,فلافل,6
+BODY_FOOD,فلفل سیاه,12
+BODY_FOOD,قهوه,5
+BODY_FOOD,قهوه,5
+BODY_FOOD,قهوه اسپرسو,12
+BODY_FOOD,لواشک,6
+BODY_FOOD,موز,5
+BODY_FOOD,میوه,5
+BODY_FOOD,نان,5
+BODY_FOOD,نمک,5
+BODY_FOOD,نمک,5
+BODY_FOOD,نوشابه,5
+BODY_FOOD,نوشیدنی,5
+BODY_FOOD,نیمرو,5
+BODY_FOOD,هات داگ,12
+BODY_FOOD,همبرگر,5
+BODY_FOOD,هندوانه,5
+BODY_FOOD,هویج,5
+BODY_FOOD,پاپ کورن,11
+BODY_FOOD,پاپ کورن,11
+BODY_FOOD,پرتقال,5
+BODY_FOOD,پفک,5
+BODY_FOOD,پیاز,5
+BODY_FOOD,پیتزا,5
+BODY_FOOD,چای,5
+BODY_FOOD,چلوکباب,6
+BODY_FOOD,چیزبرگر,6
+BODY_FOOD,چیپس,5
+BODY_FOOD,ژله,6
+BODY_FOOD,کباب کوبیده,11
+BODY_FOOD,کیک,5
+BODY_FOOD,کیک تولد,11
+BODY_FOOD,گوجه فرنگی,11
+BODY_FOOD,عروسی,6
+BODY_FOOD,نوزاد,6
+BODY_FOOD,توالت فرنگی,24
+BODY_FOOD,جا صابونی,23
+BODY_FOOD,روشویی,17
+BODY_FOOD,سیفون,18
+BODY_FOOD,وان حمام,23
+BODY_FOOD,پرده حمام,24
+BODY_FOOD,خون,17
+BODY_FOOD,مغز,17
+BODY_FOOD,نفس,17
+BODY_FOOD,ادکلن,17
+BODY_FOOD,افترشیو,18
+BODY_FOOD,تافت,18
+BODY_FOOD,خمیر ریش,23
+BODY_FOOD,دئودورانت,17
+BODY_FOOD,رژگونه,17
+BODY_FOOD,سایه چشم,23
+BODY_FOOD,عطر,17
+BODY_FOOD,عطر و ادکلن,32
+BODY_FOOD,لاک ناخن,23
+BODY_FOOD,لوسیون بدن,24
+BODY_FOOD,پاک کننده آرایش,30
+BODY_FOOD,پنکک,17
+BODY_FOOD,ژل مو,23
+BODY_FOOD,کرم پودر,23
+BODY_FOOD,کرم پودر,23
+BODY_FOOD,آب هویج بستنی,30
+BODY_FOOD,آبدوغ خیار,24
+BODY_FOOD,آبغوره,17
+BODY_FOOD,آبگوشت,18
+BODY_FOOD,آجیل مشکل گشا,30
+BODY_FOOD,آش رشته,24
+BODY_FOOD,آمریکانو,18
+BODY_FOOD,استیک,17
+BODY_FOOD,اسموتی,17
+BODY_FOOD,اسپرسو,18
+BODY_FOOD,انجیر خشک,23
+BODY_FOOD,بادام هندی,23
+BODY_FOOD,برگه زردآلو,23
+BODY_FOOD,بستنی سنتی,24
+BODY_FOOD,تاس کباب,24
+BODY_FOOD,تاکو,18
+BODY_FOOD,تخم شربتی,24
+BODY_FOOD,ترشی,18
+BODY_FOOD,ته دیگ,24
+BODY_FOOD,ته چین مرغ,30
+BODY_FOOD,جوجه چینی,24
+BODY_FOOD,حلوا,18
+BODY_FOOD,حلیم,18
+BODY_FOOD,خامه,17
+BODY_FOOD,خامه عسلی,24
+BODY_FOOD,دارچین,18
+BODY_FOOD,دسر,18
+BODY_FOOD,دلستر,18
+BODY_FOOD,دلمه برگ مو,30
+BODY_FOOD,دمنوش گیاهی,24
+BODY_FOOD,دمپختک,18
+BODY_FOOD,دوبل برگر,23
+BODY_FOOD,دوغ,17
+BODY_FOOD,دونات,17
+BODY_FOOD,رامن,18
+BODY_FOOD,رب انار,24
+BODY_FOOD,رب گوجه فرنگی,29
+BODY_FOOD,رشته پلویی,24
+BODY_FOOD,روغن زیتون,24
+BODY_FOOD,رولت,18
+BODY_FOOD,زعفران دم کرده,30
+BODY_FOOD,زنجبیل,18
+BODY_FOOD,زیتون,17
+BODY_FOOD,سالاد الویه,23
+BODY_FOOD,سالاد سزار,24
+BODY_FOOD,سالاد شیرازی,24
+BODY_FOOD,سالاد فصل,23
+BODY_FOOD,سالاد یونانی,24
+BODY_FOOD,سبزی پلو با ماهی,39
+BODY_FOOD,سرشیر,18
+BODY_FOOD,سس خردل,24
+BODY_FOOD,سس مایونز,23
+BODY_FOOD,سوشی,18
+BODY_FOOD,سوشی,18
+BODY_FOOD,سوشی,18
+BODY_FOOD,سوپ جو,23
+BODY_FOOD,سوپ قارچ,23
+BODY_FOOD,سکنجبین,18
+BODY_FOOD,شامی کباب,23
+BODY_FOOD,شربت خاکشیر,24
+BODY_FOOD,شله زرد,24
+BODY_FOOD,شنیتسل مرغ,24
+BODY_FOOD,شکلات تخته ای,29
+BODY_FOOD,شکلات تلخ,24
+BODY_FOOD,شیر خشک,24
+BODY_FOOD,شیرینی تر,24
+BODY_FOOD,شیرینی خشک,24
+BODY_FOOD,شیشلیک,18
+BODY_FOOD,عدس پلو با کشمش,39
+BODY_FOOD,عدسی,18
+BODY_FOOD,غذای اصلی,24
+BODY_FOOD,غذای تند,24
+BODY_FOOD,غذای خشک,24
+BODY_FOOD,غذای سلف,24
+BODY_FOOD,فرنچ تست,24
+BODY_FOOD,فست فود,23
+BODY_FOOD,قهوه ترک,24
+BODY_FOOD,قهوه فوری,24
+BODY_FOOD,قورمه سبزی,24
+BODY_FOOD,قیمه,18
+BODY_FOOD,لاته,17
+BODY_FOOD,لازانیا,18
+BODY_FOOD,لوبیا پلو,24
+BODY_FOOD,لیموناد,17
+BODY_FOOD,ماست و خیار,32
+BODY_FOOD,مربای آلبالو,23
+BODY_FOOD,مرغ بریان,23
+BODY_FOOD,مرغ سوخاری,23
+BODY_FOOD,موهیتو,18
+BODY_FOOD,موکا,18
+BODY_FOOD,میلک شیک,23
+BODY_FOOD,نان بربری,24
+BODY_FOOD,نان تافتون,24
+BODY_FOOD,نان تست,23
+BODY_FOOD,نان جو,23
+BODY_FOOD,نان خامه ای,29
+BODY_FOOD,نان سنگک,24
+BODY_FOOD,نان لواش,24
+BODY_FOOD,نبات,17
+BODY_FOOD,نسکافه,17
+BODY_FOOD,نعنا داغ,24
+BODY_FOOD,نوتلا,17
+BODY_FOOD,نودل,18
+BODY_FOOD,هات چاکلت,23
+BODY_FOOD,هل,18
+BODY_FOOD,وافل,18
+BODY_FOOD,پاستا,17
+BODY_FOOD,پاستا آلفردو,24
+BODY_FOOD,پسته خندان,23
+BODY_FOOD,پشمک,17
+BODY_FOOD,پنکیک,18
+BODY_FOOD,پنیر پیتزا,24
+BODY_FOOD,پودینگ,18
+BODY_FOOD,پوره سیب زمینی,30
+BODY_FOOD,پیتزا پپرونی,23
+BODY_FOOD,پیش غذا,24
+BODY_FOOD,چای آتیشی,24
+BODY_FOOD,چای دارچین,23
+BODY_FOOD,چای سبز,23
+BODY_FOOD,چای کیسه ای,29
+BODY_FOOD,چیزکیک,18
+BODY_FOOD,کاری,18
+BODY_FOOD,کاپوچینو,17
+BODY_FOOD,کاپوچینو,17
+BODY_FOOD,کتلت,17
+BODY_FOOD,کرم کارامل,24
+BODY_FOOD,کره بادام زمینی,30
+BODY_FOOD,کروسان,18
+BODY_FOOD,کشک بادمجان,24
+BODY_FOOD,کورن فلکس,24
+BODY_FOOD,کوکتل میوه,24
+BODY_FOOD,کوکو سبزی,24
+BODY_FOOD,کوکی,17
+BODY_FOOD,کیک اسفنجی,24
+BODY_FOOD,کیک یزدی,24
+BODY_FOOD,گرانولا,18
+BODY_FOOD,گلاب,18
+BODY_FOOD,اولین دندان نوزاد,30
+BODY_FOOD,اولین قدم های کودک,37
+BODY_FOOD,بارداری,17
+BODY_FOOD,تولد نوزاد,24
+BODY_FOOD,جشن بازنشستگی,24
+BODY_FOOD,جشن تولد یک سالگی,36
+BODY_FOOD,خرید عروسی,23
+BODY_FOOD,خواستگاری,17
+BODY_FOOD,خواستگاری,17
+BODY_FOOD,روز اول مدرسه,30
+BODY_FOOD,زایمان,17
+BODY_FOOD,سالگرد ازدواج,24
+BODY_FOOD,سربازی,17
+BODY_FOOD,عقد کنان,24
+BODY_FOOD,فارغ التحصیلی,23
+BODY_FOOD,فارغ التحصیلی,23
+BODY_FOOD,ماه عسل,23
+BODY_FOOD,ماه عسل,23
+BODY_FOOD,پیدا کردن اولین کار,37
+BODY_FOOD,کنکور,18
+BODY_FOOD,گرفتن اولین حقوق,30
+BODY_FOOD,آش دوغ,43
+BODY_FOOD,آش شله قلمکار,50
+BODY_FOOD,آلبالو پلو,43
+BODY_FOOD,ادویه کاری,43
+BODY_FOOD,اسپرسو ماکیاتو,43
+BODY_FOOD,اشکنه,37
+BODY_FOOD,امپانادا,38
+BODY_FOOD,اکبر جوجه,44
+BODY_FOOD,باسلوق,37
+BODY_FOOD,باقلا قاتق,44
+BODY_FOOD,باقلوا,37
+BODY_FOOD,بریانی,38
+BODY_FOOD,بریانی اصفهان,44
+BODY_FOOD,بهار نارنج,43
+BODY_FOOD,بوبا تی,44
+BODY_FOOD,بیبی‌بیمپ‌باپ,42
+BODY_FOOD,بیف استراگانف,43
+BODY_FOOD,بیف بورگینیون,45
+BODY_FOOD,تاکو ال پاستور,51
+BODY_FOOD,تبوله,38
+BODY_FOOD,تمپورا,37
+BODY_FOOD,تیرامیسو,37
+BODY_FOOD,حمص,37
+BODY_FOOD,خورش خلال,44
+BODY_FOOD,خورش ماست,44
+BODY_FOOD,دیزی سنگی,43
+BODY_FOOD,رنگینک,38
+BODY_FOOD,زولبیا بامیه,43
+BODY_FOOD,زیتون پرورده,44
+BODY_FOOD,سوهان,37
+BODY_FOOD,سوپرفود,38
+BODY_FOOD,سِویچه,38
+BODY_FOOD,سیرابی شیردون,44
+BODY_FOOD,شاورما,37
+BODY_FOOD,شاکشوکا,38
+BODY_FOOD,شیرینی ناپلئونی,43
+BODY_FOOD,غذای ارگانیک,44
+BODY_FOOD,فالوده شیرازی,43
+BODY_FOOD,فسنجان,37
+BODY_FOOD,فلت وایت,44
+BODY_FOOD,فو (سوپ ویتنامی),54
+BODY_FOOD,فوندو,38
+BODY_FOOD,قطاب,38
+BODY_FOOD,لطیفه,37
+BODY_FOOD,ماهی دودی,43
+BODY_FOOD,محصولات ارگانیک,44
+BODY_FOOD,مسقطی,38
+BODY_FOOD,معجون,37
+BODY_FOOD,موساکا,38
+BODY_FOOD,میرزا قاسمی,43
+BODY_FOOD,ویتامینه,37
+BODY_FOOD,پائیا,38
+BODY_FOOD,پد تای,44
+BODY_FOOD,پنیر لیقوان,44
+BODY_FOOD,چای ماسالا,43
+BODY_FOOD,چای ماچا,44
+BODY_FOOD,چیکن تیکا ماسالا,50
+BODY_FOOD,کاری سبز تایلندی,50
+BODY_FOOD,کامبوچا,38
+BODY_FOOD,کاچی,37
+BODY_FOOD,کباب ترش,44
+BODY_FOOD,کلد برو,44
+BODY_FOOD,کلمپه,38
+BODY_FOOD,کله پاچه,44
+BODY_FOOD,کله گنجشکی,44
+BODY_FOOD,کوفته تبریزی,44
+BODY_FOOD,کیمچی,38
+BODY_FOOD,کیک مرغ,43
+BODY_FOOD,گز,37
+BODY_FOOD,گولاش,38
+BODY_FOOD,یتیمچه,38
+BODY_FOOD,اجاره کردن اولین خانه,56
+BODY_FOOD,انتظار برای تولد فرزند,59
+BODY_FOOD,اولین کلمه کودک,49
+BODY_FOOD,بحران میانسالی,44
+BODY_FOOD,جشن تکلیف,43
+BODY_FOOD,جشن سیسمونی,43
+BODY_FOOD,حنابندان,37
+BODY_FOOD,خریدن اولین ماشین,49
+BODY_FOOD,شب حنابندان,43
+BODY_FOOD,مراسم بله برون,49
+BODY_FOOD,مهاجرت,37
+BODY_FOOD,اعتدال بهاری,60
+BODY_FOOD,اعتدال پاییزی,60
+BODY_FOOD,بحران میانسالی,60
+BODY_FOOD,رویداد انقراض تریاس-ژوراسیک,60
+BODY_FOOD,رویداد انقراض دونین پسین,60
+BODY_FOOD,رویداد انقراض کرتاسه-پالئوژن,60
+BODY_FOOD,رویداد برخوردی,60
+BODY_FOOD,رویداد برخوردی چیکشلوب,60
+BODY_FOOD,رویداد تکینگی,60
+BODY_FOOD,رویداد هولوسن,60
+BODY_FOOD,چرخه آب زمین‌شناسی,60
+BODY_FOOD,چرخه بیوژئوشیمیایی,60
+BODY_FOOD,چرخه سلولی,60
+BODY_FOOD,چرخه عمر محصول,60
+BODY_FOOD,چرخه فسفر,60
+BODY_FOOD,چرخه قمری,60
+BODY_FOOD,چرخه نیتروژن,60
+BODY_FOOD,چرخه کربن,60
+BODY_FOOD,چرخه کربنات-سیلیکات,60
+BODY_FOOD,چرخه گوگرد,60
+ECON_EDU,زنگ تفریح,11
+ECON_EDU,زنگ مدرسه,11
+ECON_EDU,آزمایش شیمی,23
+ECON_EDU,اخراج از کلاس,32
+ECON_EDU,اردوی دانش آموزی,29
+ECON_EDU,امتحان,16
+ECON_EDU,امتحان نهایی,23
+ECON_EDU,تخته سیاه,23
+ECON_EDU,تخته وایت برد,29
+ECON_EDU,دانشگاه,16
+ECON_EDU,دبستان,17
+ECON_EDU,دبیرستان,17
+ECON_EDU,ماژیک,17
+ECON_EDU,مدرسه راهنمایی,23
+ECON_EDU,پیش دبستانی,23
+ECON_EDU,کلاس درس,22
+ECON_EDU,گچ,17
+ECON_EDU,ارز,17
+ECON_EDU,بهره,17
+ECON_EDU,حقوق,17
+ECON_EDU,دلار,17
+ECON_EDU,سپرده گذاری,23
+ECON_EDU,وام,17
+ECON_EDU,یورو,17
+ECON_EDU,روم سرویس,23
+ECON_EDU,آموزش از راه دور,57
+ECON_EDU,تجدید شدن,42
+ECON_EDU,تشریح قورباغه,42
+ECON_EDU,مشاوره تحصیلی,43
+ECON_EDU,پیش دانشگاهی,43
+ECON_EDU,کلاس تقویتی,42
+ECON_EDU,اوراق قرضه,43
+ECON_EDU,بورس اوراق بهادار,49
+ECON_EDU,سرمایه گذاری,42
+ECON_EDU,سهام,36
+ECON_EDU,شاخص کل,43
+ECON_EDU,عرضه اولیه,43
+ECON_EDU,نرخ ارز,42
+ECON_EDU,کارگزاری,37
+ECON_EDU,آمازون پرایم,42
+ECON_EDU,اسپاتیفای,36
+ECON_EDU,نتفلیکس,36
+EVENT_TIME,دوشنبه,5
+EVENT_TIME,شنبه,5
+EVENT_TIME,یکشنبه,5
+EVENT_TIME,بازنده شدن,11
+EVENT_TIME,برنده شدن,11
+EVENT_TIME,تصادف,5
+EVENT_TIME,تصادف رانندگی,11
+EVENT_TIME,جشن تولد,10
+EVENT_TIME,خوردن غذای خیلی تند,24
+EVENT_TIME,رفتن به شهربازی,20
+EVENT_TIME,زخم شدن زانو,17
+EVENT_TIME,زلزله,4
+EVENT_TIME,زلزله,4
+EVENT_TIME,زلزله,4
+EVENT_TIME,زمین خوردن,10
+EVENT_TIME,سر خوردن روی زمین خیس,32
+EVENT_TIME,سرقت پول,11
+EVENT_TIME,سوختن غذا,11
+EVENT_TIME,سیل,5
+EVENT_TIME,شکستن ظرف,10
+EVENT_TIME,طوفان,5
+EVENT_TIME,امروز,5
+EVENT_TIME,بعدا,5
+EVENT_TIME,حالا,5
+EVENT_TIME,دیروز,5
+EVENT_TIME,سال,5
+EVENT_TIME,شب,5
+EVENT_TIME,صبح,5
+EVENT_TIME,ظهر,5
+EVENT_TIME,فردا,5
+EVENT_TIME,ماه,5
+EVENT_TIME,هفته,5
+EVENT_TIME,همیشه,5
+EVENT_TIME,جمعه,16
+EVENT_TIME,سه شنبه,22
+EVENT_TIME,پنجشنبه,17
+EVENT_TIME,چهارشنبه,17
+EVENT_TIME,آتش سوزی,22
+EVENT_TIME,آتش سوزی جنگل,28
+EVENT_TIME,آتش سوزی در آشپزخانه,39
+EVENT_TIME,ارسال پیام اشتباهی,30
+EVENT_TIME,ازدواج کردن,28
+EVENT_TIME,اسباب کشی,22
+EVENT_TIME,استندآپ کمدی,23
+EVENT_TIME,اسپویل کردن فیلم,29
+EVENT_TIME,اشتباه گرفتن کسی,28
+EVENT_TIME,المپیک,17
+EVENT_TIME,باز بودن زیپ شلوار,36
+EVENT_TIME,بازدید از موزه,32
+EVENT_TIME,بازنشسته شدن,23
+EVENT_TIME,برخورد با در شیشه ای,48
+EVENT_TIME,برنده شدن در قرعه کشی,45
+EVENT_TIME,بمباران,17
+EVENT_TIME,بنزین تمام کردن,34
+EVENT_TIME,بهتر شدن,23
+EVENT_TIME,بهمن,17
+EVENT_TIME,بچه دار شدن,29
+EVENT_TIME,تئاتر درام,23
+EVENT_TIME,تئاتر کمدی,23
+EVENT_TIME,تعقیب و گریز,32
+EVENT_TIME,تماشای تئاتر,23
+EVENT_TIME,تمام شدن شارژ گوشی,35
+EVENT_TIME,تیراندازی,17
+EVENT_TIME,جا گذاشتن کیف پول,35
+EVENT_TIME,جام جهانی فوتبال,29
+EVENT_TIME,جایزه گرفتن,23
+EVENT_TIME,جریمه شدن,23
+EVENT_TIME,جشن فارغ التحصیلی,29
+EVENT_TIME,جلسه,17
+EVENT_TIME,حمله هوایی,23
+EVENT_TIME,خداحافظی از دنیای ورزش,40
+EVENT_TIME,خواب رفتن پا,28
+EVENT_TIME,دعوای خیابانی,22
+EVENT_TIME,دعوای دانش آموزی,29
+EVENT_TIME,دیر رسیدن به اتوبوس,39
+EVENT_TIME,رفتن به باغ وحش,37
+EVENT_TIME,رفتن به کنسرت,32
+EVENT_TIME,روز دانش آموز,29
+EVENT_TIME,روز معلم,23
+EVENT_TIME,ریختن چای روی لباس,38
+EVENT_TIME,ریزش بهمن,23
+EVENT_TIME,سر رفتن شیر,28
+EVENT_TIME,سقوط بهمن,23
+EVENT_TIME,سیل,16
+EVENT_TIME,شرکت در مصاحبه شغلی,39
+EVENT_TIME,شکستن شیشه,23
+EVENT_TIME,ضعیف شدن,23
+EVENT_TIME,طوفان,17
+EVENT_TIME,عطسه بلند,22
+EVENT_TIME,فارغ التحصیل شدن,29
+EVENT_TIME,فارغ التحصیلی,23
+EVENT_TIME,فرار از زندان,32
+EVENT_TIME,فراموش کردن رمز عبور,36
+EVENT_TIME,فقیر شدن,23
+EVENT_TIME,فوران آتشفشان,24
+EVENT_TIME,قار و قور شکم,38
+EVENT_TIME,قاچاق کالا,23
+EVENT_TIME,قطع شدن اینترنت,29
+EVENT_TIME,قفل شدن در,32
+EVENT_TIME,قوی شدن,23
+EVENT_TIME,لاغر شدن,22
+EVENT_TIME,متولد شدن,23
+EVENT_TIME,مردن,17
+EVENT_TIME,مریض شدن,22
+EVENT_TIME,مشهور شدن,23
+EVENT_TIME,مصاحبه شغلی,23
+EVENT_TIME,مصدومیت ورزشی,23
+EVENT_TIME,نمایشگاه عکس,24
+EVENT_TIME,نمایشگاه نقاشی,24
+EVENT_TIME,نمایشگاه کتاب,23
+EVENT_TIME,نوشیدن مایع خیلی داغ,35
+EVENT_TIME,نیش زنبور,22
+EVENT_TIME,هنگ کردن کامپیوتر,29
+EVENT_TIME,پاره شدن کیسه خرید,36
+EVENT_TIME,پریدن غذا در گلو,38
+EVENT_TIME,پریدن فیوز,23
+EVENT_TIME,پنچر شدن لاستیک,29
+EVENT_TIME,پوشیدن لباس برعکس,29
+EVENT_TIME,پوشیدن لنگه به لنگه جوراب,45
+EVENT_TIME,پولدار شدن,23
+EVENT_TIME,پیدا شدن,23
+EVENT_TIME,پیدا کردن پول در خیابان,45
+EVENT_TIME,پیدا کردن کیف پول,35
+EVENT_TIME,پیر شدن,23
+EVENT_TIME,چاق شدن,22
+EVENT_TIME,چکه کردن شیر آب,35
+EVENT_TIME,کنسرت موسیقی سنتی,30
+EVENT_TIME,کنسرت موسیقی پاپ,29
+EVENT_TIME,کنکور,17
+EVENT_TIME,گردباد,17
+EVENT_TIME,گرفتن گواهینامه رانندگی,30
+EVENT_TIME,گم شدن حیوان خانگی,36
+EVENT_TIME,گم شدن در فروشگاه,38
+EVENT_TIME,گم شدن در یک شهر غریب,51
+EVENT_TIME,گم کردن کلید,28
+EVENT_TIME,گیر کردن در ترافیک,39
+EVENT_TIME,اختراع چرخ,23
+EVENT_TIME,انسان اولیه,24
+EVENT_TIME,جنگ جهانی,23
+EVENT_TIME,جنگ جهانی اول,30
+EVENT_TIME,جنگ جهانی دوم,30
+EVENT_TIME,عصر یخبندان,23
+EVENT_TIME,کشف آتش,23
+EVENT_TIME,اغلب,16
+EVENT_TIME,به ندرت,26
+EVENT_TIME,عصر,16
+EVENT_TIME,هرگز,16
+EVENT_TIME,گاهی,16
+EVENT_TIME,ابرماه,37
+EVENT_TIME,اتصال کوتاه برق,48
+EVENT_TIME,ارائه کنفرانس,42
+EVENT_TIME,ارکستر سمفونیک,43
+EVENT_TIME,اعتصاب,37
+EVENT_TIME,اعتصاب,37
+EVENT_TIME,المپیاد ریاضی,43
+EVENT_TIME,المپیک زمستانی,42
+EVENT_TIME,انتخاب رشته,43
+EVENT_TIME,انقلاب,37
+EVENT_TIME,انقلاب,37
+EVENT_TIME,اپرا,37
+EVENT_TIME,اپیدمی,37
+EVENT_TIME,ایستگاه فضایی در آسمان,59
+EVENT_TIME,بارش شهابی,42
+EVENT_TIME,بازدید از آکروپولیس,53
+EVENT_TIME,بازدید از اهرام مصر,58
+EVENT_TIME,بازدید از برج ایفل,58
+EVENT_TIME,بازدید از تاج محل,58
+EVENT_TIME,بازگشت به میادین,52
+EVENT_TIME,تجدید دیدار,42
+EVENT_TIME,تعریف کردن لطیفه بی مزه,60
+EVENT_TIME,تقسیم ارث,43
+EVENT_TIME,تلاطم هوایی,43
+EVENT_TIME,تنها ماندن,42
+EVENT_TIME,تور دو فرانس,49
+EVENT_TIME,جشن الفبا,42
+EVENT_TIME,جشن امضا,43
+EVENT_TIME,جشنواره فیلم فجر,49
+EVENT_TIME,جشنواره کن,43
+EVENT_TIME,جوان ماندن,43
+EVENT_TIME,حراج هنری,43
+EVENT_TIME,خسوف کامل,43
+EVENT_TIME,خشکسالی,36
+EVENT_TIME,خنده بی موقع,49
+EVENT_TIME,خورشید گرفتگی,43
+EVENT_TIME,خورشید گرفتگی,43
+EVENT_TIME,دعوای وراث,43
+EVENT_TIME,دفاع از پایان نامه,59
+EVENT_TIME,دفاع از پایان نامه,59
+EVENT_TIME,دیدن رنگین کمان دوتایی,55
+EVENT_TIME,دیدن شفق قطبی,49
+EVENT_TIME,دیدن کلوسئوم در رم,59
+EVENT_TIME,دیدن یک ستاره دنباله دار,60
+EVENT_TIME,رانش زمین,43
+EVENT_TIME,راهپیمایی اعتراضی,43
+EVENT_TIME,رسیدن به آرزو,52
+EVENT_TIME,رونمایی کتاب,43
+EVENT_TIME,سقوط هواپیما,42
+EVENT_TIME,سونامی,36
+EVENT_TIME,سونامی,36
+EVENT_TIME,سوپر بول,43
+EVENT_TIME,سکسکه در جلسه,51
+EVENT_TIME,سکوت ناخوشایند,43
+EVENT_TIME,سیاره های هم تراز,56
+EVENT_TIME,شب ادراری,43
+EVENT_TIME,شب شعر,43
+EVENT_TIME,شرکت در جلسه اولیا و مربیان,60
+EVENT_TIME,شرکت در فستیوال موسیقی,59
+EVENT_TIME,شرکت در کارناوال,52
+EVENT_TIME,شعرخوانی,36
+EVENT_TIME,شکستن رکورد جهانی,49
+EVENT_TIME,طلاق,36
+EVENT_TIME,طلاق گرفتن,42
+EVENT_TIME,عملیات امداد و نجات,59
+EVENT_TIME,غرق شدن کشتی,48
+EVENT_TIME,فتح قله,43
+EVENT_TIME,فراموش کردن اسم کسی,55
+EVENT_TIME,فرش قرمز,42
+EVENT_TIME,فرش قرمز,42
+EVENT_TIME,فرود اضطراری,43
+EVENT_TIME,فرود بر ماه,52
+EVENT_TIME,قحطی,37
+EVENT_TIME,قرنطینه,36
+EVENT_TIME,قطار از ریل خارج شدن,60
+EVENT_TIME,لیگ قهرمانان اروپا,50
+EVENT_TIME,ماه آبی,43
+EVENT_TIME,ماه گرفتگی,43
+EVENT_TIME,ماه گرفتگی,43
+EVENT_TIME,مزایده,37
+EVENT_TIME,مسابقات فرمول یک,49
+EVENT_TIME,مسابقات ورزش الکترونیک,50
+EVENT_TIME,مسابقات ویمبلدون,43
+EVENT_TIME,مشروط شدن,43
+EVENT_TIME,مناظره,37
+EVENT_TIME,مناقصه,37
+EVENT_TIME,مهاجرت غیرقانونی,53
+EVENT_TIME,نشت گاز,42
+EVENT_TIME,نمایش موزیکال,42
+EVENT_TIME,نمایشگاه مجسمه سازی,50
+EVENT_TIME,پارالمپیک,37
+EVENT_TIME,پاندمی,37
+EVENT_TIME,کسوف کامل,43
+EVENT_TIME,کودتا,37
+EVENT_TIME,کودتا,37
+EVENT_TIME,آپارتاید,37
+EVENT_TIME,اصلاحات دینی,43
+EVENT_TIME,اصلاحات پروتستانی,44
+EVENT_TIME,المپیک باستان,43
+EVENT_TIME,امپراتوری ایران,43
+EVENT_TIME,امپراتوری روم,42
+EVENT_TIME,امپراطوری روم,42
+EVENT_TIME,امپراطوری مغول,43
+EVENT_TIME,انقراض دایناسورها,43
+EVENT_TIME,انقلاب آمریکا,43
+EVENT_TIME,انقلاب صنعتی,43
+EVENT_TIME,انقلاب صنعتی,43
+EVENT_TIME,انقلاب فرانسه,43
+EVENT_TIME,تب طلای کالیفرنیا,50
+EVENT_TIME,جاده ابریشم,43
+EVENT_TIME,جاده ابریشم,43
+EVENT_TIME,جنبش حقوق مدنی,59
+EVENT_TIME,جنبش هیپی ها,49
+EVENT_TIME,جنگ داخلی آمریکا,49
+EVENT_TIME,جنگ سرد,43
+EVENT_TIME,حمله مغول,43
+EVENT_TIME,رنسانس,37
+EVENT_TIME,رنسانس هارلم,44
+EVENT_TIME,سقوط دیوار برلین,49
+EVENT_TIME,عصر حجر,43
+EVENT_TIME,عصر روشنگری,44
+EVENT_TIME,فتح فضا,43
+EVENT_TIME,فروپاشی شوروی,43
+EVENT_TIME,قرون وسطی,43
+EVENT_TIME,محاکمات جادوگری سیلم,51
+EVENT_TIME,مسابقه فضایی,43
+EVENT_TIME,نبرد ماراتن,43
+EVENT_TIME,هولوکاست,37
+EVENT_TIME,واترگیت,37
+EVENT_TIME,وایکینگ ها,43
+EVENT_TIME,وایکینگ ها,43
+EVENT_TIME,پروژه منهتن,43
+EVENT_TIME,کتابخانه اسکندریه,44
+EVENT_TIME,گیوتین,37
+EVENT_TIME,یونان باستان,43
+EVENT_TIME,ارسطو,55
+EVENT_TIME,اسطوره آفرینش,60
+EVENT_TIME,اسطوره ایکاروس,60
+EVENT_TIME,اسطوره جعبه پاندورا,60
+EVENT_TIME,اسطوره سیزیف,60
+EVENT_TIME,اسطوره پرومته,60
+EVENT_TIME,اسطوره گیلگمش,60
+EVENT_TIME,اسطوره‌شناسی تطبیقی,60
+EVENT_TIME,افلاطون,55
+EVENT_TIME,امپراتوری روم مقدس,60
+EVENT_TIME,امپراتوری عثمانی,60
+EVENT_TIME,امپراتوری مغول,60
+EVENT_TIME,امپراتوری هخامنشی,60
+EVENT_TIME,ایمانوئل کانت,60
+EVENT_TIME,تاریخ جایگزین,60
+EVENT_TIME,جنگ جهانی اول,60
+EVENT_TIME,جنگ روانی,60
+EVENT_TIME,جنگ سایبری,60
+EVENT_TIME,جنگ سرد,60
+EVENT_TIME,جنگ سی‌ساله,60
+EVENT_TIME,جنگ شناختی,60
+EVENT_TIME,جنگ صدساله,60
+EVENT_TIME,جنگ نامتقارن,60
+EVENT_TIME,جنگ پلوپونز,60
+EVENT_TIME,جنگ‌های ایران و روم,60
+EVENT_TIME,جنگ‌های صلیبی,60
+EVENT_TIME,جنگ‌های ناپلئونی,60
+EVENT_TIME,جنگ‌های پونیک,60
+EVENT_TIME,دوره هلنیستی,60
+EVENT_TIME,رنسانس ایتالیا,60
+EVENT_TIME,سقراط,55
+EVENT_TIME,ماری کوری,60
+GOV,اسلحه,17
+GOV,انسان,17
+GOV,قاچاق,17
+GOV,مواد مخدر,23
+GOV,گروگانگیری,16
+GOV,انتخابات,17
+GOV,رأی گیری,23
+GOV,ارتش,16
+GOV,ارتش,16
+GOV,خاکریز,17
+GOV,رژه,16
+GOV,رژه نظامی,22
+GOV,سنگر,16
+GOV,سنگر,16
+GOV,میدان مین,23
+GOV,نیروی دریایی,23
+GOV,نیروی دریایی,23
+GOV,نیروی زمینی,23
+GOV,نیروی هوایی,23
+GOV,نیروی هوایی,23
+GOV,آتش نشانی,22
+GOV,آتش نشانی,22
+GOV,اختلاس,37
+GOV,اعضای بدن,43
+GOV,باج افزار,43
+GOV,تقلب در انتخابات,52
+GOV,جعل اسناد,43
+GOV,سرقت ادبی,43
+GOV,سرقت هویت,43
+GOV,شهادت دروغ,43
+GOV,معامله مواد مخدر,49
+GOV,پولشویی,37
+GOV,کلاهبرداری,37
+GOV,امضای پیمان,43
+GOV,تبادل زندانیان,43
+GOV,حکم قاضی,43
+GOV,دادستان,37
+GOV,دادگاه خانواده,53
+GOV,دموکراسی,36
+GOV,دیکتاتوری,37
+GOV,رای اعتماد,43
+GOV,روابط دیپلماتیک,43
+GOV,سازمان ملل,42
+GOV,سلطنت,36
+GOV,سنا,37
+GOV,سوسیالیسم,37
+GOV,شورای امنیت,43
+GOV,مجلس شورای اسلامی,49
+GOV,مذاکرات صلح,43
+GOV,مناظره,36
+GOV,مناظره سیاسی,42
+GOV,همه پرسی,43
+GOV,هیئت دولت,42
+GOV,هیئت منصفه,43
+GOV,هیئت منصفه,43
+GOV,وکیل تسخیری,43
+GOV,کابینه,37
+GOV,کاپیتالیسم,37
+GOV,کمونیسم,37
+GOV,آزادی به قید ضمانت,59
+GOV,اعدام,37
+GOV,حبس ابد,43
+GOV,حبس ابد,43
+GOV,عفو مشروط,43
+GOV,مجازات اعدام,43
+GOV,تیم ضربت,42
+GOV,حکومت نظامی,43
+GOV,مانور,36
+GOV,مانور نظامی,42
+GOV,اتحادیه کارگری,43
+GOV,خیریه,36
+GOV,سازمان بهداشت جهانی,50
+GOV,سازمان بهداشت جهانی,50
+GOV,سازمان ملل,42
+GOV,سازمان پزشکان بدون مرز,59
+GOV,شهرداری,36
+GOV,شورای امنیت,43
+GOV,صلیب سرخ,43
+GOV,صلیب سرخ,43
+GOV,هلال احمر,43
+GOV,هلال احمر,43
+GOV,پزشکان بدون مرز,52
+GOV,پلیس بین الملل (اینترپل),60
+GOV,یونسکو,37
+GOV,یونیسف,37
+GOV,استیضاح,54
+GOV,استیضاح,54
+GOV,قاضی دیوان عالی,60
+HEALTH_MED,تب,5
+HEALTH_MED,دل درد,11
+HEALTH_MED,دندان درد,11
+HEALTH_MED,سردرد,5
+HEALTH_MED,پنبه,5
+HEALTH_MED,چسب زخم,11
+HEALTH_MED,کرم ضدآفتاب,11
+HEALTH_MED,آبریزش بینی,22
+HEALTH_MED,آرتروز,18
+HEALTH_MED,آلرژی,17
+HEALTH_MED,آنفولانزا,17
+HEALTH_MED,آهن,18
+HEALTH_MED,اسهال,17
+HEALTH_MED,بدن درد,22
+HEALTH_MED,بی حالی,23
+HEALTH_MED,تب و لرز,31
+HEALTH_MED,حالت تهوع,23
+HEALTH_MED,حمله قلبی,23
+HEALTH_MED,خونریزی,16
+HEALTH_MED,دررفتگی,17
+HEALTH_MED,دل پیچه,23
+HEALTH_MED,دیابت,17
+HEALTH_MED,رژیم غذایی,23
+HEALTH_MED,رگ به رگ شدن,39
+HEALTH_MED,زخم,16
+HEALTH_MED,سرماخوردگی,16
+HEALTH_MED,سرگیجه,17
+HEALTH_MED,سکته قلبی,23
+HEALTH_MED,شکستگی استخوان,23
+HEALTH_MED,فشار خون بالا,32
+HEALTH_MED,لرز,16
+HEALTH_MED,مسمومیت غذایی,22
+HEALTH_MED,ویتامین سی,23
+HEALTH_MED,پروتئین,17
+HEALTH_MED,کالری شماری,24
+HEALTH_MED,کبودی,17
+HEALTH_MED,کربوهیدرات,18
+HEALTH_MED,کلسیم,17
+HEALTH_MED,کوفتگی,17
+HEALTH_MED,گرفتگی صدا,23
+HEALTH_MED,گرفتگی عضلات,22
+HEALTH_MED,یبوست,17
+HEALTH_MED,آتل بندی,23
+HEALTH_MED,آزمایش ادرار,24
+HEALTH_MED,آزمایش خون,23
+HEALTH_MED,آمپول,16
+HEALTH_MED,آنتی بیوتیک,23
+HEALTH_MED,الکل,17
+HEALTH_MED,اهدای خون,22
+HEALTH_MED,اهدای عضو,22
+HEALTH_MED,باند,16
+HEALTH_MED,بتادین,17
+HEALTH_MED,بند آوردن خون,29
+HEALTH_MED,تزریق خون,23
+HEALTH_MED,تست قند خون,29
+HEALTH_MED,جراحی زیبایی,23
+HEALTH_MED,دارو,16
+HEALTH_MED,سرم,16
+HEALTH_MED,شربت,16
+HEALTH_MED,شربت معده,23
+HEALTH_MED,عرق نعنا,22
+HEALTH_MED,قرص,16
+HEALTH_MED,قرص جوشان,22
+HEALTH_MED,قرص خواب,23
+HEALTH_MED,قرص مسکن,23
+HEALTH_MED,قطره,16
+HEALTH_MED,قطره بینی,23
+HEALTH_MED,قطره چشم,22
+HEALTH_MED,مسکن,17
+HEALTH_MED,نوار قلب,23
+HEALTH_MED,ویتامین,17
+HEALTH_MED,ویتامین,17
+HEALTH_MED,پانسمان,17
+HEALTH_MED,پماد,16
+HEALTH_MED,پماد سوختگی,22
+HEALTH_MED,کمک های اولیه,29
+HEALTH_MED,کمک های اولیه,29
+HEALTH_MED,کپسول,16
+HEALTH_MED,گاز استریل,23
+HEALTH_MED,گروه خونی,23
+HEALTH_MED,گچ گرفتن,23
+HEALTH_MED,بغل درمانی,23
+HEALTH_MED,خنده درمانی,23
+HEALTH_MED,سرم زدن,22
+HEALTH_MED,فیزیوتراپی,17
+HEALTH_MED,فیزیوتراپی,17
+HEALTH_MED,فیزیوتراپی,17
+HEALTH_MED,ماساژ درمانی,23
+HEALTH_MED,آلزایمر,37
+HEALTH_MED,آلزایمر,37
+HEALTH_MED,آلزایمر,37
+HEALTH_MED,آنتی اکسیدان,44
+HEALTH_MED,بی خوابی,42
+HEALTH_MED,تومور,36
+HEALTH_MED,حساسیت به بادام زمینی,59
+HEALTH_MED,حساسیت غذایی,42
+HEALTH_MED,خوابگردی,37
+HEALTH_MED,رفلاکس معده,43
+HEALTH_MED,روزه متناوب,42
+HEALTH_MED,روماتیسم,37
+HEALTH_MED,رژیم کتوژنیک,43
+HEALTH_MED,سرطان,36
+HEALTH_MED,سوء هاضمه,42
+HEALTH_MED,سکته مغزی,42
+HEALTH_MED,سکته مغزی,42
+HEALTH_MED,عدم تحمل لاکتوز,49
+HEALTH_MED,فراموشی,36
+HEALTH_MED,فراموشی,36
+HEALTH_MED,فرسودگی شغلی,43
+HEALTH_MED,مرگ مغزی,43
+HEALTH_MED,مرگ مغزی,43
+HEALTH_MED,وسواس,37
+HEALTH_MED,پارکینسون,37
+HEALTH_MED,پارکینسون,37
+HEALTH_MED,پروبیوتیک,37
+HEALTH_MED,پوکی استخوان,43
+HEALTH_MED,کلسترول بالا,45
+HEALTH_MED,کما,37
+HEALTH_MED,کما,37
+HEALTH_MED,گلوتن,37
+HEALTH_MED,آندوسکوپی,38
+HEALTH_MED,آنژیوگرافی,37
+HEALTH_MED,احیای قلبی ریوی (CPR),60
+HEALTH_MED,استنت,37
+HEALTH_MED,ام آر آی,49
+HEALTH_MED,باتری قلب,43
+HEALTH_MED,بای پس قلب,49
+HEALTH_MED,بی حسی موضعی,49
+HEALTH_MED,بیهوشی,36
+HEALTH_MED,بیهوشی عمومی,42
+HEALTH_MED,تست دوپینگ,43
+HEALTH_MED,داروی گیاهی,42
+HEALTH_MED,رادیوگرافی,36
+HEALTH_MED,سونوگرافی,36
+HEALTH_MED,سی تی اسکن,49
+HEALTH_MED,طب سنتی,42
+HEALTH_MED,عرق بیدمشک,42
+HEALTH_MED,عقیم سازی,42
+HEALTH_MED,مانور هایملیک,43
+HEALTH_MED,نمونه برداری,43
+HEALTH_MED,واکسیناسیون,36
+HEALTH_MED,واکسیناسیون حیوانات,43
+HEALTH_MED,پماد دفع حشرات,48
+HEALTH_MED,پماد چشمی,42
+HEALTH_MED,پیوند عضو,43
+HEALTH_MED,پیوند کلیه,43
+HEALTH_MED,کرم ضد گزیدگی,48
+HEALTH_MED,ام آر آی,49
+HEALTH_MED,حجامت,36
+HEALTH_MED,دیالیز,37
+HEALTH_MED,دیالیز,37
+HEALTH_MED,رادیولوژی,36
+HEALTH_MED,رایحه درمانی,43
+HEALTH_MED,رنگ درمانی,43
+HEALTH_MED,روان درمانی,43
+HEALTH_MED,زالو درمانی,43
+HEALTH_MED,سونوگرافی,36
+HEALTH_MED,سی تی اسکن,49
+HEALTH_MED,شستشوی معده,43
+HEALTH_MED,شیمی درمانی,43
+HEALTH_MED,شیمی درمانی,43
+HEALTH_MED,طب سوزنی,42
+HEALTH_MED,طب فیزیکی,43
+HEALTH_MED,موسیقی درمانی,43
+HEALTH_MED,پرتو درمانی,43
+HEALTH_MED,پرتو درمانی,43
+HEALTH_MED,کاردرمانگر,37
+HEALTH_MED,گروه درمانی,43
+HEALTH_MED,گفتاردرمانگر,38
+HEALTH_MED,تمایز سلولی,60
+HEALTH_MED,خودتنظیمی,55
+HEALTH_MED,روانکاوی فرویدی,60
+HEALTH_MED,روان‌درمانی بین‌فردی,60
+HEALTH_MED,روان‌درمانی شناختی-رفتاری,60
+HEALTH_MED,سیگنالینگ سلولی,60
+HEALTH_MED,شرطی‌سازی عامل,60
+HEALTH_MED,شرطی‌سازی کلاسیک,60
+HEALTH_MED,شوک‌درمانی,59
+HEALTH_MED,متابولیسم,55
+HEALTH_MED,مقاومت آنتی‌بیوتیکی,60
+HEALTH_MED,میکروبیوم روده,60
+HEALTH_MED,واکسن,55
+HEALTH_MED,وراثت (ژنتیک),60
+HEALTH_MED,وزیکول,55
+HEALTH_MED,ویروس‌شناسی,60
+HEALTH_MED,پروتکل اینترنت,60
+HEALTH_MED,پنومونی,55
+HEALTH_MED,ژن درمانی,60
+HEALTH_MED,ژن‌شناسی رفتاری,60
+HEALTH_MED,شوک آنافیلاکسی,60
+HEALTH_MED,تزریق اپی نفرین,60
+HEALTH_MED,کلونوسکوپی,54
+HEALTH_MED,انرژی درمانی,60
+HEALTH_MED,سنگ درمانی,60
+HEALTH_MED,چاکرا درمانی,60
+LANG_COMM,سبزی پاک کردن,13
+LANG_COMM,موش و گربه بازی,26
+LANG_COMM,آن,3
+LANG_COMM,آنها,4
+LANG_COMM,او,3
+LANG_COMM,این,3
+LANG_COMM,تو,3
+LANG_COMM,شما,3
+LANG_COMM,ما,3
+LANG_COMM,من,3
+LANG_COMM,برگه جریمه,23
+LANG_COMM,دسته چک,23
+LANG_COMM,دیپلم,17
+LANG_COMM,رسید,16
+LANG_COMM,شناسنامه,17
+LANG_COMM,شناسنامه,17
+LANG_COMM,صورتحساب,16
+LANG_COMM,صورتحساب,16
+LANG_COMM,فوق لیسانس,24
+LANG_COMM,قبض تلفن,23
+LANG_COMM,مدرک لیسانس,23
+LANG_COMM,نسخه پزشک,23
+LANG_COMM,پاسپورت,17
+LANG_COMM,پرونده,17
+LANG_COMM,کارت دانشجویی,22
+LANG_COMM,کارت ماشین,23
+LANG_COMM,کارت ملی,23
+LANG_COMM,کارت ملی,23
+LANG_COMM,کارت پرواز,23
+LANG_COMM,کارنامه,17
+LANG_COMM,گذرنامه,17
+LANG_COMM,گواهینامه رانندگی,22
+LANG_COMM,گواهینامه رانندگی,22
+LANG_COMM,آب از آب تکان نخوردن,46
+LANG_COMM,آب از سر گذشتن,39
+LANG_COMM,آب در هاون کوبیدن,39
+LANG_COMM,آب پاکی روی دست ریختن,46
+LANG_COMM,آش برای کسی پختن,39
+LANG_COMM,آفتاب از کدام طرف درآمده,46
+LANG_COMM,از کاه کوه ساختن,38
+LANG_COMM,با یک گل بهار نمی شود,51
+LANG_COMM,باد به غبغب انداختن,39
+LANG_COMM,بال درآوردن,23
+LANG_COMM,به در بسته خوردن,41
+LANG_COMM,به در و دیوار زدن,50
+LANG_COMM,به سیم آخر زدن,38
+LANG_COMM,تو پوست خود نگنجیدن,36
+LANG_COMM,توبه گرگ مرگ است,35
+LANG_COMM,تیر در تاریکی انداختن,40
+LANG_COMM,خروس بی محل,30
+LANG_COMM,خط و نشان کشیدن,38
+LANG_COMM,در پوست خود نگنجیدن,39
+LANG_COMM,دم به تله دادن,38
+LANG_COMM,دم گربه را گرفتن,36
+LANG_COMM,دندان طمع را کندن,36
+LANG_COMM,دود از کنده بلند می شود,52
+LANG_COMM,دودوتا چهارتا کردن,35
+LANG_COMM,دیگ به دیگ میگه روت سیاه,52
+LANG_COMM,روی مخ کسی راه رفتن,46
+LANG_COMM,ریگ به کفش داشتن,38
+LANG_COMM,زهره ترک شدن,29
+LANG_COMM,زهرچشم گرفتن,24
+LANG_COMM,زیر آب کسی را زدن,44
+LANG_COMM,ساز مخالف زدن,29
+LANG_COMM,سالی که نکوست از بهارش پیداست,56
+LANG_COMM,سنگ بزرگ علامت نزدن است,43
+LANG_COMM,شاخ درآوردن,22
+LANG_COMM,شاخ و شانه کشیدن,38
+LANG_COMM,شانه خالی کردن,34
+LANG_COMM,شتر دیدی ندیدی,29
+LANG_COMM,شستش خبردار شدن,29
+LANG_COMM,شنیدن کی بود مانند دیدن,42
+LANG_COMM,طاقتش طاق شدن,29
+LANG_COMM,طفره رفتن,23
+LANG_COMM,عجله کار شیطان است,36
+LANG_COMM,غوره نشده مویز شدن,37
+LANG_COMM,غوره نشده مویز شدن,37
+LANG_COMM,فخر فروختن,24
+LANG_COMM,فلفل نبین چه ریزه بشکن ببین چه تیزه,60
+LANG_COMM,فیلم بازی کردن,34
+LANG_COMM,قالب تهی کردن,34
+LANG_COMM,قطره قطره جمع گردد وانگهی دریا شود,56
+LANG_COMM,قند در دل آب شدن,45
+LANG_COMM,قوز بالا قوز,32
+LANG_COMM,قیافه گرفتن,23
+LANG_COMM,مخ کسی را خوردن,36
+LANG_COMM,مرغ همسایه غاز است,36
+LANG_COMM,مشک آن است که خود ببوید,51
+LANG_COMM,مهمان حبیب خداست,29
+LANG_COMM,موی دماغ شدن,30
+LANG_COMM,نان به نرخ روز خوردن,46
+LANG_COMM,نخود هر آش شدن,35
+LANG_COMM,نمک گیر شدن,29
+LANG_COMM,هندوانه زیر بغل گذاشتن,39
+LANG_COMM,هوای کسی را داشتن,35
+LANG_COMM,پا تو کفش کسی کردن,39
+LANG_COMM,پا روی دم کسی گذاشتن,45
+LANG_COMM,پایان شب سیه سپید است,43
+LANG_COMM,پشت دست را داغ کردن,39
+LANG_COMM,پشت گوش انداختن,30
+LANG_COMM,پیاز داغش را زیاد کردن,48
+LANG_COMM,چرتکه انداختن,23
+LANG_COMM,چوب لای چرخ گذاشتن,37
+LANG_COMM,کاسه داغ تر از آش,45
+LANG_COMM,کبوتر با کبوتر باز با باز,54
+LANG_COMM,کلاه سر کسی گذاشتن,36
+LANG_COMM,کوه کندن,23
+LANG_COMM,کک به تنبان کسی انداختن,46
+LANG_COMM,گربه رقصاندن,23
+LANG_COMM,گربه شور کردن,34
+LANG_COMM,گرگ در لباس میش,39
+LANG_COMM,یک تیر و دو نشان,44
+LANG_COMM,یک کلاغ چهل کلاغ,35
+LANG_COMM,بوق زدن ممنوع,29
+LANG_COMM,دور زدن ممنوع,29
+LANG_COMM,پارک ممنوع,22
+LANG_COMM,اعلامیه استقلال,43
+LANG_COMM,بیمه نامه,42
+LANG_COMM,ثبت اختراع,43
+LANG_COMM,جزوه,36
+LANG_COMM,دکترا,36
+LANG_COMM,سند خانه,42
+LANG_COMM,قانون اساسی,53
+LANG_COMM,قرارداد کاری,53
+LANG_COMM,قولنامه,37
+LANG_COMM,معاهده صلح,43
+LANG_COMM,وصیت نامه,43
+LANG_COMM,وصیت نامه,43
+LANG_COMM,وصیت نامه,43
+LANG_COMM,وکالتنامه,47
+LANG_COMM,ویزا,36
+LANG_COMM,ویزا,36
+LANG_COMM,پایان نامه,43
+LANG_COMM,پرونده پزشکی,42
+LANG_COMM,پیمان صلح,43
+LANG_COMM,کارت پایان خدمت,48
+LANG_COMM,گواهی فوت,43
+LANG_COMM,آبغوره گرفتن,42
+LANG_COMM,آسمان و ریسمان بافتن,59
+LANG_COMM,آش کشک خاله,49
+LANG_COMM,آشپز که دوتا شد آش یا شور میشه یا بی نمک,60
+LANG_COMM,از آب کره گرفتن,58
+LANG_COMM,از این ستون به آن ستون فرج است,60
+LANG_COMM,از این گوش گرفتن و از آن گوش در کردن,60
+LANG_COMM,از دماغ فیل افتادن,59
+LANG_COMM,از چاله در آمدن و به چاه افتادن,60
+LANG_COMM,با پنبه سر بریدن,58
+LANG_COMM,باد در قفس کردن,55
+LANG_COMM,برای کسی پاپوش دوختن,59
+LANG_COMM,بند را آب دادن,55
+LANG_COMM,تخم دو زرده کردن,60
+LANG_COMM,تشتش از بام افتاد,58
+LANG_COMM,جای سوزن انداختن نیست,56
+LANG_COMM,جنگ زرگری,43
+LANG_COMM,جوجه را آخر پاییز می شمارند,60
+LANG_COMM,جگرش خون شدن,49
+LANG_COMM,حرمت امامزاده با متولیه,59
+LANG_COMM,حساب کار دستش آمدن,56
+LANG_COMM,حنایش دیگر رنگی ندارد,56
+LANG_COMM,خدا در و تخته را با هم جور می کند,60
+LANG_COMM,خر بیار و باقالی بار کن,60
+LANG_COMM,خر تب کرده,49
+LANG_COMM,خر داغ کردن,54
+LANG_COMM,خرس را به رقص آوردن,60
+LANG_COMM,خواهی نشوی رسوا همرنگ جماعت شو,60
+LANG_COMM,خود را گم کردن,59
+LANG_COMM,در ناامیدی بسی امید است,60
+LANG_COMM,دست از پا درازتر برگشتن,60
+LANG_COMM,دست روی دلم نگذار,58
+LANG_COMM,دعوای حیدری نعمتی,50
+LANG_COMM,دل دادن و قلوه گرفتن,60
+LANG_COMM,دل شکسته,42
+LANG_COMM,دندان اسب پیشکشی را نمی شمارند,60
+LANG_COMM,دهن سرویس کردن,54
+LANG_COMM,راه به جایی نبردن,58
+LANG_COMM,روده درازی کردن,46
+LANG_COMM,رگ خواب کسی را به دست آوردن,60
+LANG_COMM,زبان سرخ سر سبز می دهد بر باد,60
+LANG_COMM,زبانم مو درآورد,49
+LANG_COMM,زیر کاسه نیم کاسه ای است,60
+LANG_COMM,سماق مکیدن,43
+LANG_COMM,سنگ صبور,43
+LANG_COMM,سگ اصحاب کهف,49
+LANG_COMM,شاهنامه آخرش خوش است,56
+LANG_COMM,شریک دزد و رفیق قافله,60
+LANG_COMM,شیپور را از سر گشادش زدن,60
+LANG_COMM,صدای دهل از دور خوش است,60
+LANG_COMM,صورت را با سیلی سرخ نگه داشتن,60
+LANG_COMM,عطایش را به لقایش بخشیدن,60
+LANG_COMM,عقلش به چشمش است,58
+LANG_COMM,علف باید به دهن بزی شیرین بیاد,60
+LANG_COMM,غوره و مویز را شناختن,60
+LANG_COMM,فاز منفی دادن,48
+LANG_COMM,فیل هوا کردن,54
+LANG_COMM,فیلش یاد هندوستان کرده,56
+LANG_COMM,قبر خود را کندن,54
+LANG_COMM,لنگه کفش کهنه در بیابان نعمت است,60
+LANG_COMM,لگد به بخت خود زدن,60
+LANG_COMM,ماست ها را کیسه کردن,60
+LANG_COMM,ماست کیسه انداختن,49
+LANG_COMM,مته به خشخاش گذاشتن,60
+LANG_COMM,مزد آن گرفت جان برادر که کار کرد,60
+LANG_COMM,مو را از ماست کشیدن,60
+LANG_COMM,موی سفید را در آسیاب سفید نکردن,60
+LANG_COMM,نابرده رنج گنج میسر نمی شود,60
+LANG_COMM,نمک خوردن و نمکدان شکستن,60
+LANG_COMM,نه سیخ بسوزد نه کباب,60
+LANG_COMM,هر چی سنگه مال پای لنگه,60
+LANG_COMM,هرکه بامش بیش برفش بیشتر,60
+LANG_COMM,هرکه طاووس خواهد جور هندوستان کشد,60
+LANG_COMM,هفت خط,43
+LANG_COMM,پته روی آب انداختن,59
+LANG_COMM,پز عالی، جیب خالی,59
+LANG_COMM,پشمک حاج عبدالله,50
+LANG_COMM,چراغی که به خانه رواست به مسجد حرام است,60
+LANG_COMM,چشم و هم چشمی,58
+LANG_COMM,چهاردیواری اختیاری,44
+LANG_COMM,کشک سابیدن,43
+LANG_COMM,کفگیر به ته دیگ خوردن,60
+LANG_COMM,کوری عصاکش کور دگر شود,60
+LANG_COMM,گاو حسن,43
+LANG_COMM,گاو نه من شیر,55
+LANG_COMM,گاو پیشانی سفید,49
+LANG_COMM,گز نکرده پاره کردن,53
+LANG_COMM,گلیم خود را از آب بیرون کشیدن,60
+LANG_COMM,گوشت تن هم را خوردن,60
+LANG_COMM,یاسین در گوش خر خواندن,60
+LANG_COMM,یک شبه ره صد ساله رفتن,60
+LANG_COMM,خط بریل,43
+LANG_COMM,زبان اشاره,43
+LANG_COMM,حق تقدم,42
+LANG_COMM,ورود آقایان ممنوع,48
+LANG_COMM,تحلیل گفتمان,60
+LANG_COMM,زبان‌های آلتایی,60
+LANG_COMM,زبان‌های بومی آمریکا,60
+LANG_COMM,زبان‌های بومی استرالیا,60
+LANG_COMM,زبان‌های در حال انقراض,60
+LANG_COMM,زبان‌های در معرض خطر,60
+LANG_COMM,زبان‌های درخطر,60
+LANG_COMM,زبان‌های هندواروپایی,60
+LANG_COMM,زبان‌های پیوندی,60
+LANG_COMM,سخن‌پراکنی,59
+LANG_COMM,گفتمان,55
+MATS_FURN,تی شرت,12
+MATS_FURN,جوراب,5
+MATS_FURN,دستکش,6
+MATS_FURN,دمپایی,5
+MATS_FURN,روسری,6
+MATS_FURN,شال,6
+MATS_FURN,عینک آفتابی,12
+MATS_FURN,عینک آفتابی,12
+MATS_FURN,مایو,5
+MATS_FURN,فرش,6
+MATS_FURN,مبل,6
+MATS_FURN,پرده,6
+MATS_FURN,اسباب بازی,11
+MATS_FURN,الاکلنگ,5
+MATS_FURN,بادبادک,5
+MATS_FURN,بادکنک,5
+MATS_FURN,بادکنک,5
+MATS_FURN,بشقاب,5
+MATS_FURN,بلیط,6
+MATS_FURN,تاب,4
+MATS_FURN,تاب,4
+MATS_FURN,تخت,4
+MATS_FURN,تخم مرغ رنگی,18
+MATS_FURN,ترقه,6
+MATS_FURN,تلفن,5
+MATS_FURN,تلویزیون,4
+MATS_FURN,توپ,4
+MATS_FURN,جامدادی,5
+MATS_FURN,جامدادی,5
+MATS_FURN,جاکلیدی,6
+MATS_FURN,حباب,5
+MATS_FURN,حوله حمام,11
+MATS_FURN,خرس عروسکی,12
+MATS_FURN,خمیر دندان,11
+MATS_FURN,خودکار,5
+MATS_FURN,خودکار,5
+MATS_FURN,در,7
+MATS_FURN,دفتر,4
+MATS_FURN,دمپایی,5
+MATS_FURN,دیوار,5
+MATS_FURN,ساعت,5
+MATS_FURN,ساعت دیواری,12
+MATS_FURN,ساعت مچی,11
+MATS_FURN,ساعت مچی,11
+MATS_FURN,سبد خرید,12
+MATS_FURN,سرسره,5
+MATS_FURN,شامپو,5
+MATS_FURN,شمع,5
+MATS_FURN,شیشه شیر,12
+MATS_FURN,شیشه پاک کن,18
+MATS_FURN,صابون,4
+MATS_FURN,صدف,6
+MATS_FURN,صندلی,4
+MATS_FURN,عروسک,5
+MATS_FURN,عینک,5
+MATS_FURN,فنجان,5
+MATS_FURN,فندک,5
+MATS_FURN,قابلمه,5
+MATS_FURN,قاشق و چنگال,20
+MATS_FURN,قفل,5
+MATS_FURN,قلم,4
+MATS_FURN,قلک,6
+MATS_FURN,لامپ,5
+MATS_FURN,لباس,5
+MATS_FURN,لیوان,5
+MATS_FURN,ماشین بازی,11
+MATS_FURN,ماهیتابه,6
+MATS_FURN,مایع ظرفشویی,12
+MATS_FURN,مداد,5
+MATS_FURN,مداد,5
+MATS_FURN,مداد شمعی,12
+MATS_FURN,موبایل,5
+MATS_FURN,میز,4
+MATS_FURN,نخ دندان,11
+MATS_FURN,نقشه,5
+MATS_FURN,نمکدان,6
+MATS_FURN,نی نوشیدنی,12
+MATS_FURN,پاک کن,10
+MATS_FURN,پاک کن,10
+MATS_FURN,پتو,6
+MATS_FURN,پر,6
+MATS_FURN,پنبه,6
+MATS_FURN,پنجره,5
+MATS_FURN,پول توجیبی,12
+MATS_FURN,چرخ خرید,12
+MATS_FURN,چرخ و فلک,21
+MATS_FURN,چسب نواری,12
+MATS_FURN,چمدان,5
+MATS_FURN,چمدان,5
+MATS_FURN,کارت تبریک,12
+MATS_FURN,کاسه,5
+MATS_FURN,کامپیوتر,5
+MATS_FURN,کبریت,5
+MATS_FURN,کتاب,4
+MATS_FURN,کتاب رنگ آمیزی,18
+MATS_FURN,کف,5
+MATS_FURN,کفش,4
+MATS_FURN,کلاه,5
+MATS_FURN,کلید,5
+MATS_FURN,کیف پول,12
+MATS_FURN,کیف پول,12
+MATS_FURN,گل رز,11
+MATS_FURN,گلدان,6
+MATS_FURN,گلدان,6
+MATS_FURN,گوش پاک کن,18
+MATS_FURN,گوش پاک کن,18
+MATS_FURN,گیره لباس,12
+MATS_FURN,شیشه,6
+MATS_FURN,پارچه,6
+MATS_FURN,چوب,5
+MATS_FURN,کاغذ,5
+MATS_FURN,بادگیر,19
+MATS_FURN,بارانی,18
+MATS_FURN,بلوز,18
+MATS_FURN,دامن,18
+MATS_FURN,شلوار,18
+MATS_FURN,صندل,18
+MATS_FURN,لباس شب,25
+MATS_FURN,لباس عروس,25
+MATS_FURN,لباس فرم,25
+MATS_FURN,لباس محلی,26
+MATS_FURN,لباس ورزشی,24
+MATS_FURN,مقنعه,18
+MATS_FURN,هودی,18
+MATS_FURN,پالتو,18
+MATS_FURN,پاپیون,19
+MATS_FURN,پلیور,18
+MATS_FURN,پیراهن,18
+MATS_FURN,چادر,18
+MATS_FURN,چکمه,18
+MATS_FURN,ژاکت,18
+MATS_FURN,کاپشن,18
+MATS_FURN,کت و شلوار,33
+MATS_FURN,کراوات,18
+MATS_FURN,کفش اسپرت,24
+MATS_FURN,کفش ورزشی,24
+MATS_FURN,کفش پاشنه بلند,30
+MATS_FURN,کفش کوهنوردی,25
+MATS_FURN,کلاه پشمی,25
+MATS_FURN,کمربند,18
+MATS_FURN,آباژور,18
+MATS_FURN,آینه قدی,24
+MATS_FURN,بالش,18
+MATS_FURN,بوفه,19
+MATS_FURN,تخت بیمارستان,25
+MATS_FURN,تخت ساحلی,25
+MATS_FURN,تختخواب,18
+MATS_FURN,تشک,18
+MATS_FURN,جاکفشی,18
+MATS_FURN,دراور,18
+MATS_FURN,رخت آویز,24
+MATS_FURN,صندلی اداری,24
+MATS_FURN,قالیچه,18
+MATS_FURN,لوستر,19
+MATS_FURN,موکت,18
+MATS_FURN,میز آرایش,24
+MATS_FURN,میز تحریر,24
+MATS_FURN,میز عسلی,24
+MATS_FURN,میز و صندلی باغی,40
+MATS_FURN,میز کار,24
+MATS_FURN,نیمکت,18
+MATS_FURN,نیمکت,18
+MATS_FURN,ویترین,19
+MATS_FURN,پاتختی,18
+MATS_FURN,چراغ خواب,24
+MATS_FURN,چراغ مطالعه,24
+MATS_FURN,کاناپه,18
+MATS_FURN,کتابخانه,18
+MATS_FURN,کرکره,18
+MATS_FURN,کمد لباس,24
+MATS_FURN,کنسول,20
+MATS_FURN,آثار باستانی,25
+MATS_FURN,آغوشی,19
+MATS_FURN,آفت کش,25
+MATS_FURN,آلبوم عکس,24
+MATS_FURN,آلبوم عکس,24
+MATS_FURN,آژیر,18
+MATS_FURN,آژیر خطر,24
+MATS_FURN,آکواریوم خانگی,26
+MATS_FURN,استکان نعلبکی,25
+MATS_FURN,اسکلت انسان,25
+MATS_FURN,باتری دوربین,25
+MATS_FURN,باربند,19
+MATS_FURN,بانکه حبوبات,25
+MATS_FURN,بذر,18
+MATS_FURN,بلیط اتوبوس,24
+MATS_FURN,بلیط قطار,24
+MATS_FURN,بلیط هواپیما,24
+MATS_FURN,بلیط هواپیما,24
+MATS_FURN,بند رخت,24
+MATS_FURN,بند رخت,24
+MATS_FURN,بند کفش,24
+MATS_FURN,تخت پارک,25
+MATS_FURN,تقویم,18
+MATS_FURN,تمبر پستی,26
+MATS_FURN,تنگ بلور,26
+MATS_FURN,جا ادویه ای,31
+MATS_FURN,جا قلمی,24
+MATS_FURN,جاشمعی,18
+MATS_FURN,جای دستمال کاغذی,31
+MATS_FURN,جایخی,19
+MATS_FURN,جعبه ابزار,24
+MATS_FURN,جعبه کمک های اولیه,37
+MATS_FURN,حشره کش,24
+MATS_FURN,حفاظ پنجره,26
+MATS_FURN,حلقه نامزدی,24
+MATS_FURN,حوض,18
+MATS_FURN,حوله ورزشی,24
+MATS_FURN,خاک گلدان,24
+MATS_FURN,خط شنا,26
+MATS_FURN,خلال دندان,24
+MATS_FURN,دستمال سفره,25
+MATS_FURN,دستمال گردگیری,24
+MATS_FURN,دستکش یکبار مصرف,30
+MATS_FURN,دستگیره,18
+MATS_FURN,دفتر خاطرات,24
+MATS_FURN,دفتر خاطرات,24
+MATS_FURN,دفتر مشق,24
+MATS_FURN,دفترچه,18
+MATS_FURN,دفترچه یادداشت,24
+MATS_FURN,دندان شیری,24
+MATS_FURN,دندان گیر,24
+MATS_FURN,دهان شویه,24
+MATS_FURN,دودکش,19
+MATS_FURN,دکور,19
+MATS_FURN,دیس,18
+MATS_FURN,رادیو,18
+MATS_FURN,رخت آویز,24
+MATS_FURN,روبالشی,18
+MATS_FURN,روبان,18
+MATS_FURN,روتختی,18
+MATS_FURN,روزنامه باطله,25
+MATS_FURN,رومیزی,18
+MATS_FURN,روپوش آزمایشگاه,25
+MATS_FURN,روپوش سفید,25
+MATS_FURN,روپوش سفید,25
+MATS_FURN,زنگ در,27
+MATS_FURN,زونکن,19
+MATS_FURN,زیر بشقابی,27
+MATS_FURN,زیر لیوانی,27
+MATS_FURN,زیرسیگاری,18
+MATS_FURN,زیرگلدانی,19
+MATS_FURN,ساعت رومیزی,24
+MATS_FURN,ساک دستی,24
+MATS_FURN,ساک ورزشی,24
+MATS_FURN,سبد رخت چرک,30
+MATS_FURN,سبد لباس های چرک,36
+MATS_FURN,سررسید,18
+MATS_FURN,سطل آب,24
+MATS_FURN,سطل برنج,25
+MATS_FURN,سفید کننده,25
+MATS_FURN,سقف,18
+MATS_FURN,سلفون,18
+MATS_FURN,سنگ قبر,25
+MATS_FURN,سنگ قبر,25
+MATS_FURN,سوزن منگنه,25
+MATS_FURN,سکه,18
+MATS_FURN,سکه بهار آزادی,31
+MATS_FURN,سیبل تیراندازی,25
+MATS_FURN,سیم خاردار,25
+MATS_FURN,سینی فر,24
+MATS_FURN,سینی چای,24
+MATS_FURN,شمش طلا,26
+MATS_FURN,شومینه,18
+MATS_FURN,شیرجوش,18
+MATS_FURN,صندلی تماشاگران,25
+MATS_FURN,صندلی ماشین کودک,31
+MATS_FURN,صندوق رای,25
+MATS_FURN,صندوق پستی,25
+MATS_FURN,طعمه,18
+MATS_FURN,طلا,18
+MATS_FURN,ظرف غذا,24
+MATS_FURN,عود,19
+MATS_FURN,عکس یادگاری,24
+MATS_FURN,عینک سه بعدی,30
+MATS_FURN,غذای پرنده,25
+MATS_FURN,غلط گیر,24
+MATS_FURN,فشفشه,18
+MATS_FURN,فشنگ,19
+MATS_FURN,فلفل پاش,24
+MATS_FURN,فواره,18
+MATS_FURN,فواره,18
+MATS_FURN,فویل آلومینیومی,24
+MATS_FURN,قاب عکس,24
+MATS_FURN,قالب کیک,24
+MATS_FURN,قرقره,19
+MATS_FURN,قفس,18
+MATS_FURN,قفس پرنده,24
+MATS_FURN,قفسه,18
+MATS_FURN,قلاده سگ,23
+MATS_FURN,قلیان,18
+MATS_FURN,قندان,18
+MATS_FURN,قوری و کتری,33
+MATS_FURN,لانه پرنده,26
+MATS_FURN,لحاف,18
+MATS_FURN,لکه بر,28
+MATS_FURN,لیف,18
+MATS_FURN,ماژیک هایلایت,24
+MATS_FURN,ملحفه,18
+MATS_FURN,منو,18
+MATS_FURN,منوی غذا,24
+MATS_FURN,مهر,18
+MATS_FURN,مگنت یخچال,24
+MATS_FURN,میز اتو,24
+MATS_FURN,مینی بار,25
+MATS_FURN,نخ بخیه,26
+MATS_FURN,نرده,19
+MATS_FURN,نرده های زندان,32
+MATS_FURN,نرم کننده لباس,31
+MATS_FURN,نقشه راه,24
+MATS_FURN,نقشه گنج,24
+MATS_FURN,نمگیر ظرف,25
+MATS_FURN,وسایل بازی,24
+MATS_FURN,پادری,18
+MATS_FURN,پارچ آب,23
+MATS_FURN,پاکت نامه,24
+MATS_FURN,پای چوبی,24
+MATS_FURN,پرده نمایش,25
+MATS_FURN,پستانک,18
+MATS_FURN,پلاک خانه,25
+MATS_FURN,پودر لباسشویی,24
+MATS_FURN,پول نقد,24
+MATS_FURN,پیشبند,18
+MATS_FURN,چتر ساحلی,24
+MATS_FURN,چراغ نفتی,25
+MATS_FURN,چسب برق,24
+MATS_FURN,چسب ماتیکی,24
+MATS_FURN,چسب مایع,23
+MATS_FURN,چشم بند,24
+MATS_FURN,چوب جادو,24
+MATS_FURN,چک پول,25
+MATS_FURN,کارت اعتباری,25
+MATS_FURN,کارت بانکی,25
+MATS_FURN,کارت عروسی,25
+MATS_FURN,کارت عروسی,25
+MATS_FURN,کارت پستال,24
+MATS_FURN,کارد میوه خوری,30
+MATS_FURN,کارد و چنگال,33
+MATS_FURN,کازیه,19
+MATS_FURN,کاغذ کادو,24
+MATS_FURN,کالسکه بچه,24
+MATS_FURN,کتاب درسی,24
+MATS_FURN,کتاب درسی,24
+MATS_FURN,کفی کفش,25
+MATS_FURN,کلاسور,18
+MATS_FURN,کلاه فارغ التحصیلی,32
+MATS_FURN,کلید اتاق,24
+MATS_FURN,کمد,17
+MATS_FURN,کنتور آب,26
+MATS_FURN,کنتور برق,26
+MATS_FURN,کنتور گاز,26
+MATS_FURN,کود,18
+MATS_FURN,کوسن,18
+MATS_FURN,کوله پشتی,24
+MATS_FURN,کوله پشتی,24
+MATS_FURN,کوله پشتی,24
+MATS_FURN,کیسه زباله,24
+MATS_FURN,کیسه فریزر,24
+MATS_FURN,کیسه پلاستیکی,24
+MATS_FURN,کیف دستی,24
+MATS_FURN,کیف دستی,24
+MATS_FURN,کیف دوربین,25
+MATS_FURN,گاوصندوق,19
+MATS_FURN,گهواره,18
+MATS_FURN,انگشتر,18
+MATS_FURN,حلقه ازدواج,24
+MATS_FURN,دستبند,18
+MATS_FURN,گردنبند,18
+MATS_FURN,گوشواره,18
+MATS_FURN,برنز,19
+MATS_FURN,طلا,18
+MATS_FURN,فلز,18
+MATS_FURN,نقره,18
+MATS_FURN,پلاستیک,18
+MATS_FURN,دستکش پلار,45
+MATS_FURN,دکمه سردست,46
+MATS_FURN,لباس غواصی,45
+MATS_FURN,چکمه ماهیگیری,45
+MATS_FURN,کاپشن پر,45
+MATS_FURN,گتر,39
+MATS_FURN,اسکوربورد,40
+MATS_FURN,جوهر استامپ,46
+MATS_FURN,جوهر نمک,46
+MATS_FURN,حلقه دستمال,45
+MATS_FURN,درب ضد سرقت,51
+MATS_FURN,دمکنی,39
+MATS_FURN,سماور زغالی,45
+MATS_FURN,شنل نامرئی,46
+MATS_FURN,طلق و شیرازه,55
+MATS_FURN,لحاف کرسی,45
+MATS_FURN,ماسوره,40
+MATS_FURN,معجون جادویی,46
+MATS_FURN,منقل و وافور,56
+MATS_FURN,موی مصنوعی,45
+MATS_FURN,نامه عاشقانه,45
+MATS_FURN,پرده نمایش,45
+MATS_FURN,پنجره دو جداره,51
+MATS_FURN,پیام در بطری,55
+MATS_FURN,پیرسینگ,39
+MATS_FURN,چادر امدادی,45
+MATS_FURN,چتر آفتابگیر,45
+MATS_FURN,چپق,41
+MATS_FURN,کرسی,39
+MATS_FURN,کپسول کاپ کیک,51
+MATS_FURN,اکسیر جوانی,60
+MEDIA_REC,سینما,5
+MEDIA_REC,بادبادک,5
+MEDIA_REC,خاله بازی,11
+MEDIA_REC,دزد و پلیس,20
+MEDIA_REC,دکتر بازی,11
+MEDIA_REC,سنگ، کاغذ، قیچی,21
+MEDIA_REC,طناب کشی,11
+MEDIA_REC,فرفره,5
+MEDIA_REC,فوتبال دستی,11
+MEDIA_REC,فوتبال دستی,11
+MEDIA_REC,قایم باشک,11
+MEDIA_REC,قایم موشک,11
+MEDIA_REC,قایم موشک,11
+MEDIA_REC,منچ,5
+MEDIA_REC,میز پینگ پنگ,17
+MEDIA_REC,وسطی,5
+MEDIA_REC,کارت بازی,11
+MEDIA_REC,برنامه آشپزی,11
+MEDIA_REC,برنامه آشپزی,11
+MEDIA_REC,فیلم سینمایی,11
+MEDIA_REC,مسابقه آشپزی,11
+MEDIA_REC,اسکی,5
+MEDIA_REC,اسکی,5
+MEDIA_REC,اسکیت,5
+MEDIA_REC,اسکیت,5
+MEDIA_REC,بسکتبال,4
+MEDIA_REC,بولینگ,5
+MEDIA_REC,بولینگ,5
+MEDIA_REC,بوکس,4
+MEDIA_REC,تنیس,4
+MEDIA_REC,تکواندو,5
+MEDIA_REC,جودو,5
+MEDIA_REC,سوارکاری,5
+MEDIA_REC,فوتبال,4
+MEDIA_REC,مسابقه دو,11
+MEDIA_REC,والیبال,4
+MEDIA_REC,والیبال ساحلی,11
+MEDIA_REC,وزنه برداری,11
+MEDIA_REC,وزنه برداری,11
+MEDIA_REC,پینگ پنگ,11
+MEDIA_REC,کاراته,4
+MEDIA_REC,کشتی گرفتن,11
+MEDIA_REC,مدال طلا,23
+MEDIA_REC,تئاتر,17
+MEDIA_REC,سیرک,17
+MEDIA_REC,کنسرت,17
+MEDIA_REC,اتاق فرار,24
+MEDIA_REC,ایر هاکی,23
+MEDIA_REC,بازی آتاری,24
+MEDIA_REC,بازی های رومیزی,30
+MEDIA_REC,تخته دارت,23
+MEDIA_REC,تخته نرد,24
+MEDIA_REC,تیله بازی,23
+MEDIA_REC,دارت,17
+MEDIA_REC,دسته بازی,23
+MEDIA_REC,سودوکو,18
+MEDIA_REC,سگا مگا درایو,30
+MEDIA_REC,لیزر تگ,24
+MEDIA_REC,مار و پله,32
+MEDIA_REC,مار و پله,32
+MEDIA_REC,منچ,18
+MEDIA_REC,میز بیلیارد,23
+MEDIA_REC,نینتندو,18
+MEDIA_REC,هفت سنگ,24
+MEDIA_REC,پلی استیشن یک,30
+MEDIA_REC,پینت بال,24
+MEDIA_REC,کنسول بازی,23
+MEDIA_REC,گرگم به هوا,33
+MEDIA_REC,گرگم به هوا,33
+MEDIA_REC,گیم بوی,24
+MEDIA_REC,اخبار شبانگاهی,23
+MEDIA_REC,اخراجی ها,24
+MEDIA_REC,انفرادی,18
+MEDIA_REC,تبلیغات بازرگانی,24
+MEDIA_REC,دوبله,18
+MEDIA_REC,دوربین مخفی,23
+MEDIA_REC,دینامیت,18
+MEDIA_REC,راز بقا,23
+MEDIA_REC,رحمان ۱۴۰۰,24
+MEDIA_REC,زیرنویس,18
+MEDIA_REC,سریال تلویزیونی,23
+MEDIA_REC,سی دی,23
+MEDIA_REC,سینمای سیاه و سفید,40
+MEDIA_REC,فسیل,18
+MEDIA_REC,فیلم رنگی,24
+MEDIA_REC,فیلم سه بعدی,30
+MEDIA_REC,مارمولک,18
+MEDIA_REC,مسابقه استعدادیابی,25
+MEDIA_REC,مستند حیات وحش,30
+MEDIA_REC,نوار ویدئو (VHS),38
+MEDIA_REC,نوار کاست,24
+MEDIA_REC,هزارپا,18
+MEDIA_REC,پدرخوانده,18
+MEDIA_REC,کوئین,18
+MEDIA_REC,گروه موسیقی بیتلز,30
+MEDIA_REC,گزارش هواشناسی,33
+MEDIA_REC,گشت ارشاد,24
+MEDIA_REC,گیم پلی,24
+MEDIA_REC,اسنوبورد,17
+MEDIA_REC,اسکی روی آب,32
+MEDIA_REC,اسکیت بردینگ,23
+MEDIA_REC,بیسبال,17
+MEDIA_REC,بیلیارد,17
+MEDIA_REC,بیلیارد,17
+MEDIA_REC,تیراندازی با تفنگ,32
+MEDIA_REC,تیراندازی با تپانچه,33
+MEDIA_REC,تیم مدرسه,24
+MEDIA_REC,دوچرخه سواری BMX,34
+MEDIA_REC,دوچرخه سواری در کوهستان,40
+MEDIA_REC,راگبی,18
+MEDIA_REC,ضربه آزاد,24
+MEDIA_REC,فریزبی,17
+MEDIA_REC,فریزبی,17
+MEDIA_REC,فوتبال آمریکایی,24
+MEDIA_REC,قایق رانی,23
+MEDIA_REC,ماراتن,18
+MEDIA_REC,مسابقه اسب دوانی,29
+MEDIA_REC,موج سواری,23
+MEDIA_REC,موج سواری,23
+MEDIA_REC,موج سواری,23
+MEDIA_REC,هاکی روی یخ,33
+MEDIA_REC,وقت اضافه,24
+MEDIA_REC,پارکور,18
+MEDIA_REC,پاورلیفتینگ,18
+MEDIA_REC,پرتاب نیزه,23
+MEDIA_REC,پرتاب وزنه,23
+MEDIA_REC,پرش ارتفاع,23
+MEDIA_REC,پرش با اسب,32
+MEDIA_REC,پرش طول,23
+MEDIA_REC,پرورش اندام,23
+MEDIA_REC,پنالتی,17
+MEDIA_REC,کارت زرد,23
+MEDIA_REC,کارت قرمز,23
+MEDIA_REC,کایت,17
+MEDIA_REC,گلف,17
+MEDIA_REC,اسکار,37
+MEDIA_REC,جایزه اسکار,43
+MEDIA_REC,جایزه صلح نوبل,50
+MEDIA_REC,جایزه نوبل,44
+MEDIA_REC,جشنواره کن,43
+MEDIA_REC,خرس طلایی برلین,50
+MEDIA_REC,سیمرغ بلورین,44
+MEDIA_REC,نخل طلا,44
+MEDIA_REC,گلدن گلوب,43
+MEDIA_REC,گلدن گلوب,43
+MEDIA_REC,بازی های نقش آفرینی,57
+MEDIA_REC,بی بی سلام,50
+MEDIA_REC,حکم,37
+MEDIA_REC,شطرنج,37
+MEDIA_REC,شلم,38
+MEDIA_REC,عینک واقعیت مجازی,49
+MEDIA_REC,آژانس شیشه ای,49
+MEDIA_REC,ابد و یک روز,58
+MEDIA_REC,اجاره نشین ها,49
+MEDIA_REC,از کرخه تا راین,60
+MEDIA_REC,بوی پیراهن یوسف,50
+MEDIA_REC,بچه های آسمان,49
+MEDIA_REC,جدایی نادر از سیمین,59
+MEDIA_REC,خانه دوست کجاست,50
+MEDIA_REC,داستان عامه پسند,49
+MEDIA_REC,درباره الی,43
+MEDIA_REC,دوبله همزمان,44
+MEDIA_REC,رنگ خدا,43
+MEDIA_REC,روزنامه نیازمندیها,44
+MEDIA_REC,زیرنویس فارسی,43
+MEDIA_REC,سنتوری,37
+MEDIA_REC,سوته دلان,44
+MEDIA_REC,سینمای خانگی,43
+MEDIA_REC,سینمای چهار بعدی,49
+MEDIA_REC,صفحه گرامافون,43
+MEDIA_REC,طعم گیلاس,44
+MEDIA_REC,فروشنده,37
+MEDIA_REC,فیلم صامت,43
+MEDIA_REC,فیلم مستند,43
+MEDIA_REC,فیلم همشهری کین,50
+MEDIA_REC,قیصر,37
+MEDIA_REC,لیلا,38
+MEDIA_REC,مادر,37
+MEDIA_REC,مهمان مامان,43
+MEDIA_REC,هامون,37
+MEDIA_REC,پادکست,37
+MEDIA_REC,پخش زنده (استریم),53
+MEDIA_REC,پیام اضطراری,43
+MEDIA_REC,پینک فلوید,43
+MEDIA_REC,کتاب صوتی,43
+MEDIA_REC,کندو,38
+MEDIA_REC,گاو,37
+MEDIA_REC,گوزن ها,44
+MEDIA_REC,۲۰۰۱ ادیسه فضایی,50
+MEDIA_REC,اسنوکر,37
+MEDIA_REC,بولدرینگ,37
+MEDIA_REC,زیپ لاین,43
+MEDIA_REC,سامو,37
+MEDIA_REC,سقوط آزاد,43
+MEDIA_REC,سنگنوردی داخل سالن,52
+MEDIA_REC,سه گانه,43
+MEDIA_REC,شطرنج,37
+MEDIA_REC,شنای موزون,43
+MEDIA_REC,شیرجه از ارتفاع,52
+MEDIA_REC,غواصی اسکوبا,43
+MEDIA_REC,قایق رانی در آبهای خروشان,60
+MEDIA_REC,مسابقات بین مدارس,52
+MEDIA_REC,مسابقه کالسکه رانی,50
+MEDIA_REC,هنرهای رزمی ترکیبی (MMA),60
+MEDIA_REC,پرواز با پاراگلایدر,53
+MEDIA_REC,پنج گانه مدرن,50
+MEDIA_REC,چوگان,37
+MEDIA_REC,ژیمناستیک ریتمیک,43
+MEDIA_REC,کاپوئرا,37
+MEDIA_REC,کرلینگ,60
+MEDIA_REC,کریکت,60
+MEDIA_REC,کشتی سومو,43
+MEDIA_REC,گل به خودی,52
+MEDIA_REC,ستاره میشلن,60
+NATURE_ENV,اردک,6
+NATURE_ENV,اسب,5
+NATURE_ENV,ببر,6
+NATURE_ENV,تمساح,6
+NATURE_ENV,تمساح,6
+NATURE_ENV,جغد,6
+NATURE_ENV,جوجه,6
+NATURE_ENV,جوجه تیغی,12
+NATURE_ENV,حشره,6
+NATURE_ENV,حیوان,5
+NATURE_ENV,خروس,6
+NATURE_ENV,خرچنگ,6
+NATURE_ENV,خفاش,6
+NATURE_ENV,دلفین,6
+NATURE_ENV,روباه,6
+NATURE_ENV,زرافه,6
+NATURE_ENV,زرافه,6
+NATURE_ENV,زنبور,6
+NATURE_ENV,زنبور,6
+NATURE_ENV,زنبور عسل,12
+NATURE_ENV,سنجاب,6
+NATURE_ENV,سوسک,6
+NATURE_ENV,سگ,5
+NATURE_ENV,شامپانزه,6
+NATURE_ENV,شترمرغ,6
+NATURE_ENV,شیر,6
+NATURE_ENV,شیر,6
+NATURE_ENV,طوطی,6
+NATURE_ENV,عنکبوت,6
+NATURE_ENV,عنکبوت,6
+NATURE_ENV,غاز,6
+NATURE_ENV,فیل,6
+NATURE_ENV,قورباغه,6
+NATURE_ENV,لاک پشت,12
+NATURE_ENV,لاک پشت,12
+NATURE_ENV,مار,5
+NATURE_ENV,مار,5
+NATURE_ENV,مارمولک,6
+NATURE_ENV,ماهی,6
+NATURE_ENV,مرغ,6
+NATURE_ENV,مرغ,6
+NATURE_ENV,مرغ,6
+NATURE_ENV,مورچه,6
+NATURE_ENV,مورچه,6
+NATURE_ENV,مگس,6
+NATURE_ENV,میمون,6
+NATURE_ENV,نهنگ,6
+NATURE_ENV,هشت پا,12
+NATURE_ENV,هشت پا,12
+NATURE_ENV,پاندا,6
+NATURE_ENV,پرنده,6
+NATURE_ENV,پروانه,6
+NATURE_ENV,پشه,6
+NATURE_ENV,پنگوئن,6
+NATURE_ENV,پنگوئن,6
+NATURE_ENV,کانگورو,5
+NATURE_ENV,کبوتر,6
+NATURE_ENV,کفشدوزک,6
+NATURE_ENV,کلاغ,6
+NATURE_ENV,کوسه,6
+NATURE_ENV,کوسه,6
+NATURE_ENV,گاو,6
+NATURE_ENV,گاو,6
+NATURE_ENV,گربه,5
+NATURE_ENV,گرگ,6
+NATURE_ENV,گنجشک,6
+NATURE_ENV,گورخر,6
+NATURE_ENV,گوریل,6
+NATURE_ENV,گوسفند,6
+NATURE_ENV,گوسفند,6
+NATURE_ENV,آبشار,6
+NATURE_ENV,آتش,5
+NATURE_ENV,آتش,5
+NATURE_ENV,آسمان,6
+NATURE_ENV,آسمان,6
+NATURE_ENV,ابر,6
+NATURE_ENV,ابر,6
+NATURE_ENV,باد,5
+NATURE_ENV,باران,5
+NATURE_ENV,برف,5
+NATURE_ENV,برف,5
+NATURE_ENV,تگرگ,6
+NATURE_ENV,تگرگ,6
+NATURE_ENV,خاک,6
+NATURE_ENV,خاک,6
+NATURE_ENV,دود,6
+NATURE_ENV,رود,6
+NATURE_ENV,رودخانه,6
+NATURE_ENV,سنگ,6
+NATURE_ENV,شن,6
+NATURE_ENV,شن,6
+NATURE_ENV,موج,6
+NATURE_ENV,موج,6
+NATURE_ENV,یخ,6
+NATURE_ENV,درخت,5
+NATURE_ENV,درخت,5
+NATURE_ENV,گل,5
+NATURE_ENV,گیاه,6
+NATURE_ENV,بهار,6
+NATURE_ENV,آخوندک,18
+NATURE_ENV,آفتاب پرست,24
+NATURE_ENV,اسب آبی,23
+NATURE_ENV,اسب دریایی,23
+NATURE_ENV,اورانگوتان,18
+NATURE_ENV,بوقلمون,17
+NATURE_ENV,جیرجیرک,18
+NATURE_ENV,حلزون,17
+NATURE_ENV,حیوان خانگی,23
+NATURE_ENV,حیوانات وحشی,24
+NATURE_ENV,خرس قطبی,23
+NATURE_ENV,خرس قطبی,23
+NATURE_ENV,خوکچه هندی,24
+NATURE_ENV,دارکوب,17
+NATURE_ENV,دایناسور,17
+NATURE_ENV,دایناسور,17
+NATURE_ENV,ستاره دریایی,24
+NATURE_ENV,سنجاقک,18
+NATURE_ENV,سوسمار,17
+NATURE_ENV,سگ آبی,24
+NATURE_ENV,شاه میگو,24
+NATURE_ENV,شاهین,17
+NATURE_ENV,شغال,18
+NATURE_ENV,طاووس,17
+NATURE_ENV,عروس دریایی,24
+NATURE_ENV,عقاب,17
+NATURE_ENV,فلامینگو,17
+NATURE_ENV,فیل دریایی,25
+NATURE_ENV,قناری,18
+NATURE_ENV,قو,17
+NATURE_ENV,لک لک,23
+NATURE_ENV,ماهی قرمز عید,30
+NATURE_ENV,مرغ عشق,28
+NATURE_ENV,ملخ,17
+NATURE_ENV,موش خرما,24
+NATURE_ENV,نهنگ قاتل,24
+NATURE_ENV,هزارپا,18
+NATURE_ENV,همستر,18
+NATURE_ENV,وزغ,18
+NATURE_ENV,پلنگ,17
+NATURE_ENV,پلنگ,17
+NATURE_ENV,پلیکان,17
+NATURE_ENV,کبوتر نامه بر,33
+NATURE_ENV,کرم خاکی,24
+NATURE_ENV,کرم شب تاب,30
+NATURE_ENV,کرکس,18
+NATURE_ENV,کرگدن,17
+NATURE_ENV,کفتار,18
+NATURE_ENV,کوآلا,18
+NATURE_ENV,یوزپلنگ,17
+NATURE_ENV,آبشار,17
+NATURE_ENV,آتشفشان,18
+NATURE_ENV,آتشفشان,18
+NATURE_ENV,انعکاس,18
+NATURE_ENV,بخار,17
+NATURE_ENV,جرقه,17
+NATURE_ENV,خاکستر,17
+NATURE_ENV,دریاچه,17
+NATURE_ENV,رعد و برق,32
+NATURE_ENV,رنگین کمان,23
+NATURE_ENV,رنگین کمان,23
+NATURE_ENV,رنگین کمان,23
+NATURE_ENV,سایه,17
+NATURE_ENV,شبنم,18
+NATURE_ENV,شعله,17
+NATURE_ENV,صاعقه,18
+NATURE_ENV,صخره مرجانی,24
+NATURE_ENV,طوفان شن,24
+NATURE_ENV,غبار,18
+NATURE_ENV,مه,17
+NATURE_ENV,مه,17
+NATURE_ENV,چشمه,17
+NATURE_ENV,کولاک,18
+NATURE_ENV,گدازه,18
+NATURE_ENV,گدازه,18
+NATURE_ENV,گرداب,18
+NATURE_ENV,گردباد,18
+NATURE_ENV,یخ بندان,24
+NATURE_ENV,سبزه,17
+NATURE_ENV,تابستان,17
+NATURE_ENV,زمستان,17
+NATURE_ENV,پاییز,17
+NATURE_ENV,اسفنج دریایی,43
+NATURE_ENV,اژدهای کومودو,43
+NATURE_ENV,ایگوانا,37
+NATURE_ENV,خرچنگ نعل اسبی,50
+NATURE_ENV,خیار دریایی,43
+NATURE_ENV,سگ راهنما,43
+NATURE_ENV,مرغ مگس خوار,49
+NATURE_ENV,جزر و مد,52
+NATURE_ENV,خاکستر آتشفشانی,43
+NATURE_ENV,سراب,37
+NATURE_ENV,شفق قطبی,44
+NATURE_ENV,شهاب سنگ,43
+NATURE_ENV,گسل,37
+NATURE_ENV,افق رویداد,60
+NATURE_ENV,انبساط جهان,60
+NATURE_ENV,انفجار کامبرین,60
+NATURE_ENV,انقراض اردویسین-سیلورین,60
+NATURE_ENV,انقراض بزرگ,60
+NATURE_ENV,انقراض تریاس-ژوراسیک,60
+NATURE_ENV,انقراض دونین پسین,60
+NATURE_ENV,انقراض سیلورین,60
+NATURE_ENV,انقراض هولوسن,60
+NATURE_ENV,انقراض پرمین-تریاس,60
+NATURE_ENV,ایزوتوپ رادیواکتیو,60
+NATURE_ENV,ایزوتوپ پایدار,60
+NATURE_ENV,باکتری,55
+NATURE_ENV,بیولومینسانس,55
+NATURE_ENV,تابش سینکروترون,60
+NATURE_ENV,تابش هاوکینگ,60
+NATURE_ENV,تنوع زیستی,60
+NATURE_ENV,تورم ابدی,60
+NATURE_ENV,تورم کیهانی,60
+NATURE_ENV,تکامل همگرا,60
+NATURE_ENV,جلبک,55
+NATURE_ENV,دوگانگی موج و ذره,60
+NATURE_ENV,ستاره نوترونی,60
+NATURE_ENV,شاخه بندپایان,60
+NATURE_ENV,شهاب‌سنگ,59
+NATURE_ENV,فرگشت,55
+NATURE_ENV,قارچ,55
+NATURE_ENV,قطبیت (شیمی),60
+NATURE_ENV,موج گرانشی,60
+NATURE_ENV,میدان الکترومغناطیسی,60
+NATURE_ENV,میدان مغناطیسی,60
+NATURE_ENV,پادماده,55
+NATURE_ENV,پرتوزوآ,55
+NATURE_ENV,پلوتونیم,55
+NATURE_ENV,کانی,55
+NATURE_ENV,گلسنگ,55
+PLACES_STRUCT,آسیاب بادی,11
+PLACES_STRUCT,بیمارستان,6
+PLACES_STRUCT,بیمارستان,6
+PLACES_STRUCT,خانه,5
+PLACES_STRUCT,ساختمان,5
+PLACES_STRUCT,مدرسه,5
+PLACES_STRUCT,برج ایفل,11
+PLACES_STRUCT,آنجا,5
+PLACES_STRUCT,اینجا,5
+PLACES_STRUCT,اتاق,5
+PLACES_STRUCT,استخر,5
+PLACES_STRUCT,استخر,5
+PLACES_STRUCT,استخر شنا,11
+PLACES_STRUCT,جنگل,5
+PLACES_STRUCT,جنگل,5
+PLACES_STRUCT,جنگل,5
+PLACES_STRUCT,دریا,5
+PLACES_STRUCT,دریا,5
+PLACES_STRUCT,دریا,5
+PLACES_STRUCT,دریا,5
+PLACES_STRUCT,رستوران,5
+PLACES_STRUCT,رستوران,5
+PLACES_STRUCT,روستا,5
+PLACES_STRUCT,زمین,5
+PLACES_STRUCT,ساحل,5
+PLACES_STRUCT,ساحل,5
+PLACES_STRUCT,سینما,5
+PLACES_STRUCT,شهر,5
+PLACES_STRUCT,شهربازی,5
+PLACES_STRUCT,نانوایی,6
+PLACES_STRUCT,پارک,5
+PLACES_STRUCT,پارک,5
+PLACES_STRUCT,پمپ بنزین,11
+PLACES_STRUCT,کشور,5
+PLACES_STRUCT,کوه,5
+PLACES_STRUCT,کوه,5
+PLACES_STRUCT,کویر,6
+PLACES_STRUCT,آسیاب آبی,24
+PLACES_STRUCT,آپارتمان,17
+PLACES_STRUCT,دانشگاه,17
+PLACES_STRUCT,راه پله,23
+PLACES_STRUCT,سد,17
+PLACES_STRUCT,فانوس دریایی,23
+PLACES_STRUCT,فانوس دریایی,23
+PLACES_STRUCT,قصر,17
+PLACES_STRUCT,قلعه,17
+PLACES_STRUCT,قلعه,17
+PLACES_STRUCT,مسجد,17
+PLACES_STRUCT,معبد,17
+PLACES_STRUCT,ویلا,17
+PLACES_STRUCT,پل معلق,24
+PLACES_STRUCT,کارخانه,17
+PLACES_STRUCT,کارخانه,17
+PLACES_STRUCT,کتابخانه,17
+PLACES_STRUCT,کلبه,17
+PLACES_STRUCT,کلبه چوبی,23
+PLACES_STRUCT,کلبه کوهستانی,24
+PLACES_STRUCT,کلیسا,17
+PLACES_STRUCT,کنیسه,18
+PLACES_STRUCT,اهرام ثلاثه,23
+PLACES_STRUCT,برج میلاد,23
+PLACES_STRUCT,برج پیزا,23
+PLACES_STRUCT,تخت جمشید,24
+PLACES_STRUCT,دیوار چین,23
+PLACES_STRUCT,سی و سه پل,39
+PLACES_STRUCT,مجسمه آزادی,23
+PLACES_STRUCT,میدان آزادی,23
+PLACES_STRUCT,کوه اورست,24
+PLACES_STRUCT,آتش نشانی,23
+PLACES_STRUCT,آزمایشگاه,18
+PLACES_STRUCT,آزمایشگاه,18
+PLACES_STRUCT,آشپزخانه صنعتی,24
+PLACES_STRUCT,اتاق بازی,24
+PLACES_STRUCT,اداره,17
+PLACES_STRUCT,اداره پست,24
+PLACES_STRUCT,اقیانوس,17
+PLACES_STRUCT,انبار غله,24
+PLACES_STRUCT,انباری,17
+PLACES_STRUCT,اورژانس,17
+PLACES_STRUCT,اورژانس بیمارستان,24
+PLACES_STRUCT,ایست بازرسی,24
+PLACES_STRUCT,ایستگاه اتوبوس,23
+PLACES_STRUCT,ایستگاه راه آهن,29
+PLACES_STRUCT,ایستگاه قطار,23
+PLACES_STRUCT,ایستگاه قطار,23
+PLACES_STRUCT,باغ,17
+PLACES_STRUCT,باغ سیب,23
+PLACES_STRUCT,باغ وحش,23
+PLACES_STRUCT,باغ وحش,23
+PLACES_STRUCT,باغچه,17
+PLACES_STRUCT,باند فرودگاه,24
+PLACES_STRUCT,بانک,17
+PLACES_STRUCT,بانک,17
+PLACES_STRUCT,بستنی فروشی,23
+PLACES_STRUCT,بوفه مدرسه,23
+PLACES_STRUCT,بیابان,17
+PLACES_STRUCT,بیابان,17
+PLACES_STRUCT,تاکستان انگور,24
+PLACES_STRUCT,ترمینال,17
+PLACES_STRUCT,جزیره,17
+PLACES_STRUCT,جزیره گنج,24
+PLACES_STRUCT,جنگل آمازون,24
+PLACES_STRUCT,جهان,17
+PLACES_STRUCT,جکوزی,18
+PLACES_STRUCT,حیاط,17
+PLACES_STRUCT,خط تولید,24
+PLACES_STRUCT,خوابگاه,18
+PLACES_STRUCT,خوابگاه دانشجویی,24
+PLACES_STRUCT,داروخانه,17
+PLACES_STRUCT,داروخانه,17
+PLACES_STRUCT,درمانگاه,18
+PLACES_STRUCT,رستوران ایتالیایی,24
+PLACES_STRUCT,رستوران چینی,25
+PLACES_STRUCT,زمین بازی,23
+PLACES_STRUCT,زمین ورزش,23
+PLACES_STRUCT,زمین چمن,23
+PLACES_STRUCT,ستاد انتخاباتی,24
+PLACES_STRUCT,سونا,18
+PLACES_STRUCT,سکوی تماشاگران,24
+PLACES_STRUCT,سکوی شیرجه,24
+PLACES_STRUCT,سکوی قطار,24
+PLACES_STRUCT,صحنه تئاتر,23
+PLACES_STRUCT,صرافی,18
+PLACES_STRUCT,صندوق,17
+PLACES_STRUCT,عابربانک,17
+PLACES_STRUCT,عوارضی,18
+PLACES_STRUCT,فرودگاه,17
+PLACES_STRUCT,فرودگاه,17
+PLACES_STRUCT,فرودگاه,17
+PLACES_STRUCT,فروشگاه,17
+PLACES_STRUCT,قاره,18
+PLACES_STRUCT,قبرستان,18
+PLACES_STRUCT,قطب,18
+PLACES_STRUCT,قنادی,17
+PLACES_STRUCT,متل,18
+PLACES_STRUCT,مرز,17
+PLACES_STRUCT,مرغداری,18
+PLACES_STRUCT,مزرعه,17
+PLACES_STRUCT,مسافرخانه,18
+PLACES_STRUCT,معدن,18
+PLACES_STRUCT,مهدکودک,18
+PLACES_STRUCT,مهدکودک,18
+PLACES_STRUCT,موزه,17
+PLACES_STRUCT,هتل,17
+PLACES_STRUCT,هتل,17
+PLACES_STRUCT,واگن رستوران,24
+PLACES_STRUCT,ورزشگاه,17
+PLACES_STRUCT,پادگان,18
+PLACES_STRUCT,پارک سگ ها,30
+PLACES_STRUCT,پارکینگ,17
+PLACES_STRUCT,پارکینگ طبقاتی,24
+PLACES_STRUCT,پناهگاه,17
+PLACES_STRUCT,پناهگاه,17
+PLACES_STRUCT,چهارراه,17
+PLACES_STRUCT,کافی شاپ,23
+PLACES_STRUCT,کافی شاپ,23
+PLACES_STRUCT,کتابخانه,17
+PLACES_STRUCT,کتابخانه عمومی,23
+PLACES_STRUCT,کتابخانه مدرسه,23
+PLACES_STRUCT,کلانتری,17
+PLACES_STRUCT,کندوی عسل,24
+PLACES_STRUCT,کوپه قطار,23
+PLACES_STRUCT,گاوداری,18
+PLACES_STRUCT,گمرک,18
+PLACES_STRUCT,گمرک,18
+PLACES_STRUCT,گیت پرواز,24
+PLACES_STRUCT,آهن,18
+PLACES_STRUCT,الماس,18
+PLACES_STRUCT,زغال سنگ,24
+PLACES_STRUCT,طلا,17
+PLACES_STRUCT,فولاد,18
+PLACES_STRUCT,مس,18
+PLACES_STRUCT,نفت,18
+PLACES_STRUCT,گاز طبیعی,24
+PLACES_STRUCT,برج مراقبت,44
+PLACES_STRUCT,برجک نگهبانی,43
+PLACES_STRUCT,سفارتخانه,37
+PLACES_STRUCT,نیروگاه برق,43
+PLACES_STRUCT,آبشار آنجل,43
+PLACES_STRUCT,آبشار نیاگارا,43
+PLACES_STRUCT,ارتش سفالین,44
+PLACES_STRUCT,استون هنج,44
+PLACES_STRUCT,باغ های معلق بابل,56
+PLACES_STRUCT,جزایر گالاپاگوس,44
+PLACES_STRUCT,جزیره ایستر,44
+PLACES_STRUCT,جنگل ملی سکویا,50
+PLACES_STRUCT,خطوط نازکا,45
+PLACES_STRUCT,درازگودال ماریانا,45
+PLACES_STRUCT,دلتای اوکاوانگو,45
+PLACES_STRUCT,دیوار برلین,43
+PLACES_STRUCT,دیواره بزرگ مرجانی,51
+PLACES_STRUCT,رود آمازون,44
+PLACES_STRUCT,رود نیل,44
+PLACES_STRUCT,زیگورات اور,44
+PLACES_STRUCT,سرنگتی,38
+PLACES_STRUCT,صحرای گبی,44
+PLACES_STRUCT,قطب شمال مغناطیسی,50
+PLACES_STRUCT,ماچو پیچو,44
+PLACES_STRUCT,هیمالیا,38
+PLACES_STRUCT,پاسارگاد,37
+PLACES_STRUCT,پترا,38
+PLACES_STRUCT,چیچن ایتزا,44
+PLACES_STRUCT,کوه فوجی,43
+PLACES_STRUCT,کوههای راکی,44
+PLACES_STRUCT,گرند کنیون,44
+PLACES_STRUCT,آشیانه هواپیما,43
+PLACES_STRUCT,اتاق ایزوله,44
+PLACES_STRUCT,اتاق عمل,43
+PLACES_STRUCT,اتاق عمل,43
+PLACES_STRUCT,انبار مواد غذایی,49
+PLACES_STRUCT,ایستگاه فضایی,43
+PLACES_STRUCT,ایستگاه فضایی بین المللی,60
+PLACES_STRUCT,بخش مراقبت های ویژه,58
+PLACES_STRUCT,تاریکخانه,38
+PLACES_STRUCT,جزیره متروکه,43
+PLACES_STRUCT,خانه سالمندان,43
+PLACES_STRUCT,خانه سالمندان,43
+PLACES_STRUCT,دادگاه,47
+PLACES_STRUCT,دادگاه,47
+PLACES_STRUCT,دادگاه,47
+PLACES_STRUCT,داروخانه شبانه روزی,50
+PLACES_STRUCT,رستوران مکزیکی,43
+PLACES_STRUCT,رستوران هندی,43
+PLACES_STRUCT,زندان,37
+PLACES_STRUCT,زندان,37
+PLACES_STRUCT,سردخانه,37
+PLACES_STRUCT,سلول انفرادی,44
+PLACES_STRUCT,شبه جزیره,43
+PLACES_STRUCT,شیرخوارگاه,37
+PLACES_STRUCT,عطاری,37
+PLACES_STRUCT,قاره آمریکا,43
+PLACES_STRUCT,قطب جنوب,43
+PLACES_STRUCT,قطب شمال,43
+PLACES_STRUCT,مدرسه استثنایی,44
+PLACES_STRUCT,مرز بین المللی,53
+PLACES_STRUCT,هاستل,37
+PLACES_STRUCT,واحه,37
+PLACES_STRUCT,ویدئو کلوب,43
+PLACES_STRUCT,پرورشگاه,38
+PLACES_STRUCT,پناهگاه حیوانات,43
+PLACES_STRUCT,چشمه آب گرم,49
+PLACES_STRUCT,کارخانه روغن کشی,50
+PLACES_STRUCT,کمپ ترک اعتیاد,49
+PLACES_STRUCT,گیشه بلیط فروشی,49
+PLACES_STRUCT,آلومینیوم,37
+PLACES_STRUCT,جزایر گالاپاگوس,60
+PLACES_STRUCT,دماغه امید نیک,60
+PPL,آدم برفی,10
+PPL,آدم برفی,10
+PPL,بابا نوئل,11
+PPL,دزد دریایی,10
+PPL,دزد دریایی,10
+PPL,دلقک,5
+PPL,انسان,4
+PPL,دختر,4
+PPL,زن,4
+PPL,مرد,4
+PPL,نوزاد,5
+PPL,پسر,4
+PPL,چارلی چاپلین,11
+PPL,کودک,4
+PPL,آتشنشان,5
+PPL,آرایشگر,5
+PPL,بازیگر,5
+PPL,خلبان,5
+PPL,خلبان,5
+PPL,خواننده,4
+PPL,دندانپزشک,4
+PPL,عکاس,5
+PPL,فضانورد,5
+PPL,فضانورد,5
+PPL,فضانورد,5
+PPL,معلم,4
+PPL,نانوا,5
+PPL,نقاش,4
+PPL,پرستار,5
+PPL,پستچی,5
+PPL,پلیس,4
+PPL,پلیس,4
+PPL,گارسون,5
+PPL,گارسون,5
+PPL,بله,4
+PPL,نه,4
+PPL,آتش نشان,11
+PPL,آشپز,4
+PPL,بازیگر,5
+PPL,بازیگر,5
+PPL,تماشاگر,5
+PPL,تماشاگر,5
+PPL,خلبان,5
+PPL,خواننده,4
+PPL,دزد,4
+PPL,دلقک,5
+PPL,فضانورد,5
+PPL,معلم,4
+PPL,معلم,4
+PPL,ورزشکار,5
+PPL,پرستار,5
+PPL,پلیس,4
+PPL,گارسون,5
+PPL,آب زیرکاه,24
+PPL,آفتاب پرست,23
+PPL,جادوگر,17
+PPL,حاجی فیروز,23
+PPL,روباه صفت,24
+PPL,سامورایی,17
+PPL,سرخپوست,17
+PPL,سندباد,17
+PPL,طوطی روی شانه,32
+PPL,عمو نوروز,23
+PPL,مارموز,18
+PPL,مومیایی,17
+PPL,ننه سرما,23
+PPL,نینجا,16
+PPL,کابوی,16
+PPL,گلادیاتور,17
+PPL,گلادیاتور,17
+PPL,آل پاچینو,23
+PPL,آلفرد هیچکاک,24
+PPL,آنجلینا جولی,23
+PPL,برد پیت,23
+PPL,بزرگسال,16
+PPL,حافظ,18
+PPL,رابرت دنیرو,24
+PPL,سعدی,18
+PPL,شکسپیر,18
+PPL,فردوسی,18
+PPL,لئوناردو داوینچی,24
+PPL,لئوناردو دی کاپریو,30
+PPL,مایکل جکسون,23
+PPL,مولوی,18
+PPL,نوجوان,16
+PPL,پابلو پیکاسو,24
+PPL,گالیلئو گالیله,23
+PPL,گالیله,17
+PPL,آهنگر,17
+PPL,باغبان,16
+PPL,باغبان,16
+PPL,بدلکار,17
+PPL,بدلکار,17
+PPL,تایپیست,17
+PPL,جراح,17
+PPL,جنگلبان,17
+PPL,حسابدار,17
+PPL,خبرنگار,17
+PPL,دامپزشک,16
+PPL,دربان,17
+PPL,دودکش پاک کن,29
+PPL,راننده اتوبوس,22
+PPL,راننده تاکسی اینترنتی,30
+PPL,راننده کامیون,22
+PPL,راهنمای تور,23
+PPL,رفتگر,16
+PPL,ساعت ساز,23
+PPL,سرآشپز,17
+PPL,شاعر,18
+PPL,شعبده باز,23
+PPL,شعبده باز,23
+PPL,شیرینی پز,23
+PPL,غریق نجات,22
+PPL,غریق نجات,22
+PPL,غواص,16
+PPL,قصاب,17
+PPL,ماساژور,16
+PPL,ماما,17
+PPL,مترجم,17
+PPL,مجری تلویزیون,23
+PPL,مجری تلویزیون,23
+PPL,محیط بان,24
+PPL,مربی بدنسازی,24
+PPL,مربی ورزشی,23
+PPL,مرزبان,17
+PPL,مسگر,17
+PPL,معلم یوگا,23
+PPL,معمار,17
+PPL,ملوان,16
+PPL,مهماندار هواپیما,23
+PPL,مهماندار هواپیما,23
+PPL,مهندس,17
+PPL,مکانیک,17
+PPL,میوه فروش,23
+PPL,نامه رسان,23
+PPL,نجار,17
+PPL,نوازنده,16
+PPL,نویسنده,17
+PPL,وکیل,17
+PPL,وکیل,17
+PPL,پاکبان,16
+PPL,پیک موتوری,22
+PPL,کارگردان,17
+PPL,کاپیتان,17
+PPL,کاپیتان کشتی,23
+PPL,کفاش,16
+PPL,کمدین,17
+PPL,کوزه گر,23
+PPL,کوهنورد,16
+PPL,گزارشگر ورزشی,24
+PPL,گوینده رادیو,24
+PPL,استاد,17
+PPL,افسر,17
+PPL,بیمار,17
+PPL,دانش آموز,23
+PPL,دانش آموز,23
+PPL,دانش آموز,23
+PPL,دانشجو,17
+PPL,دانشجو,17
+PPL,داور مسابقه,23
+PPL,رئیس,16
+PPL,راننده,16
+PPL,راننده,16
+PPL,سالمند,17
+PPL,سرباز,16
+PPL,سرباز,16
+PPL,شاهزاده,17
+PPL,شاهزاده,17
+PPL,شعبده باز,23
+PPL,طرفدار,16
+PPL,فروشنده,16
+PPL,قهرمان,17
+PPL,مبصر کلاس,23
+PPL,مدیر,17
+PPL,مدیر عامل,24
+PPL,مسافر,16
+PPL,مشتری,16
+PPL,ملوان,16
+PPL,ملکه,17
+PPL,ملکه,17
+PPL,مهندس,17
+PPL,نویسنده,17
+PPL,هنرمند,16
+PPL,پادشاه,17
+PPL,پادشاه,17
+PPL,پزشک,16
+PPL,پزشک,16
+PPL,پلیس راهنمایی و رانندگی,38
+PPL,پلیس مرزی,23
+PPL,ژنرال,17
+PPL,کارآگاه,17
+PPL,کارمند,17
+PPL,کارمند,17
+PPL,کارگر,17
+PPL,کارگردان,17
+PPL,کاندیدا,17
+PPL,کشاورز,16
+PPL,گدا,16
+PPL,گدا,16
+PPL,بوقلمون صفت,42
+PPL,شهرزاد قصه گو,48
+PPL,شوالیه,36
+PPL,فرعون,36
+PPL,آبراهام لینکلن,43
+PPL,استنلی کوبریک,43
+PPL,اسکندر مقدونی,43
+PPL,اسکیمو,36
+PPL,برادران رایت,43
+PPL,خیام,36
+PPL,داریوش بزرگ,43
+PPL,سالوادور دالی,43
+PPL,فئودور داستایوفسکی,44
+PPL,قبیله های بومی,49
+PPL,لئو تولستوی,43
+PPL,مارتین اسکورسیزی,43
+PPL,مارتین لوتر کینگ,49
+PPL,مارلون براندو,42
+PPL,مارکو پولو,43
+PPL,ماری کوری,43
+PPL,مرلین مونرو,42
+PPL,میکل آنژ,42
+PPL,ناپلئون بناپارت,43
+PPL,نلسون ماندلا,43
+PPL,نیل آرمسترانگ,43
+PPL,نیکولا تسلا,43
+PPL,ونسان ونگوگ,43
+PPL,ویکتور هوگو,42
+PPL,چنگیز خان,43
+PPL,ژان دارک,43
+PPL,ژولیوس سزار,43
+PPL,کریستف کلمب,43
+PPL,کلئوپاترا,37
+PPL,کوئنتین تارانتینو,43
+PPL,کوروش بزرگ,43
+PPL,آب حوض کش,50
+PPL,آسیب شناس,44
+PPL,آشپز بین المللی,52
+PPL,آهنگساز فیلم,44
+PPL,آینه بین,46
+PPL,اخترشناس,37
+PPL,استراتژیست محتوا,44
+PPL,امدادگر,36
+PPL,انیماتور,37
+PPL,اپتومتریست,37
+PPL,اپراتور پهپاد,43
+PPL,اپراتور پهپاد,43
+PPL,ایجنت ورزشی,43
+PPL,باریستا,36
+PPL,باستان شناس,43
+PPL,برنامه نویس,43
+PPL,بند باز,42
+PPL,بندباز,36
+PPL,تحلیلگر داده,44
+PPL,تحلیلگر سیستم,44
+PPL,تحلیلگر مالی,44
+PPL,تحلیلگر کسب و کار,59
+PPL,تهیه کننده,43
+PPL,توسعه دهنده اپلیکیشن,51
+PPL,توسعه دهنده وب,50
+PPL,تولید کننده محتوای ویدیویی,58
+PPL,جاشو,37
+PPL,جراح قلب,44
+PPL,جراح مغز و اعصاب,59
+PPL,حکیم باشی,43
+PPL,خبرنگار جنگی,43
+PPL,خلبان گلایدر,43
+PPL,خواننده اپرا,43
+PPL,دادستان,37
+PPL,داروغه,37
+PPL,دانشمند,37
+PPL,دانشمند داده,44
+PPL,درشکه چی,42
+PPL,دستیار کارگردان,43
+PPL,دعانویس,37
+PPL,دلاک,36
+PPL,دندانپزشک اطفال,43
+PPL,دوبلور,37
+PPL,دیرین شناس,44
+PPL,راننده مسابقات فرمول یک,57
+PPL,رقصنده باله,43
+PPL,رمال,37
+PPL,رهبر ارکستر,44
+PPL,روانشناس,37
+PPL,روانپزشک,37
+PPL,زمین شناس,43
+PPL,زندانبان,36
+PPL,زیست شناس,43
+PPL,سوزنبان,37
+PPL,شنوایی سنج,44
+PPL,شیشه گر,42
+PPL,شیمیدان,37
+PPL,صدابردار,37
+PPL,طراح بازی های ویدیویی,57
+PPL,طراح تجربه کاربری,50
+PPL,طراح جواهرات,43
+PPL,طراح رابط کاربری,50
+PPL,طراح صحنه,43
+PPL,طراح صنعتی,43
+PPL,طراح مد,43
+PPL,طراح منظر,43
+PPL,طراح نور,43
+PPL,طراح گرافیک,42
+PPL,عطار,36
+PPL,عکاس خبری,43
+PPL,فالگیر,37
+PPL,فیزیوتراپیست حیوانات,45
+PPL,فیزیکدان,37
+PPL,فیلمبردار,37
+PPL,فیلمنامه نویس,43
+PPL,قاضی,36
+PPL,قاضی,36
+PPL,لحاف دوز,42
+PPL,لوکوموتیوران,36
+PPL,متخصص ارتودنسی,43
+PPL,متخصص امنیت سایبری,51
+PPL,متخصص انرژی های تجدیدپذیر,57
+PPL,متخصص تغذیه,43
+PPL,متخصص تغذیه ورزشی,50
+PPL,متخصص رباتیک,44
+PPL,متخصص سئو,43
+PPL,متخصص پوست,43
+PPL,متخصص چاپ سه بعدی,56
+PPL,متخصص ژنتیک,54
+PPL,مترجم همزمان,44
+PPL,مجسمه ساز,42
+PPL,محافظ شخصی,43
+PPL,مخترع,37
+PPL,مددکار اجتماعی,43
+PPL,مدیر بازاریابی,43
+PPL,مدیر تولید,43
+PPL,مدیر سرمایه گذاری,50
+PPL,مدیر شبکه های اجتماعی,57
+PPL,مدیر فروش,43
+PPL,مدیر محصول,43
+PPL,مدیر منابع انسانی,49
+PPL,مدیر پایگاه داده,50
+PPL,مدیر پروژه,43
+PPL,مدیر کمپین دیجیتال,51
+PPL,مربی ذهن آگاهی,50
+PPL,مربی چتربازی,43
+PPL,مشاور املاک,43
+PPL,مشاوره خانواده,43
+PPL,معامله گر ارز دیجیتال,57
+PPL,معرکه گیر,42
+PPL,معمار داخلی,43
+PPL,منتقد ادبی,44
+PPL,منتقد فیلم,43
+PPL,مهندس رباتیک,44
+PPL,مهندس هوش مصنوعی,50
+PPL,مهندس پرواز,43
+PPL,موزه دار,43
+PPL,مکانیک هواپیما,42
+PPL,میرزا بنویس,43
+PPL,ناشر,37
+PPL,نقال,37
+PPL,نقشه بردار,43
+PPL,هکر اخلاقی,44
+PPL,هکر کلاه سفید,50
+PPL,هیپنوتیزور,38
+PPL,ویراستار,37
+PPL,پادکستر,37
+PPL,پاپاراتزی,37
+PPL,پینه دوز,42
+PPL,کارآگاه خصوصی,43
+PPL,کارشناس امنیت سایبری,51
+PPL,کارشناس بورس,44
+PPL,کارشناس تغییرات اقلیمی,51
+PPL,کارشناس حراج,43
+PPL,کارگردان هنری,44
+PPL,کتابدار,37
+PPL,کلانتر,37
+PPL,کنترلر ترافیک هوایی,51
+PPL,کوچ زندگی,43
+PPL,کپی رایتر,43
+PPL,کیهان شناس,44
+PPL,گریمور,36
+PPL,گزمه,37
+PPL,گوهرشناس,37
+PPL,آتش نشان داوطلب,49
+PPL,استاد راهنما,43
+PPL,اسیر جنگی,42
+PPL,امدادگر هلال احمر,49
+PPL,بندباز,36
+PPL,توریست فضایی,44
+PPL,تک تیرانداز,43
+PPL,جاسوس,37
+PPL,جاسوس,37
+PPL,جانباز,36
+PPL,دانشمند,37
+PPL,دیپلمات,37
+PPL,رئیس جمهور,42
+PPL,رئیس جمهور,42
+PPL,رئیس جمهور,42
+PPL,رئیس جمهور,42
+PPL,سرباز کهنه کار,49
+PPL,سرباز گمنام,43
+PPL,سیاستمدار,37
+PPL,سیاهی لشکر,42
+PPL,شاهد,36
+PPL,شاهد تحت محافظت,50
+PPL,شاکی,36
+PPL,شاگرد اول,42
+PPL,شهردار,36
+PPL,ضدقهرمان,36
+PPL,فعال حقوق بشر,50
+PPL,فعال محیط زیست,60
+PPL,مامور دو جانبه,50
+PPL,مامور مخفی,43
+PPL,متهم,36
+PPL,مخترع,37
+PPL,مخترع,37
+PPL,مذاکره کننده,43
+PPL,نخست وزیر,43
+PPL,نماینده مجلس,43
+PPL,نماینده مجلس,43
+PPL,وزیر,36
+PPL,وکیل وصی,43
+PPL,پناهنده سیاسی,44
+PPL,کارآفرین,37
+PPL,کارتن خواب,43
+PPL,کلاه آبی ها,49
+PPL,کودک کار,43
+PPL,برنامه ریز شهری پایدار,60
+PPL,خلبان سفینه فضایی تجاری,60
+PPL,روزنامه نگار تحقیقی,60
+PPL,طراح واقعیت مجازی,60
+PPL,متخصص بلاکچین,60
+PPL,مرمتگر آثار باستانی,60
+PPL,مرمتگر آثار هنری دیجیتال,60
+PPL,مشاور ژنتیک,60
+PPL,مهندس DevOps,60
+PPL,مهندس بیومدیکال,60
+PPL,مهندس نرم افزار ابری,60
+PPL,انسان‌شناس فرهنگی,60
+PPL,اکچوئری (آمارگر بیمه),60
+PPL,دادستان ویژه,60
+PPL,دادستان کل,60
+PPL,دادستان کل کشور,60
+PPL,شخصیت خاکستری اخلاقی,60
+PPL,شخصیت شرور کاریزماتیک,60
+PPL,شخصیت پردازی,60
+PPL,شهردار,55
+PPL,مردم‌نگاری,59
+PPL,ولادیمیر نابوکوف,60
+PPL,ویلیام شکسپیر,60
+PPL,کمیته امداد امام خمینی,60
+SCI_NUM,ده,3
+SCI_NUM,دو,3
+SCI_NUM,سه,3
+SCI_NUM,شش,3
+SCI_NUM,نه,4
+SCI_NUM,هشت,3
+SCI_NUM,هفت,3
+SCI_NUM,پنج,3
+SCI_NUM,یک,3
+SCI_NUM,خورشید,3
+SCI_NUM,خورشید,3
+SCI_NUM,خورشید,3
+SCI_NUM,ستاره,3
+SCI_NUM,ستاره,3
+SCI_NUM,ماه,3
+SCI_NUM,ماه,3
+SCI_NUM,ماه,3
+SCI_NUM,استون,15
+SCI_NUM,کلر,15
+SCI_NUM,جدول ضرب,21
+SCI_NUM,بیست,14
+SCI_NUM,صد,14
+SCI_NUM,میلیون,15
+SCI_NUM,هزار,14
+SCI_NUM,چهار,14
+SCI_NUM,آخرین,14
+SCI_NUM,اولین,14
+SCI_NUM,آلبرت انیشتین,22
+SCI_NUM,حلقه های زحل,28
+SCI_NUM,سیاره,14
+SCI_NUM,سیاره,14
+SCI_NUM,سیاره مریخ,21
+SCI_NUM,سیاره مشتری,22
+SCI_NUM,فضا,15
+SCI_NUM,کهکشان,15
+SCI_NUM,کهکشان,15
+SCI_NUM,اثر گلخانه ای,47
+SCI_NUM,استیون هاوکینگ,41
+SCI_NUM,اسحاق نیوتن,40
+SCI_NUM,انتخاب طبیعی,41
+SCI_NUM,تکامل,35
+SCI_NUM,جدول تناوبی,41
+SCI_NUM,دی ان ای,47
+SCI_NUM,رانش قاره ها,48
+SCI_NUM,سلول بنیادی,41
+SCI_NUM,سیاهچاله,36
+SCI_NUM,صفحات تکتونیکی,42
+SCI_NUM,فرگشت,35
+SCI_NUM,قانون جاذبه,51
+SCI_NUM,لایه ازون,41
+SCI_NUM,میدان مغناطیسی زمین,48
+SCI_NUM,نیکلاس کوپرنیک,40
+SCI_NUM,چارلز داروین,40
+SCI_NUM,چرخه آب,41
+SCI_NUM,ژنتیک,45
+SCI_NUM,کلون سازی,41
+SCI_NUM,ستاره دنباله دار,47
+SCI_NUM,سفر به مریخ,50
+SCI_NUM,سیاه چاله,42
+SCI_NUM,شهاب سنگ,40
+SCI_NUM,منظومه شمسی,40
+SCI_NUM,منظومه شمسی,40
+SCI_NUM,کهکشان راه شیری,47
+SCI_NUM,انتگرال,53
+SCI_NUM,بی نهایت,58
+SCI_NUM,قضیه فیثاغورس,58
+SCI_NUM,معادله چند مجهولی,60
+SCI_NUM,اثر دوپلر,58
+SCI_NUM,اثر پروانه ای,60
+SCI_NUM,اصل عدم قطعیت هایزنبرگ,60
+SCI_NUM,الگوریتم ژنتیک,60
+SCI_NUM,امواج گرانشی,59
+SCI_NUM,انبساط جهان,58
+SCI_NUM,انرژی تاریک,59
+SCI_NUM,انرژی همجوشی,59
+SCI_NUM,برخورد دهنده هادرونی بزرگ,60
+SCI_NUM,تست تورینگ,59
+SCI_NUM,تمدن نوع یک,60
+SCI_NUM,ثابت پلانک,59
+SCI_NUM,جهان های موازی,60
+SCI_NUM,جهان های موازی,60
+SCI_NUM,حیات میکروبی,58
+SCI_NUM,دایسون اسفیر,59
+SCI_NUM,دوراهی زندانی,59
+SCI_NUM,ربات نانو,59
+SCI_NUM,سفر در زمان,60
+SCI_NUM,سفر در زمان,60
+SCI_NUM,سلول های بنیادی,60
+SCI_NUM,شبکه عصبی,58
+SCI_NUM,شبیه سازی,58
+SCI_NUM,شکافت هسته ای,60
+SCI_NUM,فتوسنتز,52
+SCI_NUM,قانون مور,60
+SCI_NUM,ماده تاریک,59
+SCI_NUM,ماده تاریک,59
+SCI_NUM,معادله دریک,59
+SCI_NUM,مقیاس کارداشف,59
+SCI_NUM,منطقه گلدیلاک,59
+SCI_NUM,مهبانگ (بیگ بنگ),60
+SCI_NUM,مهندسی ژنتیک,60
+SCI_NUM,نانوتکنولوژی,53
+SCI_NUM,نظریه بازی ها,60
+SCI_NUM,نظریه ریسمان,59
+SCI_NUM,نظریه نسبیت,58
+SCI_NUM,نظریه همه چیز,60
+SCI_NUM,همجوشی هسته ای,60
+SCI_NUM,واکنش زنجیره ای پلیمراز,60
+SCI_NUM,ویرایش ژن (کریسپر),60
+SCI_NUM,پارادوکس پدربزرگ,59
+SCI_NUM,پیام آرسیبو,59
+SCI_NUM,ژنوم انسان,58
+SCI_NUM,کرمچاله,53
+SCI_NUM,کرمچاله,53
+SCI_NUM,کرمچاله,53
+SCI_NUM,کریسپر,53
+SCI_NUM,کیمیاگری,52
+SCI_NUM,گربه شرودینگر,59
+SCI_NUM,گربه شرودینگر,59
+SCI_NUM,یادگیری عمیق,59
+SCI_NUM,آزمایش بالینی,59
+SCI_NUM,آزمایش دو سر کور,60
+SCI_NUM,اعداد اول دوقلو,60
+SCI_NUM,اعداد اول سوفی ژرمن,60
+SCI_NUM,اعداد اول مرسن,60
+SCI_NUM,اعداد اول ویلسون,60
+SCI_NUM,اعداد جبری,59
+SCI_NUM,اعداد حقیقی,59
+SCI_NUM,اعداد متعالی,59
+SCI_NUM,اعداد مختلط,59
+SCI_NUM,اعداد کاردینال,59
+SCI_NUM,اعداد کامل,59
+SCI_NUM,اعداد گنگ,59
+SCI_NUM,افق ذره,59
+SCI_NUM,افق کیهانی,59
+SCI_NUM,الگوریتم جستجوی گوگل,60
+SCI_NUM,انتگرال لبگ,59
+SCI_NUM,انسان‌شناسی دیجیتال,60
+SCI_NUM,انسان‌شناسی زبان‌شناختی,60
+SCI_NUM,انسان‌شناسی فرهنگی,60
+SCI_NUM,انسان‌شناسی قانونی,60
+SCI_NUM,انسان‌شناسی پزشکی,60
+SCI_NUM,اینترنت اشیاء,59
+SCI_NUM,باستان‌شناسی تجربی,60
+SCI_NUM,برهم‌نهی کوانتومی,60
+SCI_NUM,تاریخ شفاهی,59
+SCI_NUM,تاریخ علم,59
+SCI_NUM,تاریخ فرهنگی,59
+SCI_NUM,تاریخ فناوری,59
+SCI_NUM,تاریخ‌نگاری,57
+SCI_NUM,تحلیل احساسات,59
+SCI_NUM,تحلیل رگرسیون,59
+SCI_NUM,تحلیل سلسله مراتبی,60
+SCI_NUM,تحلیل عاملی,59
+SCI_NUM,تحلیل واریانس,59
+SCI_NUM,تحلیل کیفی,59
+SCI_NUM,تخمیر,53
+SCI_NUM,تخمیر لاکتیکی,59
+SCI_NUM,ترمودینامیک,53
+SCI_NUM,تشخیص الگو,59
+SCI_NUM,تورینگ کامل,59
+SCI_NUM,تکنولوژی بلاکچین,59
+SCI_NUM,جامعه‌شناسی,60
+SCI_NUM,جبر خطی,59
+SCI_NUM,جریان الکتریکی,59
+SCI_NUM,جریان گردابی,59
+SCI_NUM,حاصلضرب داخلی,59
+SCI_NUM,حیات مصنوعی,59
+SCI_NUM,خطای استاندارد,59
+SCI_NUM,خوشه‌بندی,57
+SCI_NUM,داده‌کاوی,57
+SCI_NUM,درهم‌تنیدگی کوانتومی,60
+SCI_NUM,دینامیک سیالات,59
+SCI_NUM,دینامیک مولکولی,59
+SCI_NUM,رابط برنامه‌نویسی کاربردی (API),60
+SCI_NUM,رایانش لبه‌ای,60
+SCI_NUM,روان‌شناسی تکاملی,60
+SCI_NUM,روان‌شناسی تکاملی-اجتماعی,60
+SCI_NUM,روان‌شناسی تکاملی-شناختی,60
+SCI_NUM,روان‌شناسی شناختی,60
+SCI_NUM,روان‌شناسی شناختی-اجتماعی,60
+SCI_NUM,روان‌شناسی صنعتی و سازمانی,60
+SCI_NUM,روان‌شناسی فرگشتی,60
+SCI_NUM,روان‌شناسی قانونی,60
+SCI_NUM,روان‌شناسی مثبت‌گرا,60
+SCI_NUM,زبان‌های برنامه‌نویسی تابعی,60
+SCI_NUM,زیست‌شناسی تکاملی,60
+SCI_NUM,زیست‌شناسی محاسباتی,60
+SCI_NUM,زیست‌شناسی مصنوعی,60
+SCI_NUM,زیست‌شناسی مولکولی,60
+SCI_NUM,زیست‌شیمی,57
+SCI_NUM,زیست‌فناوری,57
+SCI_NUM,زیست‌فناوری صنعتی,60
+SCI_NUM,زیست‌فناوری کشاورزی,60
+SCI_NUM,سازگاری (زیست‌شناسی),60
+SCI_NUM,سطح اطمینان,59
+SCI_NUM,سنتز شیمیایی,59
+SCI_NUM,سنجش از دور,60
+SCI_NUM,سیستم‌های توزیع‌شده,60
+SCI_NUM,شبکه باور بیزی,60
+SCI_NUM,شبکه توزیع برق هوشمند,60
+SCI_NUM,شبکه عصبی بازگشتی,60
+SCI_NUM,شبکه عصبی سیامی,60
+SCI_NUM,شبکه عصبی عمیق,60
+SCI_NUM,شبکه عصبی مصنوعی,60
+SCI_NUM,شبکه عصبی مولد,60
+SCI_NUM,شبکه عصبی کانولوشنی,60
+SCI_NUM,شیمی آلی,59
+SCI_NUM,شیمی تجزیه,59
+SCI_NUM,شیمی کوانتومی,59
+SCI_NUM,طراحی آزمایش,59
+SCI_NUM,طیف الکترومغناطیسی,60
+SCI_NUM,علم اقتصاد,59
+SCI_NUM,علم داده‌ها,60
+SCI_NUM,علوم اعصاب شناختی,60
+SCI_NUM,علوم سیاسی,59
+SCI_NUM,علوم محیط زیست,60
+SCI_NUM,عملگر هرمیتی,59
+SCI_NUM,فشار اسمزی,59
+SCI_NUM,فضای هیلبرت,59
+SCI_NUM,فناوری اطلاعات,59
+SCI_NUM,فناوری بلاکچین,59
+SCI_NUM,فناوری فضایی,59
+SCI_NUM,فناوری نانو,59
+SCI_NUM,فناوری پوشیدنی,59
+SCI_NUM,فناوری کوانتومی,59
+SCI_NUM,فیزیک آماری,59
+SCI_NUM,فیزیک اتمی، مولکولی و نوری,60
+SCI_NUM,فیزیک حالت جامد,60
+SCI_NUM,فیزیک ذرات,59
+SCI_NUM,فیزیک ماده چگال,60
+SCI_NUM,فیزیک ماده چگال سخت,60
+SCI_NUM,فیزیک ماده چگال نرم,60
+SCI_NUM,فیزیک محاسباتی,59
+SCI_NUM,فیزیک نظری,59
+SCI_NUM,فیزیک نظری محاسباتی,60
+SCI_NUM,فیزیک هسته‌ای,60
+SCI_NUM,فیزیک پلاسما,59
+SCI_NUM,فیلوژنتیک,60
+SCI_NUM,قانون آمپر,60
+SCI_NUM,قانون القای فارادی,60
+SCI_NUM,قانون علیت,60
+SCI_NUM,قانون لنز,60
+SCI_NUM,قضیه حد مرکزی,60
+SCI_NUM,قضیه فیثاغورس,59
+SCI_NUM,قضیه چهاررنگ,59
+SCI_NUM,لیتوگرافی,53
+SCI_NUM,ماتریس,53
+SCI_NUM,ماتریس هرمیتی,59
+SCI_NUM,ماشین لرنینگ,59
+SCI_NUM,مردم‌شناسی,60
+SCI_NUM,مردم‌شناسی بصری,60
+SCI_NUM,مردم‌شناسی سایبری,60
+SCI_NUM,مشتق (ریاضی),60
+SCI_NUM,مطالعات فرهنگی,59
+SCI_NUM,معادلات دیفرانسیل,59
+SCI_NUM,مقاومت الکتریکی,59
+SCI_NUM,مهندسی اجتماعی,59
+SCI_NUM,مهندسی بافت,59
+SCI_NUM,مهندسی مالی,59
+SCI_NUM,مهندسی متابولیک,59
+SCI_NUM,مهندسی معکوس,59
+SCI_NUM,مهندسی هوافضا,59
+SCI_NUM,مهندسی پزشکی,59
+SCI_NUM,مهندسی ژنتیک,60
+SCI_NUM,میکروبیولوژی,53
+SCI_NUM,نقشه حرارتی,59
+SCI_NUM,نوار موبیوس,59
+SCI_NUM,همبستگی (آمار),60
+SCI_NUM,هندسه جبری,59
+SCI_NUM,هندسه دیفرانسیل,59
+SCI_NUM,هوش تجاری,59
+SCI_NUM,هوش مصنوعی,59
+SCI_NUM,هوش مصنوعی توزیع‌شده,60
+SCI_NUM,هوش مصنوعی توضیحی,60
+SCI_NUM,هوش مصنوعی شناختی,60
+SCI_NUM,هوش مصنوعی ضعیف,60
+SCI_NUM,هوش مصنوعی قوی,60
+SCI_NUM,هوش مصنوعی محدود,60
+SCI_NUM,هوش مصنوعی مکالمه‌ای,60
+SCI_NUM,هوش مصنوعی نمادین,60
+SCI_NUM,هیدرو دینامیک,59
+SCI_NUM,واقعیت افزوده,59
+SCI_NUM,واقعیت افزوده فضایی,60
+SCI_NUM,واقعیت افزوده پوشیدنی,60
+SCI_NUM,واقعیت ترکیبی,59
+SCI_NUM,واقعیت توسعه‌یافته,60
+SCI_NUM,واقعیت شبیه‌سازی‌شده,60
+SCI_NUM,واقعیت مجازی,59
+SCI_NUM,واقعیت مجازی اجتماعی,60
+SCI_NUM,واقعیت مجازی لمسی,60
+SCI_NUM,واقعیت مجازی چندکاربره,60
+SCI_NUM,واکنش الکتروشیمیایی,60
+SCI_NUM,واکنش اکسایش-کاهش,60
+SCI_NUM,واکنش زنجیره‌ای,60
+SCI_NUM,واکنش زنجیره‌ای پلیمراز,60
+SCI_NUM,واکنش شیمیایی,59
+SCI_NUM,واکنش فتوشیمیایی,59
+SCI_NUM,واگرایی (ریاضی),60
+SCI_NUM,وب معنایی,59
+SCI_NUM,پراکندگی نور,59
+SCI_NUM,پردازش زبان طبیعی,60
+SCI_NUM,پلیمر,53
+SCI_NUM,پلیمریزاسیون,53
+SCI_NUM,پویایی‌شناسی سامانه‌ها,60
+SCI_NUM,پیوند داتیو,59
+SCI_NUM,پیوند فلزی,59
+SCI_NUM,پیوند هیدروژنی,59
+SCI_NUM,پیوند پپتیدی,59
+SCI_NUM,پیوند کووالانسی,59
+SCI_NUM,پیوند کووالانسی قطبی,60
+SCI_NUM,پیوند یونی,59
+SCI_NUM,پیچیدگی محاسباتی,59
+SCI_NUM,پیکربندی الکترونی,59
+SCI_NUM,چگالی,53
+SCI_NUM,چگالی احتمال,59
+SCI_NUM,ژئومهندسی,53
+SCI_NUM,ژئوپلیتیک,53
+SCI_NUM,ژئوپلیتیک انرژی,59
+SCI_NUM,ژئوپلیتیک سایبری,59
+SCI_NUM,ژئوپلیتیک قطب شمال,60
+SCI_NUM,ژئوپلیتیک منابع آب,60
+SCI_NUM,ژنتیک جمعیت,59
+SCI_NUM,ژنتیک کمی,59
+SCI_NUM,ژنوم,53
+SCI_NUM,کاتالیزور,53
+SCI_NUM,کارآزمایی تصادفی کنترل‌شده,60
+SCI_NUM,کانی‌شناسی,60
+SCI_NUM,کروماتوگرافی,53
+SCI_NUM,کسر مسلسل,59
+SCI_NUM,کلان‌داده,57
+SCI_NUM,کوانتوم,53
+SCI_NUM,کیهان‌شناسی,60
+SCI_NUM,کیوبیت,53
+SCI_NUM,گذار فاز,59
+SCI_NUM,گشتاور (فیزیک),60
+SCI_NUM,گیگابایت,53
+SCI_NUM,یونیزاسیون,53
+SCI_NUM,تلسکوپ فضایی جیمز وب,60
+SCI_NUM,سیاره فراخورشیدی,58
+SOCIETY,نماز خواندن,10
+SOCIETY,وضو گرفتن,10
+SOCIETY,سیب,4
+SOCIETY,قرآن,5
+SOCIETY,افطار,16
+SOCIETY,روزه گرفتن,22
+SOCIETY,زنجیر زنی,22
+SOCIETY,زیارت,16
+SOCIETY,سحری,16
+SOCIETY,سینه زنی,22
+SOCIETY,فال حافظ,23
+SOCIETY,فال قهوه,23
+SOCIETY,فال ورق,23
+SOCIETY,مراسم تدفین,23
+SOCIETY,مراسم ترحیم,23
+SOCIETY,مراسم ختم,22
+SOCIETY,هیئت عزاداری,23
+SOCIETY,پریدن از روی آتش,40
+SOCIETY,گره زدن سبزه,29
+SOCIETY,آجیل مشکل گشا,29
+SOCIETY,آش نذری,23
+SOCIETY,آینه و شمعدان,31
+SOCIETY,سبزه,16
+SOCIETY,سبزه عید,22
+SOCIETY,سفره هفت سین,28
+SOCIETY,سماق,17
+SOCIETY,سنجد,17
+SOCIETY,سکه,16
+SOCIETY,سیر,16
+SOCIETY,سیزده به در,34
+SOCIETY,سیزده به در,34
+SOCIETY,شب یلدا,23
+SOCIETY,شب یلدا,23
+SOCIETY,عیدی,16
+SOCIETY,ماهی قرمز,23
+SOCIETY,چهارشنبه سوری,22
+SOCIETY,چهارشنبه سوری,22
+SOCIETY,احضار روح,42
+SOCIETY,بالن آرزوها,41
+SOCIETY,تعزیه,36
+SOCIETY,شام غریبان,42
+SOCIETY,طالع بینی,42
+SOCIETY,قاشق زنی,41
+SOCIETY,پیشگویی,36
+SOCIETY,کف بینی,42
+SOCIETY,گوی بلورین,42
+SOCIETY,دروغ سیزده,42
+SOCIETY,سمنو,36
+SOCIETY,قاشق زنی,41
+SOCIETY,جواهرات دست‌ساز,60
+SOCIETY,جواهرات میناکاری,59
+SOCIETY,جواهرسازی فیلیگرن,59
+SOCIETY,دادائیسم,53
+SOCIETY,داستان چندوجهی,59
+SOCIETY,رئالیسم جادویی,59
+SOCIETY,رمان اپیزودیک,59
+SOCIETY,رمان تاریخی,59
+SOCIETY,رمان روانشناختی,60
+SOCIETY,رمان علمی-تخیلی,60
+SOCIETY,رمان نو,59
+SOCIETY,رمان پلیسی,59
+SOCIETY,رمان گوتیک,59
+SOCIETY,سایبرپانک,53
+SOCIETY,سنت شفاهی,59
+SOCIETY,سنت شفاهی مکتوب,60
+SOCIETY,سورئالیسم,53
+SOCIETY,سینمای اکسپرسیونیسم آلمان,60
+SOCIETY,سینمای موج نو,60
+SOCIETY,موسیقی آتونال,59
+SOCIETY,موسیقی الکتروآکوستیک,60
+SOCIETY,موسیقی الکترونیک,59
+SOCIETY,موسیقی تجربی,59
+SOCIETY,موسیقی تصادفی,59
+SOCIETY,موسیقی سریال,59
+SOCIETY,موسیقی مینیمال,59
+SOCIETY,موسیقی کانکریت,59
+SOCIETY,موسیقی کلاسیک معاصر,60
+SOCIETY,مکتب کانستراکتیویسم,60
+SOCIETY,میم (meme),60
+SOCIETY,نمایش‌نامه,57
+SOCIETY,هنر اجرا,59
+SOCIETY,هنر بیوآرت,59
+SOCIETY,هنر جنبشی,59
+SOCIETY,هنر دیجیتال,59
+SOCIETY,هنر ویدئو آرت,60
+SOCIETY,هنر چیدمان,59
+SOCIETY,هنر گوتیک,59
+SOCIETY,پست‌مدرنیسم,57
+SOCIETY,کمدی الهی,59
+SOCIETY,کنترپوان,53
+SOCIETY,گیریم,53
+SOCIETY,اخلاق ژورنالیستی,59
+SOCIETY,استهلاک دارایی,59
+SOCIETY,اطلاعات نامتقارن,59
+SOCIETY,اعتبارنامه استصوابی,60
+SOCIETY,اقتصاد دایره‌ای,60
+SOCIETY,اقتصاد رفتاری,59
+SOCIETY,اقتصاد نئوکلاسیک,59
+SOCIETY,اقتصاد کلان کینزی,60
+SOCIETY,اقتصاد گیگ,59
+SOCIETY,اوراق قرضه شهرداری,60
+SOCIETY,بازار خرسی,59
+SOCIETY,برون‌سپاری,57
+SOCIETY,بیطرفی شبکه,59
+SOCIETY,تراز تجاری,59
+SOCIETY,تسعیر ارز,59
+SOCIETY,تفکیک قوا,59
+SOCIETY,توسعه پایدار,59
+SOCIETY,جرم یقه‌سفید,60
+SOCIETY,جغرافیای سیاسی,59
+SOCIETY,جنبش حقوق مدنی,60
+SOCIETY,جنبش‌های اجتماعی,60
+SOCIETY,حاکمیت داده,59
+SOCIETY,حمل‌ونقل عمومی,60
+SOCIETY,حکمرانی خوب,59
+SOCIETY,خدمات مالی,59
+SOCIETY,دموکراسی مستقیم,59
+SOCIETY,دموکراسی مشارکتی,59
+SOCIETY,دموکراسی نمایندگی,59
+SOCIETY,دگرگونی دیجیتال,59
+SOCIETY,دیوان محاسبات کشور,60
+SOCIETY,دیوان‌سالاری,57
+SOCIETY,دیپلماسی عمومی,59
+SOCIETY,رایانش ابری,59
+SOCIETY,زنجیره تأمین,59
+SOCIETY,سازمان بهداشت جهانی,60
+SOCIETY,سازمان تجارت جهانی,60
+SOCIETY,سازمان جهانی مالکیت معنوی,60
+SOCIETY,سازمان عفو بین‌الملل,60
+SOCIETY,سازمان همکاری اقتصادی و توسعه,60
+SOCIETY,سازمان پیمان آتلانتیک شمالی (ناتو),60
+SOCIETY,سازمان کشورهای صادرکننده نفت (اوپک),60
+SOCIETY,سازمان کشورهای مشترک‌المنافع,60
+SOCIETY,سازمان‌های بین‌المللی,60
+SOCIETY,سرمایه اجتماعی,59
+SOCIETY,سرمایه فرهنگی,59
+SOCIETY,سرمایه‌گذاری مستقیم خارجی,60
+SOCIETY,سواد اطلاعاتی,59
+SOCIETY,سودآوری,53
+SOCIETY,سیاست پولی,59
+SOCIETY,شاخص توسعه انسانی,60
+SOCIETY,شاخص جینی,59
+SOCIETY,شبکه‌های اجتماعی,60
+SOCIETY,شخصیت حقوقی,60
+SOCIETY,شمول مالی,59
+SOCIETY,شهرسازی تاکتیکی,59
+SOCIETY,شهرسازی داده‌محور,60
+SOCIETY,شهرسازی مشارکتی,59
+SOCIETY,شهرسازی نوین,59
+SOCIETY,شهرسازی پایدار,59
+SOCIETY,شهروندی جهانی,59
+SOCIETY,صرفه‌جویی به مقیاس,60
+SOCIETY,صندوق سرمایه‌گذاری خطرپذیر,60
+SOCIETY,صندوق سرمایه‌گذاری قابل معامله (ETF),60
+SOCIETY,صندوق سرمایه‌گذاری مشترک,60
+SOCIETY,صندوق پوشش ریسک,60
+SOCIETY,صنعت بیوتکنولوژی,59
+SOCIETY,صنعت داروسازی,59
+SOCIETY,صنعت نیمه‌هادی,60
+SOCIETY,صنعت هوافضا,59
+SOCIETY,عدم تمرکز,59
+SOCIETY,فرهنگ سازمانی,59
+SOCIETY,قانون اساسی نانوشته,60
+SOCIETY,قانون استانداردهای غذایی,60
+SOCIETY,قانون عرضه و تقاضا,60
+SOCIETY,قانون مرور زمان,60
+SOCIETY,قانون منع عطف به ماسبق,60
+SOCIETY,قدرت نرم,59
+SOCIETY,قرارداد آتی,60
+SOCIETY,قرارداد اجتماعی,60
+SOCIETY,قرارداد اختیار فروش,60
+SOCIETY,قرارداد اختیار معامله,60
+SOCIETY,قرارداد عدم افشا,60
+SOCIETY,لیبرالیسم,53
+SOCIETY,مارکسیسم,53
+SOCIETY,مالیات بر ارزش افزوده,60
+SOCIETY,مردم‌سالاری,57
+SOCIETY,مزیت نسبی,59
+SOCIETY,مسئولیت اجتماعی شرکت,60
+SOCIETY,مسئولیت مدنی,60
+SOCIETY,مکتب اتریش,59
+SOCIETY,مکتب شیکاگو (اقتصاد),60
+SOCIETY,ناسیونالیسم,53
+SOCIETY,نقدشوندگی,53
+SOCIETY,نهادگرایی,60
+SOCIETY,نوآوری باز,59
+SOCIETY,نولیبرالیسم,53
+SOCIETY,پارادایم,53
+SOCIETY,پولشویی,53
+SOCIETY,پیش‌فرض (مالی),60
+SOCIETY,پیمان‌سپاری,57
+SOCIETY,کارآفرینی,53
+SOCIETY,کارایی پارتو,59
+TECH_INFRA,پلوپز,5
+TECH_INFRA,شارژر,5
+TECH_INFRA,کابل یو اس بی,23
+TECH_INFRA,تونل,5
+TECH_INFRA,تونل,5
+TECH_INFRA,جاده,4
+TECH_INFRA,خیابان,5
+TECH_INFRA,پل,5
+TECH_INFRA,پل,5
+TECH_INFRA,تلفن,4
+TECH_INFRA,تلفن همراه,11
+TECH_INFRA,پیامک (اس ام اس),27
+TECH_INFRA,کامپیوتر,4
+TECH_INFRA,آبگرمکن,17
+TECH_INFRA,آرام پز,23
+TECH_INFRA,اسنپ چت,24
+TECH_INFRA,اسپرسو ساز,23
+TECH_INFRA,بخارپز,17
+TECH_INFRA,بخاری,16
+TECH_INFRA,تخم مرغ پز,29
+TECH_INFRA,تلگرام,17
+TECH_INFRA,توستر,17
+TECH_INFRA,تیک تاک,23
+TECH_INFRA,حوله خشک کن,30
+TECH_INFRA,زودپز,17
+TECH_INFRA,زوم,17
+TECH_INFRA,ساندویچ ساز,23
+TECH_INFRA,شوفاژ,17
+TECH_INFRA,قهوه جوش,23
+TECH_INFRA,لینکدین,18
+TECH_INFRA,ماشین لباسشویی,23
+TECH_INFRA,واتس اپ,23
+TECH_INFRA,پنکه,16
+TECH_INFRA,پکیج,17
+TECH_INFRA,پینترست,23
+TECH_INFRA,چای ساز,23
+TECH_INFRA,کتری برقی,23
+TECH_INFRA,کولر آبی,23
+TECH_INFRA,کولر گازی,23
+TECH_INFRA,گریل,17
+TECH_INFRA,گوگل میت,24
+TECH_INFRA,آنتن تلویزیون,23
+TECH_INFRA,باتری قلمی,23
+TECH_INFRA,سه راهی برق,29
+TECH_INFRA,سیم سیار,23
+TECH_INFRA,محافظ برق,23
+TECH_INFRA,کنترل از راه دور,38
+TECH_INFRA,آزادراه,17
+TECH_INFRA,بزرگراه,17
+TECH_INFRA,بلوار,17
+TECH_INFRA,تابلوی ایست,23
+TECH_INFRA,جاده خاکی,23
+TECH_INFRA,خط کشی عابر پیاده,35
+TECH_INFRA,دست انداز,23
+TECH_INFRA,رمپ,17
+TECH_INFRA,ریل قطار,23
+TECH_INFRA,سرعت گیر,23
+TECH_INFRA,میدان,17
+TECH_INFRA,پل عابر پیاده,29
+TECH_INFRA,چراغ راهنمایی,22
+TECH_INFRA,چهارراه,17
+TECH_INFRA,کوچه,16
+TECH_INFRA,آنتی ویروس,24
+TECH_INFRA,آیفون تصویری,23
+TECH_INFRA,اسپیکر بلوتوث,23
+TECH_INFRA,اسکن اثر انگشت,29
+TECH_INFRA,اسکنر,17
+TECH_INFRA,ایمیل,17
+TECH_INFRA,بارکد خوان,23
+TECH_INFRA,تبلت,17
+TECH_INFRA,تشخیص چهره,23
+TECH_INFRA,تلفن ثابت,23
+TECH_INFRA,تماس تصویری,23
+TECH_INFRA,توربین بادی,24
+TECH_INFRA,توربین بادی,24
+TECH_INFRA,جی پی اس,29
+TECH_INFRA,دزدگیر,17
+TECH_INFRA,دستگاه ایکس ری,29
+TECH_INFRA,دستگاه فکس,24
+TECH_INFRA,دستگاه کارتخوان,23
+TECH_INFRA,دستگاه کپی,23
+TECH_INFRA,رمز عبور,23
+TECH_INFRA,سلول خورشیدی,24
+TECH_INFRA,شارژر بی سیم,29
+TECH_INFRA,شبکه 5G,28
+TECH_INFRA,شبکه اجتماعی,23
+TECH_INFRA,فلش مموری,23
+TECH_INFRA,لپ تاپ,23
+TECH_INFRA,مانیتور,17
+TECH_INFRA,ماوس,16
+TECH_INFRA,میکروفون,17
+TECH_INFRA,نقشه آنلاین,23
+TECH_INFRA,نورپردازی,17
+TECH_INFRA,هارد اکسترنال,23
+TECH_INFRA,هدفون,17
+TECH_INFRA,همراه بانک,24
+TECH_INFRA,وب کم,23
+TECH_INFRA,پروژکتور,17
+TECH_INFRA,پرینتر,17
+TECH_INFRA,پنل خورشیدی,23
+TECH_INFRA,چت روم,24
+TECH_INFRA,کارت حافظه,23
+TECH_INFRA,کارت حافظه,23
+TECH_INFRA,کارتخوان,17
+TECH_INFRA,کیبورد,17
+TECH_INFRA,کیس کامپیوتر,23
+TECH_INFRA,کیف پول دیجیتال,30
+TECH_INFRA,بخور سرد,43
+TECH_INFRA,توییچ,37
+TECH_INFRA,خشک کن لباس,48
+TECH_INFRA,دستگاه تصفیه هوا,49
+TECH_INFRA,دیسکورد,37
+TECH_INFRA,ردیت,37
+TECH_INFRA,رطوبت گیر,43
+TECH_INFRA,کلاب هاوس,43
+TECH_INFRA,باتری نیم قلمی,48
+TECH_INFRA,سکوی نفتی,43
+TECH_INFRA,پالایشگاه,37
+TECH_INFRA,پتروشیمی,37
+TECH_INFRA,خط لوله,43
+TECH_INFRA,VAR (کمک داور ویدیویی),60
+TECH_INFRA,آواتار دیجیتال,44
+TECH_INFRA,احراز هویت دو مرحله ای,60
+TECH_INFRA,استخراج رمزارز,44
+TECH_INFRA,اسپیکر هوشمند,43
+TECH_INFRA,الگوریتم,38
+TECH_INFRA,انرژی زمین گرمایی,49
+TECH_INFRA,انرژی های تجدید پذیر,56
+TECH_INFRA,انرژی هسته ای,50
+TECH_INFRA,اورکات,38
+TECH_INFRA,اینترنت,36
+TECH_INFRA,اینترنت دایل آپ,49
+TECH_INFRA,اینترنت ماهواره ای,50
+TECH_INFRA,بیت کوین,43
+TECH_INFRA,تاکسی پرنده,44
+TECH_INFRA,ترجمه ماشینی,43
+TECH_INFRA,ترموستات هوشمند,43
+TECH_INFRA,جاروبرقی رباتیک,43
+TECH_INFRA,جعبه سیاه,43
+TECH_INFRA,جلوه های ویژه,49
+TECH_INFRA,جلوه های ویژه,49
+TECH_INFRA,حمله سایبری,43
+TECH_INFRA,خانه هوشمند,43
+TECH_INFRA,خلبان اتوماتیک,43
+TECH_INFRA,خودروی خودران,43
+TECH_INFRA,دستیار صوتی,43
+TECH_INFRA,دستیار مجازی,43
+TECH_INFRA,دوربین کنترل سرعت,48
+TECH_INFRA,ربات صنعتی,43
+TECH_INFRA,زنگ در ویدیویی,52
+TECH_INFRA,سیستم آبیاری هوشمند,50
+TECH_INFRA,سیستم صوتی,43
+TECH_INFRA,فلاپی دیسک,43
+TECH_INFRA,قاب عکس دیجیتال,49
+TECH_INFRA,قفل درب هوشمند,49
+TECH_INFRA,لامپ هوشمند,43
+TECH_INFRA,مای اسپیس,44
+TECH_INFRA,مشاهده خیابان (Street View),60
+TECH_INFRA,مودم اکسترنال,43
+TECH_INFRA,نمایشگر هوشمند,43
+TECH_INFRA,هدفون نویز کنسلینگ,50
+TECH_INFRA,هوش مصنوعی,44
+TECH_INFRA,وی پی ان,49
+TECH_INFRA,ویروس کامپیوتری,43
+TECH_INFRA,پرده سبز,43
+TECH_INFRA,پروکسی,37
+TECH_INFRA,چاپگر سه بعدی,49
+TECH_INFRA,چت یاهو مسنجر,49
+TECH_INFRA,کتابخوان الکترونیکی,44
+TECH_INFRA,کنفرانس آنلاین,43
+TECH_INFRA,ارز دیجیتال,60
+TECH_INFRA,اینترنت اشیاء,60
+TECH_INFRA,بلاکچین,54
+TECH_INFRA,توکن غیرمثلی (NFT),60
+TECH_INFRA,دارک وب,60
+TECH_INFRA,سازمان خودگردان غیرمتمرکز (DAO),60
+TECH_INFRA,فیشینگ,54
+TECH_INFRA,قرارداد هوشمند,60
+TECH_INFRA,متاورس,55
+TECH_INFRA,هایپرلوپ,54
+TECH_INFRA,واقعیت افزوده,60
+TECH_INFRA,کامپیوتر کوانتومی,60
+TECH_INFRA,کشاورزی عمودی,60
+TECH_INFRA,یادگیری ماشین,60
+TOOLS_OBJS,جلیقه نجات,12
+TOOLS_OBJS,جلیقه نجات,12
+TOOLS_OBJS,دمبل,6
+TOOLS_OBJS,طناب ورزشی,11
+TOOLS_OBJS,عینک شنا,12
+TOOLS_OBJS,عینک شنا,12
+TOOLS_OBJS,فرمان دوچرخه,12
+TOOLS_OBJS,قمقمه,6
+TOOLS_OBJS,قمقمه,6
+TOOLS_OBJS,مایو,5
+TOOLS_OBJS,وزنه,5
+TOOLS_OBJS,وزنه,5
+TOOLS_OBJS,پدال,5
+TOOLS_OBJS,کلاه شنا,12
+TOOLS_OBJS,کلاه شنا,12
+TOOLS_OBJS,بادکنک,5
+TOOLS_OBJS,جاروبرقی,5
+TOOLS_OBJS,صدف,6
+TOOLS_OBJS,نقشه,5
+TOOLS_OBJS,ویولن,6
+TOOLS_OBJS,پیانو,5
+TOOLS_OBJS,کره زمین,11
+TOOLS_OBJS,آچار,6
+TOOLS_OBJS,آچار فرانسه,12
+TOOLS_OBJS,اتو مو,12
+TOOLS_OBJS,اره,6
+TOOLS_OBJS,اسکاچ,5
+TOOLS_OBJS,انبردست,6
+TOOLS_OBJS,برس,5
+TOOLS_OBJS,تب سنج,12
+TOOLS_OBJS,تراش,5
+TOOLS_OBJS,تراش,5
+TOOLS_OBJS,تیغ,6
+TOOLS_OBJS,جارو نپتون,12
+TOOLS_OBJS,خط کش,11
+TOOLS_OBJS,خط کش,11
+TOOLS_OBJS,دماسنج,6
+TOOLS_OBJS,دماسنج,6
+TOOLS_OBJS,ریش تراش,11
+TOOLS_OBJS,سشوار,5
+TOOLS_OBJS,سشوار,5
+TOOLS_OBJS,سیخ کباب,11
+TOOLS_OBJS,شانه,5
+TOOLS_OBJS,فرچه,6
+TOOLS_OBJS,فشارسنج,6
+TOOLS_OBJS,فشارسنج,6
+TOOLS_OBJS,فشارسنج,6
+TOOLS_OBJS,قیچی,5
+TOOLS_OBJS,ماشین حساب,11
+TOOLS_OBJS,ماشین ریش تراش,17
+TOOLS_OBJS,متر خیاطی,12
+TOOLS_OBJS,متر نواری,12
+TOOLS_OBJS,مسواک,5
+TOOLS_OBJS,مسواک برقی,12
+TOOLS_OBJS,منقل,6
+TOOLS_OBJS,مهره,6
+TOOLS_OBJS,موچین,6
+TOOLS_OBJS,موچین,6
+TOOLS_OBJS,میخ,5
+TOOLS_OBJS,ناخن گیر,11
+TOOLS_OBJS,ناخن گیر,11
+TOOLS_OBJS,نخ دندان,11
+TOOLS_OBJS,پیچ,6
+TOOLS_OBJS,پیچ گوشتی,12
+TOOLS_OBJS,چراغ قوه,11
+TOOLS_OBJS,چراغ قوه,11
+TOOLS_OBJS,چراغ قوه,11
+TOOLS_OBJS,چکش,5
+TOOLS_OBJS,کباب پز,12
+TOOLS_OBJS,کفگیر,6
+TOOLS_OBJS,اسلحه,5
+TOOLS_OBJS,بمب اتم,12
+TOOLS_OBJS,تانک,6
+TOOLS_OBJS,تانک,6
+TOOLS_OBJS,تفنگ,5
+TOOLS_OBJS,تفنگ,5
+TOOLS_OBJS,تیر و کمان,20
+TOOLS_OBJS,شمشیر,5
+TOOLS_OBJS,نیزه,6
+TOOLS_OBJS,آرنج بند,24
+TOOLS_OBJS,آسانسور,18
+TOOLS_OBJS,اسکیت هاکی,25
+TOOLS_OBJS,باتوم کوهنوردی,25
+TOOLS_OBJS,بادبان,19
+TOOLS_OBJS,بازوبند شنا,24
+TOOLS_OBJS,برانکارد,18
+TOOLS_OBJS,تایر,17
+TOOLS_OBJS,تخته شنا,24
+TOOLS_OBJS,تخته موج سواری,30
+TOOLS_OBJS,تخته موج سواری,30
+TOOLS_OBJS,تردمیل,18
+TOOLS_OBJS,تور دروازه,24
+TOOLS_OBJS,تور ماهیگیری,24
+TOOLS_OBJS,تور ماهیگیری,24
+TOOLS_OBJS,تور والیبال,24
+TOOLS_OBJS,توپ بدمینتون,24
+TOOLS_OBJS,توپ بیسبال,24
+TOOLS_OBJS,توپ تنیس,23
+TOOLS_OBJS,توپ راگبی,25
+TOOLS_OBJS,توپ فوتبال آمریکایی,32
+TOOLS_OBJS,توپ هاکی,24
+TOOLS_OBJS,توپ پیلاتس,24
+TOOLS_OBJS,توپ گلف,24
+TOOLS_OBJS,حلقه بسکتبال,24
+TOOLS_OBJS,حلقه نجات,23
+TOOLS_OBJS,حلقه هولاهوپ,24
+TOOLS_OBJS,دستکش بوکس,24
+TOOLS_OBJS,دستکش بیسبال,24
+TOOLS_OBJS,دستکش کار,24
+TOOLS_OBJS,دوچرخه ثابت,24
+TOOLS_OBJS,راکت بدمینتون,24
+TOOLS_OBJS,راکت تنیس,23
+TOOLS_OBJS,زانوبند,18
+TOOLS_OBJS,زره,18
+TOOLS_OBJS,زنجیر,18
+TOOLS_OBJS,زیرانداز,17
+TOOLS_OBJS,زیرانداز,17
+TOOLS_OBJS,زین,17
+TOOLS_OBJS,سبد پیک نیک,30
+TOOLS_OBJS,سپر,17
+TOOLS_OBJS,سپر,17
+TOOLS_OBJS,سکان کشتی,24
+TOOLS_OBJS,شلنگ آتش نشانی,30
+TOOLS_OBJS,طناب کوهنوردی,24
+TOOLS_OBJS,عینک ایمنی,24
+TOOLS_OBJS,فلاسک,18
+TOOLS_OBJS,فلاسک چای,24
+TOOLS_OBJS,فین (پای غواصی),34
+TOOLS_OBJS,قلاب,18
+TOOLS_OBJS,قلاب ماهیگیری,23
+TOOLS_OBJS,قمقمه ورزشی,23
+TOOLS_OBJS,لباس فضایی,24
+TOOLS_OBJS,لنسر ماهیگیری,24
+TOOLS_OBJS,لنگر کشتی,24
+TOOLS_OBJS,ماسک اکسیژن,24
+TOOLS_OBJS,ماسک ضد دود,31
+TOOLS_OBJS,ماسک غواصی,24
+TOOLS_OBJS,مت یوگا,24
+TOOLS_OBJS,میت بوکس,24
+TOOLS_OBJS,نخ ماهیگیری,25
+TOOLS_OBJS,هالتر,18
+TOOLS_OBJS,چادر مسافرتی,23
+TOOLS_OBJS,چادر مسافرتی,23
+TOOLS_OBJS,چرخ ماهیگیری,25
+TOOLS_OBJS,چوب اسکی,24
+TOOLS_OBJS,چوب بیسبال,24
+TOOLS_OBJS,چوب هاکی,24
+TOOLS_OBJS,چوب گلف,24
+TOOLS_OBJS,کش ورزشی,24
+TOOLS_OBJS,کلاه ایمنی,23
+TOOLS_OBJS,کلاه خود,23
+TOOLS_OBJS,کلاه کاسکت,23
+TOOLS_OBJS,کوله پشتی,23
+TOOLS_OBJS,کوله پشتی,23
+TOOLS_OBJS,کپسول آتش نشانی,30
+TOOLS_OBJS,کپسول آتش نشانی,30
+TOOLS_OBJS,کیسه بوکس,24
+TOOLS_OBJS,کیسه خواب,24
+TOOLS_OBJS,کیسه خواب,24
+TOOLS_OBJS,یخدان,18
+TOOLS_OBJS,سمعک,17
+TOOLS_OBJS,مرجان,18
+TOOLS_OBJS,چراغ راهنمایی,23
+TOOLS_OBJS,گنج,17
+TOOLS_OBJS,آبپاش,17
+TOOLS_OBJS,آبپاش,17
+TOOLS_OBJS,آبکش,17
+TOOLS_OBJS,آسیاب قهوه,24
+TOOLS_OBJS,اسکوپ بستنی,24
+TOOLS_OBJS,الک,18
+TOOLS_OBJS,انبر,18
+TOOLS_OBJS,انبر سالاد,24
+TOOLS_OBJS,انگشتانه,19
+TOOLS_OBJS,بادبزن,17
+TOOLS_OBJS,بادبزن حصیری,24
+TOOLS_OBJS,بومرنگ,18
+TOOLS_OBJS,بومرنگ,18
+TOOLS_OBJS,بی سیم,24
+TOOLS_OBJS,بیلچه,18
+TOOLS_OBJS,تایمر آشپزخانه,24
+TOOLS_OBJS,تخته آشپزی,23
+TOOLS_OBJS,تراز,18
+TOOLS_OBJS,ترازوی آشپزخانه,24
+TOOLS_OBJS,ترازوی حمام,24
+TOOLS_OBJS,تلسکوپ,18
+TOOLS_OBJS,تلمبه,17
+TOOLS_OBJS,تله موش,24
+TOOLS_OBJS,تنور,18
+TOOLS_OBJS,توری کباب پز,30
+TOOLS_OBJS,تیغ جراحی,25
+TOOLS_OBJS,جاروی دستی,23
+TOOLS_OBJS,خاک انداز,24
+TOOLS_OBJS,خودپرداز,18
+TOOLS_OBJS,در قوطی بازکن,32
+TOOLS_OBJS,دربازکن,17
+TOOLS_OBJS,دریل,17
+TOOLS_OBJS,دستبند,17
+TOOLS_OBJS,دستبند سلامتی,25
+TOOLS_OBJS,دم باریک,24
+TOOLS_OBJS,دندان مصنوعی,25
+TOOLS_OBJS,دندان مصنوعی,25
+TOOLS_OBJS,دوربین شکاری,24
+TOOLS_OBJS,دوربین شکاری,24
+TOOLS_OBJS,دوربین عکاسی,23
+TOOLS_OBJS,دوربین فیلمبرداری,24
+TOOLS_OBJS,دوربین ورزشی (GoPro),40
+TOOLS_OBJS,دیسکمن,19
+TOOLS_OBJS,رنده,17
+TOOLS_OBJS,ساعت هوشمند,24
+TOOLS_OBJS,سمعک,17
+TOOLS_OBJS,سمعک,17
+TOOLS_OBJS,سمعک,17
+TOOLS_OBJS,سنباده,18
+TOOLS_OBJS,سنگ پا,24
+TOOLS_OBJS,سه پایه,24
+TOOLS_OBJS,سوهان,18
+TOOLS_OBJS,سوهان ناخن,23
+TOOLS_OBJS,سوهان ناخن,23
+TOOLS_OBJS,سیر له کن,30
+TOOLS_OBJS,سیم ظرفشویی,23
+TOOLS_OBJS,سیم چین,24
+TOOLS_OBJS,شلنگ آب,23
+TOOLS_OBJS,شن کش,24
+TOOLS_OBJS,صافی,18
+TOOLS_OBJS,عصا,17
+TOOLS_OBJS,عصا,17
+TOOLS_OBJS,عصا,17
+TOOLS_OBJS,عینک طبی,23
+TOOLS_OBJS,عینک طبی,23
+TOOLS_OBJS,عینک مطالعه,24
+TOOLS_OBJS,فرمژه,18
+TOOLS_OBJS,فرچه توالت,25
+TOOLS_OBJS,فلاش,18
+TOOLS_OBJS,فندق شکن,24
+TOOLS_OBJS,قاشق چوبی,24
+TOOLS_OBJS,قطب نما,24
+TOOLS_OBJS,قطب نما,24
+TOOLS_OBJS,قطب نما,24
+TOOLS_OBJS,قیف,18
+TOOLS_OBJS,قیچی باغبانی,24
+TOOLS_OBJS,قیچی کوچک,23
+TOOLS_OBJS,لنز,18
+TOOLS_OBJS,لوله آزمایش,25
+TOOLS_OBJS,ماشین حساب مهندسی,30
+TOOLS_OBJS,مته,18
+TOOLS_OBJS,مسیریاب (GPS),32
+TOOLS_OBJS,ملاقه,17
+TOOLS_OBJS,منگنه,17
+TOOLS_OBJS,مگس کش,23
+TOOLS_OBJS,میکروسکوپ,19
+TOOLS_OBJS,میکروسکوپ,19
+TOOLS_OBJS,میکروسکوپ,19
+TOOLS_OBJS,نردبان,17
+TOOLS_OBJS,نقاله,18
+TOOLS_OBJS,هاون,18
+TOOLS_OBJS,هدلامپ,18
+TOOLS_OBJS,همزن دستی,24
+TOOLS_OBJS,واشر,18
+TOOLS_OBJS,واکر,18
+TOOLS_OBJS,واکمن,19
+TOOLS_OBJS,وردنه,18
+TOOLS_OBJS,ویلچر,18
+TOOLS_OBJS,ویلچر,18
+TOOLS_OBJS,ویلچر,18
+TOOLS_OBJS,ویلچر,18
+TOOLS_OBJS,پارو,17
+TOOLS_OBJS,پاشنه کش,24
+TOOLS_OBJS,پانچ,18
+TOOLS_OBJS,پرگار,18
+TOOLS_OBJS,پهپاد,18
+TOOLS_OBJS,پوست کن,23
+TOOLS_OBJS,پیتزا بر,27
+TOOLS_OBJS,پیمانه,18
+TOOLS_OBJS,چاقو تیزکن,24
+TOOLS_OBJS,چاقوی جیبی,24
+TOOLS_OBJS,چاپستیک,19
+TOOLS_OBJS,چرخ خیاطی,24
+TOOLS_OBJS,چمن زن,24
+TOOLS_OBJS,گردو شکن,23
+TOOLS_OBJS,گوشت کوب,24
+TOOLS_OBJS,گوشی پزشکی,24
+TOOLS_OBJS,گوشی پزشکی,24
+TOOLS_OBJS,گونیا,18
+TOOLS_OBJS,باتوم,17
+TOOLS_OBJS,بمب اتمی,24
+TOOLS_OBJS,تفنگ شکاری,24
+TOOLS_OBJS,توپخانه,19
+TOOLS_OBJS,تیر و کمان,33
+TOOLS_OBJS,خمپاره,18
+TOOLS_OBJS,مسلسل,18
+TOOLS_OBJS,مسلسل,18
+TOOLS_OBJS,مین زمینی,25
+TOOLS_OBJS,نارنجک,17
+TOOLS_OBJS,نارنجک دستی,24
+TOOLS_OBJS,گاز اشک آور,30
+TOOLS_OBJS,اجاق سفری,44
+TOOLS_OBJS,لباس نسوز,44
+TOOLS_OBJS,نردبان هیدرولیکی,44
+TOOLS_OBJS,نودل استخر,44
+TOOLS_OBJS,کارابین,38
+TOOLS_OBJS,کرامپون (یخ شکن کفش),60
+TOOLS_OBJS,کپسول اکسیژن,44
+TOOLS_OBJS,کپسول اکسیژن,44
+TOOLS_OBJS,آپارات,39
+TOOLS_OBJS,استابلایزر (لرزشگیر),50
+TOOLS_OBJS,باربیکیو,38
+TOOLS_OBJS,توری استخر,44
+TOOLS_OBJS,دستگاه دروغ سنج,51
+TOOLS_OBJS,دوربین فیلمبرداری ۸ میلیمتری,60
+TOOLS_OBJS,دوربین مخفی,44
+TOOLS_OBJS,رفلکتور,39
+TOOLS_OBJS,زغال گردان,45
+TOOLS_OBJS,سفره پاک کن,50
+TOOLS_OBJS,شعله پخش کن,51
+TOOLS_OBJS,عصای سفید,44
+TOOLS_OBJS,فازمتر,38
+TOOLS_OBJS,فیلتر لنز,44
+TOOLS_OBJS,قیف و ماسوره,53
+TOOLS_OBJS,لنز تماسی,44
+TOOLS_OBJS,لنز طبی,44
+TOOLS_OBJS,لنز چشم,44
+TOOLS_OBJS,لیسک,38
+TOOLS_OBJS,ماشین دوخت,44
+TOOLS_OBJS,میکروفون بوم,45
+TOOLS_OBJS,هسته گیر آلبالو,51
+TOOLS_OBJS,پارکومتر,38
+TOOLS_OBJS,پمپ تصفیه,45
+TOOLS_OBJS,پهپاد تصویربرداری,44
+TOOLS_OBJS,کلنگ یخ,45
+TOOLS_OBJS,گونیا و پرگار,53
+TOOLS_OBJS,موشک بالستیک,45
+TOOLS_OBJS,موشک قاره پیما,52
+TOOLS_OBJS,کلاهک هسته ای,52
+TOOLS_OBJS,تابلوی اطلاعات دیجیتال,60
+TOOLS_OBJS,تابلوی اعلانات,60
+TOOLS_OBJS,تابلوی اعلانات الکترونیکی,60
+TOOLS_OBJS,تابلوی اعلانات تعاملی,60
+TOOLS_OBJS,تابلوی اعلانات مجازی,60
+TOOLS_OBJS,تابلوی اعلانات هوشمند,60
+TOOLS_OBJS,تابلوی خطر تشعشعات رادیواکتیو,60
+TOOLS_OBJS,تابلوی روان,60
+TOOLS_OBJS,تابلوی علائم متغیر,60
+TRANS_DIR,آینه بغل,12
+TRANS_DIR,دنده,6
+TRANS_DIR,رینگ,6
+TRANS_DIR,سپر,6
+TRANS_DIR,فرمان,6
+TRANS_DIR,پدال ترمز,12
+TRANS_DIR,پدال گاز,12
+TRANS_DIR,جنوب,6
+TRANS_DIR,شرق,6
+TRANS_DIR,شمال,6
+TRANS_DIR,غرب,6
+TRANS_DIR,آمبولانس,5
+TRANS_DIR,آمبولانس,5
+TRANS_DIR,اتوبوس,5
+TRANS_DIR,اتوبوس,5
+TRANS_DIR,اسکوتر,6
+TRANS_DIR,تاکسی,5
+TRANS_DIR,تاکسی,6
+TRANS_DIR,دوچرخه,5
+TRANS_DIR,دوچرخه,5
+TRANS_DIR,دوچرخه,5
+TRANS_DIR,سفینه فضایی,12
+TRANS_DIR,فضاپیما,6
+TRANS_DIR,قایق,5
+TRANS_DIR,قطار,5
+TRANS_DIR,قطار,5
+TRANS_DIR,قطار,5
+TRANS_DIR,ماشین,5
+TRANS_DIR,ماشین پلیس,11
+TRANS_DIR,ماشین پلیس,11
+TRANS_DIR,مترو,6
+TRANS_DIR,مترو,6
+TRANS_DIR,موتور سیکلت,11
+TRANS_DIR,هلیکوپتر,6
+TRANS_DIR,هواپیما,5
+TRANS_DIR,هواپیما,5
+TRANS_DIR,هواپیما,5
+TRANS_DIR,کشتی,5
+TRANS_DIR,کشتی,5
+TRANS_DIR,کشتی,5
+TRANS_DIR,آفتابگیر,17
+TRANS_DIR,آمپر بنزین,24
+TRANS_DIR,آچار چرخ,24
+TRANS_DIR,باربند,18
+TRANS_DIR,باند,18
+TRANS_DIR,برف پاک کن,30
+TRANS_DIR,ترمز دستی,23
+TRANS_DIR,جک,17
+TRANS_DIR,داشبورد,18
+TRANS_DIR,دزدگیر ماشین,24
+TRANS_DIR,راهنما,17
+TRANS_DIR,روغن موتور,24
+TRANS_DIR,روکش صندلی,24
+TRANS_DIR,زاپاس ماشین,24
+TRANS_DIR,زنجیر چرخ,24
+TRANS_DIR,شارژر فندکی,24
+TRANS_DIR,شمع خودرو,24
+TRANS_DIR,صندوق عقب,24
+TRANS_DIR,ضبط ماشین,23
+TRANS_DIR,ضد یخ,24
+TRANS_DIR,فندک ماشین,24
+TRANS_DIR,فیلتر روغن,24
+TRANS_DIR,فیلتر هوا,24
+TRANS_DIR,قالپاق,18
+TRANS_DIR,قفل فرمان,24
+TRANS_DIR,قفل پدال,24
+TRANS_DIR,لاستیک,17
+TRANS_DIR,مثلث خطر,24
+TRANS_DIR,نگهدارنده موبایل,24
+TRANS_DIR,پدال کلاچ,23
+TRANS_DIR,پلاک,17
+TRANS_DIR,چراغ جلو,23
+TRANS_DIR,چراغ خطر,24
+TRANS_DIR,کاپوت,18
+TRANS_DIR,کفی ماشین,24
+TRANS_DIR,اسکوتر برقی,23
+TRANS_DIR,بمب افکن,24
+TRANS_DIR,تراکتور,17
+TRANS_DIR,تله کابین,24
+TRANS_DIR,خودروی الکتریکی,24
+TRANS_DIR,دوچرخه اشتراکی,24
+TRANS_DIR,زیردریایی,18
+TRANS_DIR,زیردریایی,18
+TRANS_DIR,سرویس مدرسه,24
+TRANS_DIR,قایق بادی,24
+TRANS_DIR,قایق موتوری,23
+TRANS_DIR,ماشین آتش نشانی,29
+TRANS_DIR,ناو جنگی,24
+TRANS_DIR,نفربر,18
+TRANS_DIR,هواپیمای جنگی,24
+TRANS_DIR,کشتی دزدان دریایی,29
+TRANS_DIR,کمباین,18
+TRANS_DIR,کابل باتری به باتری,59
+TRANS_DIR,کیلومتر شمار,43
+TRANS_DIR,زیردریایی هسته ای,50
+TRANS_DIR,ناو هواپیمابر,43
+TRANS_DIR,هلیکوپتر تهاجمی,43
+TRANS_DIR,تاکسی,5
+TRANS_DIR,اتوبوس,5
+TRANS_DIR,مترو,5
+TRANS_DIR,قطار,6
+TRANS_DIR,ماشین,5
+TRANS_DIR,موتورسیکلت,6
+TRANS_DIR,دوچرخه,6
+TRANS_DIR,پیاده‌روی,10
+TRANS_DIR,کامیون,5
+TRANS_DIR,ون,5
+TRANS_DIR,قایق,6
+TRANS_DIR,کشتی,6
+TRANS_DIR,هواپیما,6
+TRANS_DIR,ایستگاه,5
+TRANS_DIR,ترمینال,6
+TRANS_DIR,فرودگاه,5
+TRANS_DIR,بزرگراه,5
+TRANS_DIR,چراغ قرمز,12
+TRANS_DIR,پل,6
+TRANS_DIR,زیرگذر,6
+TRANS_DIR,روگذر,5
+TRANS_DIR,پارکینگ,5
+TRANS_DIR,چراغ سبز,12
+TRANS_DIR,خیابان,5
+TRANS_DIR,جاده,5
+TRANS_DIR,ایست,5
+TRANS_DIR,ایستگاه تاکسی,12
+TRANS_DIR,ایستگاه اتوبوس,12
+TRANS_DIR,خط عابر,12
+TRANS_DIR,کمربندی,6
+TRANS_DIR,بلیط خریدن,24
+TRANS_DIR,چمدان کشیدن,24
+TRANS_DIR,کمربند ایمنی بستن,30
+TRANS_DIR,پنچرگیری,18
+TRANS_DIR,سوخت‌گیری,22
+TRANS_DIR,پارک دوبل,24
+TRANS_DIR,پارک موازی,24
+TRANS_DIR,پارکومتر,19
+TRANS_DIR,پارکینگ طبقاتی,24
+TRANS_DIR,مسیر کوتاه‌تر,28
+TRANS_DIR,میان‌بُر,23
+TRANS_DIR,رزرو تاکسی اینترنتی,31
+TRANS_DIR,لغو سفر,24
+TRANS_DIR,چک‌این,22
+TRANS_DIR,کارت پرواز,24
+TRANS_DIR,گیت پرواز,24
+TRANS_DIR,کنترل گذرنامه,25
+TRANS_DIR,چمدان تحویل دادن,30
+TRANS_DIR,پرواز داخلی,25
+TRANS_DIR,پرواز خارجی,25
+TRANS_DIR,فرود اضطراری,24
+TRANS_DIR,پرواز چارتر,24
+TRANS_DIR,پرواز ترانزیتی,25
+TRANS_DIR,تاخیر پرواز,24
+TRANS_DIR,ماشین اجاره‌ای,29
+TRANS_DIR,تاکسی بین‌شهری,28
+TRANS_DIR,تاکسی تلفنی,24
+TRANS_DIR,ماشین کرایه‌ای,28
+TRANS_DIR,وانت بار,24
+TRANS_DIR,کامیون یخچالی,24
+TRANS_DIR,تریلی,18
+TRANS_DIR,اتوبوس دو طبقه,30
+TRANS_DIR,اتوبوس برقی,24
+TRANS_DIR,تراموای برقی,24
+TRANS_DIR,مونوریل,18
+TRANS_DIR,قایق موتوری,24
+TRANS_DIR,قایق تفریحی,25
+TRANS_DIR,قایق پارویی,24
+TRANS_DIR,قایق امدادی,24
+TRANS_DIR,قایق بادی,24
+TRANS_DIR,قایق تندرو,25
+TRANS_DIR,قایق کایاک,24
+TRANS_DIR,قایق بادبانی,24
+TRANS_DIR,قایق مسابقه‌ای,29
+TRANS_DIR,قایق خانوادگی,25
+TRANS_DIR,کشتی مسافری,25
+TRANS_DIR,کشتی باری,24
+TRANS_DIR,کشتی کروز,25
+TRANS_DIR,کشتی نظامی,24
+TRANS_DIR,بندر,18
+TRANS_DIR,اسکله,19
+TRANS_DIR,لنج,19
+TRANS_DIR,تله‌کابین,22
+TRANS_DIR,بالن,19
+TRANS_DIR,هلیکوپتر,19
+TRANS_DIR,بالگرد امدادی,24
+TRANS_DIR,بالگرد نظامی,24
+TRANS_DIR,ماشین برقی,25
+TRANS_DIR,ماشین هیبریدی,24
+TRANS_DIR,اتصال بلوتوث خودرو,31
+TRANS_DIR,کروز کنترل,24
+TRANS_DIR,ترمز اضطراری,25
+TRANS_DIR,پارک خودکار,24
+TRANS_DIR,نمای ۳۶۰ درجه خودرو,37
+TRANS_DIR,چراغ تطبیقی,25
+TRANS_DIR,حسگر نقطه کور,30
+TRANS_DIR,نقشه آفلاین,24
+TRANS_DIR,به‌روزرسانی نقشه,29
+TRANS_DIR,پایش ترافیک,24
+TRANS_DIR,میانبر محلی,24
+TRANS_DIR,سفر گروهی,25
+TRANS_DIR,سفر برون‌شهری,28
+TRANS_DIR,سفر درون‌شهری,29
+TRANS_DIR,صندلی کودک خودرو,30
+TRANS_DIR,چراغ مه‌شکن,28
+TRANS_DIR,چراغ خطر,25
+TRANS_DIR,چراغ راهنما,24
+TRANS_DIR,کمربند ایمنی کودک,31
+TRANS_DIR,چمدان گم‌شده,28
+TRANS_DIR,راهروی پرواز,24
+TRANS_DIR,کنترل امنیتی,25
+TRANS_DIR,ایست بازرسی,24
+TRANS_DIR,خط ویژه,24
+TRANS_DIR,ایستگاه اتوبوس تندرو,31
+TRANS_DIR,اتوبوس فرودگاهی,24
+TRANS_DIR,ون مسافربری,25
+TRANS_DIR,پیک موتوری,25
+TRANS_DIR,ماشین پلیس,25
+TRANS_DIR,آمبولانس,18
+TRANS_DIR,ماشین آتش‌نشانی,28
+TRANS_DIR,نفربر,19
+TRANS_DIR,فضاپیما,56
+TRANS_DIR,ایستگاه فضایی,60
+TRANS_DIR,شاتل فضایی,60
+TRANS_DIR,پرتاب موشک,60
+TRANS_DIR,ماهواره,56
+TRANS_DIR,هواپیمای مافوق صوت,60
+TRANS_DIR,هواپیمای رادارگریز,60
+TRANS_DIR,هواپیمای بدون سرنشین,60
+TRANS_DIR,پهپاد نظامی,60
+TRANS_DIR,پهپاد نقشه‌برداری,60
+TRANS_DIR,کشتی یخ‌شکن,60
+TRANS_DIR,زیردریایی اتمی,60
+TRANS_DIR,زیردریایی تحقیقاتی,60
+TRANS_DIR,ناو هواپیمابر,60
+TRANS_DIR,قطار مغناطیسی,60
+TRANS_DIR,قطار مافوق‌صوت,60
+TRANS_DIR,ابرکریدور بین‌قاره‌ای,60
+TRANS_DIR,بالن فضایی,60
+TRANS_DIR,سفر به قطب جنوب,60
+TRANS_DIR,راهبری کوانتومی,60
+ART_LIT,کتاب,12
+ART_LIT,شعر,13
+ART_LIT,قصه,13
+ART_LIT,نقاشی,13
+ART_LIT,موزیک,13
+ART_LIT,فیلم,12
+ART_LIT,داستان,13
+ART_LIT,رمان,13
+ART_LIT,نمایش,13
+ART_LIT,موسیقی,13
+ART_LIT,کاریکاتور,13
+ART_LIT,کاریکاتوریست,13
+ART_LIT,خواننده,13
+ART_LIT,بازیگر,12
+ART_LIT,شاعر,13
+ART_LIT,نویسنده,13
+ART_LIT,خاطره‌نویسی,17
+ART_LIT,خوشنویسی,13
+ART_LIT,داستان کوتاه,19
+ART_LIT,مقاله,13
+ART_LIT,کمدی,13
+ART_LIT,تراژدی,13
+ART_LIT,نقالی,13
+ART_LIT,آواز,13
+ART_LIT,ساز,13
+ART_LIT,دفتر شعر,19
+ART_LIT,خطاطی,13
+ART_LIT,نقد,13
+ART_LIT,موسیقی پاپ,19
+ART_LIT,فیلم کوتاه,19
+ART_LIT,نمایشنامه,25
+ART_LIT,رمان عاشقانه,31
+ART_LIT,رمان پلیسی,32
+ART_LIT,تئاتر خیابانی,31
+ART_LIT,تئاتر کودک,32
+ART_LIT,موسیقی سنتی,32
+ART_LIT,ساز تار,31
+ART_LIT,ساز سه‌تار,35
+ART_LIT,ساز دف,31
+ART_LIT,ساز کمانچه,32
+ART_LIT,ساز سنتور,32
+ART_LIT,رمان تاریخی,31
+ART_LIT,رمان ماجراجویانه,31
+ART_LIT,شعر کلاسیک,32
+ART_LIT,شعر نو,31
+ART_LIT,شعر سپید,32
+ART_LIT,نمایش رادیویی,31
+ART_LIT,فیلم مستند,32
+ART_LIT,فیلم کمدی,31
+ART_LIT,فیلم درام,32
+ART_LIT,فیلم اکشن,32
+ART_LIT,فیلم عاشقانه,31
+ART_LIT,فیلم تاریخی,32
+ART_LIT,فیلم تخیلی,32
+ART_LIT,خط نستعلیق,31
+ART_LIT,خط کوفی,32
+ART_LIT,نقاشی پرتره,32
+ART_LIT,نقاشی طبیعت,32
+ART_LIT,نقاشی کودکانه,31
+ART_LIT,نقاشی دیواری,32
+ART_LIT,مجسمه‌سازی,29
+ART_LIT,سفالگری,26
+ART_LIT,نمایش عروسکی,32
+ART_LIT,فیلم صامت,32
+ART_LIT,نمایش اپرا,31
+ART_LIT,نمایش موزیکال,32
+ART_LIT,کتاب کمیک,32
+ART_LIT,کتاب کودک,31
+ART_LIT,فیلمنامه,26
+ART_LIT,پادکست هنری,32
+ART_LIT,رمان فلسفی,51
+ART_LIT,رمان روانشناسی,60
+ART_LIT,نمایشنامه کلاسیک,51
+ART_LIT,نمایشنامه مدرن,51
+ART_LIT,نمایش اپرایی,52
+ART_LIT,اپرای ایرانی,51
+ART_LIT,اپرای خارجی,52
+ART_LIT,نقد ادبی,51
+ART_LIT,نقد هنری,52
+ART_LIT,مقاله فلسفی,51
+ART_LIT,نقاشی رنسانس,52
+ART_LIT,نقاشی کوبیسم,52
+ART_LIT,نقاشی امپرسیونیسم,51
+ART_LIT,نقاشی سوررئالیسم,52
+ART_LIT,نقاشی مدرن,51
+ART_LIT,نقاشی آبستره,51
+ART_LIT,نقاشی معاصر,52
+ART_LIT,مجسمه برنزی,52
+ART_LIT,مجسمه کلاسیک,52
+ART_LIT,مجسمه مدرن,51
+ART_LIT,خوشنویسی اسلامی,52
+ART_LIT,خوشنویسی ژاپنی,52
+ART_LIT,خوشنویسی چینی,52
+ART_LIT,شعر حماسی,52
+ART_LIT,شعر آیینی,51
+ART_LIT,شعر عاشقانه کلاسیک,59
+ART_LIT,شعر اسطوره‌ای,56
+ART_LIT,رمان معمایی,51
+ART_LIT,رمان علمی‌تخیلی,56
+ART_LIT,رمان فانتزی,51
+ART_LIT,رمان حماسی,52
+ART_LIT,فیلم سوررئال,52
+ART_LIT,فیلم هنری,52
+ART_LIT,فیلم فلسفی,51
+ART_LIT,فیلم اکسپرسیونیستی,53
+ART_LIT,فیلم نئورئالیستی,51
+ART_LIT,فیلم سیاه‌وسفید کلاسیک,60
+ART_LIT,نمایش تجربی,52
+ART_LIT,اجرای زنده موسیقی,57
+ART_LIT,اجرای سمفونی,52
+ART_LIT,اپرای ایتالیایی,60
+ART_LIT,اپرای فرانسوی,60
+ART_LIT,اپرای آلمانی,60
+ART_LIT,موسیقی سمفونیک,60
+ART_LIT,موسیقی جَز کلاسیک,60
+ART_LIT,موسیقی بلوز,60
+ART_LIT,موسیقی کانتری,60
+ART_LIT,نقاشی باروک,60
+ART_LIT,نقاشی مینیمالیسم,60
+ART_LIT,نقاشی فوتورئالیسم,60
+ART_LIT,حماسه یونانی,60
+ART_LIT,تراژدی یونانی,60
+ART_LIT,نمایش شکسپیری,60
+ART_LIT,رمان داستایوفسکی,60
+ATTR_EMO,خنده,5
+ATTR_EMO,گریه,4
+ATTR_EMO,شادی,11
+ATTR_EMO,غم,10
+ATTR_EMO,ترس,10
+ATTR_EMO,عشق,10
+ATTR_EMO,نفرت,11
+ATTR_EMO,امید,10
+ATTR_EMO,خشم,11
+ATTR_EMO,مهربانی,5
+ATTR_EMO,عطوفت,5
+ATTR_EMO,تنهایی,5
+ATTR_EMO,هیجان,11
+ATTR_EMO,شجاعت,5
+ATTR_EMO,حسرت,5
+ATTR_EMO,غرور,11
+ATTR_EMO,سعادت,5
+ATTR_EMO,دلتنگی,11
+ATTR_EMO,شادمانی,6
+ATTR_EMO,رضایت,5
+ATTR_EMO,لذت,6
+ATTR_EMO,بغض,6
+ATTR_EMO,تردید,5
+ATTR_EMO,اعتماد,6
+ATTR_EMO,خستگی,6
+ATTR_EMO,امان,5
+ATTR_EMO,انزجار,6
+ATTR_EMO,دوستی,5
+ATTR_EMO,غرور مثبت,16
+ATTR_EMO,تواضع,6
+ATTR_EMO,ذوق,5
+ATTR_EMO,آرامش,6
+ATTR_EMO,ناباوری,6
+ATTR_EMO,صبر,5
+ATTR_EMO,نگرانی,22
+ATTR_EMO,اضطراب,23
+ATTR_EMO,خجالت,18
+ATTR_EMO,شرم,18
+ATTR_EMO,بی‌حوصلگی,22
+ATTR_EMO,بی‌تفاوتی,22
+ATTR_EMO,کنجکاوی,18
+ATTR_EMO,اعتمادبه‌نفس,22
+ATTR_EMO,افتخار,18
+ATTR_EMO,دلسوزی,18
+ATTR_EMO,رغبت,18
+ATTR_EMO,پشیمانی,18
+ATTR_EMO,دلسردی,18
+ATTR_EMO,انفعال,18
+ATTR_EMO,تعلل,18
+ATTR_EMO,غرور کاذب,29
+ATTR_EMO,یأس,18
+ATTR_EMO,حسادت,23
+ATTR_EMO,وفاداری,18
+ATTR_EMO,صداقت,18
+ATTR_EMO,احترام,18
+ATTR_EMO,بی‌صبری,22
+ATTR_EMO,نارضایتی,18
+ATTR_EMO,دلبستگی,18
+ATTR_EMO,تسلیم,18
+ATTR_EMO,دلهره,18
+ATTR_EMO,احساس گناه,24
+ATTR_EMO,توقع,18
+ATTR_EMO,اشتیاق,18
+ATTR_EMO,کینه,23
+ATTR_EMO,لجبازی,18
+ATTR_EMO,بی‌قراری,22
+ATTR_EMO,احساس امنیت,24
+ATTR_EMO,دلگرمی,18
+ATTR_EMO,نوستالژی,23
+ATTR_EMO,خودباوری,18
+ATTR_EMO,تعلّق,18
+ATTR_EMO,اشک شوق,24
+ATTR_EMO,هیجان‌زدگی,27
+ATTR_EMO,سرخوردگی,18
+ATTR_EMO,بی‌اعتمادی,22
+ATTR_EMO,نابسامانی ذهنی,24
+ATTR_EMO,دلزدگی,18
+ATTR_EMO,بی‌حوصلگی جمعی,28
+ATTR_EMO,خودبزرگ‌بینی,42
+ATTR_EMO,سرکشی,38
+ATTR_EMO,تمرد,38
+ATTR_EMO,حس انتقام,44
+ATTR_EMO,خودشیفتگی,38
+ATTR_EMO,مالیخولیا,38
+ATTR_EMO,تعارض درونی,44
+ATTR_EMO,پارانویا,38
+ATTR_EMO,حس بی‌هدفی,47
+ATTR_EMO,سردرگمی,38
+ATTR_EMO,بیگانگی,38
+ATTR_EMO,احساس بی‌عدالتی,48
+ATTR_EMO,افسردگی,43
+ATTR_EMO,حس پوچی,44
+ATTR_EMO,یأس فلسفی,44
+ATTR_EMO,ترس اجتماعی,49
+ATTR_EMO,اضطراب اجتماعی,49
+ATTR_EMO,وسواس ذهنی,44
+ATTR_EMO,اختلال هویتی,44
+ATTR_EMO,حس بی‌ارزشی,48
+ATTR_EMO,تحقیر,38
+ATTR_EMO,حس انتقادپذیری,44
+ATTR_EMO,حس حقارت,44
+ATTR_EMO,دل‌آشفتگی,42
+ATTR_EMO,دلهره فلسفی,44
+ATTR_EMO,تعارض عاطفی,44
+ATTR_EMO,بی‌معنایی,42
+ATTR_EMO,وسواس فکری,44
+ATTR_EMO,حس جدایی,44
+ATTR_EMO,بی‌اعتمادی شدید,48
+ATTR_EMO,حس تنفر عمیق,50
+ATTR_EMO,بیگانگی اجتماعی,44
+ATTR_EMO,ازخودبیگانگی,38
+ATTR_EMO,سرخوردگی فرهنگی,44
+ATTR_EMO,بی‌ثباتی روحی,48
+ATTR_EMO,تعارض فرهنگی,44
+ATTR_EMO,هراس مرگ,44
+ATTR_EMO,هراس وجودی,44
+ATTR_EMO,خودکم‌بینی,42
+ATTR_EMO,ناباوری فلسفی,44
+ATTR_EMO,نیهیلیسم,55
+ATTR_EMO,اگزیستانسیالیسم عاطفی,60
+ATTR_EMO,پارانویا مزمن,60
+ATTR_EMO,سایکوز,56
+ATTR_EMO,شیزوفرنی عاطفی,60
+ATTR_EMO,هیستری جمعی,60
+ATTR_EMO,افسردگی مالیخولیایی,60
+ATTR_EMO,اختلال دوقطبی,60
+ATTR_EMO,اختلال هویت تجزیه‌ای,60
+ATTR_EMO,اضطراب اگزیستانسیال,60
+ATTR_EMO,وحشت فلسفی,60
+ATTR_EMO,پریشان‌ذهنی,60
+ATTR_EMO,همدلی عمیق,60
+ECON_EDU,پول,4
+ECON_EDU,بانک,4
+ECON_EDU,خرید,5
+ECON_EDU,فروش,5
+ECON_EDU,بازار,5
+ECON_EDU,مدرسه,5
+ECON_EDU,معلم,4
+ECON_EDU,دانش‌آموز,9
+ECON_EDU,کتاب درسی,11
+ECON_EDU,دفتر,5
+ECON_EDU,خودکار,5
+ECON_EDU,کلاس,5
+ECON_EDU,دانشگاه,5
+ECON_EDU,دانشجو,5
+ECON_EDU,مدرک,5
+ECON_EDU,امتحان,5
+ECON_EDU,نمره,5
+ECON_EDU,کارنامه,5
+ECON_EDU,تخته سیاه,11
+ECON_EDU,مشق,5
+ECON_EDU,یادگیری,5
+ECON_EDU,آموزگار,5
+ECON_EDU,مدیر مدرسه,11
+ECON_EDU,زنگ تفریح,11
+ECON_EDU,کلاس آنلاین,11
+ECON_EDU,کتابخانه,5
+ECON_EDU,دفترچه یادداشت,11
+ECON_EDU,شهریه,5
+ECON_EDU,وام,5
+ECON_EDU,سود,5
+ECON_EDU,قرض,5
+ECON_EDU,بدهی,5
+ECON_EDU,پس‌انداز,9
+ECON_EDU,حقوق,5
+ECON_EDU,حقوق معلم,11
+ECON_EDU,شغل,5
+ECON_EDU,کار,5
+ECON_EDU,بیکار,5
+ECON_EDU,مدرس,5
+ECON_EDU,یادداشت,5
+ECON_EDU,پروژه,5
+ECON_EDU,پایان‌نامه,9
+ECON_EDU,دانش‌آموز ممتاز,15
+ECON_EDU,کلاس تقویتی,11
+ECON_EDU,دبستان,5
+ECON_EDU,دبیرستان,5
+ECON_EDU,کلاس خصوصی,11
+ECON_EDU,درس زبان,11
+ECON_EDU,کارآموزی,5
+ECON_EDU,مهارت‌آموزی,9
+ECON_EDU,بورس,17
+ECON_EDU,بازار سهام,23
+ECON_EDU,سرمایه‌گذاری,21
+ECON_EDU,سود بانکی,23
+ECON_EDU,وام دانشجویی,24
+ECON_EDU,شهریه دانشگاه,23
+ECON_EDU,وام مسکن,23
+ECON_EDU,وام خودرو,23
+ECON_EDU,وام ازدواج,23
+ECON_EDU,کارت اعتباری,23
+ECON_EDU,وام بانکی,23
+ECON_EDU,سود سهام,23
+ECON_EDU,سپرده‌گذاری,21
+ECON_EDU,حساب پس‌انداز,27
+ECON_EDU,حساب جاری,24
+ECON_EDU,حساب قرض‌الحسنه,27
+ECON_EDU,چک,18
+ECON_EDU,سفته,17
+ECON_EDU,برگه سهام,23
+ECON_EDU,اوراق مشارکت,23
+ECON_EDU,صندوق سرمایه‌گذاری,28
+ECON_EDU,بیمه,17
+ECON_EDU,بیمه عمر,23
+ECON_EDU,بیمه سلامت,23
+ECON_EDU,بیمه خودرو,24
+ECON_EDU,بیمه خانه,23
+ECON_EDU,بیمه مسئولیت,33
+ECON_EDU,بازار طلا,23
+ECON_EDU,بازار ارز,24
+ECON_EDU,بازار جهانی,24
+ECON_EDU,صادرات,17
+ECON_EDU,واردات,17
+ECON_EDU,تجارت,17
+ECON_EDU,تجارت الکترونیک,24
+ECON_EDU,پرداخت اینترنتی,23
+ECON_EDU,بانکداری الکترونیک,24
+ECON_EDU,خدمات بانکی,23
+ECON_EDU,خدمات آموزشی,23
+ECON_EDU,آموزش آنلاین,23
+ECON_EDU,کلاس مجازی,24
+ECON_EDU,پلتفرم آموزشی,23
+ECON_EDU,دوره آموزشی,23
+ECON_EDU,دوره مهارتی,23
+ECON_EDU,دوره تخصصی,24
+ECON_EDU,کارگاه آموزشی,23
+ECON_EDU,سمینار,17
+ECON_EDU,وبینار,17
+ECON_EDU,کنگره علمی,23
+ECON_EDU,المپیاد,18
+ECON_EDU,دانشنامه,18
+ECON_EDU,مجله علمی,23
+ECON_EDU,مقاله پژوهشی,23
+ECON_EDU,پایان‌نامه کارشناسی,38
+ECON_EDU,پایان‌نامه کارشناسی ارشد,34
+ECON_EDU,پایان‌نامه دکتری,28
+ECON_EDU,رساله,17
+ECON_EDU,انتشارات,18
+ECON_EDU,انتشارات دانشگاهی,23
+ECON_EDU,کتاب دانشگاهی,23
+ECON_EDU,کتاب پژوهشی,23
+ECON_EDU,کتاب مرجع,23
+ECON_EDU,کتاب درسی دیجیتال,29
+ECON_EDU,آزمایشگاه,17
+ECON_EDU,آزمایشگاه زبان,23
+ECON_EDU,آزمایشگاه فیزیک,33
+ECON_EDU,آزمایشگاه شیمی,24
+ECON_EDU,آزمایشگاه کامپیوتر,25
+ECON_EDU,موسسه آموزشی,23
+ECON_EDU,مدرسه خصوصی,23
+ECON_EDU,مدرسه دولتی,23
+ECON_EDU,مدرسه شبانه,23
+ECON_EDU,مدرسه تیزهوشان,24
+ECON_EDU,مدرسه غیرانتفاعی,23
+ECON_EDU,مهارت شغلی,23
+ECON_EDU,مهارت حرفه‌ای,27
+ECON_EDU,یادگیری زبان,23
+ECON_EDU,یادگیری مهارت,23
+ECON_EDU,اقتصاد کلان,43
+ECON_EDU,اقتصاد خرد,43
+ECON_EDU,تحلیل اقتصادی,43
+ECON_EDU,برنامه‌ریزی اقتصادی,48
+ECON_EDU,سیاست پولی,43
+ECON_EDU,سیاست مالی,43
+ECON_EDU,تورم,37
+ECON_EDU,رکود,37
+ECON_EDU,رونق,37
+ECON_EDU,بیکاری,37
+ECON_EDU,اشتغال,37
+ECON_EDU,سرمایه انسانی,43
+ECON_EDU,توسعه پایدار,43
+ECON_EDU,برنامه توسعه,43
+ECON_EDU,نظام آموزشی,43
+ECON_EDU,نظام بانکی,43
+ECON_EDU,نظام مالیاتی,43
+ECON_EDU,فرار مالیاتی,44
+ECON_EDU,یارانه,37
+ECON_EDU,سوبسید,37
+ECON_EDU,کسری بودجه,43
+ECON_EDU,تراز پرداخت‌ها,47
+ECON_EDU,نرخ ارز,43
+ECON_EDU,نرخ بهره,43
+ECON_EDU,نرخ تورم,43
+ECON_EDU,تولید ناخالص داخلی,50
+ECON_EDU,صادرات نفت,43
+ECON_EDU,واردات کالا,43
+ECON_EDU,تحریم اقتصادی,43
+ECON_EDU,قرارداد نفتی,53
+ECON_EDU,تجارت بین‌الملل,47
+ECON_EDU,اقتصاد جهانی,43
+ECON_EDU,بحران اقتصادی,43
+ECON_EDU,بازار آزاد,43
+ECON_EDU,اقتصاد دیجیتال,43
+ECON_EDU,اقتصاد دانش‌بنیان,47
+ECON_EDU,کارآفرینی,37
+ECON_EDU,نوآوری,37
+ECON_EDU,فن‌آوری آموزشی,47
+ECON_EDU,یادگیری الکترونیکی,44
+ECON_EDU,آموزش از راه دور,58
+ECON_EDU,آموزش مهارت‌محور,47
+ECON_EDU,آموزش پژوهش‌محور,47
+ECON_EDU,آموزش ترکیبی,43
+ECON_EDU,آموزش مادام‌العمر,47
+ECON_EDU,آموزش غیررسمی,43
+ECON_EDU,آموزش فنی‌وحرفه‌ای,48
+ECON_EDU,آموزش عالی,43
+ECON_EDU,آموزش ابتدایی,43
+ECON_EDU,آموزش متوسطه,43
+ECON_EDU,نظام رتبه‌بندی معلمان,54
+ECON_EDU,آزمون سراسری,43
+ECON_EDU,کنکور,37
+ECON_EDU,پژوهش دانشگاهی,43
+ECON_EDU,پژوهش علمی,43
+ECON_EDU,پژوهش کاربردی,43
+ECON_EDU,پژوهش بنیادی,43
+ECON_EDU,پژوهش میان‌رشته‌ای,48
+ECON_EDU,پژوهش کیفی,43
+ECON_EDU,پژوهش کمی,43
+ECON_EDU,اقتصاد رفتاری,43
+ECON_EDU,اقتصاد محیط‌زیست,57
+ECON_EDU,اقتصاد سلامت,43
+ECON_EDU,اقتصاد آموزش,43
+ECON_EDU,اقتصاد مسکن,43
+ECON_EDU,اقتصاد کشاورزی,43
+ECON_EDU,اقتصاد انرژی,44
+ECON_EDU,اقتصاد شهری,43
+ECON_EDU,اقتصاد روستایی,43
+ECON_EDU,اقتصاد منطقه‌ای,47
+ECON_EDU,اقتصاد سیاسی,43
+ECON_EDU,اقتصاد اجتماعی,43
+ECON_EDU,اقتصاد فرهنگی,43
+ECON_EDU,اقتصاد اسلامی,43
+ECON_EDU,اقتصاد سرمایه‌داری,48
+ECON_EDU,اقتصاد سوسیالیستی,43
+ECON_EDU,اقتصاد مختلط,43
+ECON_EDU,اقتصاد تعاونی,43
+ECON_EDU,مکتب کلاسیک,43
+ECON_EDU,مکتب نئوکلاسیک,43
+ECON_EDU,مکتب کینزی,43
+ECON_EDU,مکتب پول‌گرایی,57
+ECON_EDU,مکتب مارکسیستی,43
+ECON_EDU,مکتب ساختارگرایی,53
+ECON_EDU,مکتب نهادگرایی,53
+ECON_EDU,مکتب شیکاگو,43
+ECON_EDU,نظریه بازی‌ها,60
+ECON_EDU,نظریه انتخاب عقلانی,60
+ECON_EDU,نظریه تعادل عمومی,60
+ECON_EDU,مدل عرضه و تقاضا,60
+ECON_EDU,مدل چرخه تجاری,60
+ECON_EDU,مدل رشد اقتصادی,60
+ECON_EDU,مدل نئوکلاسیک,60
+ECON_EDU,مدل کینزی,60
+ECON_EDU,مدل مارکسیستی,60
+ECON_EDU,مدل نهادگرایی,60
+ECON_EDU,مدل اقتصاد رفتاری,60
+ECON_EDU,مدل اقتصاد محیط‌زیست,60
+ECON_EDU,مدل اقتصاد سلامت,60
+ECON_EDU,مدل اقتصاد انرژی,60
+ECON_EDU,مدل اقتصاد آموزش,60
+ECON_EDU,مدل تعادل پویا,60
+ECON_EDU,مدل تعادل جزئی,60
+ECON_EDU,مدل شبیه‌سازی اقتصادی,60
+ECON_EDU,مدل پیش‌بینی اقتصادی,60
+ECON_EDU,مدل سناریوسازی,60
+ECON_EDU,مدل سرمایه انسانی,60
+ECON_EDU,مدل نئومارکسیستی,60
+ECON_EDU,مدل توسعه پایدار,60
+ECON_EDU,مدل چرخه عمر,60
+ECON_EDU,مدل داده‌های تابلویی,60
+ECON_EDU,مدل اقتصاد کلان پویا,60
+ECON_EDU,مدل DSGE,60
+ECON_EDU,مدل اقتصاد محاسباتی,60
+ECON_EDU,مدل ریاضی اقتصادی,60
+ECON_EDU,مدل آمار اقتصادی,60
+ECON_EDU,مدل اقتصادسنجی,60
+ECON_EDU,مدل پیش‌بینی تورم,60
+ECON_EDU,مدل تعادل پولی,60
+ECON_EDU,مدل عرضه پول,60
+GOV,پلیس,4
+GOV,دادگاه,14
+GOV,زندان,4
+GOV,سرباز,5
+GOV,قاضی,4
+GOV,وکیل,4
+GOV,وزیر,5
+GOV,استاندار,5
+GOV,بخشدار,5
+GOV,دهیار,5
+GOV,نماینده,4
+GOV,رییس‌جمهور,8
+GOV,شهردار,5
+GOV,شورای شهر,11
+GOV,پاسپورت,5
+GOV,شناسنامه,5
+GOV,کارت ملی,11
+GOV,مجلس,4
+GOV,انتخابات,5
+GOV,رای,5
+GOV,صندوق رای,10
+GOV,پوستر انتخاباتی,11
+GOV,تجمع,4
+GOV,راهپیمایی,5
+GOV,تظاهرات,5
+GOV,پرچم ملی,11
+GOV,سرود ملی,11
+GOV,مهر دولتی,10
+GOV,مهر دادگاه,21
+GOV,سربرگ رسمی,10
+GOV,پلاک خودرو,11
+GOV,دفترخانه,5
+GOV,سجل,5
+GOV,بازپرس,4
+GOV,بازداشت,4
+GOV,کلانتری,5
+GOV,پاسگاه,5
+GOV,مامور پلیس,10
+GOV,گشت شهری,11
+GOV,انتخابات ریاست‌جمهوری,27
+GOV,انتخابات مجلس,23
+GOV,انتخابات شورا,23
+GOV,کمپین انتخاباتی,23
+GOV,مناظره انتخاباتی,23
+GOV,شمارش آرا,23
+GOV,سیاستمدار,17
+GOV,حزب سیاسی,23
+GOV,ائتلاف حزبی,23
+GOV,وزارت‌خانه,21
+GOV,کابینه,18
+GOV,دولت,17
+GOV,پارلمان,17
+GOV,مجلس سنا,23
+GOV,قانون اساسی,33
+GOV,اصلاح قانون,33
+GOV,مصوبه,17
+GOV,طرح قانونی,34
+GOV,لایحه,17
+GOV,دیوان عدالت,23
+GOV,دیوان عالی,23
+GOV,شورای نگهبان,23
+GOV,دادستانی,17
+GOV,وکیل دادگستری,23
+GOV,مشاور حقوقی,33
+GOV,کمیسیون قضایی,33
+GOV,پلیس جنایی,23
+GOV,پلیس راهنمایی,23
+GOV,پلیس مبارزه با مواد مخدر,45
+GOV,نیروی انتظامی,23
+GOV,ارتش,17
+GOV,سپاه,17
+GOV,نیروی دریایی,24
+GOV,نیروی هوایی,24
+GOV,پدافند,17
+GOV,یگان ویژه,23
+GOV,عملیات نظامی,23
+GOV,رزمایش,17
+GOV,تمرین نظامی,23
+GOV,منطقه نظامی,23
+GOV,پادگان,18
+GOV,خدمت سربازی,23
+GOV,دیپلمات,17
+GOV,سفارت,17
+GOV,کنسولگری,17
+GOV,سفیر,17
+GOV,کاردار,17
+GOV,کارت دیپلماتیک,23
+GOV,گذرنامه سیاسی,24
+GOV,مهاجرت,17
+GOV,پناهندگی,17
+GOV,اخراج دیپلمات,23
+GOV,مذاکره,18
+GOV,توافق,17
+GOV,معاهده,17
+GOV,پیمان نظامی,23
+GOV,اتحاد,17
+GOV,شورای امنیت,23
+GOV,سازمان ملل,23
+GOV,یونسکو,18
+GOV,صلیب سرخ,23
+GOV,عفو بین‌الملل,28
+GOV,دادگاه بین‌المللی,37
+GOV,حقوق بشر,23
+GOV,آزادی بیان,23
+GOV,حقوق مدنی,33
+GOV,حقوق سیاسی,23
+GOV,حقوق اجتماعی,23
+GOV,امنیت شهری,23
+GOV,امنیت جاده‌ای,27
+GOV,امنیت سایبری,24
+GOV,امنیت اقتصادی,24
+GOV,امنیت غذایی,23
+GOV,امنیت انرژی,23
+GOV,دیپلماسی,37
+GOV,سیاست خارجی,43
+GOV,سیاست داخلی,43
+GOV,سیاست عمومی,43
+GOV,سیاست فرهنگی,42
+GOV,سیاست اقتصادی,43
+GOV,سیاست آموزشی,43
+GOV,سیاست زیست‌محیطی,47
+GOV,امنیت ملی,44
+GOV,امنیت منطقه‌ای,47
+GOV,امنیت بین‌المللی,47
+GOV,حقوق بین‌الملل,47
+GOV,حقوق جنگ,43
+GOV,حقوق بشر دوستانه,49
+GOV,حقوق دیپلماتیک,43
+GOV,جرم سازمان‌یافته,57
+GOV,فساد مالی,43
+GOV,فساد اداری,43
+GOV,جرایم سایبری,43
+GOV,قاچاق انسان,43
+GOV,قاچاق مواد مخدر,49
+GOV,تروریسم,37
+GOV,افراط‌گرایی,51
+GOV,مبارزه با تروریسم,53
+GOV,پلیس بین‌الملل,47
+GOV,اینترپل,37
+GOV,پلیس مرزی,43
+GOV,امنیت پرواز,43
+GOV,کنترل مرز,43
+GOV,گشت دریایی,43
+GOV,گشت هوایی,43
+GOV,امنیت اطلاعات,43
+GOV,جنگ سایبری,43
+GOV,حمله سایبری,44
+GOV,دفاع سایبری,43
+GOV,اطلاعات محرمانه,43
+GOV,جاسوسی,37
+GOV,ضدجاسوسی,37
+GOV,سازمان اطلاعات,43
+GOV,شنود,37
+GOV,رمزنگاری,37
+GOV,مقابله اطلاعاتی,43
+GOV,امنیت زیرساخت,44
+GOV,امنیت مرزی,43
+GOV,امنیت دریایی,43
+GOV,امنیت هوایی,43
+GOV,امنیت زمینی,43
+GOV,امنیت شهری پیشرفته,50
+GOV,کنترل ترافیک هوایی,50
+GOV,سازمان دفاع,43
+GOV,سازمان امنیت,43
+GOV,وزارت دفاع,43
+GOV,ستاد کل ارتش,49
+GOV,اتاق جنگ,43
+GOV,پدافند غیرعامل,43
+GOV,بازدارندگی,37
+GOV,امنیت هسته‌ای,47
+GOV,قرارداد امنیتی,53
+GOV,پیمان صلح,43
+GOV,مذاکرات صلح,43
+GOV,واسطه‌گری صلح,47
+GOV,میانجی‌گری بین‌المللی,49
+GOV,کمیسیون حقیقت‌یاب,47
+GOV,دیپلماسی فرهنگی,43
+GOV,دیپلماسی عمومی,43
+GOV,ژئوپولیتیک,54
+GOV,ژئواستراتژی,55
+GOV,موازنه قوا,60
+GOV,دکترین نظامی,60
+GOV,استراتژی بازدارندگی,60
+GOV,بازدارندگی هسته‌ای,60
+GOV,قرارداد اجتماعی,60
+GOV,نظریه قرارداد اجتماعی,60
+GOV,حاکمیت قانون,60
+GOV,تفکیک قوا,60
+GOV,اقتدارگرایی,60
+GOV,دموکراسی لیبرال,60
+GOV,دموکراسی مستقیم,60
+GOV,الیگارشی,55
+GOV,آنارشی,55
+GOV,توتالیتاریسم,55
+GOV,فاشیسم,55
+GOV,ناسیونالیسم افراطی,60
+GOV,لیبرالیسم,55
+GOV,مارکسیسم,55
+GOV,سوسیالیسم,55
+GOV,نئولیبرالیسم,55
+HEALTH_MED,دکتر,4
+HEALTH_MED,پرستار,4
+HEALTH_MED,دارو,4
+HEALTH_MED,قرص,5
+HEALTH_MED,شربت,5
+HEALTH_MED,آمپول,5
+HEALTH_MED,سرماخوردگی,5
+HEALTH_MED,سرفه,5
+HEALTH_MED,تب,5
+HEALTH_MED,دل‌درد,9
+HEALTH_MED,سردرد,5
+HEALTH_MED,عینک,4
+HEALTH_MED,ماسک,5
+HEALTH_MED,بیمار,5
+HEALTH_MED,ویزیت,5
+HEALTH_MED,بیمارستان,5
+HEALTH_MED,کلینیک,5
+HEALTH_MED,بخش اورژانس,11
+HEALTH_MED,آزمایش خون,11
+HEALTH_MED,قند خون,11
+HEALTH_MED,فشار خون,10
+HEALTH_MED,چشم‌پزشک,9
+HEALTH_MED,دندان‌پزشک,9
+HEALTH_MED,داروخانه,5
+HEALTH_MED,پرونده پزشکی,11
+HEALTH_MED,عمل جراحی,23
+HEALTH_MED,بیهوشی,17
+HEALTH_MED,تزریق واکسن,23
+HEALTH_MED,سرم,17
+HEALTH_MED,اکسیژن,17
+HEALTH_MED,آزمایش ادرار,23
+HEALTH_MED,آزمایش ژنتیک,33
+HEALTH_MED,آزمایش بارداری,23
+HEALTH_MED,فیزیوتراپی,17
+HEALTH_MED,سونوگرافی,17
+HEALTH_MED,ام‌آر‌آی,22
+HEALTH_MED,سی‌تی‌اسکن,21
+HEALTH_MED,رادیولوژی,17
+HEALTH_MED,ماموگرافی,18
+HEALTH_MED,چکاپ سالانه,23
+HEALTH_MED,معاینه دوره‌ای,27
+HEALTH_MED,کارت واکسن,23
+HEALTH_MED,فشارسنج,18
+HEALTH_MED,دماسنج,17
+HEALTH_MED,گلو درد,23
+HEALTH_MED,عفونت,17
+HEALTH_MED,زخم,17
+HEALTH_MED,پانسمان,17
+HEALTH_MED,بخیه,17
+HEALTH_MED,پلاستر,18
+HEALTH_MED,گچ گرفتن,23
+HEALTH_MED,ارتوپدی,17
+HEALTH_MED,پوست‌پزشکی,21
+HEALTH_MED,گوش‌حلق‌بینی,21
+HEALTH_MED,نورولوژی,18
+HEALTH_MED,قلب و عروق,33
+HEALTH_MED,دیابت,17
+HEALTH_MED,چربی خون,23
+HEALTH_MED,سوءتغذیه,17
+HEALTH_MED,آسم,17
+HEALTH_MED,آلرژی,17
+HEALTH_MED,سیگار,18
+HEALTH_MED,اعتیاد,17
+HEALTH_MED,سوءمصرف دارو,24
+HEALTH_MED,سرطان,37
+HEALTH_MED,سرطان خون,43
+HEALTH_MED,سرطان ریه,43
+HEALTH_MED,سرطان معده,44
+HEALTH_MED,سرطان پستان,43
+HEALTH_MED,سرطان پروستات,44
+HEALTH_MED,سرطان کبد,43
+HEALTH_MED,سرطان روده,43
+HEALTH_MED,سرطان پوست,43
+HEALTH_MED,پیوند کلیه,43
+HEALTH_MED,پیوند کبد,43
+HEALTH_MED,پیوند قلب,43
+HEALTH_MED,پیوند ریه,44
+HEALTH_MED,پیوند مغز استخوان,49
+HEALTH_MED,دیالیز,37
+HEALTH_MED,هموفیلی,37
+HEALTH_MED,ام‌اس,41
+HEALTH_MED,پارکینسون,38
+HEALTH_MED,آلزایمر,37
+HEALTH_MED,اوتیسم,37
+HEALTH_MED,اسکیزوفرنی,37
+HEALTH_MED,اختلال دو قطبی,49
+HEALTH_MED,اختلال اضطرابی,48
+HEALTH_MED,افسردگی بالینی,49
+HEALTH_MED,تشنج,37
+HEALTH_MED,سکته قلبی,44
+HEALTH_MED,سکته مغزی,43
+HEALTH_MED,آریتمی قلبی,43
+HEALTH_MED,آنفولانزا شدید,44
+HEALTH_MED,جراحی مغز,60
+HEALTH_MED,جراحی قلب باز,60
+HEALTH_MED,پیوند صورت,60
+HEALTH_MED,پیوند دست,60
+HEALTH_MED,پیوند پا,60
+HEALTH_MED,پیوند قلب مصنوعی,60
+HEALTH_MED,درمان ژنی,60
+HEALTH_MED,درمان سلول بنیادی,60
+HEALTH_MED,درمان ایمونوتراپی,60
+HEALTH_MED,جراحی رباتیک,60
+LANG_COMM,حرف زدن,9
+LANG_COMM,نامه,4
+LANG_COMM,تلفن,4
+LANG_COMM,پیامک,4
+LANG_COMM,ایمیل,4
+LANG_COMM,چت,4
+LANG_COMM,مکالمه,4
+LANG_COMM,شنیدن,4
+LANG_COMM,خواندن,4
+LANG_COMM,نوشتن,4
+LANG_COMM,سلام,4
+LANG_COMM,خداحافظی,4
+LANG_COMM,تشکر,4
+LANG_COMM,دعوت,4
+LANG_COMM,جواب,4
+LANG_COMM,مکالمه تلفنی,22
+LANG_COMM,نامه رسمی,23
+LANG_COMM,دعوت‌نامه,21
+LANG_COMM,پیام صوتی,23
+LANG_COMM,ارتباط تصویری,23
+LANG_COMM,ارتباط آنلاین,23
+LANG_COMM,جلسه کاری,23
+LANG_COMM,سخنرانی,18
+LANG_COMM,گفت‌وگوی رسمی,27
+LANG_COMM,گفت‌وگوی دوستانه,27
+LANG_COMM,ترجمه,17
+LANG_COMM,مترجم,17
+LANG_COMM,زبان بدن,23
+LANG_COMM,ضرب‌المثل,21
+LANG_COMM,داستان‌گویی,21
+LANG_COMM,قصه‌گویی,21
+LANG_COMM,خاطره‌گویی,21
+LANG_COMM,بیان احساس,23
+LANG_COMM,بحث گروهی,24
+LANG_COMM,مناظره,17
+LANG_COMM,ارتباطات جمعی,43
+LANG_COMM,ارتباطات میان‌فرهنگی,48
+LANG_COMM,ارتباطات سیاسی,44
+LANG_COMM,ارتباطات رسانه‌ای,47
+LANG_COMM,ارتباطات سازمانی,44
+LANG_COMM,زبان‌شناسی,51
+LANG_COMM,آواشناسی,47
+LANG_COMM,واج‌شناسی,51
+LANG_COMM,دستور زبان,43
+LANG_COMM,معنی‌شناسی,52
+LANG_COMM,کاربردشناسی,48
+LANG_COMM,نشانه‌شناسی,52
+LANG_COMM,تحلیل گفتمان,43
+LANG_COMM,زبان نوشتاری,43
+LANG_COMM,زبان گفتاری,44
+LANG_COMM,نشانه‌شناسی فرهنگی,60
+LANG_COMM,نشانه‌شناسی بصری,60
+LANG_COMM,نشانه‌شناسی اجتماعی,60
+LANG_COMM,زبان فراساختارگرا,60
+LANG_COMM,گفتمان انتقادی,60
+LANG_COMM,نظریه زبان جهانی,60
+LANG_COMM,فلسفه زبان,60
+MEDIA_REC,طناب‌کشی,9
+MEDIA_REC,فوتسال,4
+MEDIA_REC,پینت‌بال,9
+MEDIA_REC,قایق‌سواری تفریحی,14
+MEDIA_REC,کوه‌نوردی سبک,15
+MEDIA_REC,پیاده‌روی دسته‌جمعی,16
+MEDIA_REC,یوگا,4
+MEDIA_REC,طناب‌زدن,9
+MEDIA_REC,تعادل روی تخته,19
+MEDIA_REC,طناب‌پیچی,9
+MEDIA_REC,پازل,5
+MEDIA_REC,نرد,4
+MEDIA_REC,فالگیر بازی,11
+MEDIA_REC,کلاس نقاشی,11
+MEDIA_REC,ساز زدن,11
+MEDIA_REC,تئاتر مدرسه,11
+MEDIA_REC,کنسرت محلی,11
+MEDIA_REC,نمایشگاه عکس,11
+MEDIA_REC,کتابخوانی جمعی,11
+MEDIA_REC,شطرنج سریع,11
+MEDIA_REC,بادبادک‌بازی,9
+MEDIA_REC,منچ,5
+MEDIA_REC,دوز,5
+MEDIA_REC,لی‌لی,9
+MEDIA_REC,قایم‌باشک,9
+MEDIA_REC,اسم‌فامیل,9
+MEDIA_REC,مار و پله,20
+MEDIA_REC,فوتبال دستی,11
+MEDIA_REC,هاکی روی چمن,20
+MEDIA_REC,بدمینتون,5
+MEDIA_REC,پادکست شنیدن,23
+MEDIA_REC,ولاگ ساختن,24
+MEDIA_REC,کلیپ‌سازی,21
+MEDIA_REC,فیلم کوتاه ساختن,30
+MEDIA_REC,موزیک ویدیو,23
+MEDIA_REC,جُنگ شادی,29
+MEDIA_REC,استندآپ کمدی,24
+MEDIA_REC,تئاتر خیابانی,24
+MEDIA_REC,نمایش بداهه,24
+MEDIA_REC,کنسرت خیابانی,24
+MEDIA_REC,مسابقه اطلاعات عمومی,30
+MEDIA_REC,مسابقه آشپزی,23
+MEDIA_REC,مسابقه آهنگ,24
+MEDIA_REC,بازی معمایی,24
+MEDIA_REC,راهنمای بازی رومیزی,31
+MEDIA_REC,کمیک خواندن,24
+MEDIA_REC,ماراتن فیلم,24
+MEDIA_REC,دوبله فیلم,23
+MEDIA_REC,تماشای پشت‌صحنه,28
+MEDIA_REC,گالری‌گردی,21
+MEDIA_REC,نمایش عروسکی,24
+MEDIA_REC,سیرک,18
+MEDIA_REC,سینمای روباز,23
+MEDIA_REC,سینمای سه‌بعدی,28
+MEDIA_REC,سینمای چهاربعدی,24
+MEDIA_REC,بازی تعاملی,24
+MEDIA_REC,بازی کارتی رقابتی,30
+MEDIA_REC,کاسپلی,17
+MEDIA_REC,گردهمایی بازی,24
+MEDIA_REC,لان پارتی,24
+MEDIA_REC,تور موزه,23
+MEDIA_REC,تور تئاتر,24
+MEDIA_REC,تور موسیقی,24
+MEDIA_REC,مسابقه عکاسی,24
+MEDIA_REC,مسابقه فیلم‌سازی,28
+MEDIA_REC,ورزش الکترونیک,24
+MEDIA_REC,استریم بازی,23
+MEDIA_REC,استریم موسیقی,24
+MEDIA_REC,استریم زنده,24
+MEDIA_REC,باشگاه کتاب,23
+MEDIA_REC,باشگاه فیلم,24
+MEDIA_REC,باشگاه بازی,24
+MEDIA_REC,باشگاه شطرنج,24
+MEDIA_REC,مسابقه روبیک,24
+MEDIA_REC,مسابقه برنامه‌نویسی,28
+MEDIA_REC,هکاتون تفریحی,24
+MEDIA_REC,اتاق فرار ترسناک,35
+MEDIA_REC,دوچرخه‌سواری گروهی,29
+MEDIA_REC,کمپ موسیقی,24
+MEDIA_REC,کمپ تئاتر,24
+MEDIA_REC,کمپ عکاسی,24
+MEDIA_REC,کمپ بازی,24
+MEDIA_REC,جشنواره موسیقی خیابانی,30
+MEDIA_REC,جشنواره فیلم کوتاه,31
+MEDIA_REC,جشنواره بازی,24
+MEDIA_REC,کارگاه عکاسی,24
+MEDIA_REC,کارگاه بازیگری,24
+MEDIA_REC,کارگاه کارتون‌سازی,29
+MEDIA_REC,ورکشاپ تدوین,24
+MEDIA_REC,ورکشاپ صداگذاری,24
+MEDIA_REC,ورکشاپ فیلم‌برداری,29
+MEDIA_REC,نقد فیلم تخصصی,50
+MEDIA_REC,نقد موسیقی تخصصی,49
+MEDIA_REC,تحلیل نمایش,44
+MEDIA_REC,تحلیل روایت,44
+MEDIA_REC,تحلیل بازی ویدئویی,51
+MEDIA_REC,تاریخ سینما,44
+MEDIA_REC,تاریخ موسیقی پاپ,50
+MEDIA_REC,تاریخ تئاتر,44
+MEDIA_REC,فیلمنامه‌نویسی پیشرفته,48
+MEDIA_REC,بازیگری روش متد,49
+MEDIA_REC,کارگردانی تئاتر,44
+MEDIA_REC,کارگردانی فیلم,44
+MEDIA_REC,طراحی صحنه تئاتر,50
+MEDIA_REC,طراحی نور تئاتر,50
+MEDIA_REC,طراحی صدا سینما,50
+MEDIA_REC,میکس و مسترینگ,53
+MEDIA_REC,تدوین پیشرفته,43
+MEDIA_REC,تصحیح رنگ,44
+MEDIA_REC,موشن‌گرافیک,42
+MEDIA_REC,طراحی کاراکتر,44
+MEDIA_REC,کانسپت آرت,44
+MEDIA_REC,داستان‌سرایی تعاملی,49
+MEDIA_REC,روایت غیرخطی,44
+MEDIA_REC,کینتیک تایپوگرافی,44
+MEDIA_REC,موسیقی فیلم,44
+MEDIA_REC,ارکستراسیون,38
+MEDIA_REC,هارمونی پیشرفته,44
+MEDIA_REC,آهنگسازی الکترونیک,45
+MEDIA_REC,صدابرداری صحنه,43
+MEDIA_REC,صداگذاری بازی,44
+MEDIA_REC,فولی,37
+MEDIA_REC,موشن کپچر,44
+MEDIA_REC,گیم دیزاین سیستمیک,51
+MEDIA_REC,توازن بازی رقابتی,50
+MEDIA_REC,هوش مصنوعی بازی,50
+MEDIA_REC,تحلیل مخاطب رسانه,50
+MEDIA_REC,سیاست‌گذاری فرهنگی,49
+MEDIA_REC,اقتصاد رسانه,44
+MEDIA_REC,حقوق مالکیت فکری,49
+MEDIA_REC,کپی‌رایت موسیقی,48
+MEDIA_REC,پخش دیجیتال,44
+MEDIA_REC,مدیریت رویداد فرهنگی,51
+MEDIA_REC,تولید مشترک بین‌المللی,55
+MEDIA_REC,کوپروداکشن سینما,44
+MEDIA_REC,جشنواره‌داری,42
+MEDIA_REC,برنامه‌ریزی جشنواره,49
+MEDIA_REC,توزیع فیلم هنری,50
+MEDIA_REC,زیباشناسی سینما,60
+MEDIA_REC,نشانه‌شناسی فیلم,60
+MEDIA_REC,فلسفه موسیقی,60
+MEDIA_REC,فلسفه بازی,60
+MEDIA_REC,نظریه مولف,60
+MEDIA_REC,موج نوی سینما,60
+MEDIA_REC,مونتاژ شوروی,60
+MEDIA_REC,واقع‌گرایی شاعرانه,60
+MEDIA_REC,ساختارگرایی در فیلم,60
+MEDIA_REC,پساساختارگرایی رسانه,60
+MEDIA_REC,نظریه دریافت,60
+NATURE_ENV,خورشید,5
+NATURE_ENV,ماه,6
+NATURE_ENV,ستاره,6
+NATURE_ENV,ابر,6
+NATURE_ENV,باران,6
+NATURE_ENV,برف,6
+NATURE_ENV,رعد,6
+NATURE_ENV,آذرخش,6
+NATURE_ENV,دریا,6
+NATURE_ENV,کوه,6
+NATURE_ENV,دشت,6
+NATURE_ENV,رودخانه,6
+NATURE_ENV,چشمه,6
+NATURE_ENV,دریاچه,6
+NATURE_ENV,آبشار,6
+NATURE_ENV,گل,6
+NATURE_ENV,درخت,6
+NATURE_ENV,چمن,6
+NATURE_ENV,شن,6
+NATURE_ENV,سنگ,6
+NATURE_ENV,جنگل بارانی,24
+NATURE_ENV,کوه آتشفشان,24
+NATURE_ENV,اقیانوس آرام,24
+NATURE_ENV,بیابان شنی,24
+NATURE_ENV,غار آهکی,24
+NATURE_ENV,تپه شنی,24
+NATURE_ENV,دریای خزر,24
+NATURE_ENV,خلیج فارس,24
+NATURE_ENV,دریای مدیترانه,24
+NATURE_ENV,کوه اورست,24
+NATURE_ENV,کوه دماوند,24
+NATURE_ENV,آب و هوا,33
+NATURE_ENV,باد موسمی,24
+NATURE_ENV,توفان شن,25
+NATURE_ENV,سیلاب,18
+NATURE_ENV,یخچال طبیعی,24
+NATURE_ENV,قطب شمال,24
+NATURE_ENV,قطب جنوب,24
+NATURE_ENV,اقیانوس اطلس,24
+NATURE_ENV,اقیانوس هند,24
+NATURE_ENV,اقیانوس منجمد شمالی,32
+NATURE_ENV,توفان دریایی,24
+NATURE_ENV,مرجان دریایی,24
+NATURE_ENV,کوه‌های آلپ,28
+NATURE_ENV,جزایر قناری,24
+NATURE_ENV,تغییرات اقلیمی,43
+NATURE_ENV,گرمایش جهانی,44
+NATURE_ENV,لایه اوزون,44
+NATURE_ENV,اثر گلخانه‌ای,48
+NATURE_ENV,چرخه آب,44
+NATURE_ENV,چرخه کربن,44
+NATURE_ENV,چرخه نیتروژن,44
+NATURE_ENV,چرخه اکسیژن,44
+NATURE_ENV,تنوع زیستی,44
+NATURE_ENV,انقراض گونه‌ها,48
+NATURE_ENV,گونه‌های در خطر,57
+NATURE_ENV,جنگل‌زدایی,42
+NATURE_ENV,بیابان‌زایی,42
+NATURE_ENV,آلودگی هوا,44
+NATURE_ENV,آلودگی آب,44
+NATURE_ENV,آلودگی خاک,44
+NATURE_ENV,محیط‌زیست پایدار,48
+NATURE_ENV,سازگاری اقلیمی,44
+NATURE_ENV,انرژی تجدیدپذیر,44
+NATURE_ENV,مدیریت پسماند,44
+NATURE_ENV,بیوم قطب شمال,60
+NATURE_ENV,بیوم بیابانی,60
+NATURE_ENV,بیوم جنگل بارانی,60
+NATURE_ENV,نظریه گایا,60
+NATURE_ENV,ژئومورفولوژی,55
+PLACES_STRUCT,مدرسه,5
+PLACES_STRUCT,فروشگاه,5
+PLACES_STRUCT,سوپرمارکت,5
+PLACES_STRUCT,بازارچه,5
+PLACES_STRUCT,مسجد,5
+PLACES_STRUCT,کلیسا,5
+PLACES_STRUCT,میدان شهر,11
+PLACES_STRUCT,پارک,6
+PLACES_STRUCT,باغ,5
+PLACES_STRUCT,خیابان اصلی,11
+PLACES_STRUCT,رستوران,5
+PLACES_STRUCT,کافه,6
+PLACES_STRUCT,کتابخانه عمومی,11
+PLACES_STRUCT,سینما,5
+PLACES_STRUCT,ایستگاه تاکسی,12
+PLACES_STRUCT,برج میلاد,23
+PLACES_STRUCT,برج ایفل,24
+PLACES_STRUCT,برج آزادی,24
+PLACES_STRUCT,ورزشگاه آزادی,24
+PLACES_STRUCT,ورزشگاه ملی,24
+PLACES_STRUCT,ایستگاه قطار,24
+PLACES_STRUCT,ایستگاه مترو,24
+PLACES_STRUCT,ترمینال مسافربری,24
+PLACES_STRUCT,فرودگاه مهرآباد,24
+PLACES_STRUCT,فرودگاه امام خمینی,31
+PLACES_STRUCT,میدان آزادی,24
+PLACES_STRUCT,پل طبیعت,24
+PLACES_STRUCT,سد دز,24
+PLACES_STRUCT,دانشگاه تهران,24
+PLACES_STRUCT,دانشگاه شریف,24
+PLACES_STRUCT,کاخ گلستان,24
+PLACES_STRUCT,کاخ نیاوران,25
+PLACES_STRUCT,بازار بزرگ تهران,30
+PLACES_STRUCT,موزه ملی,24
+PLACES_STRUCT,موزه هنرهای معاصر,31
+PLACES_STRUCT,دیوار چین,44
+PLACES_STRUCT,تاج محل,44
+PLACES_STRUCT,پارتنون,39
+PLACES_STRUCT,آکروپولیس,39
+PLACES_STRUCT,کلیسای نوتردام,44
+PLACES_STRUCT,کلوسئوم,38
+PLACES_STRUCT,پمپئی,38
+PLACES_STRUCT,پتروناس,38
+PLACES_STRUCT,سد کارون,44
+PLACES_STRUCT,سد هوور,45
+PLACES_STRUCT,سد آسوان,44
+PLACES_STRUCT,اهرام ثلاثه,45
+PLACES_STRUCT,کاخ ورسای,44
+PLACES_STRUCT,واتیکان,56
+PLACES_STRUCT,ماچوپیچو,56
+PLACES_STRUCT,پترا,57
+PLACES_STRUCT,آنگکور وات,60
+PLACES_STRUCT,جزیره ایستر,60
+SOCIETY,خانواده,4
+SOCIETY,دوستی,4
+SOCIETY,ازدواج,4
+SOCIETY,عروسی,4
+SOCIETY,تولد,4
+SOCIETY,مهمانی,5
+SOCIETY,دید و بازدید,19
+SOCIETY,عزاداری,4
+SOCIETY,عید,4
+SOCIETY,نوروز,5
+SOCIETY,مراسم,4
+SOCIETY,جشن,4
+SOCIETY,رقص,4
+SOCIETY,آواز جمعی,10
+SOCIETY,مهمان,5
+SOCIETY,میزبان,4
+SOCIETY,عیدی,4
+SOCIETY,لباس محلی,10
+SOCIETY,بازی محلی,11
+SOCIETY,بازارچه محلی,11
+SOCIETY,شادی,9
+SOCIETY,مهر,4
+SOCIETY,محبت,4
+SOCIETY,همسایه,4
+SOCIETY,محله,4
+SOCIETY,دهکده,5
+SOCIETY,روستا,4
+SOCIETY,شهر,4
+SOCIETY,کلان‌شهر,8
+SOCIETY,ملیت,4
+SOCIETY,سنت نوروز,22
+SOCIETY,چهارشنبه‌سوری,20
+SOCIETY,سیزده‌بدر,21
+SOCIETY,شب یلدا,22
+SOCIETY,مراسم محرم,23
+SOCIETY,آیین عاشورا,23
+SOCIETY,نذری,16
+SOCIETY,تعزیه,17
+SOCIETY,روضه,17
+SOCIETY,عید فطر,22
+SOCIETY,عید قربان,23
+SOCIETY,ماه رمضان,23
+SOCIETY,نماز جماعت,23
+SOCIETY,نماز جمعه,22
+SOCIETY,مهاجرت,17
+SOCIETY,بازار محلی,23
+SOCIETY,بازار شب,22
+SOCIETY,فرهنگ عامه,22
+SOCIETY,فولکلور,17
+SOCIETY,افسانه,17
+SOCIETY,داستان عامیانه,22
+SOCIETY,مثل,17
+SOCIETY,ضرب‌المثل,21
+SOCIETY,پند اخلاقی,23
+SOCIETY,رفتار اجتماعی,22
+SOCIETY,ادب,16
+SOCIETY,تعارف,17
+SOCIETY,غیبت,17
+SOCIETY,همکاری,16
+SOCIETY,همبستگی,17
+SOCIETY,کار داوطلبانه,23
+SOCIETY,خدمت سربازی,23
+SOCIETY,کمک خیریه,22
+SOCIETY,بنیاد خیریه,23
+SOCIETY,وقف,17
+SOCIETY,سنت ازدواج,23
+SOCIETY,لباس عروس,22
+SOCIETY,جهاز,17
+SOCIETY,حنابندان,17
+SOCIETY,نابرابری اجتماعی,42
+SOCIETY,عدالت اجتماعی,42
+SOCIETY,حقوق شهروندی,42
+SOCIETY,مسئولیت اجتماعی,52
+SOCIETY,حقوق زنان,42
+SOCIETY,حقوق کودکان,42
+SOCIETY,حقوق اقلیت‌ها,46
+SOCIETY,آسیب اجتماعی,42
+SOCIETY,جرم اجتماعی,52
+SOCIETY,بیکاری جوانان,42
+SOCIETY,طلاق,36
+SOCIETY,خشونت خانگی,42
+SOCIETY,اعتیاد اجتماعی,42
+SOCIETY,فرار جوانان,42
+SOCIETY,تبعیض,36
+SOCIETY,فقر شهری,42
+SOCIETY,کار کودک,42
+SOCIETY,قاچاق انسان,43
+SOCIETY,آسیب اینترنتی,42
+SOCIETY,جرایم سایبری,42
+SOCIETY,فساد اجتماعی,42
+SOCIETY,رانت اجتماعی,42
+SOCIETY,نفوذ فرهنگی,42
+SOCIETY,بحران هویت,42
+SOCIETY,چالش نسلی,42
+SOCIETY,شکاف دیجیتال,42
+SOCIETY,جامعه‌شناسی شهری,46
+SOCIETY,جامعه‌شناسی روستایی,47
+SOCIETY,سیاست فرهنگی,42
+SOCIETY,آینده‌پژوهی اجتماعی,47
+SOCIETY,جامعه مدنی,60
+SOCIETY,چندفرهنگ‌گرایی,60
+SOCIETY,جهانی‌شدن فرهنگی,60
+SOCIETY,نظریه اجتماعی,60
+SOCIETY,نظریه مدرنیزاسیون,60
+SOCIETY,نظریه پسااستعماری,60
+SOCIETY,نظریه شبکه اجتماعی,60
+TECH_INFRA,موبایل,4
+TECH_INFRA,لپ‌تاپ,8
+TECH_INFRA,کامپیوتر,5
+TECH_INFRA,تلویزیون,5
+TECH_INFRA,اینترنت,5
+TECH_INFRA,وای‌فای,9
+TECH_INFRA,بلوتوث,5
+TECH_INFRA,تبلت,5
+TECH_INFRA,کنسول بازی,11
+TECH_INFRA,دوربین دیجیتال,11
+TECH_INFRA,هدست,5
+TECH_INFRA,کیبورد,5
+TECH_INFRA,ماوس,5
+TECH_INFRA,پرینتر,5
+TECH_INFRA,اسکنر,5
+TECH_INFRA,فلش مموری,11
+TECH_INFRA,هارد اکسترنال,11
+TECH_INFRA,مودم,5
+TECH_INFRA,روتر,5
+TECH_INFRA,رمز عبور,11
+TECH_INFRA,وب‌کم,9
+TECH_INFRA,بازی موبایلی,11
+TECH_INFRA,اپلیکیشن,5
+TECH_INFRA,مرورگر,5
+TECH_INFRA,ایمیل,5
+TECH_INFRA,پاوربانک,5
+TECH_INFRA,اسپیکر,5
+TECH_INFRA,مانیتور,5
+TECH_INFRA,ساعت هوشمند,11
+TECH_INFRA,پروژکتور,5
+TECH_INFRA,فیبر نوری,23
+TECH_INFRA,کابل شبکه,23
+TECH_INFRA,دیتاسنتر,18
+TECH_INFRA,ابر رایانه,23
+TECH_INFRA,ابر خصوصی,24
+TECH_INFRA,ابر عمومی,24
+TECH_INFRA,شبکه اجتماعی,23
+TECH_INFRA,پرداخت آنلاین,24
+TECH_INFRA,اپلیکیشن بانکی,24
+TECH_INFRA,اپلیکیشن فروشگاهی,23
+TECH_INFRA,وب‌سایت خبری,27
+TECH_INFRA,وب‌سایت فروشگاهی,28
+TECH_INFRA,وب‌سایت آموزشی,28
+TECH_INFRA,وب‌سایت تفریحی,27
+TECH_INFRA,پرداخت موبایلی,24
+TECH_INFRA,کیف پول دیجیتال,30
+TECH_INFRA,پرداخت بدون تماس,32
+TECH_INFRA,سیستم عامل,24
+TECH_INFRA,مرورگر وب,23
+TECH_INFRA,موتور جستجو,23
+TECH_INFRA,هوش مصنوعی,24
+TECH_INFRA,یادگیری ماشینی,24
+TECH_INFRA,واقعیت مجازی,24
+TECH_INFRA,واقعیت افزوده,24
+TECH_INFRA,چت‌بات,21
+TECH_INFRA,ربات صنعتی,24
+TECH_INFRA,اتوماسیون خانگی,24
+TECH_INFRA,اینترنت اشیا,23
+TECH_INFRA,سیستم ردیابی,24
+TECH_INFRA,جی‌پی‌اس,22
+TECH_INFRA,سیستم موقعیت‌یاب,28
+TECH_INFRA,سیستم تشخیص چهره,29
+TECH_INFRA,سیستم اثر انگشت,30
+TECH_INFRA,دوربین مداربسته,23
+TECH_INFRA,خانه هوشمند,24
+TECH_INFRA,شهر هوشمند,24
+TECH_INFRA,ماشین هوشمند,24
+TECH_INFRA,پردازش ابری,24
+TECH_INFRA,امنیت سایبری,23
+TECH_INFRA,رمزارز,18
+TECH_INFRA,شبکه ابری,43
+TECH_INFRA,شبکه 5G,47
+TECH_INFRA,شبکه 6G,48
+TECH_INFRA,سرور مجازی,44
+TECH_INFRA,مجازی‌سازی,41
+TECH_INFRA,بلاکچین,37
+TECH_INFRA,قرارداد هوشمند,54
+TECH_INFRA,توکن غیرقابل معاوضه,51
+TECH_INFRA,ماینینگ,37
+TECH_INFRA,امنیت شبکه,43
+TECH_INFRA,فایروال,38
+TECH_INFRA,کلاسترینگ,38
+TECH_INFRA,الگوریتم هوش مصنوعی,50
+TECH_INFRA,مدل یادگیری عمیق,50
+TECH_INFRA,پردازش تصویر,43
+TECH_INFRA,پردازش زبان طبیعی,49
+TECH_INFRA,تشخیص صدا,44
+TECH_INFRA,روباتیک پیشرفته,43
+TECH_INFRA,اتوماسیون صنعتی,43
+TECH_INFRA,کارخانه هوشمند,44
+TECH_INFRA,شبکه عصبی,43
+TECH_INFRA,الگوریتم ژنتیک,54
+TECH_INFRA,سیستم توصیه‌گر,47
+TECH_INFRA,پردازش ابری لبه,49
+TECH_INFRA,کلان‌داده,42
+TECH_INFRA,تحلیل داده,44
+TECH_INFRA,علم داده,43
+TECH_INFRA,یادگیری تقویتی,44
+TECH_INFRA,اینترنت ماهواره‌ای,48
+TECH_INFRA,نیروگاه هسته‌ای,48
+TECH_INFRA,نیروگاه خورشیدی,43
+TECH_INFRA,نیروگاه بادی,44
+TECH_INFRA,نیروگاه آبی,44
+TECH_INFRA,شبکه توزیع برق,49
+TECH_INFRA,زیرساخت انرژی,44
+TECH_INFRA,کوانتوم کامپیوتینگ,60
+TECH_INFRA,اینترنت اشیا صنعتی,60
+TECH_INFRA,متاورس,55
+TECH_INFRA,نانوفناوری پزشکی,60
+TECH_INFRA,هوش مصنوعی عمومی,60
+TECH_INFRA,ابرکامپیوتر کوانتومی,60
+TECH_INFRA,هوش مصنوعی مولد,60
+TECH_INFRA,شبکه عصبی کوانتومی,60
+TECH_INFRA,فناوری فضایی پیشرفته,60
+TECH_INFRA,کلونینگ انسانی,60
+TECH_INFRA,زیست‌فناوری ترکیبی,60
