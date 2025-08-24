@@ -6630,3 +6630,119 @@ SOCIETY,X,9.30,نظریه اجتماعی
 SOCIETY,X,9.20,نظریه مدرنیزاسیون
 SOCIETY,X,8.90,نظریه پسااستعماری
 SOCIETY,X,9.50,نظریه شبکه اجتماعی
+TECH_INFRA,E,1.20,موبایل
+TECH_INFRA,E,1.40,لپ‌تاپ
+TECH_INFRA,E,1.70,کامپیوتر
+TECH_INFRA,E,2.00,تلویزیون
+TECH_INFRA,E,2.20,اینترنت
+TECH_INFRA,E,2.40,وای‌فای
+TECH_INFRA,E,1.90,بلوتوث
+TECH_INFRA,E,2.10,تبلت
+TECH_INFRA,E,1.80,کنسول بازی
+TECH_INFRA,E,2.30,دوربین دیجیتال
+TECH_INFRA,E,1.60,هدست
+TECH_INFRA,E,2.20,کیبورد
+TECH_INFRA,E,2.40,ماوس
+TECH_INFRA,E,1.70,پرینتر
+TECH_INFRA,E,2.10,اسکنر
+TECH_INFRA,E,1.90,فلش مموری
+TECH_INFRA,E,2.30,هارد اکسترنال
+TECH_INFRA,E,2.00,مودم
+TECH_INFRA,E,2.20,روتر
+TECH_INFRA,E,1.80,رمز عبور
+TECH_INFRA,E,2.40,وب‌کم
+TECH_INFRA,E,2.10,بازی موبایلی
+TECH_INFRA,E,2.20,اپلیکیشن
+TECH_INFRA,E,1.90,مرورگر
+TECH_INFRA,E,2.30,ایمیل
+TECH_INFRA,E,1.70,پاوربانک
+TECH_INFRA,E,2.00,اسپیکر
+TECH_INFRA,E,2.40,مانیتور
+TECH_INFRA,E,2.10,ساعت هوشمند
+TECH_INFRA,E,1.80,پروژکتور
+TECH_INFRA,M,3.40,فیبر نوری
+TECH_INFRA,M,3.70,کابل شبکه
+TECH_INFRA,M,4.10,دیتاسنتر
+TECH_INFRA,M,3.80,ابر رایانه
+TECH_INFRA,M,4.20,ابر خصوصی
+TECH_INFRA,M,4.40,ابر عمومی
+TECH_INFRA,M,3.90,شبکه اجتماعی
+TECH_INFRA,M,4.50,پرداخت آنلاین
+TECH_INFRA,M,4.70,اپلیکیشن بانکی
+TECH_INFRA,M,3.60,اپلیکیشن فروشگاهی
+TECH_INFRA,M,4.00,وب‌سایت خبری
+TECH_INFRA,M,4.30,وب‌سایت فروشگاهی
+TECH_INFRA,M,4.60,وب‌سایت آموزشی
+TECH_INFRA,M,3.90,وب‌سایت تفریحی
+TECH_INFRA,M,4.10,پرداخت موبایلی
+TECH_INFRA,M,4.40,کیف پول دیجیتال
+TECH_INFRA,M,3.80,پرداخت بدون تماس
+TECH_INFRA,M,4.20,سیستم عامل
+TECH_INFRA,M,3.70,مرورگر وب
+TECH_INFRA,M,4.00,موتور جستجو
+TECH_INFRA,M,4.30,هوش مصنوعی
+TECH_INFRA,M,4.60,یادگیری ماشینی
+TECH_INFRA,M,4.10,واقعیت مجازی
+TECH_INFRA,M,4.40,واقعیت افزوده
+TECH_INFRA,M,3.90,چت‌بات
+TECH_INFRA,M,4.50,ربات صنعتی
+TECH_INFRA,M,4.20,اتوماسیون خانگی
+TECH_INFRA,M,3.70,اینترنت اشیا
+TECH_INFRA,M,4.10,سیستم ردیابی
+TECH_INFRA,M,4.30,جی‌پی‌اس
+TECH_INFRA,M,4.60,سیستم موقعیت‌یاب
+TECH_INFRA,M,4.00,سیستم تشخیص چهره
+TECH_INFRA,M,4.40,سیستم اثر انگشت
+TECH_INFRA,M,3.80,دوربین مداربسته
+TECH_INFRA,M,4.20,خانه هوشمند
+TECH_INFRA,M,4.70,شهر هوشمند
+TECH_INFRA,M,4.10,ماشین هوشمند
+TECH_INFRA,M,4.50,پردازش ابری
+TECH_INFRA,M,3.90,امنیت سایبری
+TECH_INFRA,M,4.30,رمزارز
+TECH_INFRA,H,6.10,شبکه ابری
+TECH_INFRA,H,6.40,شبکه 5G
+TECH_INFRA,H,6.80,شبکه 6G
+TECH_INFRA,H,7.00,سرور مجازی
+TECH_INFRA,H,6.50,مجازی‌سازی
+TECH_INFRA,H,6.30,بلاکچین
+TECH_INFRA,H,6.90,قرارداد هوشمند
+TECH_INFRA,H,7.20,توکن غیرقابل معاوضه
+TECH_INFRA,H,6.60,ماینینگ
+TECH_INFRA,H,6.20,امنیت شبکه
+TECH_INFRA,H,6.80,فایروال
+TECH_INFRA,H,7.10,کلاسترینگ
+TECH_INFRA,H,6.40,الگوریتم هوش مصنوعی
+TECH_INFRA,H,6.90,مدل یادگیری عمیق
+TECH_INFRA,H,6.20,پردازش تصویر
+TECH_INFRA,H,6.60,پردازش زبان طبیعی
+TECH_INFRA,H,7.00,تشخیص صدا
+TECH_INFRA,H,6.30,روباتیک پیشرفته
+TECH_INFRA,H,6.50,اتوماسیون صنعتی
+TECH_INFRA,H,6.90,کارخانه هوشمند
+TECH_INFRA,H,6.40,شبکه عصبی
+TECH_INFRA,H,7.20,الگوریتم ژنتیک
+TECH_INFRA,H,6.60,سیستم توصیه‌گر
+TECH_INFRA,H,6.30,پردازش ابری لبه
+TECH_INFRA,H,7.00,کلان‌داده
+TECH_INFRA,H,6.80,تحلیل داده
+TECH_INFRA,H,6.50,علم داده
+TECH_INFRA,H,6.90,یادگیری تقویتی
+TECH_INFRA,H,6.20,اینترنت ماهواره‌ای
+TECH_INFRA,H,6.70,نیروگاه هسته‌ای
+TECH_INFRA,H,6.40,نیروگاه خورشیدی
+TECH_INFRA,H,6.80,نیروگاه بادی
+TECH_INFRA,H,7.10,نیروگاه آبی
+TECH_INFRA,H,6.50,شبکه توزیع برق
+TECH_INFRA,H,6.90,زیرساخت انرژی
+TECH_INFRA,X,8.40,کوانتوم کامپیوتینگ
+TECH_INFRA,X,8.90,اینترنت اشیا صنعتی
+TECH_INFRA,X,9.10,متاورس
+TECH_INFRA,X,9.30,نانوفناوری پزشکی
+TECH_INFRA,X,9.50,هوش مصنوعی عمومی
+TECH_INFRA,X,8.70,ابرکامپیوتر کوانتومی
+TECH_INFRA,X,9.20,هوش مصنوعی مولد
+TECH_INFRA,X,9.40,شبکه عصبی کوانتومی
+TECH_INFRA,X,8.80,فناوری فضایی پیشرفته
+TECH_INFRA,X,9.10,کلونینگ انسانی
+TECH_INFRA,X,9.30,زیست‌فناوری ترکیبی
