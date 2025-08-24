@@ -5248,3 +5248,1385 @@ TRANS_DIR,H,5.42,کیلومتر شمار
 TRANS_DIR,H,6.09,زیردریایی هسته ای
 TRANS_DIR,H,5.34,ناو هواپیمابر
 TRANS_DIR,H,5.09,هلیکوپتر تهاجمی
+TRANS_DIR,E,1.10,تاکسی
+TRANS_DIR,E,1.30,اتوبوس
+TRANS_DIR,E,1.50,مترو
+TRANS_DIR,E,1.80,قطار
+TRANS_DIR,E,1.20,ماشین
+TRANS_DIR,E,1.90,موتورسیکلت
+TRANS_DIR,E,2.10,دوچرخه
+TRANS_DIR,E,2.40,پیاده‌روی
+TRANS_DIR,E,1.70,کامیون
+TRANS_DIR,E,1.50,ون
+TRANS_DIR,E,2.20,قایق
+TRANS_DIR,E,2.40,کشتی
+TRANS_DIR,E,1.80,هواپیما
+TRANS_DIR,E,1.30,ایستگاه
+TRANS_DIR,E,2.00,ترمینال
+TRANS_DIR,E,1.60,فرودگاه
+TRANS_DIR,E,1.40,بزرگراه
+TRANS_DIR,E,1.90,چراغ قرمز
+TRANS_DIR,E,2.10,پل
+TRANS_DIR,E,1.80,زیرگذر
+TRANS_DIR,E,1.70,روگذر
+TRANS_DIR,E,1.50,پارکینگ
+TRANS_DIR,E,2.40,چراغ سبز
+TRANS_DIR,E,1.30,خیابان
+TRANS_DIR,E,1.20,جاده
+TRANS_DIR,E,1.70,ایست
+TRANS_DIR,E,2.00,ایستگاه تاکسی
+TRANS_DIR,E,2.30,ایستگاه اتوبوس
+TRANS_DIR,E,2.10,خط عابر
+TRANS_DIR,E,2.40,کمربندی
+TRANS_DIR,M,3.20,بلیط خریدن
+TRANS_DIR,M,3.40,چمدان کشیدن
+TRANS_DIR,M,3.80,کمربند ایمنی بستن
+TRANS_DIR,M,3.10,پنچرگیری
+TRANS_DIR,M,4.10,سوخت‌گیری
+TRANS_DIR,M,4.00,پارک دوبل
+TRANS_DIR,M,3.90,پارک موازی
+TRANS_DIR,M,4.50,پارکومتر
+TRANS_DIR,M,4.20,پارکینگ طبقاتی
+TRANS_DIR,M,3.50,مسیر کوتاه‌تر
+TRANS_DIR,M,4.70,میان‌بُر
+TRANS_DIR,M,3.60,رزرو تاکسی اینترنتی
+TRANS_DIR,M,3.80,لغو سفر
+TRANS_DIR,M,3.40,چک‌این
+TRANS_DIR,M,4.10,کارت پرواز
+TRANS_DIR,M,4.30,گیت پرواز
+TRANS_DIR,M,4.60,کنترل گذرنامه
+TRANS_DIR,M,4.20,چمدان تحویل دادن
+TRANS_DIR,M,4.50,پرواز داخلی
+TRANS_DIR,M,4.70,پرواز خارجی
+TRANS_DIR,M,3.70,فرود اضطراری
+TRANS_DIR,M,3.20,پرواز چارتر
+TRANS_DIR,M,4.40,پرواز ترانزیتی
+TRANS_DIR,M,4.10,تاخیر پرواز
+TRANS_DIR,M,4.60,ماشین اجاره‌ای
+TRANS_DIR,M,3.40,تاکسی بین‌شهری
+TRANS_DIR,M,4.10,تاکسی تلفنی
+TRANS_DIR,M,3.50,ماشین کرایه‌ای
+TRANS_DIR,M,4.20,وانت بار
+TRANS_DIR,M,3.90,کامیون یخچالی
+TRANS_DIR,M,3.80,تریلی
+TRANS_DIR,M,3.60,اتوبوس دو طبقه
+TRANS_DIR,M,3.40,اتوبوس برقی
+TRANS_DIR,M,4.00,تراموای برقی
+TRANS_DIR,M,4.30,مونوریل
+TRANS_DIR,M,3.70,قایق موتوری
+TRANS_DIR,M,4.40,قایق تفریحی
+TRANS_DIR,M,3.80,قایق پارویی
+TRANS_DIR,M,3.90,قایق امدادی
+TRANS_DIR,M,4.20,قایق بادی
+TRANS_DIR,M,4.70,قایق تندرو
+TRANS_DIR,M,4.10,قایق کایاک
+TRANS_DIR,M,4.30,قایق بادبانی
+TRANS_DIR,M,4.60,قایق مسابقه‌ای
+TRANS_DIR,M,4.50,قایق خانوادگی
+TRANS_DIR,M,4.40,کشتی مسافری
+TRANS_DIR,M,3.80,کشتی باری
+TRANS_DIR,M,4.60,کشتی کروز
+TRANS_DIR,M,3.90,کشتی نظامی
+TRANS_DIR,M,4.20,بندر
+TRANS_DIR,M,4.50,اسکله
+TRANS_DIR,M,4.70,لنج
+TRANS_DIR,M,4.10,تله‌کابین
+TRANS_DIR,M,4.40,بالن
+TRANS_DIR,M,4.60,هلیکوپتر
+TRANS_DIR,M,4.20,بالگرد امدادی
+TRANS_DIR,M,3.80,بالگرد نظامی
+TRANS_DIR,M,4.70,ماشین برقی
+TRANS_DIR,M,3.90,ماشین هیبریدی
+TRANS_DIR,M,4.10,اتصال بلوتوث خودرو
+TRANS_DIR,M,3.80,کروز کنترل
+TRANS_DIR,M,4.40,ترمز اضطراری
+TRANS_DIR,M,3.70,پارک خودکار
+TRANS_DIR,M,4.20,نمای ۳۶۰ درجه خودرو
+TRANS_DIR,M,4.60,چراغ تطبیقی
+TRANS_DIR,M,3.80,حسگر نقطه کور
+TRANS_DIR,M,4.10,نقشه آفلاین
+TRANS_DIR,M,4.50,به‌روزرسانی نقشه
+TRANS_DIR,M,4.20,پایش ترافیک
+TRANS_DIR,M,3.80,میانبر محلی
+TRANS_DIR,M,4.70,سفر گروهی
+TRANS_DIR,M,4.30,سفر برون‌شهری
+TRANS_DIR,M,4.40,سفر درون‌شهری
+TRANS_DIR,M,3.90,صندلی کودک خودرو
+TRANS_DIR,M,4.20,چراغ مه‌شکن
+TRANS_DIR,M,4.50,چراغ خطر
+TRANS_DIR,M,3.70,چراغ راهنما
+TRANS_DIR,M,4.60,کمربند ایمنی کودک
+TRANS_DIR,M,4.10,چمدان گم‌شده
+TRANS_DIR,M,4.30,راهروی پرواز
+TRANS_DIR,M,4.40,کنترل امنیتی
+TRANS_DIR,M,4.20,ایست بازرسی
+TRANS_DIR,M,3.90,خط ویژه
+TRANS_DIR,M,4.20,ایستگاه اتوبوس تندرو
+TRANS_DIR,M,4.30,اتوبوس فرودگاهی
+TRANS_DIR,M,4.60,ون مسافربری
+TRANS_DIR,M,4.50,پیک موتوری
+TRANS_DIR,M,4.70,ماشین پلیس
+TRANS_DIR,M,4.10,آمبولانس
+TRANS_DIR,M,4.30,ماشین آتش‌نشانی
+TRANS_DIR,M,4.50,نفربر
+TRANS_DIR,X,8.50,فضاپیما
+TRANS_DIR,X,9.00,ایستگاه فضایی
+TRANS_DIR,X,9.20,شاتل فضایی
+TRANS_DIR,X,9.40,پرتاب موشک
+TRANS_DIR,X,9.10,ماهواره
+TRANS_DIR,X,9.30,هواپیمای مافوق صوت
+TRANS_DIR,X,9.00,هواپیمای رادارگریز
+TRANS_DIR,X,8.80,هواپیمای بدون سرنشین
+TRANS_DIR,X,9.40,پهپاد نظامی
+TRANS_DIR,X,9.10,پهپاد نقشه‌برداری
+TRANS_DIR,X,8.70,کشتی یخ‌شکن
+TRANS_DIR,X,9.20,زیردریایی اتمی
+TRANS_DIR,X,9.40,زیردریایی تحقیقاتی
+TRANS_DIR,X,9.10,ناو هواپیمابر
+TRANS_DIR,X,9.30,قطار مغناطیسی
+TRANS_DIR,X,9.50,قطار مافوق‌صوت
+TRANS_DIR,X,9.20,ابرکریدور بین‌قاره‌ای
+TRANS_DIR,X,9.00,بالن فضایی
+TRANS_DIR,X,8.90,سفر به قطب جنوب
+TRANS_DIR,X,9.40,راهبری کوانتومی
+ART_LIT,E,1.20,کتاب
+ART_LIT,E,1.50,شعر
+ART_LIT,E,2.10,قصه
+ART_LIT,E,1.80,نقاشی
+ART_LIT,E,2.20,موزیک
+ART_LIT,E,1.40,فیلم
+ART_LIT,E,2.30,داستان
+ART_LIT,E,1.60,رمان
+ART_LIT,E,2.00,نمایش
+ART_LIT,E,1.90,موسیقی
+ART_LIT,E,2.40,کاریکاتور
+ART_LIT,E,2.00,کاریکاتوریست
+ART_LIT,E,1.80,خواننده
+ART_LIT,E,1.40,بازیگر
+ART_LIT,E,2.10,شاعر
+ART_LIT,E,1.70,نویسنده
+ART_LIT,E,1.90,خاطره‌نویسی
+ART_LIT,E,2.40,خوشنویسی
+ART_LIT,E,1.60,داستان کوتاه
+ART_LIT,E,1.80,مقاله
+ART_LIT,E,2.20,کمدی
+ART_LIT,E,2.00,تراژدی
+ART_LIT,E,2.40,نقالی
+ART_LIT,E,2.30,آواز
+ART_LIT,E,1.70,ساز
+ART_LIT,E,2.10,دفتر شعر
+ART_LIT,E,1.50,خطاطی
+ART_LIT,E,1.80,نقد
+ART_LIT,E,2.20,موسیقی پاپ
+ART_LIT,E,2.40,فیلم کوتاه
+ART_LIT,M,3.40,نمایشنامه
+ART_LIT,M,3.10,رمان عاشقانه
+ART_LIT,M,4.20,رمان پلیسی
+ART_LIT,M,3.80,تئاتر خیابانی
+ART_LIT,M,4.50,تئاتر کودک
+ART_LIT,M,4.10,موسیقی سنتی
+ART_LIT,M,3.90,ساز تار
+ART_LIT,M,3.20,ساز سه‌تار
+ART_LIT,M,3.60,ساز دف
+ART_LIT,M,4.30,ساز کمانچه
+ART_LIT,M,4.70,ساز سنتور
+ART_LIT,M,3.50,رمان تاریخی
+ART_LIT,M,3.80,رمان ماجراجویانه
+ART_LIT,M,4.20,شعر کلاسیک
+ART_LIT,M,3.60,شعر نو
+ART_LIT,M,4.10,شعر سپید
+ART_LIT,M,3.50,نمایش رادیویی
+ART_LIT,M,4.00,فیلم مستند
+ART_LIT,M,3.90,فیلم کمدی
+ART_LIT,M,4.40,فیلم درام
+ART_LIT,M,4.20,فیلم اکشن
+ART_LIT,M,3.60,فیلم عاشقانه
+ART_LIT,M,4.10,فیلم تاریخی
+ART_LIT,M,4.70,فیلم تخیلی
+ART_LIT,M,3.50,خط نستعلیق
+ART_LIT,M,4.20,خط کوفی
+ART_LIT,M,4.40,نقاشی پرتره
+ART_LIT,M,4.10,نقاشی طبیعت
+ART_LIT,M,3.90,نقاشی کودکانه
+ART_LIT,M,4.20,نقاشی دیواری
+ART_LIT,M,3.70,مجسمه‌سازی
+ART_LIT,M,4.30,سفالگری
+ART_LIT,M,4.10,نمایش عروسکی
+ART_LIT,M,4.60,فیلم صامت
+ART_LIT,M,3.90,نمایش اپرا
+ART_LIT,M,4.20,نمایش موزیکال
+ART_LIT,M,4.70,کتاب کمیک
+ART_LIT,M,3.60,کتاب کودک
+ART_LIT,M,4.10,فیلمنامه
+ART_LIT,M,4.50,پادکست هنری
+ART_LIT,H,6.10,رمان فلسفی
+ART_LIT,H,6.50,رمان روانشناسی
+ART_LIT,H,5.90,نمایشنامه کلاسیک
+ART_LIT,H,6.40,نمایشنامه مدرن
+ART_LIT,H,7.10,نمایش اپرایی
+ART_LIT,H,6.20,اپرای ایرانی
+ART_LIT,H,6.80,اپرای خارجی
+ART_LIT,H,6.00,نقد ادبی
+ART_LIT,H,6.70,نقد هنری
+ART_LIT,H,6.30,مقاله فلسفی
+ART_LIT,H,6.90,نقاشی رنسانس
+ART_LIT,H,7.40,نقاشی کوبیسم
+ART_LIT,H,6.50,نقاشی امپرسیونیسم
+ART_LIT,H,7.10,نقاشی سوررئالیسم
+ART_LIT,H,6.20,نقاشی مدرن
+ART_LIT,H,6.40,نقاشی آبستره
+ART_LIT,H,7.30,نقاشی معاصر
+ART_LIT,H,6.80,مجسمه برنزی
+ART_LIT,H,7.20,مجسمه کلاسیک
+ART_LIT,H,6.10,مجسمه مدرن
+ART_LIT,H,6.60,خوشنویسی اسلامی
+ART_LIT,H,7.40,خوشنویسی ژاپنی
+ART_LIT,H,7.20,خوشنویسی چینی
+ART_LIT,H,6.90,شعر حماسی
+ART_LIT,H,6.20,شعر آیینی
+ART_LIT,H,6.80,شعر عاشقانه کلاسیک
+ART_LIT,H,7.30,شعر اسطوره‌ای
+ART_LIT,H,6.50,رمان معمایی
+ART_LIT,H,6.90,رمان علمی‌تخیلی
+ART_LIT,H,6.40,رمان فانتزی
+ART_LIT,H,7.00,رمان حماسی
+ART_LIT,H,6.80,فیلم سوررئال
+ART_LIT,H,7.20,فیلم هنری
+ART_LIT,H,6.50,فیلم فلسفی
+ART_LIT,H,6.90,فیلم اکسپرسیونیستی
+ART_LIT,H,6.10,فیلم نئورئالیستی
+ART_LIT,H,6.70,فیلم سیاه‌وسفید کلاسیک
+ART_LIT,H,7.30,نمایش تجربی
+ART_LIT,H,6.40,اجرای زنده موسیقی
+ART_LIT,H,6.80,اجرای سمفونی
+ART_LIT,X,8.10,اپرای ایتالیایی
+ART_LIT,X,8.50,اپرای فرانسوی
+ART_LIT,X,9.00,اپرای آلمانی
+ART_LIT,X,8.70,موسیقی سمفونیک
+ART_LIT,X,9.20,موسیقی جَز کلاسیک
+ART_LIT,X,9.50,موسیقی بلوز
+ART_LIT,X,8.90,موسیقی کانتری
+ART_LIT,X,9.30,نقاشی باروک
+ART_LIT,X,9.10,نقاشی مینیمالیسم
+ART_LIT,X,8.80,نقاشی فوتورئالیسم
+ART_LIT,X,9.40,حماسه یونانی
+ART_LIT,X,9.00,تراژدی یونانی
+ART_LIT,X,8.70,نمایش شکسپیری
+ART_LIT,X,9.20,رمان داستایوفسکی
+ATTR_EMO,E,1.20,خنده
+ATTR_EMO,E,1.80,گریه
+ATTR_EMO,E,2.10,شادی
+ATTR_EMO,E,1.70,غم
+ATTR_EMO,E,1.50,ترس
+ATTR_EMO,E,1.40,عشق
+ATTR_EMO,E,2.30,نفرت
+ATTR_EMO,E,1.60,امید
+ATTR_EMO,E,2.00,خشم
+ATTR_EMO,E,1.90,مهربانی
+ATTR_EMO,E,1.30,عطوفت
+ATTR_EMO,E,1.80,تنهایی
+ATTR_EMO,E,2.20,هیجان
+ATTR_EMO,E,1.40,شجاعت
+ATTR_EMO,E,1.60,حسرت
+ATTR_EMO,E,2.40,غرور
+ATTR_EMO,E,1.90,سعادت
+ATTR_EMO,E,2.10,دلتنگی
+ATTR_EMO,E,2.30,شادمانی
+ATTR_EMO,E,1.50,رضایت
+ATTR_EMO,E,2.20,لذت
+ATTR_EMO,E,2.40,بغض
+ATTR_EMO,E,1.80,تردید
+ATTR_EMO,E,2.30,اعتماد
+ATTR_EMO,E,2.40,خستگی
+ATTR_EMO,E,1.60,امان
+ATTR_EMO,E,2.00,انزجار
+ATTR_EMO,E,1.70,دوستی
+ATTR_EMO,E,1.90,غرور مثبت
+ATTR_EMO,E,2.10,تواضع
+ATTR_EMO,E,1.50,ذوق
+ATTR_EMO,E,2.20,آرامش
+ATTR_EMO,E,2.40,ناباوری
+ATTR_EMO,E,1.80,صبر
+ATTR_EMO,M,3.10,نگرانی
+ATTR_EMO,M,3.60,اضطراب
+ATTR_EMO,M,4.10,خجالت
+ATTR_EMO,M,3.40,شرم
+ATTR_EMO,M,4.30,بی‌حوصلگی
+ATTR_EMO,M,3.50,بی‌تفاوتی
+ATTR_EMO,M,4.20,کنجکاوی
+ATTR_EMO,M,4.40,اعتمادبه‌نفس
+ATTR_EMO,M,3.70,افتخار
+ATTR_EMO,M,4.10,دلسوزی
+ATTR_EMO,M,3.80,رغبت
+ATTR_EMO,M,4.00,پشیمانی
+ATTR_EMO,M,4.50,دلسردی
+ATTR_EMO,M,3.90,انفعال
+ATTR_EMO,M,3.40,تعلل
+ATTR_EMO,M,3.60,غرور کاذب
+ATTR_EMO,M,4.20,یأس
+ATTR_EMO,M,4.70,حسادت
+ATTR_EMO,M,3.80,وفاداری
+ATTR_EMO,M,4.00,صداقت
+ATTR_EMO,M,3.90,احترام
+ATTR_EMO,M,4.30,بی‌صبری
+ATTR_EMO,M,4.40,نارضایتی
+ATTR_EMO,M,3.50,دلبستگی
+ATTR_EMO,M,4.60,تسلیم
+ATTR_EMO,M,3.70,دلهره
+ATTR_EMO,M,4.10,احساس گناه
+ATTR_EMO,M,4.20,توقع
+ATTR_EMO,M,3.60,اشتیاق
+ATTR_EMO,M,4.50,کینه
+ATTR_EMO,M,4.20,لجبازی
+ATTR_EMO,M,3.70,بی‌قراری
+ATTR_EMO,M,4.40,احساس امنیت
+ATTR_EMO,M,3.90,دلگرمی
+ATTR_EMO,M,4.10,نوستالژی
+ATTR_EMO,M,4.60,خودباوری
+ATTR_EMO,M,3.80,تعلّق
+ATTR_EMO,M,3.50,اشک شوق
+ATTR_EMO,M,4.30,هیجان‌زدگی
+ATTR_EMO,M,4.70,سرخوردگی
+ATTR_EMO,M,3.90,بی‌اعتمادی
+ATTR_EMO,M,3.80,نابسامانی ذهنی
+ATTR_EMO,M,4.20,دلزدگی
+ATTR_EMO,M,4.10,بی‌حوصلگی جمعی
+ATTR_EMO,H,6.10,خودبزرگ‌بینی
+ATTR_EMO,H,6.40,سرکشی
+ATTR_EMO,H,6.90,تمرد
+ATTR_EMO,H,6.20,حس انتقام
+ATTR_EMO,H,6.70,خودشیفتگی
+ATTR_EMO,H,6.50,مالیخولیا
+ATTR_EMO,H,6.30,تعارض درونی
+ATTR_EMO,H,7.10,پارانویا
+ATTR_EMO,H,5.90,حس بی‌هدفی
+ATTR_EMO,H,6.40,سردرگمی
+ATTR_EMO,H,7.20,بیگانگی
+ATTR_EMO,H,6.60,احساس بی‌عدالتی
+ATTR_EMO,H,6.90,افسردگی
+ATTR_EMO,H,6.30,حس پوچی
+ATTR_EMO,H,6.50,یأس فلسفی
+ATTR_EMO,H,7.00,ترس اجتماعی
+ATTR_EMO,H,6.80,اضطراب اجتماعی
+ATTR_EMO,H,6.40,وسواس ذهنی
+ATTR_EMO,H,7.10,اختلال هویتی
+ATTR_EMO,H,6.30,حس بی‌ارزشی
+ATTR_EMO,H,6.90,تحقیر
+ATTR_EMO,H,6.20,حس انتقادپذیری
+ATTR_EMO,H,6.70,حس حقارت
+ATTR_EMO,H,7.30,دل‌آشفتگی
+ATTR_EMO,H,6.60,دلهره فلسفی
+ATTR_EMO,H,6.40,تعارض عاطفی
+ATTR_EMO,H,6.80,بی‌معنایی
+ATTR_EMO,H,6.10,وسواس فکری
+ATTR_EMO,H,6.70,حس جدایی
+ATTR_EMO,H,7.00,بی‌اعتمادی شدید
+ATTR_EMO,H,6.50,حس تنفر عمیق
+ATTR_EMO,H,6.90,بیگانگی اجتماعی
+ATTR_EMO,H,7.20,ازخودبیگانگی
+ATTR_EMO,H,6.30,سرخوردگی فرهنگی
+ATTR_EMO,H,6.60,بی‌ثباتی روحی
+ATTR_EMO,H,6.40,تعارض فرهنگی
+ATTR_EMO,H,7.10,هراس مرگ
+ATTR_EMO,H,7.40,هراس وجودی
+ATTR_EMO,H,6.80,خودکم‌بینی
+ATTR_EMO,H,6.50,ناباوری فلسفی
+ATTR_EMO,X,8.20,نیهیلیسم
+ATTR_EMO,X,8.70,اگزیستانسیالیسم عاطفی
+ATTR_EMO,X,9.00,پارانویا مزمن
+ATTR_EMO,X,9.20,سایکوز
+ATTR_EMO,X,8.90,شیزوفرنی عاطفی
+ATTR_EMO,X,9.50,هیستری جمعی
+ATTR_EMO,X,8.80,افسردگی مالیخولیایی
+ATTR_EMO,X,9.10,اختلال دوقطبی
+ATTR_EMO,X,9.30,اختلال هویت تجزیه‌ای
+ATTR_EMO,X,9.00,اضطراب اگزیستانسیال
+ATTR_EMO,X,8.70,وحشت فلسفی
+ATTR_EMO,X,9.40,پریشان‌ذهنی
+ATTR_EMO,X,8.90,همدلی عمیق
+ECON_EDU,E,1.10,پول
+ECON_EDU,E,1.40,بانک
+ECON_EDU,E,1.70,خرید
+ECON_EDU,E,1.90,فروش
+ECON_EDU,E,2.20,بازار
+ECON_EDU,E,1.50,مدرسه
+ECON_EDU,E,1.30,معلم
+ECON_EDU,E,2.00,دانش‌آموز
+ECON_EDU,E,1.70,کتاب درسی
+ECON_EDU,E,2.40,دفتر
+ECON_EDU,E,2.10,خودکار
+ECON_EDU,E,1.60,کلاس
+ECON_EDU,E,2.30,دانشگاه
+ECON_EDU,E,2.40,دانشجو
+ECON_EDU,E,1.90,مدرک
+ECON_EDU,E,1.80,امتحان
+ECON_EDU,E,2.10,نمره
+ECON_EDU,E,2.20,کارنامه
+ECON_EDU,E,1.70,تخته سیاه
+ECON_EDU,E,2.00,مشق
+ECON_EDU,E,1.50,یادگیری
+ECON_EDU,E,2.10,آموزگار
+ECON_EDU,E,2.40,مدیر مدرسه
+ECON_EDU,E,2.00,زنگ تفریح
+ECON_EDU,E,1.80,کلاس آنلاین
+ECON_EDU,E,2.30,کتابخانه
+ECON_EDU,E,2.40,دفترچه یادداشت
+ECON_EDU,E,1.70,شهریه
+ECON_EDU,E,2.00,وام
+ECON_EDU,E,1.80,سود
+ECON_EDU,E,2.30,قرض
+ECON_EDU,E,2.10,بدهی
+ECON_EDU,E,2.40,پس‌انداز
+ECON_EDU,E,2.00,حقوق
+ECON_EDU,E,2.20,حقوق معلم
+ECON_EDU,E,2.10,شغل
+ECON_EDU,E,2.30,کار
+ECON_EDU,E,2.40,بیکار
+ECON_EDU,E,2.10,مدرس
+ECON_EDU,E,1.70,یادداشت
+ECON_EDU,E,1.80,پروژه
+ECON_EDU,E,2.20,پایان‌نامه
+ECON_EDU,E,2.40,دانش‌آموز ممتاز
+ECON_EDU,E,1.90,کلاس تقویتی
+ECON_EDU,E,2.10,دبستان
+ECON_EDU,E,2.20,دبیرستان
+ECON_EDU,E,2.00,کلاس خصوصی
+ECON_EDU,E,2.40,درس زبان
+ECON_EDU,E,2.30,کارآموزی
+ECON_EDU,E,2.10,مهارت‌آموزی
+ECON_EDU,M,3.20,بورس
+ECON_EDU,M,3.50,بازار سهام
+ECON_EDU,M,3.90,سرمایه‌گذاری
+ECON_EDU,M,4.20,سود بانکی
+ECON_EDU,M,4.60,وام دانشجویی
+ECON_EDU,M,3.80,شهریه دانشگاه
+ECON_EDU,M,4.00,وام مسکن
+ECON_EDU,M,3.40,وام خودرو
+ECON_EDU,M,3.60,وام ازدواج
+ECON_EDU,M,3.90,کارت اعتباری
+ECON_EDU,M,4.10,وام بانکی
+ECON_EDU,M,4.20,سود سهام
+ECON_EDU,M,3.70,سپرده‌گذاری
+ECON_EDU,M,4.30,حساب پس‌انداز
+ECON_EDU,M,4.50,حساب جاری
+ECON_EDU,M,3.90,حساب قرض‌الحسنه
+ECON_EDU,M,4.70,چک
+ECON_EDU,M,3.80,سفته
+ECON_EDU,M,3.60,برگه سهام
+ECON_EDU,M,4.00,اوراق مشارکت
+ECON_EDU,M,3.50,صندوق سرمایه‌گذاری
+ECON_EDU,M,4.20,بیمه
+ECON_EDU,M,3.90,بیمه عمر
+ECON_EDU,M,4.10,بیمه سلامت
+ECON_EDU,M,4.50,بیمه خودرو
+ECON_EDU,M,3.70,بیمه خانه
+ECON_EDU,M,4.00,بیمه مسئولیت
+ECON_EDU,M,4.20,بازار طلا
+ECON_EDU,M,4.40,بازار ارز
+ECON_EDU,M,4.60,بازار جهانی
+ECON_EDU,M,3.80,صادرات
+ECON_EDU,M,4.00,واردات
+ECON_EDU,M,4.20,تجارت
+ECON_EDU,M,4.70,تجارت الکترونیک
+ECON_EDU,M,3.90,پرداخت اینترنتی
+ECON_EDU,M,3.50,بانکداری الکترونیک
+ECON_EDU,M,3.80,خدمات بانکی
+ECON_EDU,M,4.10,خدمات آموزشی
+ECON_EDU,M,4.30,آموزش آنلاین
+ECON_EDU,M,4.50,کلاس مجازی
+ECON_EDU,M,3.70,پلتفرم آموزشی
+ECON_EDU,M,4.00,دوره آموزشی
+ECON_EDU,M,4.20,دوره مهارتی
+ECON_EDU,M,4.40,دوره تخصصی
+ECON_EDU,M,3.90,کارگاه آموزشی
+ECON_EDU,M,3.60,سمینار
+ECON_EDU,M,4.10,وبینار
+ECON_EDU,M,4.20,کنگره علمی
+ECON_EDU,M,4.70,المپیاد
+ECON_EDU,M,4.40,دانشنامه
+ECON_EDU,M,3.80,مجله علمی
+ECON_EDU,M,3.90,مقاله پژوهشی
+ECON_EDU,M,4.10,پایان‌نامه کارشناسی
+ECON_EDU,M,4.30,پایان‌نامه کارشناسی ارشد
+ECON_EDU,M,4.50,پایان‌نامه دکتری
+ECON_EDU,M,4.20,رساله
+ECON_EDU,M,4.60,انتشارات
+ECON_EDU,M,3.70,انتشارات دانشگاهی
+ECON_EDU,M,4.10,کتاب دانشگاهی
+ECON_EDU,M,3.90,کتاب پژوهشی
+ECON_EDU,M,4.30,کتاب مرجع
+ECON_EDU,M,3.60,کتاب درسی دیجیتال
+ECON_EDU,M,3.80,آزمایشگاه
+ECON_EDU,M,4.10,آزمایشگاه زبان
+ECON_EDU,M,4.20,آزمایشگاه فیزیک
+ECON_EDU,M,4.50,آزمایشگاه شیمی
+ECON_EDU,M,4.70,آزمایشگاه کامپیوتر
+ECON_EDU,M,3.80,موسسه آموزشی
+ECON_EDU,M,3.90,مدرسه خصوصی
+ECON_EDU,M,4.10,مدرسه دولتی
+ECON_EDU,M,4.30,مدرسه شبانه
+ECON_EDU,M,4.60,مدرسه تیزهوشان
+ECON_EDU,M,4.20,مدرسه غیرانتفاعی
+ECON_EDU,M,3.70,مهارت شغلی
+ECON_EDU,M,3.90,مهارت حرفه‌ای
+ECON_EDU,M,4.10,یادگیری زبان
+ECON_EDU,M,4.30,یادگیری مهارت
+ECON_EDU,H,6.10,اقتصاد کلان
+ECON_EDU,H,6.40,اقتصاد خرد
+ECON_EDU,H,6.80,تحلیل اقتصادی
+ECON_EDU,H,6.20,برنامه‌ریزی اقتصادی
+ECON_EDU,H,6.70,سیاست پولی
+ECON_EDU,H,6.30,سیاست مالی
+ECON_EDU,H,7.10,تورم
+ECON_EDU,H,6.50,رکود
+ECON_EDU,H,6.90,رونق
+ECON_EDU,H,6.80,بیکاری
+ECON_EDU,H,6.40,اشتغال
+ECON_EDU,H,6.20,سرمایه انسانی
+ECON_EDU,H,7.30,توسعه پایدار
+ECON_EDU,H,6.90,برنامه توسعه
+ECON_EDU,H,6.70,نظام آموزشی
+ECON_EDU,H,6.40,نظام بانکی
+ECON_EDU,H,6.20,نظام مالیاتی
+ECON_EDU,H,7.40,فرار مالیاتی
+ECON_EDU,H,6.90,یارانه
+ECON_EDU,H,6.10,سوبسید
+ECON_EDU,H,6.80,کسری بودجه
+ECON_EDU,H,6.30,تراز پرداخت‌ها
+ECON_EDU,H,7.10,نرخ ارز
+ECON_EDU,H,6.70,نرخ بهره
+ECON_EDU,H,6.40,نرخ تورم
+ECON_EDU,H,6.20,تولید ناخالص داخلی
+ECON_EDU,H,7.00,صادرات نفت
+ECON_EDU,H,6.90,واردات کالا
+ECON_EDU,H,6.60,تحریم اقتصادی
+ECON_EDU,H,6.20,قرارداد نفتی
+ECON_EDU,H,6.40,تجارت بین‌الملل
+ECON_EDU,H,6.80,اقتصاد جهانی
+ECON_EDU,H,7.20,بحران اقتصادی
+ECON_EDU,H,6.90,بازار آزاد
+ECON_EDU,H,6.30,اقتصاد دیجیتال
+ECON_EDU,H,6.10,اقتصاد دانش‌بنیان
+ECON_EDU,H,6.80,کارآفرینی
+ECON_EDU,H,7.10,نوآوری
+ECON_EDU,H,6.40,فن‌آوری آموزشی
+ECON_EDU,H,6.20,یادگیری الکترونیکی
+ECON_EDU,H,6.90,آموزش از راه دور
+ECON_EDU,H,7.20,آموزش مهارت‌محور
+ECON_EDU,H,6.80,آموزش پژوهش‌محور
+ECON_EDU,H,7.30,آموزش ترکیبی
+ECON_EDU,H,6.40,آموزش مادام‌العمر
+ECON_EDU,H,6.10,آموزش غیررسمی
+ECON_EDU,H,6.70,آموزش فنی‌وحرفه‌ای
+ECON_EDU,H,6.90,آموزش عالی
+ECON_EDU,H,6.80,آموزش ابتدایی
+ECON_EDU,H,6.30,آموزش متوسطه
+ECON_EDU,H,6.20,نظام رتبه‌بندی معلمان
+ECON_EDU,H,6.50,آزمون سراسری
+ECON_EDU,H,6.90,کنکور
+ECON_EDU,H,7.20,پژوهش دانشگاهی
+ECON_EDU,H,7.00,پژوهش علمی
+ECON_EDU,H,6.40,پژوهش کاربردی
+ECON_EDU,H,6.10,پژوهش بنیادی
+ECON_EDU,H,6.70,پژوهش میان‌رشته‌ای
+ECON_EDU,H,6.90,پژوهش کیفی
+ECON_EDU,H,6.30,پژوهش کمی
+ECON_EDU,H,6.80,اقتصاد رفتاری
+ECON_EDU,H,6.40,اقتصاد محیط‌زیست
+ECON_EDU,H,6.10,اقتصاد سلامت
+ECON_EDU,H,7.10,اقتصاد آموزش
+ECON_EDU,H,6.60,اقتصاد مسکن
+ECON_EDU,H,6.90,اقتصاد کشاورزی
+ECON_EDU,H,7.40,اقتصاد انرژی
+ECON_EDU,H,6.50,اقتصاد شهری
+ECON_EDU,H,7.00,اقتصاد روستایی
+ECON_EDU,H,6.80,اقتصاد منطقه‌ای
+ECON_EDU,H,6.40,اقتصاد سیاسی
+ECON_EDU,H,6.90,اقتصاد اجتماعی
+ECON_EDU,H,7.10,اقتصاد فرهنگی
+ECON_EDU,H,6.70,اقتصاد اسلامی
+ECON_EDU,H,7.30,اقتصاد سرمایه‌داری
+ECON_EDU,H,6.50,اقتصاد سوسیالیستی
+ECON_EDU,H,6.90,اقتصاد مختلط
+ECON_EDU,H,6.20,اقتصاد تعاونی
+ECON_EDU,H,6.80,مکتب کلاسیک
+ECON_EDU,H,7.20,مکتب نئوکلاسیک
+ECON_EDU,H,7.00,مکتب کینزی
+ECON_EDU,H,6.60,مکتب پول‌گرایی
+ECON_EDU,H,6.40,مکتب مارکسیستی
+ECON_EDU,H,7.10,مکتب ساختارگرایی
+ECON_EDU,H,6.90,مکتب نهادگرایی
+ECON_EDU,H,6.70,مکتب شیکاگو
+ECON_EDU,X,8.20,نظریه بازی‌ها
+ECON_EDU,X,8.70,نظریه انتخاب عقلانی
+ECON_EDU,X,9.00,نظریه تعادل عمومی
+ECON_EDU,X,9.20,مدل عرضه و تقاضا
+ECON_EDU,X,8.90,مدل چرخه تجاری
+ECON_EDU,X,9.50,مدل رشد اقتصادی
+ECON_EDU,X,9.10,مدل نئوکلاسیک
+ECON_EDU,X,9.30,مدل کینزی
+ECON_EDU,X,9.00,مدل مارکسیستی
+ECON_EDU,X,8.80,مدل نهادگرایی
+ECON_EDU,X,9.40,مدل اقتصاد رفتاری
+ECON_EDU,X,9.20,مدل اقتصاد محیط‌زیست
+ECON_EDU,X,8.90,مدل اقتصاد سلامت
+ECON_EDU,X,9.10,مدل اقتصاد انرژی
+ECON_EDU,X,9.30,مدل اقتصاد آموزش
+ECON_EDU,X,9.40,مدل تعادل پویا
+ECON_EDU,X,9.00,مدل تعادل جزئی
+ECON_EDU,X,8.80,مدل شبیه‌سازی اقتصادی
+ECON_EDU,X,9.20,مدل پیش‌بینی اقتصادی
+ECON_EDU,X,9.40,مدل سناریوسازی
+ECON_EDU,X,9.10,مدل سرمایه انسانی
+ECON_EDU,X,9.30,مدل نئومارکسیستی
+ECON_EDU,X,9.20,مدل توسعه پایدار
+ECON_EDU,X,8.90,مدل چرخه عمر
+ECON_EDU,X,9.40,مدل داده‌های تابلویی
+ECON_EDU,X,9.10,مدل اقتصاد کلان پویا
+ECON_EDU,X,9.30,مدل DSGE
+ECON_EDU,X,9.20,مدل اقتصاد محاسباتی
+ECON_EDU,X,9.40,مدل ریاضی اقتصادی
+ECON_EDU,X,9.00,مدل آمار اقتصادی
+ECON_EDU,X,9.50,مدل اقتصادسنجی
+ECON_EDU,X,8.80,مدل پیش‌بینی تورم
+ECON_EDU,X,9.20,مدل تعادل پولی
+ECON_EDU,X,9.40,مدل عرضه پول
+GOV,E,1.20,پلیس
+GOV,E,1.50,دادگاه
+GOV,E,1.80,زندان
+GOV,E,2.10,سرباز
+GOV,E,1.70,قاضی
+GOV,E,1.40,وکیل
+GOV,E,2.00,وزیر
+GOV,E,1.90,استاندار
+GOV,E,2.40,بخشدار
+GOV,E,2.30,دهیار
+GOV,E,1.60,نماینده
+GOV,E,1.80,رییس‌جمهور
+GOV,E,2.10,شهردار
+GOV,E,2.20,شورای شهر
+GOV,E,2.40,پاسپورت
+GOV,E,1.90,شناسنامه
+GOV,E,2.30,کارت ملی
+GOV,E,1.70,مجلس
+GOV,E,2.00,انتخابات
+GOV,E,2.40,رای
+GOV,E,1.80,صندوق رای
+GOV,E,2.10,پوستر انتخاباتی
+GOV,E,1.60,تجمع
+GOV,E,2.20,راهپیمایی
+GOV,E,1.90,تظاهرات
+GOV,E,2.40,پرچم ملی
+GOV,E,2.10,سرود ملی
+GOV,E,1.50,مهر دولتی
+GOV,E,2.00,مهر دادگاه
+GOV,E,1.80,سربرگ رسمی
+GOV,E,2.30,پلاک خودرو
+GOV,E,1.90,دفترخانه
+GOV,E,2.20,سجل
+GOV,E,1.70,بازپرس
+GOV,E,1.80,بازداشت
+GOV,E,2.40,کلانتری
+GOV,E,2.10,پاسگاه
+GOV,E,1.60,مامور پلیس
+GOV,E,2.30,گشت شهری
+GOV,M,3.20,انتخابات ریاست‌جمهوری
+GOV,M,3.80,انتخابات مجلس
+GOV,M,4.10,انتخابات شورا
+GOV,M,3.50,کمپین انتخاباتی
+GOV,M,4.20,مناظره انتخاباتی
+GOV,M,4.50,شمارش آرا
+GOV,M,3.70,سیاستمدار
+GOV,M,3.90,حزب سیاسی
+GOV,M,4.10,ائتلاف حزبی
+GOV,M,4.40,وزارت‌خانه
+GOV,M,4.60,کابینه
+GOV,M,3.80,دولت
+GOV,M,3.40,پارلمان
+GOV,M,3.70,مجلس سنا
+GOV,M,4.20,قانون اساسی
+GOV,M,4.00,اصلاح قانون
+GOV,M,4.30,مصوبه
+GOV,M,4.70,طرح قانونی
+GOV,M,3.60,لایحه
+GOV,M,3.80,دیوان عدالت
+GOV,M,4.10,دیوان عالی
+GOV,M,4.20,شورای نگهبان
+GOV,M,4.50,دادستانی
+GOV,M,3.90,وکیل دادگستری
+GOV,M,3.70,مشاور حقوقی
+GOV,M,3.80,کمیسیون قضایی
+GOV,M,4.10,پلیس جنایی
+GOV,M,4.20,پلیس راهنمایی
+GOV,M,4.40,پلیس مبارزه با مواد مخدر
+GOV,M,3.90,نیروی انتظامی
+GOV,M,4.20,ارتش
+GOV,M,4.40,سپاه
+GOV,M,4.60,نیروی دریایی
+GOV,M,4.70,نیروی هوایی
+GOV,M,4.30,پدافند
+GOV,M,3.80,یگان ویژه
+GOV,M,3.90,عملیات نظامی
+GOV,M,4.10,رزمایش
+GOV,M,4.20,تمرین نظامی
+GOV,M,4.50,منطقه نظامی
+GOV,M,4.70,پادگان
+GOV,M,3.60,خدمت سربازی
+GOV,M,3.80,دیپلمات
+GOV,M,4.10,سفارت
+GOV,M,4.20,کنسولگری
+GOV,M,4.30,سفیر
+GOV,M,4.50,کاردار
+GOV,M,3.90,کارت دیپلماتیک
+GOV,M,4.60,گذرنامه سیاسی
+GOV,M,4.20,مهاجرت
+GOV,M,3.80,پناهندگی
+GOV,M,4.40,اخراج دیپلمات
+GOV,M,4.70,مذاکره
+GOV,M,3.90,توافق
+GOV,M,4.20,معاهده
+GOV,M,4.50,پیمان نظامی
+GOV,M,3.80,اتحاد
+GOV,M,4.30,شورای امنیت
+GOV,M,4.10,سازمان ملل
+GOV,M,4.70,یونسکو
+GOV,M,4.20,صلیب سرخ
+GOV,M,4.60,عفو بین‌الملل
+GOV,M,4.30,دادگاه بین‌المللی
+GOV,M,4.00,حقوق بشر
+GOV,M,3.90,آزادی بیان
+GOV,M,4.40,حقوق مدنی
+GOV,M,4.10,حقوق سیاسی
+GOV,M,3.80,حقوق اجتماعی
+GOV,M,4.30,امنیت شهری
+GOV,M,4.20,امنیت جاده‌ای
+GOV,M,4.60,امنیت سایبری
+GOV,M,4.70,امنیت اقتصادی
+GOV,M,4.40,امنیت غذایی
+GOV,M,4.20,امنیت انرژی
+GOV,H,6.10,دیپلماسی
+GOV,H,6.40,سیاست خارجی
+GOV,H,6.90,سیاست داخلی
+GOV,H,7.10,سیاست عمومی
+GOV,H,5.80,سیاست فرهنگی
+GOV,H,6.70,سیاست اقتصادی
+GOV,H,6.50,سیاست آموزشی
+GOV,H,6.20,سیاست زیست‌محیطی
+GOV,H,7.40,امنیت ملی
+GOV,H,6.90,امنیت منطقه‌ای
+GOV,H,6.50,امنیت بین‌المللی
+GOV,H,6.10,حقوق بین‌الملل
+GOV,H,6.80,حقوق جنگ
+GOV,H,6.40,حقوق بشر دوستانه
+GOV,H,7.10,حقوق دیپلماتیک
+GOV,H,6.90,جرم سازمان‌یافته
+GOV,H,6.30,فساد مالی
+GOV,H,6.70,فساد اداری
+GOV,H,6.40,جرایم سایبری
+GOV,H,6.20,قاچاق انسان
+GOV,H,7.00,قاچاق مواد مخدر
+GOV,H,6.80,تروریسم
+GOV,H,6.90,افراط‌گرایی
+GOV,H,7.30,مبارزه با تروریسم
+GOV,H,6.40,پلیس بین‌الملل
+GOV,H,7.20,اینترپل
+GOV,H,6.10,پلیس مرزی
+GOV,H,6.60,امنیت پرواز
+GOV,H,7.10,کنترل مرز
+GOV,H,6.90,گشت دریایی
+GOV,H,6.70,گشت هوایی
+GOV,H,6.40,امنیت اطلاعات
+GOV,H,6.10,جنگ سایبری
+GOV,H,7.40,حمله سایبری
+GOV,H,6.80,دفاع سایبری
+GOV,H,6.50,اطلاعات محرمانه
+GOV,H,6.30,جاسوسی
+GOV,H,6.90,ضدجاسوسی
+GOV,H,7.20,سازمان اطلاعات
+GOV,H,6.40,شنود
+GOV,H,6.20,رمزنگاری
+GOV,H,6.70,مقابله اطلاعاتی
+GOV,H,7.30,امنیت زیرساخت
+GOV,H,6.10,امنیت مرزی
+GOV,H,6.80,امنیت دریایی
+GOV,H,6.40,امنیت هوایی
+GOV,H,6.20,امنیت زمینی
+GOV,H,6.90,امنیت شهری پیشرفته
+GOV,H,6.50,کنترل ترافیک هوایی
+GOV,H,6.30,سازمان دفاع
+GOV,H,7.00,سازمان امنیت
+GOV,H,6.60,وزارت دفاع
+GOV,H,6.20,ستاد کل ارتش
+GOV,H,6.40,اتاق جنگ
+GOV,H,6.80,پدافند غیرعامل
+GOV,H,6.90,بازدارندگی
+GOV,H,7.10,امنیت هسته‌ای
+GOV,H,6.70,قرارداد امنیتی
+GOV,H,6.40,پیمان صلح
+GOV,H,6.20,مذاکرات صلح
+GOV,H,7.00,واسطه‌گری صلح
+GOV,H,7.40,میانجی‌گری بین‌المللی
+GOV,H,6.90,کمیسیون حقیقت‌یاب
+GOV,H,6.30,دیپلماسی فرهنگی
+GOV,H,6.80,دیپلماسی عمومی
+GOV,X,8.40,ژئوپولیتیک
+GOV,X,8.90,ژئواستراتژی
+GOV,X,9.20,موازنه قوا
+GOV,X,9.50,دکترین نظامی
+GOV,X,8.70,استراتژی بازدارندگی
+GOV,X,9.10,بازدارندگی هسته‌ای
+GOV,X,8.80,قرارداد اجتماعی
+GOV,X,9.30,نظریه قرارداد اجتماعی
+GOV,X,9.20,حاکمیت قانون
+GOV,X,8.90,تفکیک قوا
+GOV,X,9.40,اقتدارگرایی
+GOV,X,9.10,دموکراسی لیبرال
+GOV,X,8.80,دموکراسی مستقیم
+GOV,X,9.30,الیگارشی
+GOV,X,9.20,آنارشی
+GOV,X,9.40,توتالیتاریسم
+GOV,X,8.70,فاشیسم
+GOV,X,9.10,ناسیونالیسم افراطی
+GOV,X,9.30,لیبرالیسم
+GOV,X,9.20,مارکسیسم
+GOV,X,8.80,سوسیالیسم
+GOV,X,9.50,نئولیبرالیسم
+HEALTH_MED,E,1.20,دکتر
+HEALTH_MED,E,1.40,پرستار
+HEALTH_MED,E,1.60,دارو
+HEALTH_MED,E,2.10,قرص
+HEALTH_MED,E,2.30,شربت
+HEALTH_MED,E,2.40,آمپول
+HEALTH_MED,E,1.80,سرماخوردگی
+HEALTH_MED,E,2.00,سرفه
+HEALTH_MED,E,1.90,تب
+HEALTH_MED,E,2.20,دل‌درد
+HEALTH_MED,E,2.40,سردرد
+HEALTH_MED,E,1.70,عینک
+HEALTH_MED,E,2.10,ماسک
+HEALTH_MED,E,1.80,بیمار
+HEALTH_MED,E,2.20,ویزیت
+HEALTH_MED,E,2.30,بیمارستان
+HEALTH_MED,E,2.10,کلینیک
+HEALTH_MED,E,2.40,بخش اورژانس
+HEALTH_MED,E,1.90,آزمایش خون
+HEALTH_MED,E,2.20,قند خون
+HEALTH_MED,E,1.60,فشار خون
+HEALTH_MED,E,2.30,چشم‌پزشک
+HEALTH_MED,E,2.00,دندان‌پزشک
+HEALTH_MED,E,2.40,داروخانه
+HEALTH_MED,E,2.10,پرونده پزشکی
+HEALTH_MED,M,3.40,عمل جراحی
+HEALTH_MED,M,3.60,بیهوشی
+HEALTH_MED,M,3.90,تزریق واکسن
+HEALTH_MED,M,4.20,سرم
+HEALTH_MED,M,3.70,اکسیژن
+HEALTH_MED,M,4.10,آزمایش ادرار
+HEALTH_MED,M,4.40,آزمایش ژنتیک
+HEALTH_MED,M,3.80,آزمایش بارداری
+HEALTH_MED,M,4.00,فیزیوتراپی
+HEALTH_MED,M,4.30,سونوگرافی
+HEALTH_MED,M,4.70,ام‌آر‌آی
+HEALTH_MED,M,3.90,سی‌تی‌اسکن
+HEALTH_MED,M,4.20,رادیولوژی
+HEALTH_MED,M,4.50,ماموگرافی
+HEALTH_MED,M,3.80,چکاپ سالانه
+HEALTH_MED,M,4.10,معاینه دوره‌ای
+HEALTH_MED,M,4.30,کارت واکسن
+HEALTH_MED,M,4.60,فشارسنج
+HEALTH_MED,M,3.90,دماسنج
+HEALTH_MED,M,3.70,گلو درد
+HEALTH_MED,M,4.20,عفونت
+HEALTH_MED,M,3.80,زخم
+HEALTH_MED,M,4.10,پانسمان
+HEALTH_MED,M,4.40,بخیه
+HEALTH_MED,M,4.70,پلاستر
+HEALTH_MED,M,4.00,گچ گرفتن
+HEALTH_MED,M,3.60,ارتوپدی
+HEALTH_MED,M,3.90,پوست‌پزشکی
+HEALTH_MED,M,4.20,گوش‌حلق‌بینی
+HEALTH_MED,M,4.50,نورولوژی
+HEALTH_MED,M,4.70,قلب و عروق
+HEALTH_MED,M,4.30,دیابت
+HEALTH_MED,M,4.10,چربی خون
+HEALTH_MED,M,3.90,سوءتغذیه
+HEALTH_MED,M,4.40,آسم
+HEALTH_MED,M,4.20,آلرژی
+HEALTH_MED,M,4.70,سیگار
+HEALTH_MED,M,4.30,اعتیاد
+HEALTH_MED,M,4.60,سوءمصرف دارو
+HEALTH_MED,H,6.20,سرطان
+HEALTH_MED,H,6.40,سرطان خون
+HEALTH_MED,H,6.80,سرطان ریه
+HEALTH_MED,H,7.10,سرطان معده
+HEALTH_MED,H,6.50,سرطان پستان
+HEALTH_MED,H,7.30,سرطان پروستات
+HEALTH_MED,H,6.70,سرطان کبد
+HEALTH_MED,H,7.00,سرطان روده
+HEALTH_MED,H,6.40,سرطان پوست
+HEALTH_MED,H,6.80,پیوند کلیه
+HEALTH_MED,H,6.20,پیوند کبد
+HEALTH_MED,H,6.60,پیوند قلب
+HEALTH_MED,H,7.10,پیوند ریه
+HEALTH_MED,H,6.50,پیوند مغز استخوان
+HEALTH_MED,H,6.90,دیالیز
+HEALTH_MED,H,6.30,هموفیلی
+HEALTH_MED,H,6.70,ام‌اس
+HEALTH_MED,H,7.20,پارکینسون
+HEALTH_MED,H,6.80,آلزایمر
+HEALTH_MED,H,6.40,اوتیسم
+HEALTH_MED,H,7.00,اسکیزوفرنی
+HEALTH_MED,H,6.20,اختلال دو قطبی
+HEALTH_MED,H,6.60,اختلال اضطرابی
+HEALTH_MED,H,7.10,افسردگی بالینی
+HEALTH_MED,H,6.80,تشنج
+HEALTH_MED,H,7.20,سکته قلبی
+HEALTH_MED,H,6.90,سکته مغزی
+HEALTH_MED,H,6.50,آریتمی قلبی
+HEALTH_MED,H,7.30,آنفولانزا شدید
+HEALTH_MED,X,8.20,جراحی مغز
+HEALTH_MED,X,8.70,جراحی قلب باز
+HEALTH_MED,X,9.00,پیوند صورت
+HEALTH_MED,X,9.20,پیوند دست
+HEALTH_MED,X,8.80,پیوند پا
+HEALTH_MED,X,9.40,پیوند قلب مصنوعی
+HEALTH_MED,X,9.10,درمان ژنی
+HEALTH_MED,X,9.30,درمان سلول بنیادی
+HEALTH_MED,X,8.90,درمان ایمونوتراپی
+HEALTH_MED,X,9.50,جراحی رباتیک
+LANG_COMM,E,1.20,حرف زدن
+LANG_COMM,E,1.50,نامه
+LANG_COMM,E,1.80,تلفن
+LANG_COMM,E,2.10,پیامک
+LANG_COMM,E,2.30,ایمیل
+LANG_COMM,E,1.70,چت
+LANG_COMM,E,2.00,مکالمه
+LANG_COMM,E,2.40,شنیدن
+LANG_COMM,E,1.90,خواندن
+LANG_COMM,E,2.20,نوشتن
+LANG_COMM,E,1.60,سلام
+LANG_COMM,E,2.10,خداحافظی
+LANG_COMM,E,2.30,تشکر
+LANG_COMM,E,2.00,دعوت
+LANG_COMM,E,2.40,جواب
+LANG_COMM,M,3.40,مکالمه تلفنی
+LANG_COMM,M,3.70,نامه رسمی
+LANG_COMM,M,4.10,دعوت‌نامه
+LANG_COMM,M,3.90,پیام صوتی
+LANG_COMM,M,4.30,ارتباط تصویری
+LANG_COMM,M,3.80,ارتباط آنلاین
+LANG_COMM,M,4.20,جلسه کاری
+LANG_COMM,M,4.60,سخنرانی
+LANG_COMM,M,4.40,گفت‌وگوی رسمی
+LANG_COMM,M,3.90,گفت‌وگوی دوستانه
+LANG_COMM,M,3.60,ترجمه
+LANG_COMM,M,4.10,مترجم
+LANG_COMM,M,3.70,زبان بدن
+LANG_COMM,M,4.20,ضرب‌المثل
+LANG_COMM,M,4.50,داستان‌گویی
+LANG_COMM,M,4.30,قصه‌گویی
+LANG_COMM,M,3.80,خاطره‌گویی
+LANG_COMM,M,4.10,بیان احساس
+LANG_COMM,M,4.60,بحث گروهی
+LANG_COMM,M,4.40,مناظره
+LANG_COMM,H,6.20,ارتباطات جمعی
+LANG_COMM,H,6.50,ارتباطات میان‌فرهنگی
+LANG_COMM,H,6.90,ارتباطات سیاسی
+LANG_COMM,H,6.40,ارتباطات رسانه‌ای
+LANG_COMM,H,7.10,ارتباطات سازمانی
+LANG_COMM,H,6.30,زبان‌شناسی
+LANG_COMM,H,6.70,آواشناسی
+LANG_COMM,H,6.40,واج‌شناسی
+LANG_COMM,H,6.20,دستور زبان
+LANG_COMM,H,6.80,معنی‌شناسی
+LANG_COMM,H,7.20,کاربردشناسی
+LANG_COMM,H,6.90,نشانه‌شناسی
+LANG_COMM,H,6.50,تحلیل گفتمان
+LANG_COMM,H,6.30,زبان نوشتاری
+LANG_COMM,H,6.80,زبان گفتاری
+LANG_COMM,X,8.40,نشانه‌شناسی فرهنگی
+LANG_COMM,X,8.90,نشانه‌شناسی بصری
+LANG_COMM,X,9.10,نشانه‌شناسی اجتماعی
+LANG_COMM,X,9.30,زبان فراساختارگرا
+LANG_COMM,X,8.70,گفتمان انتقادی
+LANG_COMM,X,9.20,نظریه زبان جهانی
+LANG_COMM,X,9.50,فلسفه زبان
+CATEGORY,LEVEL,SCORE,TERM
+MEDIA_REC,E,1.32,طناب‌کشی
+MEDIA_REC,E,1.04,فوتسال
+MEDIA_REC,E,1.84,پینت‌بال
+MEDIA_REC,E,0.92,قایق‌سواری تفریحی
+MEDIA_REC,E,1.66,کوه‌نوردی سبک
+MEDIA_REC,E,1.39,پیاده‌روی دسته‌جمعی
+MEDIA_REC,E,0.89,یوگا
+MEDIA_REC,E,1.61,طناب‌زدن
+MEDIA_REC,E,0.86,تعادل روی تخته
+MEDIA_REC,E,1.49,طناب‌پیچی
+MEDIA_REC,E,1.93,پازل
+MEDIA_REC,E,1.16,نرد
+MEDIA_REC,E,1.8,فالگیر بازی
+MEDIA_REC,E,2.32,کلاس نقاشی
+MEDIA_REC,E,1.77,ساز زدن
+MEDIA_REC,E,1.95,تئاتر مدرسه
+MEDIA_REC,E,2.03,کنسرت محلی
+MEDIA_REC,E,1.58,نمایشگاه عکس
+MEDIA_REC,E,2.27,کتابخوانی جمعی
+MEDIA_REC,E,1.73,شطرنج سریع
+MEDIA_REC,E,1.45,بادبادک‌بازی
+MEDIA_REC,E,2.2,منچ
+MEDIA_REC,E,2.34,دوز
+MEDIA_REC,E,1.28,لی‌لی
+MEDIA_REC,E,2.22,قایم‌باشک
+MEDIA_REC,E,1.94,اسم‌فامیل
+MEDIA_REC,E,2.06,مار و پله
+MEDIA_REC,E,1.67,فوتبال دستی
+MEDIA_REC,E,2.25,هاکی روی چمن
+MEDIA_REC,E,2.14,بدمینتون
+MEDIA_REC,M,3.38,پادکست شنیدن
+MEDIA_REC,M,3.92,ولاگ ساختن
+MEDIA_REC,M,3.17,کلیپ‌سازی
+MEDIA_REC,M,4.5,فیلم کوتاه ساختن
+MEDIA_REC,M,3.7,موزیک ویدیو
+MEDIA_REC,M,4.31,جُنگ شادی
+MEDIA_REC,M,4.41,استندآپ کمدی
+MEDIA_REC,M,4.14,تئاتر خیابانی
+MEDIA_REC,M,3.86,نمایش بداهه
+MEDIA_REC,M,4.67,کنسرت خیابانی
+MEDIA_REC,M,3.22,مسابقه اطلاعات عمومی
+MEDIA_REC,M,3.48,مسابقه آشپزی
+MEDIA_REC,M,3.94,مسابقه آهنگ
+MEDIA_REC,M,4.72,بازی معمایی
+MEDIA_REC,M,4.54,راهنمای بازی رومیزی
+MEDIA_REC,M,3.84,کمیک خواندن
+MEDIA_REC,M,4.12,ماراتن فیلم
+MEDIA_REC,M,3.63,دوبله فیلم
+MEDIA_REC,M,4.86,تماشای پشت‌صحنه
+MEDIA_REC,M,3.46,گالری‌گردی
+MEDIA_REC,M,3.89,نمایش عروسکی
+MEDIA_REC,M,4.72,سیرک
+MEDIA_REC,M,3.42,سینمای روباز
+MEDIA_REC,M,4.13,سینمای سه‌بعدی
+MEDIA_REC,M,4.55,سینمای چهاربعدی
+MEDIA_REC,M,3.98,بازی تعاملی
+MEDIA_REC,M,4.23,بازی کارتی رقابتی
+MEDIA_REC,M,3.51,کاسپلی
+MEDIA_REC,M,3.96,گردهمایی بازی
+MEDIA_REC,M,4.32,لان پارتی
+MEDIA_REC,M,3.68,تور موزه
+MEDIA_REC,M,4.28,تور تئاتر
+MEDIA_REC,M,3.87,تور موسیقی
+MEDIA_REC,M,4.61,مسابقه عکاسی
+MEDIA_REC,M,3.9,مسابقه فیلم‌سازی
+MEDIA_REC,M,4.76,ورزش الکترونیک
+MEDIA_REC,M,3.57,استریم بازی
+MEDIA_REC,M,4.22,استریم موسیقی
+MEDIA_REC,M,4.41,استریم زنده
+MEDIA_REC,M,3.7,باشگاه کتاب
+MEDIA_REC,M,3.95,باشگاه فیلم
+MEDIA_REC,M,4.37,باشگاه بازی
+MEDIA_REC,M,4.09,باشگاه شطرنج
+MEDIA_REC,M,4.47,مسابقه روبیک
+MEDIA_REC,M,3.73,مسابقه برنامه‌نویسی
+MEDIA_REC,M,4.83,هکاتون تفریحی
+MEDIA_REC,M,4.36,اتاق فرار ترسناک
+MEDIA_REC,M,4.0,دوچرخه‌سواری گروهی
+MEDIA_REC,M,4.69,کمپ موسیقی
+MEDIA_REC,M,4.58,کمپ تئاتر
+MEDIA_REC,M,3.88,کمپ عکاسی
+MEDIA_REC,M,4.71,کمپ بازی
+MEDIA_REC,M,3.6,جشنواره موسیقی خیابانی
+MEDIA_REC,M,4.4,جشنواره فیلم کوتاه
+MEDIA_REC,M,4.25,جشنواره بازی
+MEDIA_REC,M,4.3,کارگاه عکاسی
+MEDIA_REC,M,4.62,کارگاه بازیگری
+MEDIA_REC,M,4.46,کارگاه کارتون‌سازی
+MEDIA_REC,M,4.18,ورکشاپ تدوین
+MEDIA_REC,M,4.52,ورکشاپ صداگذاری
+MEDIA_REC,M,4.11,ورکشاپ فیلم‌برداری
+MEDIA_REC,H,6.61,نقد فیلم تخصصی
+MEDIA_REC,H,6.15,نقد موسیقی تخصصی
+MEDIA_REC,H,6.88,تحلیل نمایش
+MEDIA_REC,H,6.27,تحلیل روایت
+MEDIA_REC,H,6.35,تحلیل بازی ویدئویی
+MEDIA_REC,H,6.94,تاریخ سینما
+MEDIA_REC,H,6.63,تاریخ موسیقی پاپ
+MEDIA_REC,H,6.44,تاریخ تئاتر
+MEDIA_REC,H,5.82,فیلمنامه‌نویسی پیشرفته
+MEDIA_REC,H,6.25,بازیگری روش متد
+MEDIA_REC,H,6.52,کارگردانی تئاتر
+MEDIA_REC,H,6.8,کارگردانی فیلم
+MEDIA_REC,H,6.29,طراحی صحنه تئاتر
+MEDIA_REC,H,6.32,طراحی نور تئاتر
+MEDIA_REC,H,6.39,طراحی صدا سینما
+MEDIA_REC,H,6.73,میکس و مسترینگ
+MEDIA_REC,H,6.1,تدوین پیشرفته
+MEDIA_REC,H,6.62,تصحیح رنگ
+MEDIA_REC,H,6.55,موشن‌گرافیک
+MEDIA_REC,H,6.48,طراحی کاراکتر
+MEDIA_REC,H,6.57,کانسپت آرت
+MEDIA_REC,H,6.83,داستان‌سرایی تعاملی
+MEDIA_REC,H,6.92,روایت غیرخطی
+MEDIA_REC,H,6.46,کینتیک تایپوگرافی
+MEDIA_REC,H,6.36,موسیقی فیلم
+MEDIA_REC,H,6.58,ارکستراسیون
+MEDIA_REC,H,6.84,هارمونی پیشرفته
+MEDIA_REC,H,6.77,آهنگسازی الکترونیک
+MEDIA_REC,H,6.05,صدابرداری صحنه
+MEDIA_REC,H,6.31,صداگذاری بازی
+MEDIA_REC,H,6.14,فولی
+MEDIA_REC,H,6.64,موشن کپچر
+MEDIA_REC,H,6.9,گیم دیزاین سیستمیک
+MEDIA_REC,H,6.69,توازن بازی رقابتی
+MEDIA_REC,H,6.79,هوش مصنوعی بازی
+MEDIA_REC,H,6.42,تحلیل مخاطب رسانه
+MEDIA_REC,H,6.72,سیاست‌گذاری فرهنگی
+MEDIA_REC,H,6.87,اقتصاد رسانه
+MEDIA_REC,H,6.26,حقوق مالکیت فکری
+MEDIA_REC,H,6.41,کپی‌رایت موسیقی
+MEDIA_REC,H,6.68,پخش دیجیتال
+MEDIA_REC,H,6.76,مدیریت رویداد فرهنگی
+MEDIA_REC,H,6.74,تولید مشترک بین‌المللی
+MEDIA_REC,H,6.97,کوپروداکشن سینما
+MEDIA_REC,H,6.59,جشنواره‌داری
+MEDIA_REC,H,6.71,برنامه‌ریزی جشنواره
+MEDIA_REC,H,6.6,توزیع فیلم هنری
+MEDIA_REC,X,8.73,زیباشناسی سینما
+MEDIA_REC,X,8.04,نشانه‌شناسی فیلم
+MEDIA_REC,X,8.93,فلسفه موسیقی
+MEDIA_REC,X,9.02,فلسفه بازی
+MEDIA_REC,X,8.67,نظریه مولف
+MEDIA_REC,X,8.15,موج نوی سینما
+MEDIA_REC,X,8.88,مونتاژ شوروی
+MEDIA_REC,X,9.14,واقع‌گرایی شاعرانه
+MEDIA_REC,X,8.76,ساختارگرایی در فیلم
+MEDIA_REC,X,9.45,پساساختارگرایی رسانه
+MEDIA_REC,X,8.34,نظریه دریافت
+NATURE_ENV,E,1.10,خورشید
+NATURE_ENV,E,1.50,ماه
+NATURE_ENV,E,1.90,ستاره
+NATURE_ENV,E,2.20,ابر
+NATURE_ENV,E,1.70,باران
+NATURE_ENV,E,2.30,برف
+NATURE_ENV,E,1.80,رعد
+NATURE_ENV,E,2.00,آذرخش
+NATURE_ENV,E,1.60,دریا
+NATURE_ENV,E,2.10,کوه
+NATURE_ENV,E,1.40,دشت
+NATURE_ENV,E,2.40,رودخانه
+NATURE_ENV,E,2.00,چشمه
+NATURE_ENV,E,1.80,دریاچه
+NATURE_ENV,E,2.30,آبشار
+NATURE_ENV,E,2.10,گل
+NATURE_ENV,E,2.40,درخت
+NATURE_ENV,E,1.90,چمن
+NATURE_ENV,E,1.70,شن
+NATURE_ENV,E,2.20,سنگ
+NATURE_ENV,M,3.40,جنگل بارانی
+NATURE_ENV,M,3.80,کوه آتشفشان
+NATURE_ENV,M,4.10,اقیانوس آرام
+NATURE_ENV,M,3.70,بیابان شنی
+NATURE_ENV,M,4.20,غار آهکی
+NATURE_ENV,M,4.40,تپه شنی
+NATURE_ENV,M,3.90,دریای خزر
+NATURE_ENV,M,4.50,خلیج فارس
+NATURE_ENV,M,4.00,دریای مدیترانه
+NATURE_ENV,M,4.30,کوه اورست
+NATURE_ENV,M,3.60,کوه دماوند
+NATURE_ENV,M,3.90,آب و هوا
+NATURE_ENV,M,4.20,باد موسمی
+NATURE_ENV,M,4.60,توفان شن
+NATURE_ENV,M,3.80,سیلاب
+NATURE_ENV,M,4.00,یخچال طبیعی
+NATURE_ENV,M,3.70,قطب شمال
+NATURE_ENV,M,4.40,قطب جنوب
+NATURE_ENV,M,4.10,اقیانوس اطلس
+NATURE_ENV,M,4.30,اقیانوس هند
+NATURE_ENV,M,4.70,اقیانوس منجمد شمالی
+NATURE_ENV,M,3.90,توفان دریایی
+NATURE_ENV,M,4.20,مرجان دریایی
+NATURE_ENV,M,3.80,کوه‌های آلپ
+NATURE_ENV,M,4.50,جزایر قناری
+NATURE_ENV,H,6.10,تغییرات اقلیمی
+NATURE_ENV,H,6.40,گرمایش جهانی
+NATURE_ENV,H,6.90,لایه اوزون
+NATURE_ENV,H,7.20,اثر گلخانه‌ای
+NATURE_ENV,H,6.30,چرخه آب
+NATURE_ENV,H,6.70,چرخه کربن
+NATURE_ENV,H,6.20,چرخه نیتروژن
+NATURE_ENV,H,6.80,چرخه اکسیژن
+NATURE_ENV,H,6.50,تنوع زیستی
+NATURE_ENV,H,7.10,انقراض گونه‌ها
+NATURE_ENV,H,6.40,گونه‌های در خطر
+NATURE_ENV,H,6.90,جنگل‌زدایی
+NATURE_ENV,H,6.60,بیابان‌زایی
+NATURE_ENV,H,7.00,آلودگی هوا
+NATURE_ENV,H,6.70,آلودگی آب
+NATURE_ENV,H,6.20,آلودگی خاک
+NATURE_ENV,H,6.80,محیط‌زیست پایدار
+NATURE_ENV,H,7.30,سازگاری اقلیمی
+NATURE_ENV,H,6.50,انرژی تجدیدپذیر
+NATURE_ENV,H,7.10,مدیریت پسماند
+NATURE_ENV,X,8.40,بیوم قطب شمال
+NATURE_ENV,X,8.90,بیوم بیابانی
+NATURE_ENV,X,9.20,بیوم جنگل بارانی
+NATURE_ENV,X,9.50,نظریه گایا
+NATURE_ENV,X,8.70,ژئومورفولوژی
+PLACES_STRUCT,E,1.20,مدرسه
+PLACES_STRUCT,E,1.40,فروشگاه
+PLACES_STRUCT,E,1.70,سوپرمارکت
+PLACES_STRUCT,E,2.00,بازارچه
+PLACES_STRUCT,E,1.80,مسجد
+PLACES_STRUCT,E,2.10,کلیسا
+PLACES_STRUCT,E,1.90,میدان شهر
+PLACES_STRUCT,E,2.30,پارک
+PLACES_STRUCT,E,1.60,باغ
+PLACES_STRUCT,E,2.20,خیابان اصلی
+PLACES_STRUCT,E,1.80,رستوران
+PLACES_STRUCT,E,2.40,کافه
+PLACES_STRUCT,E,1.70,کتابخانه عمومی
+PLACES_STRUCT,E,2.10,سینما
+PLACES_STRUCT,E,2.30,ایستگاه تاکسی
+PLACES_STRUCT,M,3.40,برج میلاد
+PLACES_STRUCT,M,3.70,برج ایفل
+PLACES_STRUCT,M,3.90,برج آزادی
+PLACES_STRUCT,M,4.20,ورزشگاه آزادی
+PLACES_STRUCT,M,4.50,ورزشگاه ملی
+PLACES_STRUCT,M,3.80,ایستگاه قطار
+PLACES_STRUCT,M,4.10,ایستگاه مترو
+PLACES_STRUCT,M,4.30,ترمینال مسافربری
+PLACES_STRUCT,M,3.60,فرودگاه مهرآباد
+PLACES_STRUCT,M,3.90,فرودگاه امام خمینی
+PLACES_STRUCT,M,4.40,میدان آزادی
+PLACES_STRUCT,M,3.70,پل طبیعت
+PLACES_STRUCT,M,4.20,سد دز
+PLACES_STRUCT,M,3.80,دانشگاه تهران
+PLACES_STRUCT,M,4.00,دانشگاه شریف
+PLACES_STRUCT,M,4.30,کاخ گلستان
+PLACES_STRUCT,M,4.60,کاخ نیاوران
+PLACES_STRUCT,M,4.10,بازار بزرگ تهران
+PLACES_STRUCT,M,4.50,موزه ملی
+PLACES_STRUCT,M,4.70,موزه هنرهای معاصر
+PLACES_STRUCT,H,6.10,دیوار چین
+PLACES_STRUCT,H,6.50,تاج محل
+PLACES_STRUCT,H,6.90,پارتنون
+PLACES_STRUCT,H,7.10,آکروپولیس
+PLACES_STRUCT,H,6.70,کلیسای نوتردام
+PLACES_STRUCT,H,6.30,کلوسئوم
+PLACES_STRUCT,H,6.80,پمپئی
+PLACES_STRUCT,H,6.20,پتروناس
+PLACES_STRUCT,H,6.40,سد کارون
+PLACES_STRUCT,H,6.90,سد هوور
+PLACES_STRUCT,H,6.50,سد آسوان
+PLACES_STRUCT,H,7.20,اهرام ثلاثه
+PLACES_STRUCT,H,6.70,کاخ ورسای
+PLACES_STRUCT,X,8.40,واتیکان
+PLACES_STRUCT,X,8.80,ماچوپیچو
+PLACES_STRUCT,X,9.20,پترا
+PLACES_STRUCT,X,9.40,آنگکور وات
+PLACES_STRUCT,X,8.90,جزیره ایستر
+SOCIETY,E,1.20,خانواده
+SOCIETY,E,1.40,دوستی
+SOCIETY,E,1.80,ازدواج
+SOCIETY,E,2.00,عروسی
+SOCIETY,E,2.20,تولد
+SOCIETY,E,2.40,مهمانی
+SOCIETY,E,1.70,دید و بازدید
+SOCIETY,E,2.10,عزاداری
+SOCIETY,E,1.90,عید
+SOCIETY,E,2.30,نوروز
+SOCIETY,E,1.60,مراسم
+SOCIETY,E,2.00,جشن
+SOCIETY,E,2.20,رقص
+SOCIETY,E,1.80,آواز جمعی
+SOCIETY,E,2.40,مهمان
+SOCIETY,E,1.70,میزبان
+SOCIETY,E,2.10,عیدی
+SOCIETY,E,1.90,لباس محلی
+SOCIETY,E,2.30,بازی محلی
+SOCIETY,E,2.40,بازارچه محلی
+SOCIETY,E,2.10,شادی
+SOCIETY,E,1.80,مهر
+SOCIETY,E,2.00,محبت
+SOCIETY,E,2.20,همسایه
+SOCIETY,E,1.90,محله
+SOCIETY,E,2.40,دهکده
+SOCIETY,E,2.10,روستا
+SOCIETY,E,1.70,شهر
+SOCIETY,E,1.80,کلان‌شهر
+SOCIETY,E,2.20,ملیت
+SOCIETY,M,3.40,سنت نوروز
+SOCIETY,M,3.80,چهارشنبه‌سوری
+SOCIETY,M,4.10,سیزده‌بدر
+SOCIETY,M,3.70,شب یلدا
+SOCIETY,M,4.20,مراسم محرم
+SOCIETY,M,4.40,آیین عاشورا
+SOCIETY,M,3.90,نذری
+SOCIETY,M,4.50,تعزیه
+SOCIETY,M,4.70,روضه
+SOCIETY,M,3.80,عید فطر
+SOCIETY,M,4.00,عید قربان
+SOCIETY,M,4.20,ماه رمضان
+SOCIETY,M,4.30,نماز جماعت
+SOCIETY,M,3.90,نماز جمعه
+SOCIETY,M,4.10,مهاجرت
+SOCIETY,M,4.50,بازار محلی
+SOCIETY,M,3.70,بازار شب
+SOCIETY,M,3.90,فرهنگ عامه
+SOCIETY,M,4.20,فولکلور
+SOCIETY,M,4.40,افسانه
+SOCIETY,M,3.80,داستان عامیانه
+SOCIETY,M,4.00,مثل
+SOCIETY,M,4.20,ضرب‌المثل
+SOCIETY,M,4.50,پند اخلاقی
+SOCIETY,M,3.90,رفتار اجتماعی
+SOCIETY,M,3.60,ادب
+SOCIETY,M,4.10,تعارف
+SOCIETY,M,4.40,غیبت
+SOCIETY,M,3.80,همکاری
+SOCIETY,M,4.00,همبستگی
+SOCIETY,M,4.20,کار داوطلبانه
+SOCIETY,M,4.60,خدمت سربازی
+SOCIETY,M,3.90,کمک خیریه
+SOCIETY,M,4.30,بنیاد خیریه
+SOCIETY,M,4.50,وقف
+SOCIETY,M,4.70,سنت ازدواج
+SOCIETY,M,3.70,لباس عروس
+SOCIETY,M,4.20,جهاز
+SOCIETY,M,4.60,حنابندان
+SOCIETY,H,6.20,نابرابری اجتماعی
+SOCIETY,H,6.40,عدالت اجتماعی
+SOCIETY,H,6.80,حقوق شهروندی
+SOCIETY,H,7.00,مسئولیت اجتماعی
+SOCIETY,H,6.50,حقوق زنان
+SOCIETY,H,6.30,حقوق کودکان
+SOCIETY,H,6.70,حقوق اقلیت‌ها
+SOCIETY,H,6.90,آسیب اجتماعی
+SOCIETY,H,7.20,جرم اجتماعی
+SOCIETY,H,6.60,بیکاری جوانان
+SOCIETY,H,6.20,طلاق
+SOCIETY,H,6.50,خشونت خانگی
+SOCIETY,H,6.80,اعتیاد اجتماعی
+SOCIETY,H,7.10,فرار جوانان
+SOCIETY,H,6.90,تبعیض
+SOCIETY,H,6.40,فقر شهری
+SOCIETY,H,6.70,کار کودک
+SOCIETY,H,7.30,قاچاق انسان
+SOCIETY,H,6.50,آسیب اینترنتی
+SOCIETY,H,6.90,جرایم سایبری
+SOCIETY,H,6.20,فساد اجتماعی
+SOCIETY,H,6.60,رانت اجتماعی
+SOCIETY,H,7.00,نفوذ فرهنگی
+SOCIETY,H,6.80,بحران هویت
+SOCIETY,H,7.10,چالش نسلی
+SOCIETY,H,6.40,شکاف دیجیتال
+SOCIETY,H,6.70,جامعه‌شناسی شهری
+SOCIETY,H,6.90,جامعه‌شناسی روستایی
+SOCIETY,H,7.20,سیاست فرهنگی
+SOCIETY,H,6.60,آینده‌پژوهی اجتماعی
+SOCIETY,X,8.40,جامعه مدنی
+SOCIETY,X,8.80,چندفرهنگ‌گرایی
+SOCIETY,X,9.10,جهانی‌شدن فرهنگی
+SOCIETY,X,9.30,نظریه اجتماعی
+SOCIETY,X,9.20,نظریه مدرنیزاسیون
+SOCIETY,X,8.90,نظریه پسااستعماری
+SOCIETY,X,9.50,نظریه شبکه اجتماعی
