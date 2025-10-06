@@ -4,10 +4,10 @@ Lang: Lang
 Word: This 
 WordTrans: PER,ARB,BEL,BEN,CHN,CRN,CZH,DAN,DUC,FIN,FRN,GRK,GRM,HBR,HIN,HUN,IND,ITA,JPN,MAL,NOR,POL,POR,PSH,PUN,ROM,RUS,SPN,SWA,SWD,TAG,THA,TRK,UKR,URD,VIE
 POS: POS
-Commonness: Commonness
-FrequencyBand: FrequencyBand
-Difficulty: Difficulty
-CEFR: CEFR
+Commonness: (1-100): 1 = very rare, 100 = very common
+FrequencyBand: (1-100): 1 = very frequent, 100 = very rare
+Difficulty: (1-100): 1 = very easy, 100 = very difficult
+CEFR: A1,A2,B1,B2,C1,C2
 Romanization: BEL,BEN,PER,ARB,CHN,CRN,GRK,HBR,HIN,JPN,RUS,UKR,URD,PSH,PUN,THA
 
 We have 37 languages.
@@ -86,56 +86,40 @@ user_id: User ID
 word_id: Word ID
 
 timestamp: Time of interaction
-
 action: correct, incorrect, skip, mastered, etc.
-
 difficulty_before: Difficulty score before the interaction
-
 difficulty_after: Difficulty score after the interaction
-
 time_taken: Time in milliseconds to answer
-
 session_id: ID to group events from a single session
-
 Aggregated Tables: Use a separate table to store daily, weekly, or monthly summaries for faster access. This avoids slow queries on the large event table.
-
 user_progress_summary Table:
-
 user_id: User ID
-
 date: Date of the summary
-
 words_reviewed_count: Number of words reviewed
-
 correct_answers_count: Total correct answers
-
 new_words_learned: Count of words where difficulty reached the mastery threshold
-
 avg_difficulty: Average difficulty of words reviewed that day
-
 avg_time_per_word: Average time taken per word
 
-Reporting & Analytics
 
+Reporting & Analytics
 Progress Page:
 
 Visualization: Use charts to show daily/weekly progress, like words reviewed per day, correct answer rate, and difficulty score progression.
-
 Milestones: Track and display milestones, such as "mastered your 100th word" or "completed your 10th review session."
-
 Detailed Breakdowns: Allow users to filter by language, CEFR level, or part of speech to see where they're excelling or struggling.
 
+
+
 Smart Review Page:
-
 Session Performance: At the end of a session, provide a summary: words reviewed, accuracy rate, and a list of the most difficult words.
-
 Predictive Analytics: Based on the user's past performance, the system could suggest an optimal number of words to review or a specific topic to focus on to improve.
 
+
 QuizEngine:
-
 Quiz Reports: After each quiz, provide a detailed report including a breakdown of correct/incorrect answers, average time per question, and a list of words to revisit.
-
 Performance Benchmarking: Compare the user's quiz performance against other users in the same language/CEFR level (anonymized data, of course).
+
 
 Language Conversion Logic
 The current system handles language conversion well by using WordID to match concepts and Lang to identify the languages.
