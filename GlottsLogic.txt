@@ -1,0 +1,168 @@
+Data Structure
+ID: WordID
+Lang: Lang
+Word: This 
+WordTrans: PER,ARB,BEL,BEN,CHN,CRN,CZH,DAN,DUC,FIN,FRN,GRK,GRM,HBR,HIN,HUN,IND,ITA,JPN,MAL,NOR,POL,POR,PSH,PUN,ROM,RUS,SPN,SWA,SWD,TAG,THA,TRK,UKR,URD,VIE
+POS: POS
+Commonness: Commonness
+FrequencyBand: FrequencyBand
+Difficulty: Difficulty
+CEFR: CEFR
+Romanization: BEL,BEN,PER,ARB,CHN,CRN,GRK,HBR,HIN,JPN,RUS,UKR,URD,PSH,PUN,THA
+
+We have 37 languages.
+36 languages are in the WordTrans column.
+The English language is in the Word column.
+When a user wants to learn a language, the process should be as follows:
+The Native Language and the Learning Language must first be specified.
+The Lang column is used to identify a language, except for English, which is always in the Word column for all 36 languages.
+WordID is used to match a word across two different languages.
+If the learning language is called from the WordTrans section, the Romanization column for that language will be displayed to the user.
+These columns are related to the WordTrans data for all languages:
+WordTrans
+POS
+Commonness
+FrequencyBand
+Difficulty
+CEFR
+Romanization 
+
+Word Display Logic in the Review Section
+The system displays words that are closest to these conditions:
+Commonness (1-100): 1 = very rare, 100 = very common. The higher the number, the better.
+FrequencyBand (1-100): 1 = very frequent, 100 = very rare. The lower the number, the better.
+Difficulty (1-100): 1 = very easy, 100 = very difficult. The lower the number, the better.
+CEFR (A1-C2): A1 is the easiest, C2 is the most difficult. The easier the level, the better.
+
+If the user knows the word, the Difficulty score decreases.
+If the user doesn't know the word, the Difficulty score increases.
+Difficulty Score Calculation when the user knows the word:
+If the word's Difficulty score is between 1 and 10: It decreases by 49%.
+If the word's Difficulty score is between 11 and 20: It decreases by 45%.
+If the word's Difficulty score is between 21 and 30: It decreases by 30%.
+If the word's Difficulty score is between 31 and 40: It decreases by 25%.
+If the word's Difficulty score is between 41 and 50: It decreases by 20%.
+If the word's Difficulty score is between 51 and 60: It decreases by 15%.
+If the word's Difficulty score is between 61 and 70: It decreases by 13%.
+If the word's Difficulty score is between 71 and 80: It decreases by 11%.
+If the word's Difficulty score is between 81 and 90: It decreases by 10%.
+If the word's Difficulty score is between 91 and 100: It decreases by 10%.
+
+Difficulty Score Calculation when the user doesn't know the word:
+If the word's Difficulty score is between 1 and 5: It increases by 10 points.
+If the word's Difficulty score is between 6 and 10: It increases by 9 points.
+If the word's Difficulty score is between 11 and 20: It increases by 70%.
+If the word's Difficulty score is between 21 and 30: It increases by 60%.
+If the word's Difficulty score is between 31 and 40: It increases by 50%.
+If the word's Difficulty score is between 41 and 50: It increases by 40%.
+If the word's Difficulty score is between 51 and 60: It increases by 30%.
+If the word's Difficulty score is between 61 and 70: It increases by 20%.
+If the word's Difficulty score is between 71 and 80: It increases by 15%.
+If the word's Difficulty score is between 81 and 90: It increases by 10%.
+If the word's Difficulty score is between 91 and 100: It increases by 5%.
+
+Difficulty scores must stay between 1 and 100.
+
+A user is considered to have mastered a word when they have reduced the word's default Difficulty score by 75%.
+
+Word Selection Logic for Review
+The system considers the average Difficulty score of the user's last 100 reviewed words. If fewer than 100 words have been reviewed, the average is calculated based on the available words.
+The system then displays words that fall within that average range.
+The display priority for these words is given to those with the highest Commonness and the lowest FrequencyBand.
+
+Spaced Repetition System (SRS)
+Current Logic: The app uses an advanced Fixed-Interval Scheduling system. It calculates the next review time (dueAt) for each word based on the user's response, correct answer streak, and the word's importance factor. (The current logic is okay.)
+
+User Statistics Data Management
+Here are some suggestions for managing user statistics to get accurate indexing and comprehensive reports, especially for the Progress, Smart Review, and QuizEngine pages.
+
+Data Structure & Indexing
+
+Event-Based Logging: Instead of just updating a single row, log every user interaction with a timestamp. This allows for detailed analysis of user behavior over time.
+
+review_event Table:
+event_id: Unique ID
+user_id: User ID
+word_id: Word ID
+
+timestamp: Time of interaction
+
+action: correct, incorrect, skip, mastered, etc.
+
+difficulty_before: Difficulty score before the interaction
+
+difficulty_after: Difficulty score after the interaction
+
+time_taken: Time in milliseconds to answer
+
+session_id: ID to group events from a single session
+
+Aggregated Tables: Use a separate table to store daily, weekly, or monthly summaries for faster access. This avoids slow queries on the large event table.
+
+user_progress_summary Table:
+
+user_id: User ID
+
+date: Date of the summary
+
+words_reviewed_count: Number of words reviewed
+
+correct_answers_count: Total correct answers
+
+new_words_learned: Count of words where difficulty reached the mastery threshold
+
+avg_difficulty: Average difficulty of words reviewed that day
+
+avg_time_per_word: Average time taken per word
+
+Reporting & Analytics
+
+Progress Page:
+
+Visualization: Use charts to show daily/weekly progress, like words reviewed per day, correct answer rate, and difficulty score progression.
+
+Milestones: Track and display milestones, such as "mastered your 100th word" or "completed your 10th review session."
+
+Detailed Breakdowns: Allow users to filter by language, CEFR level, or part of speech to see where they're excelling or struggling.
+
+Smart Review Page:
+
+Session Performance: At the end of a session, provide a summary: words reviewed, accuracy rate, and a list of the most difficult words.
+
+Predictive Analytics: Based on the user's past performance, the system could suggest an optimal number of words to review or a specific topic to focus on to improve.
+
+QuizEngine:
+
+Quiz Reports: After each quiz, provide a detailed report including a breakdown of correct/incorrect answers, average time per question, and a list of words to revisit.
+
+Performance Benchmarking: Compare the user's quiz performance against other users in the same language/CEFR level (anonymized data, of course).
+
+Language Conversion Logic
+The current system handles language conversion well by using WordID to match concepts and Lang to identify the languages.
+
+Recommendation: Implement a robust language fallback mechanism. If a word or translation is missing for a specific language pair, the system could fall back to a more common pivot language (like English) to provide an alternative translation, even if it's not the direct translation. This improves resilience and user experience.
+
+UI State and Error Management
+UI State Management: Use a state management library (like Redux, Zustand, or Vuex) to maintain a single source of truth for the application's state. This is crucial for consistency, especially across different pages and components.
+
+Example States:
+
+isLoading: for API calls
+
+isError: for handling network or data errors
+
+isEditing: for managing UI elements in edit mode
+
+currentLanguagePair: stores the native and learning languages selected by the user
+
+currentReviewSession: stores the list of words for the current session, the user's progress, etc.
+
+Error Handling:
+
+Graceful Degradation: The app should not crash on a single error. Instead, it should display a user-friendly message and, if possible, allow the user to continue.
+
+Specific Error Messages: Instead of a generic "Something went wrong," provide specific messages like "Network connection lost" or "Translation not found."
+
+Logging: Implement a client-side error logging system (e.g., Sentry) to capture and report errors, allowing you to quickly identify and fix issues.
+
+Offline Mode: For review functionality, consider a basic offline mode where the user can continue their session with pre-downloaded words and sync the data once the connection is restored.
