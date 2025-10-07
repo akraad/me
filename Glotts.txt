@@ -4,7 +4,6 @@ Translate it casually, in a natural Persian vibe—no stiff word-for-word crap.
 Translate exactly per the database—English words must match with WordID in it.
 In the last column, romanize the word to Latin script.
 In the translation, a comma should not be used.
-The output should be in a plaintext box:
 WordID,Cat,EnglishWord,Persian,Romanize
 
 Animals - ANM
