@@ -1,1 +1,81 @@
-ID,WordID,Cat,EnglishWord,PER,ARB,BEL,BEN,CHN,CRN,CZH,DAN,DUC,FIN,FRN,GRK,GRM,HBR,HIN,HUN,IND,ITA,JPN,MAL,NOR,POL,POR,PSH,PUN,ROM,RUS,SPN,SWA,SWD,TAG,THA,TRK,UKR,URD,VIE
+Please translate the English words in the EnglishWord column to Persian.
+The translations should be the most accurate meaning based on the category codes, and should be a single word or phrase, without including any synonyms.
+In the translation, a comma should not be used.
+The output should be in a plaintext box:
+ID,WordID,Cat,EnglishWord,Persian
+
+Animals - ANM
+Colors - CLR
+Human Body & Parts - HBP
+Business - BSN
+Clothes & Fashion - CLF
+Crime & Law - CNL
+Culture - CLT
+Education - EDU
+Food & Drinks - FND
+Health - HLT
+Home & Buildings - HNB
+Language - LNG
+Entertainment - ENT
+Hobbies & Interests - HBI
+Nature - NTR
+Feelings & Emotions - FNE
+Religion - RLG
+Politics - PLT
+Shopping - SHP
+Science - SCI
+Social Issues - SOI
+Technology - TCH
+Media & News - MDN
+Travel & Tourism - TRV
+War & Conflict - WNC
+Jobs & Occupations - JBO
+Personalities - PER
+Daily Conversations - DCN
+Numbers - NUM
+History & Calendar - HSC
+Astronomy & Space - AST
+Hygiene & Cleanliness - HNC
+Proverbs & Idioms - PNI
+Family & Life Stages - FLS
+Money - MNY
+Medicine - MED
+Cooking & Cuisine - CKN
+Names - NMS
+Historical Places & Tourist Attractions - HPT
+Transportation & Vehicles - VEH
+Geography - GEO
+Weather & Climate - WTH
+Tools & Materials - TMT
+The Arts - ART
+Mythology & Legends - MYL
+Shapes & Forms - FRM
+Quantities & Measurement - QNT
+General Verbs - VRB
+General Adjectives - ADJ
+Time & Frequency - TMF
+Conjunctions & Connectors - CON
+Interjections & Exclamations - INT
+Emergency & Safety - EMR
+Agriculture & Farming - AGR
+Containers & Packaging - PKG
+The Mind & Thought - MND
+Government & Bureaucracy - GOV
+Sound & Light - SNL
+Character & Virtue - CVR
+Military Ranks & Structure - MLT
+Fillers & Discourse Markers - FLR
+Collocations - COL
+Slang & Informal Speech - SLN
+Classroom & Learning Language - CLL
+Textures & Materials - TXM
+Most Frequent Nouns - MFN
+Most Frequent Verbs - MFV
+Most Frequent Adjectives - MFA
+Most Frequent Adverbs - MFD
+Most Frequent Prepositions - MFP
+Most Frequent Phrasal Verbs - FPV
+Most Frequent Pronouns - MPR
+Other Words in A1 to C1 - BC1
+
+Write from 1 to 100
