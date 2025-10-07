@@ -48,3 +48,10 @@ Quantities & Measurement - QNT
 General Verbs - VRB
 General Adjectives - ADJ
 Time & Frequency - TMF
+Most Frequent Nouns - MFN
+Most Frequent Verbs - MFV
+Most Frequent Adjectives - MFA
+Most Frequent Adverbs - MFD
+Most Frequent Prepositions - MFP
+Most Frequent Phrasal Verbs - FPV
+Most Frequent Pronouns - MPR
