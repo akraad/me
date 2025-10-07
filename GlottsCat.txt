@@ -37,3 +37,9 @@ Medicine - MED
 Cooking & Cuisine - CKN
 Names - NMS
 Historical Places & Tourist Attractions - HPT
+Transportation & Vehicles - VEH
+Geography - GEO
+Weather & Climate - WTH
+Tools & Materials - TMT
+The Arts - ART
+Mythology & Legends - MYL
