@@ -48,6 +48,23 @@ Quantities & Measurement - QNT
 General Verbs - VRB
 General Adjectives - ADJ
 Time & Frequency - TMF
+Conjunctions & Connectors - CON
+Interjections & Exclamations - INT
+Emergency & Safety - EMR
+Agriculture & Farming - AGR
+Containers & Packaging - PKG
+The Mind & Thought - MND
+Government & Bureaucracy - GOV
+Sound & Light - SNL
+Character & Virtue - CVR
+Military Ranks & Structure - MLT
+Fillers & Discourse Markers - FLR
+Collocations - COL
+Slang & Informal Speech - SLN
+Classroom & Learning Language - CLL
+Question Tags - QTG
+Textures & Materials - TXM
+
 Most Frequent Nouns - MFN
 Most Frequent Verbs - MFV
 Most Frequent Adjectives - MFA
@@ -55,11 +72,6 @@ Most Frequent Adverbs - MFD
 Most Frequent Prepositions - MFP
 Most Frequent Phrasal Verbs - FPV
 Most Frequent Pronouns - MPR
-Conjunctions & Connectors - CON
-Interjections & Exclamations - INT
-Emergency & Safety - EMR
-Agriculture & Farming - AGR
-
 
 1.  At a Coffee Shop
 2.  Asking for Directions
