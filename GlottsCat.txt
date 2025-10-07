@@ -1,0 +1,39 @@
+Animals - ANM
+Colors - CLR
+Human Body & Parts - HBP
+Business - BSN
+Clothes & Fashion - CLF
+Crime & Law - CNL
+Culture - CLT
+Education - EDU
+Food & Drinks - FND
+Health - HLT
+Home & Buildings - HNB
+Language - LNG
+Entertainment - ENT
+Hobbies & Interests - HBI
+Nature - NTR
+Feelings & Emotions - FNE
+Religion - RLG
+Politics - PLT
+Shopping - SHP
+Science - SCI
+Social Issues - SOI
+Technology - TCH
+Media & News - MDN
+Travel & Tourism - TRV
+War & Conflict - WNC
+Jobs & Occupations - JBO
+Personalities - PER
+Daily Conversations - DCN
+Numbers - NUM
+History & Calendar - HSC
+Astronomy & Space - AST
+Hygiene & Cleanliness - HNC
+Proverbs & Idioms - PNI
+Family & Life Stages - FLS
+Money - MNY
+Medicine - MED
+Cooking & Cuisine - CKN
+Names - NMS
+Historical Places & Tourist Attractions - HPT
