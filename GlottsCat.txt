@@ -43,3 +43,8 @@ Weather & Climate - WTH
 Tools & Materials - TMT
 The Arts - ART
 Mythology & Legends - MYL
+Shapes & Forms - FRM
+Quantities & Measurement - QNT
+General Verbs - VRB
+General Adjectives - ADJ
+Time & Frequency - TMF
