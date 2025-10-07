@@ -19,7 +19,8 @@ The Lang column is used to identify a language, except for English, which is alw
 WordID is used to match a word across two different languages.
 If the learning language is called from the WordTrans section, the Romanization column for that language will be displayed to the user.
 These columns are related to the WordTrans data for all languages:
-WordTrans
+WordID
+Lang  
 POS
 Commonness
 FrequencyBand
@@ -110,10 +111,10 @@ Milestones: Track and display milestones, such as "mastered your 100th word" or 
 Detailed Breakdowns: Allow users to filter by language, CEFR level, or part of speech to see where they're excelling or struggling.
 
 
-
 Smart Review Page:
 Session Performance: At the end of a session, provide a summary: words reviewed, accuracy rate, and a list of the most difficult words.
 Predictive Analytics: Based on the user's past performance, the system could suggest an optimal number of words to review or a specific topic to focus on to improve.
+
 
 
 QuizEngine:
