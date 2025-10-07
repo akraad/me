@@ -59,3 +59,29 @@ Conjunctions & Connectors - CON
 Interjections & Exclamations - INT
 Emergency & Safety - EMR
 Agriculture & Farming - AGR
+
+
+1.  At a Coffee Shop
+2.  Asking for Directions
+3.  Meeting Someone for the First Time
+4.  At the Airport
+5.  Talking About Hobbies
+6.  Making Plans for the Weekend
+7.  At a Restaurant
+8.  Shopping for Clothes
+9.  Talking About the Weather
+10. At the Doctor's Office
+11. Making a Phone Call
+12. Talking About a Past Vacation
+13. The Job Interview
+14. Talking with a Coworker
+15. In the Classroom with a Teacher
+16. At the Supermarket
+17. Returning an Item to a Store
+18. At the Bank
+19. Attending a Party
+20. Buying Tickets
+21. Inviting a Friend Over
+22. Reporting a Lost Item
+23. Hiring a Repair Service
+24. At the Pharmacy
