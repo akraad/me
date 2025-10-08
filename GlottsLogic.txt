@@ -151,3 +151,41 @@ Specific Error Messages: Instead of a generic "Something went wrong," provide sp
 Logging: Implement a client-side error logging system (e.g., Sentry) to capture and report errors, allowing you to quickly identify and fix issues.
 
 Offline Mode: For review functionality, consider a basic offline mode where the user can continue their session with pre-downloaded words and sync the data once the connection is restored.
+
+Code	Full Language Name
+PER	Persian
+ARB	Arabic
+BEL	Belarusian
+BEN	Bengali
+CHN	Chinese (Mandarin)
+CRN	El Nayar Cora
+CZH	Czech
+DAN	Danish
+DUC	Duna
+FIN	Finnish
+FRN	French
+GRK	Greek
+GRM	Kota Marudu Talantang
+HBR	Hebrew
+HIN	Hindi
+HUN	Hungarian
+IND	Indonesian
+ITA	Italian
+JPN	Japanese
+MAL	Malayalam
+NOR	Norwegian
+POL	Polish
+POR	Portuguese
+PSH	Southwest Pashai
+PUN	Punjabi
+ROM	Romany
+RUS	Russian
+SPN	Sanapaná
+SWA	Swahili
+SWD	Swedish
+TAG	Tagalog
+THA	Thai
+TRK	Turkish
+UKR	Ukrainian
+URD	Urdu
+VIE	Vietnamese
